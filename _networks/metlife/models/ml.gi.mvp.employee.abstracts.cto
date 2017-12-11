@@ -1,0 +1,78 @@
+/**
+ * Abstracts and concepts, should match the file in Enrollment network
+ */
+
+namespace ml.gi.mvp.employee.abstracts 
+
+concept Name {
+  o Prefix prefix optional
+  o String firstName
+  o String middleName optional
+  o String lastName
+  o String suffix optional
+}
+
+concept Address {
+  o AddressType type
+  o String line1
+  o String line2 optional
+  o String city
+  o String state
+  o String zip //needs to be "alphanumeric" ?
+  o String country
+}
+
+concept ContactInfo {
+  o ContactInfoType type
+  o String email 
+  o String phoneNumber optional //needs to be numeric obviously
+  o String mobilePhoneNumber  //needs to be numeric obviously 
+}
+
+concept FamilyInfo {
+  o FamilyMember relationship
+  o String name
+  o String social // SSN
+  o String dateOfBirth //MM-DD-YYYY
+}
+
+enum AddressType {
+  o HOME
+  o WORK
+}
+
+enum FamilyMember {
+  o SPOUSE
+  o CHILD 
+}
+
+enum Prefix {
+  o MR
+  o MRS
+  o MS
+  o DR
+}
+
+enum ContactInfoType {
+  o WORK
+  o PERSONAL
+}
+
+enum Gender {
+  o MALE
+  o FEMALE
+  o UNKNOWN
+}
+
+enum MaritalStatus {
+  o SINGLE
+  o MARRIED
+  o UNKNOWN
+}
+
+enum EmploymentStatus {
+  o REGULAR
+  o PARTTIME
+  o SUPPLEMENTAL
+  o EXECUTIVE
+}

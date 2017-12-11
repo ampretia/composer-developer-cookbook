@@ -1,0 +1,13 @@
+/*query bySerial{
+    description: "Return an employee record by its serial number"
+    statement:
+        SELECT ml.gi.mvp.employee.employeeRecord.Employee
+            WHERE ((serialNumber == _$serialNumber))
+}
+
+query bySSN{
+    description: "Return an employee record by its social security number"
+    statement:
+        SELECT ml.gi.mvp.employee.employeeRecord.Employee
+            WHERE ((social == _$social))
+}*/

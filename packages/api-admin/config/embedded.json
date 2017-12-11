@@ -1,0 +1,13 @@
+{
+  "fabric-admin": {
+       "connectionProfile" :
+       {
+         "file" : "./embedded.json"
+       },
+       "peerAdmin" :
+       {
+         "cert" : "./fakecredentials",
+         "key" : "./fakecredentials"
+       }
+    }
+}

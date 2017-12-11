@@ -1,0 +1,24 @@
+/**
+ * https://github.com/hyperledger/composer/issues/1204
+ */
+
+namespace org.acme.biznet
+
+participant User identified by email {
+  o String email
+}
+
+asset SampleAsset identified by assetId {
+  o String assetId
+  o String value
+}
+
+transaction ChangeAssetValue {
+  o String newValue
+  --> Asset relatedAsset
+}
+
+asset PurchaseOrderAsset identified by orderId {
+  o String orderId
+  o String assetId
+}
