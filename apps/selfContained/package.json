@@ -1,0 +1,16 @@
+{
+  "name": "selfContained",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "/home/matthew/github/composer-developer-cookbook/scripts/fabric-tools/createPeerAdminCard.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "composer-cli": "^0.16.4-20180208165307",
+    "composer-client": "^0.16.4-20180208165307"
+  }
+}

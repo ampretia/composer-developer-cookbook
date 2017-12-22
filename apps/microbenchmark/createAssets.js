@@ -106,7 +106,7 @@ const businessNetworkConnection = new BusinessNetworkConnection();
 
             data.batches.push(newBatch);
         }
-        let registry = await businessNetworkConnection.getRegistry(assetFQN);
+        let registry = await businessNetworkConnection.getAssetRegistry(assetFQN);
 
         // got the data now to push that to the network
         for (let batch of data.batches){

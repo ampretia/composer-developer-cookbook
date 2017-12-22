@@ -2,7 +2,7 @@
   "createAssets": {
     "cardName": "admin@bsn-local",
     "asset-fqn": "org.acme.sample.SampleAsset",
-    "batch-size":200,
+    "batch-size":10,
     "batch-count":10
   },
   "_not_in_use_composer": {
