@@ -1,0 +1,17 @@
+{
+  "loadAssets": {
+    "cardName": "admin@bsn-local"
+  },
+  "_not_in_use_composer": {
+    "log": {
+      "debug": "composer[debug]:*",
+      "console": {
+        "maxLevel": "error"
+      },
+      "file": {
+        "filename" : "./log.txt"
+      }
+
+    }
+  }
+}
