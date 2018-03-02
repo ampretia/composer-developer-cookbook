@@ -1,0 +1,1204 @@
+{
+	"name": "amqplib",
+	"versions": {
+		"0.0.1": {
+			"name": "amqplib",
+			"homepage": "http://squaremo.github.io/amqp.node/",
+			"main": "./lib/channel_api.js",
+			"version": "0.0.1",
+			"description": "An AMQP 0-9-1 (e.g., RabbitMQ) library and client.",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/squaremo/amqp.node.git"
+			},
+			"engines": {
+				"node": "0.8 || 0.10"
+			},
+			"dependencies": {
+				"bitsyntax": "0.0.2",
+				"buffer-more-ints": "0.0.1",
+				"readable-stream": "1.x >=1.0.2",
+				"when": "~2.1"
+			},
+			"devDependencies": {
+				"mocha": "~1",
+				"claire": "0.4.1"
+			},
+			"scripts": {
+				"test": "make test",
+				"prepublish": "make"
+			},
+			"keywords": [
+				"AMQP",
+				"AMQP 0-9-1",
+				"RabbitMQ"
+			],
+			"author": {
+				"name": "Michael Bridgen",
+				"email": "mikeb@squaremobius.net"
+			},
+			"license": "MPL 2.0",
+			"_id": "amqplib@0.0.1",
+			"dist": {
+				"shasum": "cfcc77fefb668555594677c98836fefa491c30de",
+				"tarball": "https://registry.npmjs.org/amqplib/-/amqplib-0.0.1.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.2.18",
+			"_npmUser": {
+				"name": "squaremo",
+				"email": "mikeb@squaremobius.net"
+			},
+			"maintainers": [
+				{
+					"name": "squaremo",
+					"email": "mikeb@squaremobius.net"
+				}
+			],
+			"directories": {}
+		},
+		"0.0.2": {
+			"name": "amqplib",
+			"homepage": "http://squaremo.github.io/amqp.node/",
+			"main": "./lib/channel_api.js",
+			"version": "0.0.2",
+			"description": "An AMQP 0-9-1 (e.g., RabbitMQ) library and client.",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/squaremo/amqp.node.git"
+			},
+			"engines": {
+				"node": "0.8 || 0.10"
+			},
+			"dependencies": {
+				"bitsyntax": "0.0.2",
+				"buffer-more-ints": "0.0.1",
+				"readable-stream": "1.x >=1.0.2",
+				"when": "~2.1"
+			},
+			"devDependencies": {
+				"mocha": "~1",
+				"claire": "0.4.1"
+			},
+			"scripts": {
+				"test": "make test",
+				"prepublish": "make"
+			},
+			"keywords": [
+				"AMQP",
+				"AMQP 0-9-1",
+				"RabbitMQ"
+			],
+			"author": {
+				"name": "Michael Bridgen",
+				"email": "mikeb@squaremobius.net"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/squaremo/amqp.node/issues"
+			},
+			"_id": "amqplib@0.0.2",
+			"dist": {
+				"shasum": "b2053fdfb6abe941cabd00d2f5d630eea803f70d",
+				"tarball": "https://registry.npmjs.org/amqplib/-/amqplib-0.0.2.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.1",
+			"_npmUser": {
+				"name": "squaremo",
+				"email": "mikeb@squaremobius.net"
+			},
+			"maintainers": [
+				{
+					"name": "squaremo",
+					"email": "mikeb@squaremobius.net"
+				}
+			],
+			"directories": {}
+		},
+		"0.1.0": {
+			"name": "amqplib",
+			"homepage": "http://squaremo.github.io/amqp.node/",
+			"main": "./channel_api.js",
+			"version": "0.1.0",
+			"description": "An AMQP 0-9-1 (e.g., RabbitMQ) library and client.",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/squaremo/amqp.node.git"
+			},
+			"engines": {
+				"node": "0.8 || 0.9 || 0.10 || 0.11"
+			},
+			"dependencies": {
+				"bitsyntax": "0.0.3",
+				"buffer-more-ints": "0.0.2",
+				"readable-stream": "1.x >=1.1.9",
+				"when": "~2.1"
+			},
+			"devDependencies": {
+				"mocha": "~1",
+				"claire": "0.4.1",
+				"uglify-js": "2.4.x",
+				"istanbul": "0.1.x"
+			},
+			"scripts": {
+				"test": "make test",
+				"prepublish": "make"
+			},
+			"keywords": [
+				"AMQP",
+				"AMQP 0-9-1",
+				"RabbitMQ"
+			],
+			"author": {
+				"name": "Michael Bridgen",
+				"email": "mikeb@squaremobius.net"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/squaremo/amqp.node/issues"
+			},
+			"_id": "amqplib@0.1.0",
+			"dist": {
+				"shasum": "a60a1c137c1e5224e9d147019b3909a7b0e8ef05",
+				"tarball": "https://registry.npmjs.org/amqplib/-/amqplib-0.1.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.1",
+			"_npmUser": {
+				"name": "squaremo",
+				"email": "mikeb@squaremobius.net"
+			},
+			"maintainers": [
+				{
+					"name": "squaremo",
+					"email": "mikeb@squaremobius.net"
+				}
+			],
+			"directories": {}
+		},
+		"0.1.1": {
+			"name": "amqplib",
+			"homepage": "http://squaremo.github.io/amqp.node/",
+			"main": "./channel_api.js",
+			"version": "0.1.1",
+			"description": "An AMQP 0-9-1 (e.g., RabbitMQ) library and client.",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/squaremo/amqp.node.git"
+			},
+			"engines": {
+				"node": "0.8 || 0.9 || 0.10 || 0.11"
+			},
+			"dependencies": {
+				"bitsyntax": "0.0.3",
+				"buffer-more-ints": "0.0.2",
+				"readable-stream": "1.x >=1.1.9",
+				"when": "~2.1"
+			},
+			"devDependencies": {
+				"mocha": "~1",
+				"claire": "0.4.1",
+				"uglify-js": "2.4.x",
+				"istanbul": "0.1.x"
+			},
+			"scripts": {
+				"test": "make test",
+				"prepublish": "make"
+			},
+			"keywords": [
+				"AMQP",
+				"AMQP 0-9-1",
+				"RabbitMQ"
+			],
+			"author": {
+				"name": "Michael Bridgen",
+				"email": "mikeb@squaremobius.net"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/squaremo/amqp.node/issues"
+			},
+			"_id": "amqplib@0.1.1",
+			"dist": {
+				"shasum": "9a90cb239a3153a0bd3f67b29199951604432481",
+				"tarball": "https://registry.npmjs.org/amqplib/-/amqplib-0.1.1.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.11",
+			"_npmUser": {
+				"name": "squaremo",
+				"email": "mikeb@squaremobius.net"
+			},
+			"maintainers": [
+				{
+					"name": "squaremo",
+					"email": "mikeb@squaremobius.net"
+				}
+			],
+			"directories": {}
+		},
+		"0.1.2": {
+			"name": "amqplib",
+			"homepage": "http://squaremo.github.io/amqp.node/",
+			"main": "./channel_api.js",
+			"version": "0.1.2",
+			"description": "An AMQP 0-9-1 (e.g., RabbitMQ) library and client.",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/squaremo/amqp.node.git"
+			},
+			"engines": {
+				"node": "0.8 || 0.9 || 0.10 || 0.11"
+			},
+			"dependencies": {
+				"bitsyntax": "0.0.3",
+				"buffer-more-ints": "0.0.2",
+				"readable-stream": "1.x >=1.1.9",
+				"when": "~2.1"
+			},
+			"devDependencies": {
+				"mocha": "~1",
+				"claire": "0.4.1",
+				"uglify-js": "2.4.x",
+				"istanbul": "0.1.x"
+			},
+			"scripts": {
+				"test": "make test",
+				"prepublish": "make"
+			},
+			"keywords": [
+				"AMQP",
+				"AMQP 0-9-1",
+				"RabbitMQ"
+			],
+			"author": {
+				"name": "Michael Bridgen",
+				"email": "mikeb@squaremobius.net"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/squaremo/amqp.node/issues"
+			},
+			"_id": "amqplib@0.1.2",
+			"dist": {
+				"shasum": "4f796dd9524eb36dfad37c1f698626b097a64d97",
+				"tarball": "https://registry.npmjs.org/amqplib/-/amqplib-0.1.2.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.24",
+			"_npmUser": {
+				"name": "squaremo",
+				"email": "mikeb@squaremobius.net"
+			},
+			"maintainers": [
+				{
+					"name": "squaremo",
+					"email": "mikeb@squaremobius.net"
+				}
+			],
+			"directories": {}
+		},
+		"0.1.3": {
+			"name": "amqplib",
+			"homepage": "http://squaremo.github.io/amqp.node/",
+			"main": "./channel_api.js",
+			"version": "0.1.3",
+			"description": "An AMQP 0-9-1 (e.g., RabbitMQ) library and client.",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/squaremo/amqp.node.git"
+			},
+			"engines": {
+				"node": "0.8 || 0.9 || 0.10 || 0.11"
+			},
+			"dependencies": {
+				"bitsyntax": "0.0.3",
+				"buffer-more-ints": "0.0.2",
+				"readable-stream": "1.x >=1.1.9",
+				"when": "~2.1"
+			},
+			"devDependencies": {
+				"mocha": "~1",
+				"claire": "0.4.1",
+				"uglify-js": "2.4.x",
+				"istanbul": "0.1.x"
+			},
+			"scripts": {
+				"test": "make test",
+				"prepublish": "make"
+			},
+			"keywords": [
+				"AMQP",
+				"AMQP 0-9-1",
+				"RabbitMQ"
+			],
+			"author": {
+				"name": "Michael Bridgen",
+				"email": "mikeb@squaremobius.net"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/squaremo/amqp.node/issues"
+			},
+			"_id": "amqplib@0.1.3",
+			"dist": {
+				"shasum": "200c174af83226815a21aa621d55fe99eb130a6a",
+				"tarball": "https://registry.npmjs.org/amqplib/-/amqplib-0.1.3.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.24",
+			"_npmUser": {
+				"name": "squaremo",
+				"email": "mikeb@squaremobius.net"
+			},
+			"maintainers": [
+				{
+					"name": "squaremo",
+					"email": "mikeb@squaremobius.net"
+				}
+			],
+			"directories": {}
+		},
+		"0.2.0": {
+			"name": "amqplib",
+			"homepage": "http://squaremo.github.io/amqp.node/",
+			"main": "./channel_api.js",
+			"version": "0.2.0",
+			"description": "An AMQP 0-9-1 (e.g., RabbitMQ) library and client.",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/squaremo/amqp.node.git"
+			},
+			"engines": {
+				"node": "0.8 || 0.9 || 0.10 || 0.11"
+			},
+			"dependencies": {
+				"bitsyntax": "~0.0.4",
+				"buffer-more-ints": "0.0.2",
+				"readable-stream": "1.x >=1.1.9",
+				"when": "~2.1"
+			},
+			"devDependencies": {
+				"mocha": "~1",
+				"claire": "0.4.1",
+				"uglify-js": "2.4.x",
+				"istanbul": "0.1.x"
+			},
+			"scripts": {
+				"test": "make test",
+				"prepublish": "make"
+			},
+			"keywords": [
+				"AMQP",
+				"AMQP 0-9-1",
+				"RabbitMQ"
+			],
+			"author": {
+				"name": "Michael Bridgen",
+				"email": "mikeb@squaremobius.net"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/squaremo/amqp.node/issues"
+			},
+			"_id": "amqplib@0.2.0",
+			"dist": {
+				"shasum": "664281952c4f1fd9748510fcfb2a5564baaaf5be",
+				"tarball": "https://registry.npmjs.org/amqplib/-/amqplib-0.2.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.24",
+			"_npmUser": {
+				"name": "squaremo",
+				"email": "mikeb@squaremobius.net"
+			},
+			"maintainers": [
+				{
+					"name": "squaremo",
+					"email": "mikeb@squaremobius.net"
+				}
+			],
+			"directories": {}
+		},
+		"0.2.1": {
+			"name": "amqplib",
+			"homepage": "http://squaremo.github.io/amqp.node/",
+			"main": "./channel_api.js",
+			"version": "0.2.1",
+			"description": "An AMQP 0-9-1 (e.g., RabbitMQ) library and client.",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/squaremo/amqp.node.git"
+			},
+			"engines": {
+				"node": "0.8 || 0.9 || 0.10 || 0.11"
+			},
+			"dependencies": {
+				"bitsyntax": "~0.0.4",
+				"buffer-more-ints": "0.0.2",
+				"readable-stream": "1.x >=1.1.9",
+				"when": "~3.2.3"
+			},
+			"devDependencies": {
+				"mocha": "~1",
+				"claire": "0.4.1",
+				"uglify-js": "2.4.x",
+				"istanbul": "0.1.x"
+			},
+			"scripts": {
+				"test": "make test",
+				"prepublish": "make"
+			},
+			"keywords": [
+				"AMQP",
+				"AMQP 0-9-1",
+				"RabbitMQ"
+			],
+			"author": {
+				"name": "Michael Bridgen",
+				"email": "mikeb@squaremobius.net"
+			},
+			"license": "MIT",
+			"gitHead": "0c5fc5cd2dd15568ef3983f743af258655e1045a",
+			"bugs": {
+				"url": "https://github.com/squaremo/amqp.node/issues"
+			},
+			"_id": "amqplib@0.2.1",
+			"_shasum": "576267a01302a75763600750767fc1565fe46e8a",
+			"_from": ".",
+			"_npmVersion": "1.4.13",
+			"_npmUser": {
+				"name": "squaremo",
+				"email": "mikeb@squaremobius.net"
+			},
+			"maintainers": [
+				{
+					"name": "squaremo",
+					"email": "mikeb@squaremobius.net"
+				}
+			],
+			"dist": {
+				"shasum": "576267a01302a75763600750767fc1565fe46e8a",
+				"tarball": "https://registry.npmjs.org/amqplib/-/amqplib-0.2.1.tgz"
+			},
+			"directories": {}
+		},
+		"0.3.0": {
+			"name": "amqplib",
+			"homepage": "http://squaremo.github.io/amqp.node/",
+			"main": "./channel_api.js",
+			"version": "0.3.0",
+			"description": "An AMQP 0-9-1 (e.g., RabbitMQ) library and client.",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/squaremo/amqp.node.git"
+			},
+			"engines": {
+				"node": "0.8 || 0.9 || 0.10 || 0.11"
+			},
+			"dependencies": {
+				"bitsyntax": "~0.0.4",
+				"buffer-more-ints": "0.0.2",
+				"readable-stream": "1.x >=1.1.9",
+				"when": "~3.2.3"
+			},
+			"devDependencies": {
+				"mocha": "~1",
+				"claire": "0.4.1",
+				"uglify-js": "2.4.x",
+				"istanbul": "0.1.x"
+			},
+			"scripts": {
+				"test": "make test",
+				"prepublish": "make"
+			},
+			"keywords": [
+				"AMQP",
+				"AMQP 0-9-1",
+				"RabbitMQ"
+			],
+			"author": {
+				"name": "Michael Bridgen",
+				"email": "mikeb@squaremobius.net"
+			},
+			"license": "MIT",
+			"gitHead": "21922d55a548d54b70667e3d0c6c933266edfb94",
+			"bugs": {
+				"url": "https://github.com/squaremo/amqp.node/issues"
+			},
+			"_id": "amqplib@0.3.0",
+			"_shasum": "1b5dafebac66b36e4afd9dc815766bd2dd400b3d",
+			"_from": ".",
+			"_npmVersion": "1.4.13",
+			"_npmUser": {
+				"name": "squaremo",
+				"email": "mikeb@squaremobius.net"
+			},
+			"maintainers": [
+				{
+					"name": "squaremo",
+					"email": "mikeb@squaremobius.net"
+				}
+			],
+			"dist": {
+				"shasum": "1b5dafebac66b36e4afd9dc815766bd2dd400b3d",
+				"tarball": "https://registry.npmjs.org/amqplib/-/amqplib-0.3.0.tgz"
+			},
+			"directories": {}
+		},
+		"0.3.1": {
+			"name": "amqplib",
+			"homepage": "http://squaremo.github.io/amqp.node/",
+			"main": "./channel_api.js",
+			"version": "0.3.1",
+			"description": "An AMQP 0-9-1 (e.g., RabbitMQ) library and client.",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/squaremo/amqp.node.git"
+			},
+			"engines": {
+				"node": "0.8 || 0.9 || 0.10 || 0.11 || 0.12 || 1.0 || 1.1"
+			},
+			"dependencies": {
+				"bitsyntax": "~0.0.4",
+				"buffer-more-ints": "0.0.2",
+				"readable-stream": "1.x >=1.1.9",
+				"when": "~3.6.2"
+			},
+			"devDependencies": {
+				"mocha": "~1",
+				"claire": "0.4.1",
+				"uglify-js": "2.4.x",
+				"istanbul": "0.1.x"
+			},
+			"scripts": {
+				"test": "make test",
+				"prepublish": "make"
+			},
+			"keywords": [
+				"AMQP",
+				"AMQP 0-9-1",
+				"RabbitMQ"
+			],
+			"author": {
+				"name": "Michael Bridgen",
+				"email": "mikeb@squaremobius.net"
+			},
+			"license": "MIT",
+			"gitHead": "0eb65a369749c0f5e0b7a3923d8c9923801f8b60",
+			"bugs": {
+				"url": "https://github.com/squaremo/amqp.node/issues"
+			},
+			"_id": "amqplib@0.3.1",
+			"_shasum": "cee1b86fa4516a2963a61e134258ef9da9d38781",
+			"_from": ".",
+			"_npmVersion": "1.4.13",
+			"_npmUser": {
+				"name": "squaremo",
+				"email": "mikeb@squaremobius.net"
+			},
+			"maintainers": [
+				{
+					"name": "squaremo",
+					"email": "mikeb@squaremobius.net"
+				}
+			],
+			"dist": {
+				"shasum": "cee1b86fa4516a2963a61e134258ef9da9d38781",
+				"tarball": "https://registry.npmjs.org/amqplib/-/amqplib-0.3.1.tgz"
+			},
+			"directories": {}
+		},
+		"0.3.2": {
+			"name": "amqplib",
+			"homepage": "http://squaremo.github.io/amqp.node/",
+			"main": "./channel_api.js",
+			"version": "0.3.2",
+			"description": "An AMQP 0-9-1 (e.g., RabbitMQ) library and client.",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/squaremo/amqp.node.git"
+			},
+			"engines": {
+				"node": ">=0.8 <0.13 || ^1"
+			},
+			"dependencies": {
+				"bitsyntax": "~0.0.4",
+				"buffer-more-ints": "0.0.2",
+				"readable-stream": "1.x >=1.1.9",
+				"when": "~3.6.2"
+			},
+			"devDependencies": {
+				"mocha": "~1",
+				"claire": "0.4.1",
+				"uglify-js": "2.4.x",
+				"istanbul": "0.1.x"
+			},
+			"scripts": {
+				"test": "make test",
+				"prepublish": "make"
+			},
+			"keywords": [
+				"AMQP",
+				"AMQP 0-9-1",
+				"RabbitMQ"
+			],
+			"author": {
+				"name": "Michael Bridgen",
+				"email": "mikeb@squaremobius.net"
+			},
+			"license": "MIT",
+			"gitHead": "93fde0fe29e3fca2b91743b1a63a81ce291effc9",
+			"bugs": {
+				"url": "https://github.com/squaremo/amqp.node/issues"
+			},
+			"_id": "amqplib@0.3.2",
+			"_shasum": "e77d8fb3842ebcae78cf1c930c490d1e954f4297",
+			"_from": ".",
+			"_npmVersion": "1.4.13",
+			"_npmUser": {
+				"name": "squaremo",
+				"email": "mikeb@squaremobius.net"
+			},
+			"maintainers": [
+				{
+					"name": "squaremo",
+					"email": "mikeb@squaremobius.net"
+				}
+			],
+			"dist": {
+				"shasum": "e77d8fb3842ebcae78cf1c930c490d1e954f4297",
+				"tarball": "https://registry.npmjs.org/amqplib/-/amqplib-0.3.2.tgz"
+			},
+			"directories": {}
+		},
+		"0.4.0": {
+			"name": "amqplib",
+			"homepage": "http://squaremo.github.io/amqp.node/",
+			"main": "./channel_api.js",
+			"version": "0.4.0",
+			"description": "An AMQP 0-9-1 (e.g., RabbitMQ) library and client.",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/squaremo/amqp.node.git"
+			},
+			"engines": {
+				"node": ">=0.8 <4 || ^4"
+			},
+			"dependencies": {
+				"bitsyntax": "~0.0.4",
+				"buffer-more-ints": "0.0.2",
+				"readable-stream": "1.x >=1.1.9",
+				"when": "~3.6.2"
+			},
+			"devDependencies": {
+				"mocha": "~1",
+				"claire": "0.4.1",
+				"uglify-js": "2.4.x",
+				"istanbul": "0.1.x"
+			},
+			"scripts": {
+				"test": "make test",
+				"prepublish": "make"
+			},
+			"keywords": [
+				"AMQP",
+				"AMQP 0-9-1",
+				"RabbitMQ"
+			],
+			"author": {
+				"name": "Michael Bridgen",
+				"email": "mikeb@squaremobius.net"
+			},
+			"license": "MIT",
+			"gitHead": "105b73c266ed16f377a54072a5ab68bdb6a2c2f0",
+			"bugs": {
+				"url": "https://github.com/squaremo/amqp.node/issues"
+			},
+			"_id": "amqplib@0.4.0",
+			"_shasum": "9efe7656dda85a7359f664a2726e8e85229e124c",
+			"_from": ".",
+			"_npmVersion": "1.4.13",
+			"_npmUser": {
+				"name": "squaremo",
+				"email": "mikeb@squaremobius.net"
+			},
+			"maintainers": [
+				{
+					"name": "squaremo",
+					"email": "mikeb@squaremobius.net"
+				}
+			],
+			"dist": {
+				"shasum": "9efe7656dda85a7359f664a2726e8e85229e124c",
+				"tarball": "https://registry.npmjs.org/amqplib/-/amqplib-0.4.0.tgz"
+			},
+			"directories": {}
+		},
+		"0.4.1": {
+			"name": "amqplib",
+			"homepage": "http://squaremo.github.io/amqp.node/",
+			"main": "./channel_api.js",
+			"version": "0.4.1",
+			"description": "An AMQP 0-9-1 (e.g., RabbitMQ) library and client.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/squaremo/amqp.node.git"
+			},
+			"engines": {
+				"node": ">=0.8 <5 || ^5"
+			},
+			"dependencies": {
+				"bitsyntax": "~0.0.4",
+				"buffer-more-ints": "0.0.2",
+				"readable-stream": "1.x >=1.1.9",
+				"when": "~3.6.2"
+			},
+			"devDependencies": {
+				"mocha": "~1",
+				"claire": "0.4.1",
+				"uglify-js": "2.4.x",
+				"istanbul": "0.1.x"
+			},
+			"scripts": {
+				"test": "make test",
+				"prepublish": "make"
+			},
+			"keywords": [
+				"AMQP",
+				"AMQP 0-9-1",
+				"RabbitMQ"
+			],
+			"author": {
+				"name": "Michael Bridgen",
+				"email": "mikeb@squaremobius.net"
+			},
+			"license": "MIT",
+			"gitHead": "e6e52d94ef308ece88188b3a89c4a68b5d70863f",
+			"bugs": {
+				"url": "https://github.com/squaremo/amqp.node/issues"
+			},
+			"_id": "amqplib@0.4.1",
+			"_shasum": "988e5c65eb992b2df8486d52ef2f6bbbc8fdbd0e",
+			"_from": ".",
+			"_npmVersion": "3.3.3",
+			"_nodeVersion": "0.10.25",
+			"_npmUser": {
+				"name": "squaremo",
+				"email": "mikeb@squaremobius.net"
+			},
+			"maintainers": [
+				{
+					"name": "squaremo",
+					"email": "mikeb@squaremobius.net"
+				}
+			],
+			"dist": {
+				"shasum": "988e5c65eb992b2df8486d52ef2f6bbbc8fdbd0e",
+				"tarball": "https://registry.npmjs.org/amqplib/-/amqplib-0.4.1.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-5-east.internal.npmjs.com",
+				"tmp": "tmp/amqplib-0.4.1.tgz_1454652521626_0.6085246792063117"
+			},
+			"directories": {}
+		},
+		"0.4.2": {
+			"name": "amqplib",
+			"homepage": "http://squaremo.github.io/amqp.node/",
+			"main": "./channel_api.js",
+			"version": "0.4.2",
+			"description": "An AMQP 0-9-1 (e.g., RabbitMQ) library and client.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/squaremo/amqp.node.git"
+			},
+			"engines": {
+				"node": ">=0.8 <6 || ^6"
+			},
+			"dependencies": {
+				"bitsyntax": "~0.0.4",
+				"buffer-more-ints": "0.0.2",
+				"readable-stream": "1.x >=1.1.9",
+				"when": "~3.6.2"
+			},
+			"devDependencies": {
+				"mocha": "~1",
+				"claire": "0.4.1",
+				"uglify-js": "2.4.x",
+				"istanbul": "0.1.x"
+			},
+			"scripts": {
+				"test": "make test",
+				"prepublish": "make"
+			},
+			"keywords": [
+				"AMQP",
+				"AMQP 0-9-1",
+				"RabbitMQ"
+			],
+			"author": {
+				"name": "Michael Bridgen",
+				"email": "mikeb@squaremobius.net"
+			},
+			"license": "MIT",
+			"gitHead": "46d14f8f0916d49a2e9fa7e8596ddc68b0ab5007",
+			"bugs": {
+				"url": "https://github.com/squaremo/amqp.node/issues"
+			},
+			"_id": "amqplib@0.4.2",
+			"_shasum": "5e4a2a914ccb3125f9cb91f6da07c97aa4cb13a6",
+			"_from": ".",
+			"_npmVersion": "3.9.3",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "squaremo",
+				"email": "mikeb@squaremobius.net"
+			},
+			"maintainers": [
+				{
+					"name": "squaremo",
+					"email": "mikeb@squaremobius.net"
+				}
+			],
+			"dist": {
+				"shasum": "5e4a2a914ccb3125f9cb91f6da07c97aa4cb13a6",
+				"tarball": "https://registry.npmjs.org/amqplib/-/amqplib-0.4.2.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/amqplib-0.4.2.tgz_1465287074710_0.32056331844069064"
+			},
+			"directories": {}
+		},
+		"0.5.0": {
+			"name": "amqplib",
+			"homepage": "http://squaremo.github.io/amqp.node/",
+			"main": "./channel_api.js",
+			"version": "0.5.0",
+			"description": "An AMQP 0-9-1 (e.g., RabbitMQ) library and client.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/squaremo/amqp.node.git"
+			},
+			"engines": {
+				"node": ">=0.8 <6 || ^6"
+			},
+			"dependencies": {
+				"bitsyntax": "~0.0.4",
+				"buffer-more-ints": "0.0.2",
+				"readable-stream": "1.x >=1.1.9",
+				"bluebird": "^3.4.6"
+			},
+			"devDependencies": {
+				"mocha": "~1",
+				"claire": "0.4.1",
+				"uglify-js": "2.4.x",
+				"istanbul": "0.1.x"
+			},
+			"scripts": {
+				"test": "make test",
+				"prepublish": "make"
+			},
+			"keywords": [
+				"AMQP",
+				"AMQP 0-9-1",
+				"RabbitMQ"
+			],
+			"author": {
+				"name": "Michael Bridgen",
+				"email": "mikeb@squaremobius.net"
+			},
+			"license": "MIT",
+			"gitHead": "e5c19d4da864954ba907daa00f0dd3910f239715",
+			"bugs": {
+				"url": "https://github.com/squaremo/amqp.node/issues"
+			},
+			"_id": "amqplib@0.5.0",
+			"_shasum": "426da5e40dd455245bb626c8a0be9a109cb743b2",
+			"_from": ".",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.7.0",
+			"_npmUser": {
+				"name": "squaremo",
+				"email": "mikeb@squaremobius.net"
+			},
+			"maintainers": [
+				{
+					"name": "squaremo",
+					"email": "mikeb@squaremobius.net"
+				}
+			],
+			"dist": {
+				"shasum": "426da5e40dd455245bb626c8a0be9a109cb743b2",
+				"tarball": "https://registry.npmjs.org/amqplib/-/amqplib-0.5.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/amqplib-0.5.0.tgz_1478041443784_0.8355621297378093"
+			},
+			"directories": {}
+		},
+		"0.5.1": {
+			"name": "amqplib",
+			"homepage": "http://squaremo.github.io/amqp.node/",
+			"main": "./channel_api.js",
+			"version": "0.5.1",
+			"description": "An AMQP 0-9-1 (e.g., RabbitMQ) library and client.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/squaremo/amqp.node.git"
+			},
+			"engines": {
+				"node": ">=0.8 <6 || ^6"
+			},
+			"dependencies": {
+				"bitsyntax": "~0.0.4",
+				"buffer-more-ints": "0.0.2",
+				"readable-stream": "1.x >=1.1.9",
+				"bluebird": "^3.4.6"
+			},
+			"devDependencies": {
+				"mocha": "~1",
+				"claire": "0.4.1",
+				"uglify-js": "2.4.x",
+				"istanbul": "0.1.x"
+			},
+			"scripts": {
+				"test": "make test",
+				"prepublish": "make"
+			},
+			"keywords": [
+				"AMQP",
+				"AMQP 0-9-1",
+				"RabbitMQ"
+			],
+			"author": {
+				"name": "Michael Bridgen",
+				"email": "mikeb@squaremobius.net"
+			},
+			"license": "MIT",
+			"gitHead": "b21133d708fbb9677267428dd74ddb7fe7f1f80e",
+			"bugs": {
+				"url": "https://github.com/squaremo/amqp.node/issues"
+			},
+			"_id": "amqplib@0.5.1",
+			"_shasum": "7cccfebabe56c2e984ea7a2243f7cefe6fbfc6cf",
+			"_from": ".",
+			"_npmVersion": "3.3.3",
+			"_nodeVersion": "0.10.25",
+			"_npmUser": {
+				"name": "squaremo",
+				"email": "mikeb@squaremobius.net"
+			},
+			"maintainers": [
+				{
+					"name": "squaremo",
+					"email": "mikeb@squaremobius.net"
+				}
+			],
+			"dist": {
+				"shasum": "7cccfebabe56c2e984ea7a2243f7cefe6fbfc6cf",
+				"tarball": "https://registry.npmjs.org/amqplib/-/amqplib-0.5.1.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/amqplib-0.5.1.tgz_1478962016225_0.675085368566215"
+			},
+			"directories": {}
+		},
+		"0.5.2": {
+			"name": "amqplib",
+			"homepage": "http://squaremo.github.io/amqp.node/",
+			"main": "./channel_api.js",
+			"version": "0.5.2",
+			"description": "An AMQP 0-9-1 (e.g., RabbitMQ) library and client.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/squaremo/amqp.node.git"
+			},
+			"engines": {
+				"node": ">=0.8 <=9"
+			},
+			"dependencies": {
+				"bitsyntax": "~0.0.4",
+				"bluebird": "^3.4.6",
+				"buffer-more-ints": "0.0.2",
+				"readable-stream": "1.x >=1.1.9",
+				"safe-buffer": "^5.0.1"
+			},
+			"devDependencies": {
+				"mocha": "~1",
+				"claire": "0.4.1",
+				"uglify-js": "2.4.x",
+				"istanbul": "0.1.x"
+			},
+			"scripts": {
+				"test": "make test",
+				"prepublish": "make"
+			},
+			"keywords": [
+				"AMQP",
+				"AMQP 0-9-1",
+				"RabbitMQ"
+			],
+			"author": {
+				"name": "Michael Bridgen",
+				"email": "mikeb@squaremobius.net"
+			},
+			"license": "MIT",
+			"gitHead": "be11b7d8bdfdc9875dc2c50ec39138497e9dc5bd",
+			"bugs": {
+				"url": "https://github.com/squaremo/amqp.node/issues"
+			},
+			"_id": "amqplib@0.5.2",
+			"_npmVersion": "5.5.1",
+			"_nodeVersion": "8.9.1",
+			"_npmUser": {
+				"name": "squaremo",
+				"email": "mikeb@squaremobius.net"
+			},
+			"maintainers": [
+				{
+					"name": "squaremo",
+					"email": "mikeb@squaremobius.net"
+				}
+			],
+			"dist": {
+				"integrity": "sha512-l9mCs6LbydtHqRniRwYkKdqxVa6XMz3Vw1fh+2gJaaVgTM6Jk3o8RccAKWKtlhT1US5sWrFh+KKxsVUALURSIA==",
+				"shasum": "d2d7313c7ffaa4d10bcf1e6252de4591b6cc7b63",
+				"tarball": "https://registry.npmjs.org/amqplib/-/amqplib-0.5.2.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/amqplib-0.5.2.tgz_1510442097876_0.672039186116308"
+			},
+			"directories": {}
+		}
+	},
+	"dist-tags": {
+		"latest": "0.5.2"
+	},
+	"time": {
+		"modified": "2018-02-18T22:01:42.174Z",
+		"created": "2013-06-21T23:33:53.303Z",
+		"0.0.1": "2013-06-21T23:33:56.623Z",
+		"0.0.2": "2013-08-07T10:03:03.124Z",
+		"0.1.0": "2013-10-10T22:23:29.448Z",
+		"0.1.1": "2013-11-28T21:44:55.834Z",
+		"0.1.2": "2014-02-17T12:07:22.891Z",
+		"0.1.3": "2014-02-27T16:45:20.901Z",
+		"0.2.0": "2014-06-03T13:13:27.442Z",
+		"0.2.1": "2014-08-07T20:36:54.763Z",
+		"0.3.0": "2014-10-21T08:31:17.811Z",
+		"0.3.1": "2015-02-17T06:35:30.390Z",
+		"0.3.2": "2015-03-25T09:46:31.019Z",
+		"0.4.0": "2015-09-16T23:26:22.156Z",
+		"0.4.1": "2016-02-05T06:08:43.818Z",
+		"0.4.2": "2016-06-07T08:11:17.345Z",
+		"0.5.0": "2016-11-01T23:04:06.154Z",
+		"0.5.1": "2016-11-12T14:46:58.509Z",
+		"0.5.2": "2017-11-11T23:14:58.997Z"
+	},
+	"_distfiles": {
+		"amqplib-0.0.1.tgz": {
+			"url": "https://registry.npmjs.org/amqplib/-/amqplib-0.0.1.tgz",
+			"sha": "cfcc77fefb668555594677c98836fefa491c30de",
+			"registry": "npmjs"
+		},
+		"amqplib-0.0.2.tgz": {
+			"url": "https://registry.npmjs.org/amqplib/-/amqplib-0.0.2.tgz",
+			"sha": "b2053fdfb6abe941cabd00d2f5d630eea803f70d",
+			"registry": "npmjs"
+		},
+		"amqplib-0.1.0.tgz": {
+			"url": "https://registry.npmjs.org/amqplib/-/amqplib-0.1.0.tgz",
+			"sha": "a60a1c137c1e5224e9d147019b3909a7b0e8ef05",
+			"registry": "npmjs"
+		},
+		"amqplib-0.1.1.tgz": {
+			"url": "https://registry.npmjs.org/amqplib/-/amqplib-0.1.1.tgz",
+			"sha": "9a90cb239a3153a0bd3f67b29199951604432481",
+			"registry": "npmjs"
+		},
+		"amqplib-0.1.2.tgz": {
+			"url": "https://registry.npmjs.org/amqplib/-/amqplib-0.1.2.tgz",
+			"sha": "4f796dd9524eb36dfad37c1f698626b097a64d97",
+			"registry": "npmjs"
+		},
+		"amqplib-0.1.3.tgz": {
+			"url": "https://registry.npmjs.org/amqplib/-/amqplib-0.1.3.tgz",
+			"sha": "200c174af83226815a21aa621d55fe99eb130a6a",
+			"registry": "npmjs"
+		},
+		"amqplib-0.2.0.tgz": {
+			"url": "https://registry.npmjs.org/amqplib/-/amqplib-0.2.0.tgz",
+			"sha": "664281952c4f1fd9748510fcfb2a5564baaaf5be",
+			"registry": "npmjs"
+		},
+		"amqplib-0.2.1.tgz": {
+			"url": "https://registry.npmjs.org/amqplib/-/amqplib-0.2.1.tgz",
+			"sha": "576267a01302a75763600750767fc1565fe46e8a",
+			"registry": "npmjs"
+		},
+		"amqplib-0.3.0.tgz": {
+			"url": "https://registry.npmjs.org/amqplib/-/amqplib-0.3.0.tgz",
+			"sha": "1b5dafebac66b36e4afd9dc815766bd2dd400b3d",
+			"registry": "npmjs"
+		},
+		"amqplib-0.3.1.tgz": {
+			"url": "https://registry.npmjs.org/amqplib/-/amqplib-0.3.1.tgz",
+			"sha": "cee1b86fa4516a2963a61e134258ef9da9d38781",
+			"registry": "npmjs"
+		},
+		"amqplib-0.3.2.tgz": {
+			"url": "https://registry.npmjs.org/amqplib/-/amqplib-0.3.2.tgz",
+			"sha": "e77d8fb3842ebcae78cf1c930c490d1e954f4297",
+			"registry": "npmjs"
+		},
+		"amqplib-0.4.0.tgz": {
+			"url": "https://registry.npmjs.org/amqplib/-/amqplib-0.4.0.tgz",
+			"sha": "9efe7656dda85a7359f664a2726e8e85229e124c",
+			"registry": "npmjs"
+		},
+		"amqplib-0.4.1.tgz": {
+			"url": "https://registry.npmjs.org/amqplib/-/amqplib-0.4.1.tgz",
+			"sha": "988e5c65eb992b2df8486d52ef2f6bbbc8fdbd0e",
+			"registry": "npmjs"
+		},
+		"amqplib-0.4.2.tgz": {
+			"url": "https://registry.npmjs.org/amqplib/-/amqplib-0.4.2.tgz",
+			"sha": "5e4a2a914ccb3125f9cb91f6da07c97aa4cb13a6",
+			"registry": "npmjs"
+		},
+		"amqplib-0.5.0.tgz": {
+			"url": "https://registry.npmjs.org/amqplib/-/amqplib-0.5.0.tgz",
+			"sha": "426da5e40dd455245bb626c8a0be9a109cb743b2",
+			"registry": "npmjs"
+		},
+		"amqplib-0.5.1.tgz": {
+			"url": "https://registry.npmjs.org/amqplib/-/amqplib-0.5.1.tgz",
+			"sha": "7cccfebabe56c2e984ea7a2243f7cefe6fbfc6cf",
+			"registry": "npmjs"
+		},
+		"amqplib-0.5.2.tgz": {
+			"url": "https://registry.npmjs.org/amqplib/-/amqplib-0.5.2.tgz",
+			"sha": "d2d7313c7ffaa4d10bcf1e6252de4591b6cc7b63",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {
+		"amqplib-0.5.2.tgz": {
+			"shasum": "d2d7313c7ffaa4d10bcf1e6252de4591b6cc7b63"
+		}
+	},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "\"5a89f7c6-6940\"",
+			"fetched": 1519912113817
+		}
+	},
+	"_rev": "7-5d06bfdeb0bf41d8",
+	"readme": "# AMQP 0-9-1 library and client for Node.JS\n\n[![Build Status](https://travis-ci.org/squaremo/amqp.node.png)](https://travis-ci.org/squaremo/amqp.node)\n\n    npm install amqplib\n\n * [Change log][changelog]\n * [GitHub pages][gh-pages]\n * [API reference][gh-pages-apiref]\n * [Examples from RabbitMQ tutorials][tutes]\n\nA library for making AMQP 0-9-1 clients for Node.JS, and an AMQP 0-9-1\nclient for Node.JS v0.8-0.12, v4-v9, and the intervening io.js\nreleases.\n\nThis library does not implement [AMQP\n1.0](https://github.com/squaremo/amqp.node/issues/63) or [AMQP\n0-10](https://github.com/squaremo/amqp.node/issues/94).\n\nProject status:\n\n - Expected to work\n - Complete high-level and low-level APIs (i.e., all bits of the protocol)\n - Stable APIs\n - A fair few tests\n - Measured test coverage\n - Ports of the [RabbitMQ tutorials][rabbitmq-tutes] as [examples][tutes]\n - Used in production\n\nStill working on:\n\n - Getting to 100% (or very close to 100%) test coverage\n\n## Callback API example\n\n```javascript\nvar q = 'tasks';\n\nfunction bail(err) {\n  console.error(err);\n  process.exit(1);\n}\n\n// Publisher\nfunction publisher(conn) {\n  conn.createChannel(on_open);\n  function on_open(err, ch) {\n    if (err != null) bail(err);\n    ch.assertQueue(q);\n    ch.sendToQueue(q, new Buffer('something to do'));\n  }\n}\n\n// Consumer\nfunction consumer(conn) {\n  var ok = conn.createChannel(on_open);\n  function on_open(err, ch) {\n    if (err != null) bail(err);\n    ch.assertQueue(q);\n    ch.consume(q, function(msg) {\n      if (msg !== null) {\n        console.log(msg.content.toString());\n        ch.ack(msg);\n      }\n    });\n  }\n}\n\nrequire('amqplib/callback_api')\n  .connect('amqp://localhost', function(err, conn) {\n    if (err != null) bail(err);\n    consumer(conn);\n    publisher(conn);\n  });\n```\n\n## Promise API example\n\n```javascript\nvar q = 'tasks';\n\nvar open = require('amqplib').connect('amqp://localhost');\n\n// Publisher\nopen.then(function(conn) {\n  return conn.createChannel();\n}).then(function(ch) {\n  return ch.assertQueue(q).then(function(ok) {\n    return ch.sendToQueue(q, new Buffer('something to do'));\n  });\n}).catch(console.warn);\n\n// Consumer\nopen.then(function(conn) {\n  return conn.createChannel();\n}).then(function(ch) {\n  return ch.assertQueue(q).then(function(ok) {\n    return ch.consume(q, function(msg) {\n      if (msg !== null) {\n        console.log(msg.content.toString());\n        ch.ack(msg);\n      }\n    });\n  });\n}).catch(console.warn);\n```\n\n## Running tests\n\n    npm test\n\nTo run the tests RabbitMQ is required. Either install it with your package\nmanager, or use [docker][] to run a RabbitMQ instance.\n\n    docker run -d --name amqp.test -p 5672:5672 rabbitmq\n\nIf prefer not to run RabbitMQ locally it is also possible to use a\ninstance of RabbitMQ hosted elsewhere. Use the `URL` environment\nvariable to configure a different amqp host to connect to. You may\nalso need to do this if docker is not on localhost; e.g., if it's\nrunning in docker-machine.\n\nOne public host is dev.rabbitmq.com:\n\n    URL=amqp://dev.rabbitmq.com npm test\n\n**NB** You may experience test failures due to timeouts if using the\ndev.rabbitmq.com instance.\n\nYou can run it under different versions of Node.JS using [nave][]:\n\n    nave use 0.8 npm test\n\nor run the tests on all supported versions of Node.JS in one go:\n\n    make test-all-nodejs\n\n(which also needs `nave` installed, of course).\n\nLastly, setting the environment variable `LOG_ERRORS` will cause the\ntests to output error messages encountered, to the console; this is\nreally only useful for checking the kind and formatting of the errors.\n\n    LOG_ERRORS=true npm test\n\n## Test coverage\n\n    make coverage\n    open file://`pwd`/coverage/lcov-report/index.html\n\n[gh-pages]: http://squaremo.github.com/amqp.node/\n[gh-pages-apiref]: http://squaremo.github.com/amqp.node/channel_api.html\n[nave]: https://github.com/isaacs/nave\n[tutes]: https://github.com/squaremo/amqp.node/tree/master/examples/tutorials\n[rabbitmq-tutes]: http://www.rabbitmq.com/getstarted.html\n[changelog]: https://github.com/squaremo/amqp.node/blob/master/CHANGELOG.md\n[docker]: https://www.docker.com/\n"
+}

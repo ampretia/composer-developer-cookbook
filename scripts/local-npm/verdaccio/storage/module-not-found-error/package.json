@@ -1,0 +1,171 @@
+{
+	"name": "module-not-found-error",
+	"versions": {
+		"1.0.0": {
+			"name": "module-not-found-error",
+			"main": "./release",
+			"version": "1.0.0",
+			"description": "Create a module not found error",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/bendrucker/module-not-found-error.git"
+			},
+			"author": {
+				"name": "Ben Drucker",
+				"email": "bvdrucker@gmail.com",
+				"url": "bendrucker.me"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "standard && babel-tape-runner test/*.js"
+			},
+			"keywords": [
+				"module",
+				"not found",
+				"error"
+			],
+			"dependencies": {
+				"xtend": "~4.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.0.0",
+				"babel-tape-runner": "*",
+				"tape": "^4.0.0",
+				"standard": "github:bendrucker/standard#babel",
+				"publicist": "~4.0.0",
+				"publicist-es5": "~1.0.0"
+			},
+			"publicist": {
+				"builds": {
+					"es5": {
+						"dest": "./release"
+					}
+				}
+			},
+			"standard": {
+				"ignore": [
+					"release/",
+					"lib/"
+				]
+			},
+			"gitHead": "85fe825598acdff4fb2d3bff7aae2a696b4a0d52",
+			"bugs": {
+				"url": "https://github.com/bendrucker/module-not-found-error/issues"
+			},
+			"homepage": "https://github.com/bendrucker/module-not-found-error#readme",
+			"_id": "module-not-found-error@1.0.0",
+			"_shasum": "1a736e0f5bceb0698f049132e41f42039aac1e24",
+			"_from": ".",
+			"_npmVersion": "2.8.3",
+			"_nodeVersion": "1.7.1",
+			"_npmUser": {
+				"name": "bendrucker",
+				"email": "bvdrucker@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bendrucker",
+					"email": "bvdrucker@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "1a736e0f5bceb0698f049132e41f42039aac1e24",
+				"tarball": "https://registry.npmjs.org/module-not-found-error/-/module-not-found-error-1.0.0.tgz"
+			},
+			"directories": {}
+		},
+		"1.0.1": {
+			"name": "module-not-found-error",
+			"main": "index.js",
+			"version": "1.0.1",
+			"description": "Create a module not found error",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/bendrucker/module-not-found-error"
+			},
+			"author": {
+				"name": "Ben Drucker",
+				"email": "bvdrucker@gmail.com",
+				"url": "bendrucker.me"
+			},
+			"scripts": {
+				"test": "standard && tape test.js"
+			},
+			"keywords": [
+				"module",
+				"not found",
+				"error"
+			],
+			"devDependencies": {
+				"standard": "^4.5.2",
+				"tape": "^4.0.0"
+			},
+			"files": [
+				"index.js"
+			],
+			"gitHead": "a7a934aa1543f23c23be32c6c1b544573583bf5a",
+			"bugs": {
+				"url": "https://github.com/bendrucker/module-not-found-error/issues"
+			},
+			"homepage": "https://github.com/bendrucker/module-not-found-error",
+			"_id": "module-not-found-error@1.0.1",
+			"_shasum": "cf8b4ff4f29640674d6cdd02b0e3bc523c2bbdc0",
+			"_from": ".",
+			"_npmVersion": "2.11.0",
+			"_nodeVersion": "2.2.1",
+			"_npmUser": {
+				"name": "bendrucker",
+				"email": "bvdrucker@gmail.com"
+			},
+			"dist": {
+				"shasum": "cf8b4ff4f29640674d6cdd02b0e3bc523c2bbdc0",
+				"tarball": "https://registry.npmjs.org/module-not-found-error/-/module-not-found-error-1.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "bendrucker",
+					"email": "bvdrucker@gmail.com"
+				}
+			],
+			"directories": {}
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.1"
+	},
+	"time": {
+		"modified": "2017-01-04T10:25:08.763Z",
+		"created": "2015-05-23T19:54:15.475Z",
+		"1.0.0": "2015-05-23T19:54:15.475Z",
+		"1.0.1": "2015-07-03T12:40:42.879Z"
+	},
+	"_distfiles": {
+		"module-not-found-error-1.0.0.tgz": {
+			"url": "https://registry.npmjs.org/module-not-found-error/-/module-not-found-error-1.0.0.tgz",
+			"sha": "1a736e0f5bceb0698f049132e41f42039aac1e24",
+			"registry": "npmjs"
+		},
+		"module-not-found-error-1.0.1.tgz": {
+			"url": "https://registry.npmjs.org/module-not-found-error/-/module-not-found-error-1.0.1.tgz",
+			"sha": "cf8b4ff4f29640674d6cdd02b0e3bc523c2bbdc0",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {
+		"module-not-found-error-1.0.1.tgz": {
+			"shasum": "cf8b4ff4f29640674d6cdd02b0e3bc523c2bbdc0"
+		}
+	},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "\"586ccd84-104c\"",
+			"fetched": 1519912117786
+		}
+	},
+	"_rev": "7-340d65ed8258ec33",
+	"readme": "# module-not-found-error [![Build Status](https://travis-ci.org/bendrucker/module-not-found-error.svg?branch=master)](https://travis-ci.org/bendrucker/module-not-found-error)\n\n> Create a module not found error\n\n## Install\n\n```\n$ npm install --save module-not-found-error\n```\n\n## Usage\n\n```js\nvar moduleNotFoundError = require('module-not-found-error')\n\nvar err = moduleNotFoundError('foo')\n//=> err.message: Cannot find module 'foo'\n//=> err.code: 'MODULE_NOT_FOUND'\n```\n\n## API\n\n#### `moduleNotFoundError(id)` -> `err`\n\nReturns an error with the appropriate message and code.\n\n#### `id`\n\n*Required*  \nType: `string`\n\nA module name or path passed to `require`.\n\n## License\n\nMIT © [Ben Drucker](http://bendrucker.me)\n"
+}

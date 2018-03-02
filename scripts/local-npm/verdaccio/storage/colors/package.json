@@ -1,0 +1,818 @@
+{
+	"name": "colors",
+	"versions": {
+		"0.3.0": {
+			"name": "colors",
+			"description": "get colors in your node.js console like what",
+			"version": "0.3.0",
+			"author": {
+				"name": "Marak Squires"
+			},
+			"repository": {
+				"type": "git",
+				"url": "http://github.com/Marak/colors.js.git"
+			},
+			"engine": [
+				"node >=0.1.90"
+			],
+			"main": "colors",
+			"_id": "colors@0.3.0",
+			"engines": {
+				"node": "*"
+			},
+			"_nodeSupported": true,
+			"_npmVersion": "0.2.7-2",
+			"_nodeVersion": "v0.3.1-pre",
+			"dist": {
+				"tarball": "https://registry.npmjs.org/colors/-/colors-0.3.0.tgz",
+				"shasum": "c247d64d34db0ca4dc8e43f3ecd6da98d0af94e7"
+			},
+			"directories": {}
+		},
+		"0.5.0": {
+			"name": "colors",
+			"description": "get colors in your node.js console like what",
+			"version": "0.5.0",
+			"author": {
+				"name": "Marak Squires"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/Marak/colors.js.git"
+			},
+			"engine": [
+				"node >=0.1.90"
+			],
+			"main": "colors",
+			"_id": "colors@0.5.0",
+			"engines": {
+				"node": "*"
+			},
+			"_engineSupported": true,
+			"_npmVersion": "0.3.14",
+			"_nodeVersion": "v0.5.0-pre",
+			"directories": {},
+			"files": [
+				""
+			],
+			"_defaultsLoaded": true,
+			"dist": {
+				"shasum": "ac3ed125fcd8ccbb939b796117bf05d5f15c3e67",
+				"tarball": "https://registry.npmjs.org/colors/-/colors-0.5.0.tgz"
+			}
+		},
+		"0.5.1": {
+			"name": "colors",
+			"description": "get colors in your node.js console like what",
+			"version": "0.5.1",
+			"author": {
+				"name": "Marak Squires"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/Marak/colors.js.git"
+			},
+			"engines": {
+				"node": ">=0.1.90"
+			},
+			"main": "colors",
+			"_npmJsonOpts": {
+				"file": "/Users/maraksquires/.npm/colors/0.5.1/package/package.json",
+				"wscript": false,
+				"contributors": false,
+				"serverjs": false
+			},
+			"_id": "colors@0.5.1",
+			"dependencies": {},
+			"devDependencies": {},
+			"_engineSupported": true,
+			"_npmVersion": "1.0.30",
+			"_nodeVersion": "v0.4.10",
+			"_defaultsLoaded": true,
+			"dist": {
+				"shasum": "7d0023eaeb154e8ee9fce75dcb923d0ed1667774",
+				"tarball": "https://registry.npmjs.org/colors/-/colors-0.5.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "marak",
+					"email": "marak.squires@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.6.0": {
+			"name": "colors",
+			"description": "get colors in your node.js console like what",
+			"version": "0.6.0",
+			"author": {
+				"name": "Marak Squires"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/Marak/colors.js.git"
+			},
+			"engines": {
+				"node": ">=0.1.90"
+			},
+			"main": "colors",
+			"_npmUser": {
+				"name": "marak",
+				"email": "marak.squires@gmail.com"
+			},
+			"_id": "colors@0.6.0",
+			"dependencies": {},
+			"devDependencies": {},
+			"_engineSupported": true,
+			"_npmVersion": "1.0.106",
+			"_nodeVersion": "v0.4.12",
+			"_defaultsLoaded": true,
+			"dist": {
+				"shasum": "07ec10d8ac4f5a2e78f8d820e3e7832b3b463cad",
+				"tarball": "https://registry.npmjs.org/colors/-/colors-0.6.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "marak",
+					"email": "marak.squires@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.6.0-1": {
+			"name": "colors",
+			"description": "get colors in your node.js console like what",
+			"version": "0.6.0-1",
+			"author": {
+				"name": "Marak Squires"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/Marak/colors.js.git"
+			},
+			"engines": {
+				"node": ">=0.1.90"
+			},
+			"main": "colors",
+			"_npmUser": {
+				"name": "marak",
+				"email": "marak.squires@gmail.com"
+			},
+			"_id": "colors@0.6.0-1",
+			"dependencies": {},
+			"devDependencies": {},
+			"_engineSupported": true,
+			"_npmVersion": "1.0.106",
+			"_nodeVersion": "v0.4.12",
+			"_defaultsLoaded": true,
+			"dist": {
+				"shasum": "6dbb68ceb8bc60f2b313dcc5ce1599f06d19e67a",
+				"tarball": "https://registry.npmjs.org/colors/-/colors-0.6.0-1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "marak",
+					"email": "marak.squires@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.6.1": {
+			"name": "colors",
+			"description": "get colors in your node.js console like what",
+			"version": "0.6.1",
+			"author": {
+				"name": "Marak Squires"
+			},
+			"homepage": "https://github.com/Marak/colors.js",
+			"bugs": {
+				"url": "https://github.com/Marak/colors.js/issues"
+			},
+			"keywords": [
+				"ansi",
+				"terminal",
+				"colors"
+			],
+			"repository": {
+				"type": "git",
+				"url": "http://github.com/Marak/colors.js.git"
+			},
+			"engines": {
+				"node": ">=0.1.90"
+			},
+			"main": "colors",
+			"_id": "colors@0.6.1",
+			"dist": {
+				"shasum": "59c7799f6c91e0e15802980a98ed138b3c78f4e9",
+				"tarball": "https://registry.npmjs.org/colors/-/colors-0.6.1.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.2.30",
+			"_npmUser": {
+				"name": "marak",
+				"email": "marak.squires@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "marak",
+					"email": "marak.squires@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.6.2": {
+			"name": "colors",
+			"description": "get colors in your node.js console like what",
+			"version": "0.6.2",
+			"author": {
+				"name": "Marak Squires"
+			},
+			"homepage": "https://github.com/Marak/colors.js",
+			"bugs": {
+				"url": "https://github.com/Marak/colors.js/issues"
+			},
+			"keywords": [
+				"ansi",
+				"terminal",
+				"colors"
+			],
+			"repository": {
+				"type": "git",
+				"url": "http://github.com/Marak/colors.js.git"
+			},
+			"engines": {
+				"node": ">=0.1.90"
+			},
+			"main": "colors",
+			"_id": "colors@0.6.2",
+			"dist": {
+				"shasum": "2423fe6678ac0c5dae8852e5d0e5be08c997abcc",
+				"tarball": "https://registry.npmjs.org/colors/-/colors-0.6.2.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.2.30",
+			"_npmUser": {
+				"name": "marak",
+				"email": "marak.squires@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "marak",
+					"email": "marak.squires@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"1.0.0": {
+			"name": "colors",
+			"description": "get colors in your node.js console",
+			"version": "1.0.0",
+			"author": {
+				"name": "Marak Squires"
+			},
+			"homepage": "https://github.com/Marak/colors.js",
+			"bugs": {
+				"url": "https://github.com/Marak/colors.js/issues"
+			},
+			"keywords": [
+				"ansi",
+				"terminal",
+				"colors"
+			],
+			"repository": {
+				"type": "git",
+				"url": "http://github.com/Marak/colors.js.git"
+			},
+			"license": "MIT",
+			"scripts": {
+				"test": "node tests/basic-test.js && node tests/safe-test.js"
+			},
+			"engines": {
+				"node": ">=0.1.90"
+			},
+			"main": "./lib/index",
+			"gitHead": "fee9d2475f03729ee6567c38be7686540b7a3cdf",
+			"_id": "colors@1.0.0",
+			"_shasum": "d907bed5e1dcbdee6a0a5533f76855c7df506580",
+			"_from": ".",
+			"_npmVersion": "2.0.2",
+			"_nodeVersion": "0.11.13",
+			"_npmUser": {
+				"name": "marak",
+				"email": "marak.squires@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "marak",
+					"email": "marak.squires@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "d907bed5e1dcbdee6a0a5533f76855c7df506580",
+				"tarball": "https://registry.npmjs.org/colors/-/colors-1.0.0.tgz"
+			},
+			"directories": {}
+		},
+		"1.0.1": {
+			"name": "colors",
+			"description": "get colors in your node.js console",
+			"version": "1.0.1",
+			"author": {
+				"name": "Marak Squires"
+			},
+			"homepage": "https://github.com/Marak/colors.js",
+			"bugs": {
+				"url": "https://github.com/Marak/colors.js/issues"
+			},
+			"keywords": [
+				"ansi",
+				"terminal",
+				"colors"
+			],
+			"repository": {
+				"type": "git",
+				"url": "http://github.com/Marak/colors.js.git"
+			},
+			"license": "MIT",
+			"scripts": {
+				"test": "node tests/basic-test.js && node tests/safe-test.js"
+			},
+			"engines": {
+				"node": ">=0.1.90"
+			},
+			"main": "./lib/index",
+			"gitHead": "ea942de28794b7a1a1fff0caad30c8268411e9ed",
+			"_id": "colors@1.0.1",
+			"_shasum": "3414b3ebe708dd2e0e299074af0acfda20dc7764",
+			"_from": ".",
+			"_npmVersion": "2.0.2",
+			"_nodeVersion": "0.11.13",
+			"_npmUser": {
+				"name": "marak",
+				"email": "marak.squires@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "marak",
+					"email": "marak.squires@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "3414b3ebe708dd2e0e299074af0acfda20dc7764",
+				"tarball": "https://registry.npmjs.org/colors/-/colors-1.0.1.tgz"
+			},
+			"directories": {}
+		},
+		"1.0.2": {
+			"name": "colors",
+			"description": "get colors in your node.js console",
+			"version": "1.0.2",
+			"author": {
+				"name": "Marak Squires"
+			},
+			"homepage": "https://github.com/Marak/colors.js",
+			"bugs": {
+				"url": "https://github.com/Marak/colors.js/issues"
+			},
+			"keywords": [
+				"ansi",
+				"terminal",
+				"colors"
+			],
+			"repository": {
+				"type": "git",
+				"url": "http://github.com/Marak/colors.js.git"
+			},
+			"license": "MIT",
+			"scripts": {
+				"test": "node tests/basic-test.js && node tests/safe-test.js"
+			},
+			"engines": {
+				"node": ">=0.1.90"
+			},
+			"main": "./lib/index",
+			"gitHead": "ac1429ddf307c218336fc02a0da818c8a6c6837f",
+			"_id": "colors@1.0.2",
+			"_shasum": "6788c0d667206b8262ec5de49dd6cc7d662b5b42",
+			"_from": ".",
+			"_npmVersion": "2.0.2",
+			"_nodeVersion": "0.11.13",
+			"_npmUser": {
+				"name": "marak",
+				"email": "marak.squires@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "marak",
+					"email": "marak.squires@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "6788c0d667206b8262ec5de49dd6cc7d662b5b42",
+				"tarball": "https://registry.npmjs.org/colors/-/colors-1.0.2.tgz"
+			},
+			"directories": {}
+		},
+		"1.0.3": {
+			"name": "colors",
+			"description": "get colors in your node.js console",
+			"version": "1.0.3",
+			"author": {
+				"name": "Marak Squires"
+			},
+			"homepage": "https://github.com/Marak/colors.js",
+			"bugs": {
+				"url": "https://github.com/Marak/colors.js/issues"
+			},
+			"keywords": [
+				"ansi",
+				"terminal",
+				"colors"
+			],
+			"repository": {
+				"type": "git",
+				"url": "http://github.com/Marak/colors.js.git"
+			},
+			"license": "MIT",
+			"scripts": {
+				"test": "node tests/basic-test.js && node tests/safe-test.js"
+			},
+			"engines": {
+				"node": ">=0.1.90"
+			},
+			"main": "./lib/index",
+			"gitHead": "e9e6557cc0fa26dba1a20b0d45e92de982f4047c",
+			"_id": "colors@1.0.3",
+			"_shasum": "0433f44d809680fdeb60ed260f1b0c262e82a40b",
+			"_from": ".",
+			"_npmVersion": "2.0.2",
+			"_nodeVersion": "0.11.13",
+			"_npmUser": {
+				"name": "marak",
+				"email": "marak.squires@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "marak",
+					"email": "marak.squires@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "0433f44d809680fdeb60ed260f1b0c262e82a40b",
+				"tarball": "https://registry.npmjs.org/colors/-/colors-1.0.3.tgz"
+			},
+			"directories": {}
+		},
+		"1.1.0": {
+			"name": "colors",
+			"description": "get colors in your node.js console",
+			"version": "1.1.0",
+			"author": {
+				"name": "Marak Squires"
+			},
+			"homepage": "https://github.com/Marak/colors.js",
+			"bugs": {
+				"url": "https://github.com/Marak/colors.js/issues"
+			},
+			"keywords": [
+				"ansi",
+				"terminal",
+				"colors"
+			],
+			"repository": {
+				"type": "git",
+				"url": "http://github.com/Marak/colors.js.git"
+			},
+			"license": "MIT",
+			"scripts": {
+				"test": "node tests/basic-test.js && node tests/safe-test.js"
+			},
+			"engines": {
+				"node": ">=0.1.90"
+			},
+			"main": "lib",
+			"files": [
+				"examples",
+				"lib",
+				"LICENSE",
+				"safe.js",
+				"themes"
+			],
+			"gitHead": "b9ff17af7ce2548a93e34001dcb75777561cae17",
+			"_id": "colors@1.1.0",
+			"_shasum": "ea2b7dfd38a7bb631323d29b108fa78fd16dc523",
+			"_from": ".",
+			"_npmVersion": "2.1.8",
+			"_nodeVersion": "0.11.13",
+			"_npmUser": {
+				"name": "marak",
+				"email": "marak.squires@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "marak",
+					"email": "marak.squires@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "ea2b7dfd38a7bb631323d29b108fa78fd16dc523",
+				"tarball": "https://registry.npmjs.org/colors/-/colors-1.1.0.tgz"
+			},
+			"directories": {}
+		},
+		"1.1.1": {
+			"name": "colors",
+			"description": "get colors in your node.js console",
+			"version": "1.1.1",
+			"author": {
+				"name": "Marak Squires"
+			},
+			"homepage": "https://github.com/Marak/colors.js",
+			"bugs": {
+				"url": "https://github.com/Marak/colors.js/issues"
+			},
+			"keywords": [
+				"ansi",
+				"terminal",
+				"colors"
+			],
+			"repository": {
+				"type": "git",
+				"url": "http://github.com/Marak/colors.js.git"
+			},
+			"license": "MIT",
+			"scripts": {
+				"test": "node tests/basic-test.js && node tests/safe-test.js"
+			},
+			"engines": {
+				"node": ">=0.1.90"
+			},
+			"main": "lib",
+			"files": [
+				"examples",
+				"lib",
+				"LICENSE",
+				"safe.js",
+				"themes"
+			],
+			"gitHead": "5958f1677d827fec37275427476499d84613e4a4",
+			"_id": "colors@1.1.1",
+			"_shasum": "6fc916ea57eca2edb7aa1771f4a8c21789f79e0b",
+			"_from": ".",
+			"_npmVersion": "2.1.8",
+			"_nodeVersion": "0.11.13",
+			"_npmUser": {
+				"name": "marak",
+				"email": "marak.squires@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "marak",
+					"email": "marak.squires@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "6fc916ea57eca2edb7aa1771f4a8c21789f79e0b",
+				"tarball": "https://registry.npmjs.org/colors/-/colors-1.1.1.tgz"
+			},
+			"directories": {}
+		},
+		"1.1.2": {
+			"name": "colors",
+			"description": "get colors in your node.js console",
+			"version": "1.1.2",
+			"author": {
+				"name": "Marak Squires"
+			},
+			"homepage": "https://github.com/Marak/colors.js",
+			"bugs": {
+				"url": "https://github.com/Marak/colors.js/issues"
+			},
+			"keywords": [
+				"ansi",
+				"terminal",
+				"colors"
+			],
+			"repository": {
+				"type": "git",
+				"url": "http://github.com/Marak/colors.js.git"
+			},
+			"license": "MIT",
+			"scripts": {
+				"test": "node tests/basic-test.js && node tests/safe-test.js"
+			},
+			"engines": {
+				"node": ">=0.1.90"
+			},
+			"main": "lib",
+			"files": [
+				"examples",
+				"lib",
+				"LICENSE",
+				"safe.js",
+				"themes"
+			],
+			"gitHead": "8bf2ad9fa695dcb30b7e9fd83691b139fd6655c4",
+			"_id": "colors@1.1.2",
+			"_shasum": "168a4701756b6a7f51a12ce0c97bfa28c084ed63",
+			"_from": ".",
+			"_npmVersion": "2.1.8",
+			"_nodeVersion": "0.11.13",
+			"_npmUser": {
+				"name": "marak",
+				"email": "marak.squires@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "marak",
+					"email": "marak.squires@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "168a4701756b6a7f51a12ce0c97bfa28c084ed63",
+				"tarball": "https://registry.npmjs.org/colors/-/colors-1.1.2.tgz"
+			},
+			"directories": {}
+		},
+		"1.2.0-rc0": {
+			"name": "colors",
+			"description": "get colors in your node.js console",
+			"version": "1.2.0-rc0",
+			"author": {
+				"name": "Marak Squires"
+			},
+			"homepage": "https://github.com/Marak/colors.js",
+			"bugs": {
+				"url": "https://github.com/Marak/colors.js/issues"
+			},
+			"keywords": [
+				"ansi",
+				"terminal",
+				"colors"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+ssh://git@github.com/Marak/colors.js.git"
+			},
+			"license": "MIT",
+			"scripts": {
+				"test": "node tests/basic-test.js && node tests/safe-test.js"
+			},
+			"engines": {
+				"node": ">=0.1.90"
+			},
+			"main": "lib/index.js",
+			"files": [
+				"examples",
+				"lib",
+				"LICENSE",
+				"safe.js",
+				"themes"
+			],
+			"readmeFilename": "ReadMe.md",
+			"gitHead": "15abdf6f8577c0540abf1dec52bef504fea8a71f",
+			"_id": "colors@1.2.0-rc0",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "8.9.4",
+			"_npmUser": {
+				"name": "dabh",
+				"email": "dabh@stanford.edu"
+			},
+			"dist": {
+				"integrity": "sha512-NCYIuw9bgeBSokEO9eMoKtyXscuNdn/oaMWWDBXr+fp/BHd5HBhVP1FWHkRkCXPqZgEfWeP4ID+xM4rQPjnXjA==",
+				"shasum": "55fa8c0c4454606756cd96ebcf520a9fcf743d11",
+				"tarball": "https://registry.npmjs.org/colors/-/colors-1.2.0-rc0.tgz",
+				"fileCount": 19,
+				"unpackedSize": 31382
+			},
+			"maintainers": [
+				{
+					"email": "dabh@stanford.edu",
+					"name": "dabh"
+				},
+				{
+					"email": "marak.squires@gmail.com",
+					"name": "marak"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/colors_1.2.0-rc0_1518821109073_0.13931783279293097"
+			}
+		}
+	},
+	"dist-tags": {
+		"latest": "1.1.2",
+		"next": "1.2.0-rc0"
+	},
+	"time": {
+		"modified": "2018-02-17T04:55:19.839Z",
+		"created": "2011-03-15T10:12:18.245Z",
+		"0.3.0": "2011-03-15T10:12:18.245Z",
+		"0.5.0": "2011-03-15T10:12:18.245Z",
+		"0.5.1": "2011-09-25T13:04:44.328Z",
+		"0.6.0": "2011-12-09T11:32:57.649Z",
+		"0.6.0-1": "2011-12-09T12:35:05.501Z",
+		"0.6.1": "2013-07-26T05:49:48.513Z",
+		"0.6.2": "2013-08-21T23:14:55.906Z",
+		"1.0.0": "2014-10-01T11:29:39.467Z",
+		"1.0.1": "2014-10-01T16:07:39.787Z",
+		"1.0.2": "2014-10-02T19:55:43.478Z",
+		"1.0.3": "2014-10-09T10:03:24.510Z",
+		"1.1.0": "2015-04-29T07:15:49.571Z",
+		"1.1.1": "2015-06-17T12:52:33.681Z",
+		"1.1.2": "2015-06-17T13:03:00.583Z",
+		"1.2.0-rc0": "2018-02-16T22:45:09.148Z"
+	},
+	"_distfiles": {
+		"colors-0.3.0.tgz": {
+			"url": "https://registry.npmjs.org/colors/-/colors-0.3.0.tgz",
+			"sha": "c247d64d34db0ca4dc8e43f3ecd6da98d0af94e7",
+			"registry": "npmjs"
+		},
+		"colors-0.5.0.tgz": {
+			"url": "https://registry.npmjs.org/colors/-/colors-0.5.0.tgz",
+			"sha": "ac3ed125fcd8ccbb939b796117bf05d5f15c3e67",
+			"registry": "npmjs"
+		},
+		"colors-0.5.1.tgz": {
+			"url": "https://registry.npmjs.org/colors/-/colors-0.5.1.tgz",
+			"sha": "7d0023eaeb154e8ee9fce75dcb923d0ed1667774",
+			"registry": "npmjs"
+		},
+		"colors-0.6.0.tgz": {
+			"url": "https://registry.npmjs.org/colors/-/colors-0.6.0.tgz",
+			"sha": "07ec10d8ac4f5a2e78f8d820e3e7832b3b463cad",
+			"registry": "npmjs"
+		},
+		"colors-0.6.0-1.tgz": {
+			"url": "https://registry.npmjs.org/colors/-/colors-0.6.0-1.tgz",
+			"sha": "6dbb68ceb8bc60f2b313dcc5ce1599f06d19e67a",
+			"registry": "npmjs"
+		},
+		"colors-0.6.1.tgz": {
+			"url": "https://registry.npmjs.org/colors/-/colors-0.6.1.tgz",
+			"sha": "59c7799f6c91e0e15802980a98ed138b3c78f4e9",
+			"registry": "npmjs"
+		},
+		"colors-0.6.2.tgz": {
+			"url": "https://registry.npmjs.org/colors/-/colors-0.6.2.tgz",
+			"sha": "2423fe6678ac0c5dae8852e5d0e5be08c997abcc",
+			"registry": "npmjs"
+		},
+		"colors-1.0.0.tgz": {
+			"url": "https://registry.npmjs.org/colors/-/colors-1.0.0.tgz",
+			"sha": "d907bed5e1dcbdee6a0a5533f76855c7df506580",
+			"registry": "npmjs"
+		},
+		"colors-1.0.1.tgz": {
+			"url": "https://registry.npmjs.org/colors/-/colors-1.0.1.tgz",
+			"sha": "3414b3ebe708dd2e0e299074af0acfda20dc7764",
+			"registry": "npmjs"
+		},
+		"colors-1.0.2.tgz": {
+			"url": "https://registry.npmjs.org/colors/-/colors-1.0.2.tgz",
+			"sha": "6788c0d667206b8262ec5de49dd6cc7d662b5b42",
+			"registry": "npmjs"
+		},
+		"colors-1.0.3.tgz": {
+			"url": "https://registry.npmjs.org/colors/-/colors-1.0.3.tgz",
+			"sha": "0433f44d809680fdeb60ed260f1b0c262e82a40b",
+			"registry": "npmjs"
+		},
+		"colors-1.1.0.tgz": {
+			"url": "https://registry.npmjs.org/colors/-/colors-1.1.0.tgz",
+			"sha": "ea2b7dfd38a7bb631323d29b108fa78fd16dc523",
+			"registry": "npmjs"
+		},
+		"colors-1.1.1.tgz": {
+			"url": "https://registry.npmjs.org/colors/-/colors-1.1.1.tgz",
+			"sha": "6fc916ea57eca2edb7aa1771f4a8c21789f79e0b",
+			"registry": "npmjs"
+		},
+		"colors-1.1.2.tgz": {
+			"url": "https://registry.npmjs.org/colors/-/colors-1.1.2.tgz",
+			"sha": "168a4701756b6a7f51a12ce0c97bfa28c084ed63",
+			"registry": "npmjs"
+		},
+		"colors-1.2.0-rc0.tgz": {
+			"url": "https://registry.npmjs.org/colors/-/colors-1.2.0-rc0.tgz",
+			"sha": "55fa8c0c4454606756cd96ebcf520a9fcf743d11",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {
+		"colors-1.0.3.tgz": {
+			"shasum": "0433f44d809680fdeb60ed260f1b0c262e82a40b"
+		}
+	},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "\"5a87b5b7-63b5\"",
+			"fetched": 1519912118540
+		}
+	},
+	"_rev": "7-fe01f905431aa5eb",
+	"readme": ""
+}

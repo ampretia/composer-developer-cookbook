@@ -1,0 +1,212 @@
+{
+	"name": "mktmpdir",
+	"versions": {
+		"0.0.0": {
+			"name": "mktmpdir",
+			"version": "0.0.0",
+			"description": "mktmpdir creates a temporary directory",
+			"scripts": {
+				"test": "node_modules/.bin/mocha --reporter dot --check-leaks --bail"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/nkzawa/mktmpdir.git"
+			},
+			"keywords": [
+				"tmp",
+				"temp",
+				"temporary",
+				"directory",
+				"tmpdir"
+			],
+			"author": {
+				"name": "Naoyuki Kanezawa",
+				"email": "naoyuki.kanezawa@gmail.com"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"rimraf": "2.2.2"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"chai": "*",
+				"git-scripts": "*"
+			},
+			"git": {
+				"scripts": {
+					"pre-commit": "npm test"
+				}
+			},
+			"bugs": {
+				"url": "https://github.com/nkzawa/mktmpdir/issues"
+			},
+			"_id": "mktmpdir@0.0.0",
+			"dist": {
+				"shasum": "3e551fad4e8676d5a4d5a0729ee28fcb78281c5c",
+				"tarball": "https://registry.npmjs.org/mktmpdir/-/mktmpdir-0.0.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.8",
+			"_npmUser": {
+				"name": "nkzawa",
+				"email": "naoyuki.kanezawa@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "nkzawa",
+					"email": "naoyuki.kanezawa@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.1.0": {
+			"name": "mktmpdir",
+			"version": "0.1.0",
+			"description": "mktmpdir creates a temporary directory",
+			"scripts": {
+				"test": "node_modules/.bin/mocha --reporter dot --check-leaks --bail"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/nkzawa/mktmpdir.git"
+			},
+			"keywords": [
+				"tmp",
+				"temp",
+				"temporary",
+				"directory",
+				"tmpdir"
+			],
+			"author": {
+				"name": "Naoyuki Kanezawa",
+				"email": "naoyuki.kanezawa@gmail.com"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"rimraf": "2.2.2"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"chai": "*",
+				"git-scripts": "*"
+			},
+			"git": {
+				"scripts": {
+					"pre-commit": "npm test"
+				}
+			},
+			"bugs": {
+				"url": "https://github.com/nkzawa/mktmpdir/issues"
+			},
+			"_id": "mktmpdir@0.1.0",
+			"dist": {
+				"shasum": "346f27330a33f74e7f4ea5084fcd06126ddc2bc0",
+				"tarball": "https://registry.npmjs.org/mktmpdir/-/mktmpdir-0.1.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.8",
+			"_npmUser": {
+				"name": "nkzawa",
+				"email": "naoyuki.kanezawa@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "nkzawa",
+					"email": "naoyuki.kanezawa@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.1.1": {
+			"name": "mktmpdir",
+			"version": "0.1.1",
+			"description": "mktmpdir creates a temporary directory",
+			"scripts": {
+				"test": "mocha --reporter dot --check-leaks --bail"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/nkzawa/mktmpdir.git"
+			},
+			"keywords": [
+				"tmp",
+				"temp",
+				"temporary",
+				"directory",
+				"tmpdir"
+			],
+			"author": {
+				"name": "Naoyuki Kanezawa",
+				"email": "naoyuki.kanezawa@gmail.com"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"rimraf": "~2.2.8"
+			},
+			"devDependencies": {
+				"chai": "~1.9.1",
+				"mocha": "~1.21.4"
+			},
+			"gitHead": "7881c800df7c8685a2f20c7b03e4b0240d408ee5",
+			"bugs": {
+				"url": "https://github.com/nkzawa/mktmpdir/issues"
+			},
+			"homepage": "https://github.com/nkzawa/mktmpdir",
+			"_id": "mktmpdir@0.1.1",
+			"_shasum": "38ac820950d78efa0b9cddfc03ff7d5c5a786db9",
+			"_from": ".",
+			"_npmVersion": "1.4.21",
+			"_npmUser": {
+				"name": "nkzawa",
+				"email": "naoyuki.kanezawa@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "nkzawa",
+					"email": "naoyuki.kanezawa@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "38ac820950d78efa0b9cddfc03ff7d5c5a786db9",
+				"tarball": "https://registry.npmjs.org/mktmpdir/-/mktmpdir-0.1.1.tgz"
+			},
+			"directories": {}
+		}
+	},
+	"dist-tags": {
+		"latest": "0.1.1"
+	},
+	"time": {
+		"modified": "2014-09-14T13:16:36.437Z",
+		"created": "2013-09-09T13:37:55.104Z",
+		"0.0.0": "2013-09-09T13:37:57.923Z",
+		"0.1.0": "2013-09-11T17:00:32.635Z",
+		"0.1.1": "2014-09-14T13:16:36.437Z"
+	},
+	"_distfiles": {
+		"mktmpdir-0.0.0.tgz": {
+			"url": "https://registry.npmjs.org/mktmpdir/-/mktmpdir-0.0.0.tgz",
+			"sha": "3e551fad4e8676d5a4d5a0729ee28fcb78281c5c",
+			"registry": "npmjs"
+		},
+		"mktmpdir-0.1.0.tgz": {
+			"url": "https://registry.npmjs.org/mktmpdir/-/mktmpdir-0.1.0.tgz",
+			"sha": "346f27330a33f74e7f4ea5084fcd06126ddc2bc0",
+			"registry": "npmjs"
+		},
+		"mktmpdir-0.1.1.tgz": {
+			"url": "https://registry.npmjs.org/mktmpdir/-/mktmpdir-0.1.1.tgz",
+			"sha": "38ac820950d78efa0b9cddfc03ff7d5c5a786db9",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "\"54159534-156b\"",
+			"fetched": 1519837514832
+		}
+	},
+	"_rev": "1-1ebdabaec9e488e8",
+	"readme": "mktmpdir\n==================\n[![Build Status](https://travis-ci.org/nkzawa/mktmpdir.png?branch=master)](https://travis-ci.org/nkzawa/mktmpdir)\n\nmktmpdir creates a temporary directory, ported from Ruby's [Dir.mktmpdir](http://www.ruby-doc.org/stdlib-2.0/libdoc/tmpdir/rdoc/Dir.html#method-c-mktmpdir).\n\n```js\nvar mktmpdir = require('mktmpdir');\n\nmktmpdir(function(err, dir, done) {\n  if (err) throw err;\n  // use the directory...\n  fs.writeFile(dir + '/foo', 'hello, World', done);\n}, function(err, dir) {\n  // after the directory is removed.\n});\n```\n\n## Installation\n    $ npm install mktmpdir\n\n## Usage\n\n### mktmpdir([prefixSuffix], [tmpdir], callback, [onend])\nThe prefix and suffix of the name of the directory is specified by `prefixSuffix`.\nThe directory is created under `tmpdir` or `os.tmpdir()` with 0700 permission.\n\n## Examples\n\n```js\nmktmpdir(function(err, dir) {\n  // dir is \".../d...\"\n});\n\nmktmpdir('foo', function(err, dir) {\n  // dir is \".../foo...\"\n});\n\nmktmpdir(['foo', 'bar'], function(err, dir) {\n  // dir is \".../foo...bar\"\n});\n\nmktmpdir(null, '/var/tmp', function(err, dir) {\n  // dir is \"/var/tmp/d...\"\n});\n\n// If a callback is invoked, the path of the directory and its contents are removed.\nmktmpdir(function(err, dir, done) {\n  if (err) throw err;\n  fs.open(dir + '/foo', 'w', function(err, fd) {\n    done(err);\n  });\n}, function(err) {\n  // the directory has been removed.\n});\n\n// If a callback is not invoked, `mktmpdir` doesn't remove the directory.\nmktmpdir(function(err, dir) {\n  if (err) throw err;\n  fs.open(dir + '/foo', 'w', function(err, fd) {\n    // remove the directory.\n    exec('rm -rf ' + dir);\n  });\n});\n```\n\n## License\nMIT\n"
+}

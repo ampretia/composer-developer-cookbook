@@ -1,0 +1,153 @@
+{
+	"name": "connect-flash",
+	"versions": {
+		"0.1.0": {
+			"name": "connect-flash",
+			"version": "0.1.0",
+			"description": "Flash message middleware for Connect.",
+			"author": {
+				"name": "Jared Hanson",
+				"email": "jaredhanson@gmail.com",
+				"url": "http://www.jaredhanson.net/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jaredhanson/connect-flash.git"
+			},
+			"bugs": {
+				"url": "http://github.com/jaredhanson/connect-flash/issues"
+			},
+			"main": "./lib",
+			"dependencies": {},
+			"devDependencies": {
+				"vows": "0.6.x"
+			},
+			"scripts": {
+				"test": "NODE_PATH=lib node_modules/.bin/vows test/*-test.js"
+			},
+			"engines": {
+				"node": ">= 0.4.0"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://www.opensource.org/licenses/MIT"
+				}
+			],
+			"keywords": [
+				"connect",
+				"express",
+				"flash",
+				"messages"
+			],
+			"_npmUser": {
+				"name": "jaredhanson",
+				"email": "jaredhanson@gmail.com"
+			},
+			"_id": "connect-flash@0.1.0",
+			"optionalDependencies": {},
+			"_engineSupported": true,
+			"_npmVersion": "1.1.1",
+			"_nodeVersion": "v0.6.11",
+			"_defaultsLoaded": true,
+			"dist": {
+				"shasum": "82b381d61a12b651437df1c259c1f1c841239b88",
+				"tarball": "https://registry.npmjs.org/connect-flash/-/connect-flash-0.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "jaredhanson",
+					"email": "jaredhanson@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.1.1": {
+			"name": "connect-flash",
+			"version": "0.1.1",
+			"description": "Flash message middleware for Connect.",
+			"keywords": [
+				"connect",
+				"express",
+				"flash",
+				"messages"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jaredhanson/connect-flash.git"
+			},
+			"bugs": {
+				"url": "http://github.com/jaredhanson/connect-flash/issues"
+			},
+			"author": {
+				"name": "Jared Hanson",
+				"email": "jaredhanson@gmail.com",
+				"url": "http://www.jaredhanson.net/"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://www.opensource.org/licenses/MIT"
+				}
+			],
+			"main": "./lib",
+			"dependencies": {},
+			"devDependencies": {
+				"vows": "0.6.x"
+			},
+			"scripts": {
+				"test": "NODE_PATH=lib node_modules/.bin/vows test/*-test.js"
+			},
+			"engines": {
+				"node": ">= 0.4.0"
+			},
+			"_id": "connect-flash@0.1.1",
+			"dist": {
+				"shasum": "d8630f26d95a7f851f9956b1e8cc6732f3b6aa30",
+				"tarball": "https://registry.npmjs.org/connect-flash/-/connect-flash-0.1.1.tgz"
+			},
+			"_npmVersion": "1.1.62",
+			"_npmUser": {
+				"name": "jaredhanson",
+				"email": "jaredhanson@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "jaredhanson",
+					"email": "jaredhanson@gmail.com"
+				}
+			],
+			"directories": {}
+		}
+	},
+	"dist-tags": {
+		"latest": "0.1.1"
+	},
+	"time": {
+		"modified": "2018-02-22T06:41:45.176Z",
+		"created": "2012-03-17T02:35:09.966Z",
+		"0.1.0": "2012-03-17T02:35:12.103Z",
+		"0.1.1": "2013-05-13T01:23:20.523Z"
+	},
+	"_distfiles": {
+		"connect-flash-0.1.0.tgz": {
+			"url": "https://registry.npmjs.org/connect-flash/-/connect-flash-0.1.0.tgz",
+			"sha": "82b381d61a12b651437df1c259c1f1c841239b88",
+			"registry": "npmjs"
+		},
+		"connect-flash-0.1.1.tgz": {
+			"url": "https://registry.npmjs.org/connect-flash/-/connect-flash-0.1.1.tgz",
+			"sha": "d8630f26d95a7f851f9956b1e8cc6732f3b6aa30",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "\"5a8e6629-1a46\"",
+			"fetched": 1519837507580
+		}
+	},
+	"_rev": "1-51a4631052f8d433",
+	"readme": "# connect-flash\n\nThe flash is a special area of the session used for storing messages.  Messages\nare written to the flash and cleared after being displayed to the user.  The\nflash is typically used in combination with redirects, ensuring that the message\nis available to the next page that is to be rendered.\n\nThis middleware was extracted from [Express](http://expressjs.com/) 2.x, after\nExpress 3.x removed direct support for the flash.  connect-flash brings this\nfunctionality back to Express 3.x, as well as any other middleware-compatible\nframework or application. +1 for [radical reusability](http://substack.net/posts/b96642/the-node-js-aesthetic).\n\n## Install\n\n    $ npm install connect-flash\n\n## Usage\n\n#### Express 3.x\n\nFlash messages are stored in the session.  First, setup sessions as usual by\nenabling `cookieParser` and `session` middleware.  Then, use `flash` middleware\nprovided by connect-flash.\n\n```javascript\nvar flash = require('connect-flash');\nvar app = express();\n\napp.configure(function() {\n  app.use(express.cookieParser('keyboard cat'));\n  app.use(express.session({ cookie: { maxAge: 60000 }}));\n  app.use(flash());\n});\n```\n\nWith the `flash` middleware in place, all requests will have a `req.flash()` function\nthat can be used for flash messages.\n\n```javascript\napp.get('/flash', function(req, res){\n  // Set a flash message by passing the key, followed by the value, to req.flash().\n  req.flash('info', 'Flash is back!')\n  res.redirect('/');\n});\n\napp.get('/', function(req, res){\n  // Get an array of flash messages by passing the key to req.flash()\n  res.render('index', { messages: req.flash('info') });\n});\n```\n\n## Examples\n\nFor an example using connect-flash in an Express 3.x app, refer to the [express3](https://github.com/jaredhanson/connect-flash/tree/master/examples/express3)\nexample.\n\n## Tests\n\n    $ npm install --dev\n    $ make test\n\n[![Build Status](https://secure.travis-ci.org/jaredhanson/connect-flash.png)](http://travis-ci.org/jaredhanson/connect-flash)\n\n## Credits\n\n  - [Jared Hanson](http://github.com/jaredhanson)\n  - [TJ Holowaychuk](https://github.com/visionmedia)\n\n## License\n\n[The MIT License](http://opensource.org/licenses/MIT)\n\nCopyright (c) 2012-2013 Jared Hanson <[http://jaredhanson.net/](http://jaredhanson.net/)>\n"
+}

@@ -1,0 +1,2437 @@
+{
+	"name": "loopback-component-passport",
+	"versions": {
+		"1.0.3": {
+			"name": "loopback-component-passport",
+			"description": "LoopBack passport integration to support third party logins and account linking",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"social",
+				"login",
+				"security"
+			],
+			"homepage": "https://github.com/strongloop/loopback-component-passport",
+			"version": "1.0.3",
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"maintainers": [
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-passport/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-passport.git"
+			},
+			"dependencies": {
+				"passport": "~0.2.0",
+				"underscore": "^1.6.0"
+			},
+			"peerDependencies": {
+				"loopback": "2.x || 1.x >=1.8.0"
+			},
+			"devDependencies": {
+				"loopback": "1.x >=1.8.0",
+				"mocha": "~1.20.1"
+			},
+			"scripts": {
+				"test": "mocha -R spec --timeout 10000 test/*.js"
+			},
+			"main": "./lib/index.js",
+			"license": {
+				"name": "Dual Artistic-2.0/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-component-passport/blob/master/LICENSE"
+			},
+			"_id": "loopback-component-passport@1.0.3",
+			"_shasum": "3abb5bd653d9aed65a3c986e95b0ef8b058a1b92",
+			"_from": ".",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"dist": {
+				"shasum": "3abb5bd653d9aed65a3c986e95b0ef8b058a1b92",
+				"tarball": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-1.0.3.tgz"
+			},
+			"directories": {}
+		},
+		"1.0.4": {
+			"name": "loopback-component-passport",
+			"description": "LoopBack passport integration to support third party logins and account linking",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"social",
+				"login",
+				"security"
+			],
+			"homepage": "https://github.com/strongloop/loopback-component-passport",
+			"version": "1.0.4",
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"maintainers": [
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-passport/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-passport.git"
+			},
+			"dependencies": {
+				"passport": "~0.2.0",
+				"underscore": "^1.6.0"
+			},
+			"peerDependencies": {
+				"loopback": "2.x || 1.x >=1.8.0"
+			},
+			"devDependencies": {
+				"loopback": "1.x >=1.8.0",
+				"mocha": "~1.20.1"
+			},
+			"scripts": {
+				"test": "mocha -R spec --timeout 10000 test/*.js"
+			},
+			"main": "./lib/index.js",
+			"license": {
+				"name": "Dual Artistic-2.0/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-component-passport/blob/master/LICENSE"
+			},
+			"_id": "loopback-component-passport@1.0.4",
+			"_shasum": "1aadbb35da43c3096a03ab80783d2e97bb1e5ca7",
+			"_from": ".",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"dist": {
+				"shasum": "1aadbb35da43c3096a03ab80783d2e97bb1e5ca7",
+				"tarball": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-1.0.4.tgz"
+			},
+			"directories": {}
+		},
+		"1.0.5": {
+			"name": "loopback-component-passport",
+			"description": "LoopBack passport integration to support third party logins and account linking",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"social",
+				"login",
+				"security"
+			],
+			"homepage": "https://github.com/strongloop/loopback-component-passport",
+			"version": "1.0.5",
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"maintainers": [
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-passport/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-passport.git"
+			},
+			"dependencies": {
+				"passport": "~0.2.0",
+				"underscore": "^1.6.0"
+			},
+			"peerDependencies": {
+				"loopback": "2.x || 1.x >=1.8.0"
+			},
+			"devDependencies": {
+				"loopback": "1.x >=1.8.0",
+				"mocha": "~1.20.1"
+			},
+			"scripts": {
+				"test": "mocha -R spec --timeout 10000 test/*.js"
+			},
+			"main": "./lib/index.js",
+			"license": {
+				"name": "Dual Artistic-2.0/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-component-passport/blob/master/LICENSE"
+			},
+			"_id": "loopback-component-passport@1.0.5",
+			"_shasum": "3c66502e93114a969095d8b388ba7ce85abe0360",
+			"_from": ".",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"dist": {
+				"shasum": "3c66502e93114a969095d8b388ba7ce85abe0360",
+				"tarball": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-1.0.5.tgz"
+			},
+			"directories": {}
+		},
+		"1.0.6": {
+			"name": "loopback-component-passport",
+			"description": "LoopBack passport integration to support third party logins and account linking",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"social",
+				"login",
+				"security"
+			],
+			"homepage": "https://github.com/strongloop/loopback-component-passport",
+			"version": "1.0.6",
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"maintainers": [
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-passport/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-passport.git"
+			},
+			"dependencies": {
+				"passport": "~0.2.0",
+				"underscore": "^1.6.0"
+			},
+			"peerDependencies": {
+				"loopback": "2.x || 1.x >=1.8.0"
+			},
+			"devDependencies": {
+				"loopback": "1.x >=1.8.0",
+				"mocha": "~1.20.1"
+			},
+			"scripts": {
+				"test": "mocha -R spec --timeout 10000 test/*.js"
+			},
+			"main": "./lib/index.js",
+			"license": {
+				"name": "Dual Artistic-2.0/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-component-passport/blob/master/LICENSE"
+			},
+			"gitHead": "e4fedcce8f0f25117465864dfe2ba8f91cb29bf1",
+			"_id": "loopback-component-passport@1.0.6",
+			"_shasum": "66b4faaeec115ecbe80b6ccdd42c4600e5f6643e",
+			"_from": ".",
+			"_npmVersion": "1.4.21",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"dist": {
+				"shasum": "66b4faaeec115ecbe80b6ccdd42c4600e5f6643e",
+				"tarball": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-1.0.6.tgz"
+			},
+			"directories": {}
+		},
+		"1.1.0": {
+			"name": "loopback-component-passport",
+			"description": "LoopBack passport integration to support third party logins and account linking",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"social",
+				"login",
+				"security"
+			],
+			"homepage": "https://github.com/strongloop/loopback-component-passport",
+			"version": "1.1.0",
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"maintainers": [
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-passport/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-passport.git"
+			},
+			"dependencies": {
+				"passport": "~0.2.0",
+				"underscore": "^1.6.0"
+			},
+			"peerDependencies": {
+				"loopback": "2.x || 1.x >=1.8.0"
+			},
+			"devDependencies": {
+				"loopback": "1.x >=1.8.0",
+				"mocha": "~1.20.1"
+			},
+			"scripts": {
+				"test": "mocha -R spec --timeout 10000 test/*.js"
+			},
+			"main": "./lib/index.js",
+			"license": {
+				"name": "Dual Artistic-2.0/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-component-passport/blob/master/LICENSE"
+			},
+			"gitHead": "94fef8b92520b3863ff44b4131987be869ef761f",
+			"_id": "loopback-component-passport@1.1.0",
+			"_shasum": "13bf5cfcb269614075ac64794b1ff12b628ee57b",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"dist": {
+				"shasum": "13bf5cfcb269614075ac64794b1ff12b628ee57b",
+				"tarball": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-1.1.0.tgz"
+			},
+			"directories": {}
+		},
+		"1.1.1": {
+			"name": "loopback-component-passport",
+			"description": "LoopBack passport integration to support third party logins and account linking",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"social",
+				"login",
+				"security"
+			],
+			"homepage": "https://github.com/strongloop/loopback-component-passport",
+			"version": "1.1.1",
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"maintainers": [
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-passport/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-passport.git"
+			},
+			"dependencies": {
+				"passport": "~0.2.0",
+				"underscore": "^1.6.0"
+			},
+			"peerDependencies": {
+				"loopback": "2.x || 1.x >=1.8.0"
+			},
+			"devDependencies": {
+				"loopback": "1.x >=1.8.0",
+				"mocha": "~1.20.1"
+			},
+			"scripts": {
+				"test": "mocha -R spec --timeout 10000 test/*.js"
+			},
+			"main": "./lib/index.js",
+			"license": {
+				"name": "Dual Artistic-2.0/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-component-passport/blob/master/LICENSE"
+			},
+			"gitHead": "547c7b7d191a8bb289d19eb9770c05f6231a7d1f",
+			"_id": "loopback-component-passport@1.1.1",
+			"_shasum": "2d1cef9d659a7578fda0769032f7e4330696ba77",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"dist": {
+				"shasum": "2d1cef9d659a7578fda0769032f7e4330696ba77",
+				"tarball": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-1.1.1.tgz"
+			},
+			"directories": {}
+		},
+		"1.1.2": {
+			"name": "loopback-component-passport",
+			"description": "LoopBack passport integration to support third party logins and account linking",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"social",
+				"login",
+				"security"
+			],
+			"homepage": "https://github.com/strongloop/loopback-component-passport",
+			"version": "1.1.2",
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"maintainers": [
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-passport/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-passport.git"
+			},
+			"dependencies": {
+				"passport": "~0.2.0",
+				"underscore": "^1.6.0"
+			},
+			"peerDependencies": {
+				"loopback": "2.x || 1.x >=1.8.0"
+			},
+			"devDependencies": {
+				"loopback": "1.x >=1.8.0",
+				"mocha": "~1.20.1"
+			},
+			"scripts": {
+				"test": "mocha -R spec --timeout 10000 test/*.js"
+			},
+			"main": "./lib/index.js",
+			"license": {
+				"name": "Dual Artistic-2.0/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-component-passport/blob/master/LICENSE"
+			},
+			"gitHead": "4b82f64a851c7fcf46a05f1de75ca9f6cd0703cd",
+			"_id": "loopback-component-passport@1.1.2",
+			"_shasum": "84a4905b3bd1ef67360fc1960ae28b961eaecf8e",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"dist": {
+				"shasum": "84a4905b3bd1ef67360fc1960ae28b961eaecf8e",
+				"tarball": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-1.1.2.tgz"
+			},
+			"directories": {}
+		},
+		"1.2.0": {
+			"name": "loopback-component-passport",
+			"description": "LoopBack passport integration to support third party logins and account linking",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"social",
+				"login",
+				"security"
+			],
+			"homepage": "https://github.com/strongloop/loopback-component-passport",
+			"version": "1.2.0",
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"maintainers": [
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-passport/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-passport.git"
+			},
+			"dependencies": {
+				"passport": "^0.2.1",
+				"underscore": "^1.8.2"
+			},
+			"peerDependencies": {
+				"loopback": "2.x || 1.x >=1.8.0"
+			},
+			"devDependencies": {
+				"loopback": "^2.14.0",
+				"mocha": "^2.2.0"
+			},
+			"scripts": {
+				"test": "mocha -R spec --timeout 10000 test/*.js"
+			},
+			"main": "./lib/index.js",
+			"license": {
+				"name": "Dual Artistic-2.0/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-component-passport/blob/master/LICENSE"
+			},
+			"gitHead": "7b8a39425f7872db947f82e9706e2f856a6e8b63",
+			"_id": "loopback-component-passport@1.2.0",
+			"_shasum": "446fbe010a0627e7f3ff4b8caa3c39c25c718308",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"dist": {
+				"shasum": "446fbe010a0627e7f3ff4b8caa3c39c25c718308",
+				"tarball": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-1.2.0.tgz"
+			},
+			"directories": {}
+		},
+		"1.3.0": {
+			"name": "loopback-component-passport",
+			"description": "LoopBack passport integration to support third party logins and account linking",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"social",
+				"login",
+				"security"
+			],
+			"homepage": "https://github.com/strongloop/loopback-component-passport",
+			"version": "1.3.0",
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"maintainers": [
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-passport/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-passport.git"
+			},
+			"dependencies": {
+				"passport": "^0.2.1",
+				"underscore": "^1.8.2"
+			},
+			"peerDependencies": {
+				"loopback": "2.x || 1.x >=1.8.0"
+			},
+			"devDependencies": {
+				"loopback": "^2.14.0",
+				"mocha": "^2.2.0"
+			},
+			"scripts": {
+				"test": "mocha -R spec --timeout 10000 test/*.js"
+			},
+			"main": "./lib/index.js",
+			"license": {
+				"name": "Dual Artistic-2.0/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-component-passport/blob/master/LICENSE"
+			},
+			"gitHead": "01ebffb58801d24d5ad1ca725238e95e94898579",
+			"_id": "loopback-component-passport@1.3.0",
+			"_shasum": "ead183cf7d681496928778d794f84690af724f12",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"dist": {
+				"shasum": "ead183cf7d681496928778d794f84690af724f12",
+				"tarball": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-1.3.0.tgz"
+			},
+			"directories": {}
+		},
+		"1.3.1": {
+			"name": "loopback-component-passport",
+			"description": "LoopBack passport integration to support third party logins and account linking",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"social",
+				"login",
+				"security"
+			],
+			"homepage": "https://github.com/strongloop/loopback-component-passport",
+			"version": "1.3.1",
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"maintainers": [
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-passport/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-passport.git"
+			},
+			"dependencies": {
+				"passport": "^0.2.1",
+				"underscore": "^1.8.2"
+			},
+			"peerDependencies": {
+				"loopback": "2.x || 1.x >=1.8.0"
+			},
+			"devDependencies": {
+				"loopback": "^2.14.0",
+				"mocha": "^2.2.0"
+			},
+			"scripts": {
+				"test": "mocha -R spec --timeout 10000 test/*.js"
+			},
+			"main": "./lib/index.js",
+			"license": {
+				"name": "Dual Artistic-2.0/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-component-passport/blob/master/LICENSE"
+			},
+			"gitHead": "6a63832f8cf46587d5325a800886406fe4ef0af7",
+			"_id": "loopback-component-passport@1.3.1",
+			"_shasum": "016fc690452ebe495e7159773e78ab0e4a6000a6",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"dist": {
+				"shasum": "016fc690452ebe495e7159773e78ab0e4a6000a6",
+				"tarball": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-1.3.1.tgz"
+			},
+			"directories": {}
+		},
+		"1.4.0": {
+			"name": "loopback-component-passport",
+			"description": "LoopBack passport integration to support third party logins and account linking",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"social",
+				"login",
+				"security"
+			],
+			"homepage": "https://github.com/strongloop/loopback-component-passport",
+			"version": "1.4.0",
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"maintainers": [
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-passport/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-passport.git"
+			},
+			"dependencies": {
+				"passport": "^0.2.1",
+				"underscore": "^1.8.2"
+			},
+			"peerDependencies": {
+				"loopback": "2.x || 1.x >=1.8.0"
+			},
+			"devDependencies": {
+				"loopback": "^2.14.0",
+				"mocha": "^2.2.0"
+			},
+			"scripts": {
+				"test": "mocha -R spec --timeout 10000 test/*.js"
+			},
+			"main": "./lib/index.js",
+			"license": {
+				"name": "Dual Artistic-2.0/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-component-passport/blob/master/LICENSE"
+			},
+			"gitHead": "d51b13415f5554f84716c30330997ed26955dbf6",
+			"_id": "loopback-component-passport@1.4.0",
+			"_shasum": "0b7a5690c497e996dacc42ee82a729a7aa720765",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"dist": {
+				"shasum": "0b7a5690c497e996dacc42ee82a729a7aa720765",
+				"tarball": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-1.4.0.tgz"
+			},
+			"directories": {}
+		},
+		"1.5.0": {
+			"name": "loopback-component-passport",
+			"description": "LoopBack passport integration to support third party logins and account linking",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"social",
+				"login",
+				"security"
+			],
+			"homepage": "https://github.com/strongloop/loopback-component-passport",
+			"version": "1.5.0",
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"maintainers": [
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-passport/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-passport.git"
+			},
+			"dependencies": {
+				"passport": "^0.2.1",
+				"underscore": "^1.8.2"
+			},
+			"peerDependencies": {
+				"loopback": "2.x || 1.x >=1.8.0"
+			},
+			"devDependencies": {
+				"loopback": "^2.14.0",
+				"mocha": "^2.2.0"
+			},
+			"scripts": {
+				"test": "mocha -R spec --timeout 10000 test/*.js"
+			},
+			"main": "./lib/index.js",
+			"license": {
+				"name": "Dual Artistic-2.0/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-component-passport/blob/master/LICENSE"
+			},
+			"gitHead": "a36199ce2b211ebb56e39d5a8a8b0443d1c29300",
+			"_id": "loopback-component-passport@1.5.0",
+			"_shasum": "b7a2dc1882ae592fc32cddbbf5ac3bb6c03ebb0e",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"dist": {
+				"shasum": "b7a2dc1882ae592fc32cddbbf5ac3bb6c03ebb0e",
+				"tarball": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-1.5.0.tgz"
+			},
+			"directories": {}
+		},
+		"1.6.0": {
+			"name": "loopback-component-passport",
+			"description": "LoopBack passport integration to support third party logins and account linking",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"social",
+				"login",
+				"security"
+			],
+			"homepage": "https://github.com/strongloop/loopback-component-passport",
+			"version": "1.6.0",
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"maintainers": [
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-passport/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-passport.git"
+			},
+			"dependencies": {
+				"passport": "^0.2.1",
+				"underscore": "^1.8.2"
+			},
+			"peerDependencies": {
+				"loopback": "2.x || 1.x >=1.8.0"
+			},
+			"devDependencies": {
+				"loopback": "^2.14.0",
+				"mocha": "^2.2.0"
+			},
+			"scripts": {
+				"test": "mocha -R spec --timeout 10000 test/*.js"
+			},
+			"main": "./lib/index.js",
+			"license": "Artistic-2.0",
+			"gitHead": "aa0ccab8040ea91ea48d03c93c8dbdd6dd5aa258",
+			"_id": "loopback-component-passport@1.6.0",
+			"_shasum": "57adc8919fb91784f602ed5891f7121dd25cc42f",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"dist": {
+				"shasum": "57adc8919fb91784f602ed5891f7121dd25cc42f",
+				"tarball": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-1.6.0.tgz"
+			},
+			"directories": {}
+		},
+		"2.0.0": {
+			"name": "loopback-component-passport",
+			"description": "LoopBack passport integration to support third party logins and account linking",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"social",
+				"login",
+				"security"
+			],
+			"homepage": "https://github.com/strongloop/loopback-component-passport",
+			"version": "2.0.0",
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"maintainers": [
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "loay",
+					"email": "gewily@ca.ibm.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-passport/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-passport.git"
+			},
+			"dependencies": {
+				"passport": "^0.2.1",
+				"underscore": "^1.8.2"
+			},
+			"peerDependencies": {
+				"loopback": "2.x || 1.x >=1.8.0"
+			},
+			"devDependencies": {
+				"loopback": "^2.14.0",
+				"mocha": "^2.2.0"
+			},
+			"scripts": {
+				"test": "mocha -R spec --timeout 10000 test/*.js"
+			},
+			"main": "./lib/index.js",
+			"license": "Artistic-2.0",
+			"gitHead": "da3079722a70cf1ad260f6589224c238457d8732",
+			"_id": "loopback-component-passport@2.0.0",
+			"_shasum": "3afd81b3258680b734161f284a6ae77e8925a929",
+			"_from": ".",
+			"_npmVersion": "2.14.14",
+			"_nodeVersion": "4.2.3",
+			"_npmUser": {
+				"name": "strongloop",
+				"email": "callback@strongloop.com"
+			},
+			"dist": {
+				"shasum": "3afd81b3258680b734161f284a6ae77e8925a929",
+				"tarball": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-2.0.0.tgz"
+			},
+			"directories": {}
+		},
+		"2.1.0": {
+			"name": "loopback-component-passport",
+			"description": "LoopBack passport integration to support third party logins and account linking",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"social",
+				"login",
+				"security"
+			],
+			"homepage": "https://github.com/strongloop/loopback-component-passport",
+			"version": "2.1.0",
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"maintainers": [
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@strongloop.com"
+				},
+				{
+					"name": "loay",
+					"email": "gewily@ca.ibm.com"
+				},
+				{
+					"name": "octet",
+					"email": "sam@strongloop.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-passport/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-passport.git"
+			},
+			"dependencies": {
+				"passport": "^0.3.2",
+				"underscore": "^1.8.2"
+			},
+			"devDependencies": {
+				"loopback": "^2.14.0",
+				"mocha": "^2.2.0"
+			},
+			"scripts": {
+				"test": "mocha -R spec --timeout 10000 test/*.js"
+			},
+			"main": "./lib/index.js",
+			"license": "Artistic-2.0",
+			"gitHead": "e38446687312992b8e16aa7cb115bb974230bad6",
+			"_id": "loopback-component-passport@2.1.0",
+			"_shasum": "3dd7ac40c95b3ce76f932cd1a8598418621114f8",
+			"_from": ".",
+			"_npmVersion": "3.8.0",
+			"_nodeVersion": "5.7.1",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"dist": {
+				"shasum": "3dd7ac40c95b3ce76f932cd1a8598418621114f8",
+				"tarball": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-2.1.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-13-west.internal.npmjs.com",
+				"tmp": "tmp/loopback-component-passport-2.1.0.tgz_1458316693907_0.7083314401097596"
+			},
+			"directories": {}
+		},
+		"2.2.0": {
+			"name": "loopback-component-passport",
+			"description": "LoopBack passport integration to support third party logins and account linking",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"social",
+				"login",
+				"security"
+			],
+			"homepage": "https://github.com/strongloop/loopback-component-passport",
+			"version": "2.2.0",
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"maintainers": [
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "loay",
+					"email": "gewily@ca.ibm.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-passport/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-passport.git"
+			},
+			"dependencies": {
+				"passport": "^0.3.2",
+				"strong-globalize": "^2.6.2",
+				"underscore": "^1.8.3"
+			},
+			"devDependencies": {
+				"eslint": "^2.5.3",
+				"eslint-config-loopback": "^4.0.0",
+				"loopback": "^2.29.1",
+				"mocha": "^3.0.1",
+				"mock-require": "^1.3.0",
+				"sinon": "^1.17.5",
+				"supertest": "^2.0.0"
+			},
+			"scripts": {
+				"lint": "eslint .",
+				"test": "mocha -R spec --timeout 10000 test/*.js",
+				"posttest": "npm run lint"
+			},
+			"main": "./lib/index.js",
+			"license": "Artistic-2.0",
+			"gitHead": "6687e28550c3717619b705d0d7645cd73a44359c",
+			"_id": "loopback-component-passport@2.2.0",
+			"_shasum": "2fe5e1e9101eeefb7a5eb35f7372235e07322dc8",
+			"_from": ".",
+			"_npmVersion": "2.15.9",
+			"_nodeVersion": "4.5.0",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "mbajtoss@gmail.com"
+			},
+			"dist": {
+				"shasum": "2fe5e1e9101eeefb7a5eb35f7372235e07322dc8",
+				"tarball": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-2.2.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/loopback-component-passport-2.2.0.tgz_1473410870817_0.5937058627605438"
+			},
+			"directories": {}
+		},
+		"2.3.0": {
+			"name": "loopback-component-passport",
+			"description": "LoopBack passport integration to support third party logins and account linking",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"social",
+				"login",
+				"security"
+			],
+			"homepage": "https://github.com/strongloop/loopback-component-passport",
+			"version": "2.3.0",
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"maintainers": [
+				{
+					"name": "0candy",
+					"email": "ngcandy@ca.ibm.com"
+				},
+				{
+					"name": "amir-61",
+					"email": "amirali.jfr61@gmail.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "loay",
+					"email": "gewily@ca.ibm.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "qpresley",
+					"email": "qpresley@ca.ibm.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "richardpringle",
+					"email": "rpring9@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				},
+				{
+					"name": "tonyf-ibm",
+					"email": "tffrench@us.ibm.com"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-passport/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-passport.git"
+			},
+			"dependencies": {
+				"passport": "^0.3.2",
+				"strong-globalize": "^2.6.2",
+				"underscore": "^1.8.3"
+			},
+			"devDependencies": {
+				"eslint": "^2.13.1",
+				"eslint-config-loopback": "^4.0.0",
+				"loopback": "^3.0.0",
+				"mocha": "^3.0.1",
+				"mock-require": "^1.3.0",
+				"sinon": "^1.17.5",
+				"supertest": "^2.0.0"
+			},
+			"scripts": {
+				"lint": "eslint .",
+				"test": "mocha -R spec --timeout 10000 test/*.js",
+				"posttest": "npm run lint"
+			},
+			"main": "./lib/index.js",
+			"license": "Artistic-2.0",
+			"gitHead": "717e215535e1b7fee1d151aaabc260b6b8507927",
+			"_id": "loopback-component-passport@2.3.0",
+			"_shasum": "37dc1e42554f4b640264e8ca1f708f25c3eeab64",
+			"_from": ".",
+			"_npmVersion": "2.15.1",
+			"_nodeVersion": "4.4.3",
+			"_npmUser": {
+				"name": "0candy",
+				"email": "ngcandy@ca.ibm.com"
+			},
+			"dist": {
+				"shasum": "37dc1e42554f4b640264e8ca1f708f25c3eeab64",
+				"tarball": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-2.3.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/loopback-component-passport-2.3.0.tgz_1476474709009_0.10142400185577571"
+			},
+			"directories": {}
+		},
+		"3.0.0": {
+			"name": "loopback-component-passport",
+			"description": "LoopBack passport integration to support third party logins and account linking",
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"social",
+				"login",
+				"security"
+			],
+			"homepage": "https://github.com/strongloop/loopback-component-passport",
+			"version": "3.0.0",
+			"maintainers": [
+				{
+					"name": "0candy",
+					"email": "ngcandy@ca.ibm.com"
+				},
+				{
+					"name": "amir-61",
+					"email": "amirali.jfr61@gmail.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "davidcheung",
+					"email": "davidcheung@live.ca"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "jannyhou2016",
+					"email": "juehou@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "loay",
+					"email": "gewily@ca.ibm.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "qpresley",
+					"email": "qpresley@ca.ibm.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				},
+				{
+					"name": "thegman",
+					"email": "gpandya@live.com"
+				},
+				{
+					"name": "tonyf-ibm",
+					"email": "tffrench@us.ibm.com"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-passport/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-passport.git"
+			},
+			"dependencies": {
+				"passport": "^0.3.2",
+				"strong-globalize": "^2.6.2",
+				"underscore": "^1.8.3"
+			},
+			"devDependencies": {
+				"eslint": "^2.13.1",
+				"eslint-config-loopback": "^4.0.0",
+				"loopback": "^3.0.0",
+				"mocha": "^3.0.1",
+				"mock-require": "^1.3.0",
+				"sinon": "^1.17.5",
+				"supertest": "^2.0.0"
+			},
+			"scripts": {
+				"lint": "eslint .",
+				"test": "mocha -R spec --timeout 10000 test/*.js",
+				"posttest": "npm run lint"
+			},
+			"main": "./lib/index.js",
+			"license": "Artistic-2.0",
+			"gitHead": "1d662c7ea8e68c1201bd1b5e7a7c821cc4f136ac",
+			"_id": "loopback-component-passport@3.0.0",
+			"_shasum": "08c0302e486b313a04e558738d65e39c9f46f7ae",
+			"_from": ".",
+			"_npmVersion": "3.10.8",
+			"_nodeVersion": "6.9.1",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "mbajtoss@gmail.com"
+			},
+			"dist": {
+				"shasum": "08c0302e486b313a04e558738d65e39c9f46f7ae",
+				"tarball": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-3.0.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/loopback-component-passport-3.0.0.tgz_1482320442487_0.9773712647147477"
+			},
+			"directories": {}
+		},
+		"3.1.0": {
+			"name": "loopback-component-passport",
+			"description": "LoopBack passport integration to support third party logins and account linking",
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"social",
+				"login",
+				"security"
+			],
+			"homepage": "https://github.com/strongloop/loopback-component-passport",
+			"version": "3.1.0",
+			"maintainers": [
+				{
+					"name": "0candy",
+					"email": "ngcandy@ca.ibm.com"
+				},
+				{
+					"name": "amir-61",
+					"email": "amirali.jfr61@gmail.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "davidcheung",
+					"email": "davidcheung@live.ca"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "jannyhou2016",
+					"email": "juehou@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "loay",
+					"email": "gewily@ca.ibm.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "qpresley",
+					"email": "qpresley@ca.ibm.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				},
+				{
+					"name": "thegman",
+					"email": "gpandya@live.com"
+				},
+				{
+					"name": "tonyf-ibm",
+					"email": "tffrench@us.ibm.com"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-passport/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-passport.git"
+			},
+			"dependencies": {
+				"passport": "^0.3.2",
+				"strong-globalize": "^2.6.2",
+				"underscore": "^1.8.3"
+			},
+			"devDependencies": {
+				"eslint": "^2.13.1",
+				"eslint-config-loopback": "^4.0.0",
+				"loopback": "^3.0.0",
+				"mocha": "^3.0.1",
+				"mock-require": "^1.3.0",
+				"sinon": "^1.17.5",
+				"supertest": "^2.0.0"
+			},
+			"scripts": {
+				"lint": "eslint .",
+				"test": "mocha -R spec --timeout 10000 test/*.js",
+				"posttest": "npm run lint"
+			},
+			"main": "./lib/index.js",
+			"license": "Artistic-2.0",
+			"gitHead": "2d8143170c655fd51a5d4db8d4d992365f82083b",
+			"_id": "loopback-component-passport@3.1.0",
+			"_shasum": "f96258158c3bab610c4e76db351e4d29a4869b5b",
+			"_from": ".",
+			"_npmVersion": "3.10.10",
+			"_nodeVersion": "6.9.4",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"dist": {
+				"shasum": "f96258158c3bab610c4e76db351e4d29a4869b5b",
+				"tarball": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-3.1.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/loopback-component-passport-3.1.0.tgz_1484690229051_0.1633566808886826"
+			},
+			"directories": {}
+		},
+		"3.2.0": {
+			"name": "loopback-component-passport",
+			"description": "LoopBack passport integration to support third party logins and account linking",
+			"engines": {
+				"node": ">=4"
+			},
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"social",
+				"login",
+				"security"
+			],
+			"homepage": "https://github.com/strongloop/loopback-component-passport",
+			"version": "3.2.0",
+			"maintainers": [
+				{
+					"name": "0candy",
+					"email": "ngcandy@ca.ibm.com"
+				},
+				{
+					"name": "amir-61",
+					"email": "amirali.jfr61@gmail.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "davidcheung",
+					"email": "davidcheung@live.ca"
+				},
+				{
+					"name": "hacksparrow",
+					"email": "captain@hacksparrow.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "jannyhou2016",
+					"email": "juehou@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "loay",
+					"email": "gewily@ca.ibm.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "qpresley",
+					"email": "qpresley@ca.ibm.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				},
+				{
+					"name": "thegman",
+					"email": "gpandya@live.com"
+				},
+				{
+					"name": "tonyf-ibm",
+					"email": "tffrench@us.ibm.com"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-passport/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-passport.git"
+			},
+			"dependencies": {
+				"passport": "^0.3.2",
+				"strong-globalize": "^2.6.2",
+				"underscore": "^1.8.3"
+			},
+			"devDependencies": {
+				"eslint": "^2.13.1",
+				"eslint-config-loopback": "^4.0.0",
+				"loopback": "^3.0.0",
+				"mocha": "^3.0.1",
+				"mock-require": "^1.3.0",
+				"sinon": "^1.17.5",
+				"supertest": "^2.0.0"
+			},
+			"scripts": {
+				"lint": "eslint .",
+				"test": "mocha -R spec --timeout 10000 test/*.js",
+				"posttest": "npm run lint"
+			},
+			"main": "./lib/index.js",
+			"license": "Artistic-2.0",
+			"gitHead": "f604e1ebdc819d34dc5f496275ad912eedafa22c",
+			"_id": "loopback-component-passport@3.2.0",
+			"_shasum": "76cf113093dcdb20936aea857e3e30e77add6f9b",
+			"_from": ".",
+			"_npmVersion": "3.10.10",
+			"_nodeVersion": "6.9.5",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "mbajtoss@gmail.com"
+			},
+			"dist": {
+				"shasum": "76cf113093dcdb20936aea857e3e30e77add6f9b",
+				"tarball": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-3.2.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/loopback-component-passport-3.2.0.tgz_1486025801228_0.9793277801945806"
+			},
+			"directories": {}
+		},
+		"3.3.0": {
+			"name": "loopback-component-passport",
+			"description": "LoopBack passport integration to support third party logins and account linking",
+			"engines": {
+				"node": ">=4"
+			},
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"social",
+				"login",
+				"security"
+			],
+			"homepage": "https://github.com/strongloop/loopback-component-passport",
+			"version": "3.3.0",
+			"maintainers": [
+				{
+					"name": "0candy",
+					"email": "ngcandy@ca.ibm.com"
+				},
+				{
+					"name": "amir-61",
+					"email": "amirali.jfr61@gmail.com"
+				},
+				{
+					"name": "b-admike",
+					"email": "binadmt@hotmail.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "davidcheung",
+					"email": "davidcheung@live.ca"
+				},
+				{
+					"name": "hacksparrow",
+					"email": "captain@hacksparrow.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "jannyhou2016",
+					"email": "juehou@ca.ibm.com"
+				},
+				{
+					"name": "kjdelisle",
+					"email": "kjdelisle@gmail.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "loay",
+					"email": "gewily@ca.ibm.com"
+				},
+				{
+					"name": "loopback-admin",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "qpresley",
+					"email": "qpresley@ca.ibm.com"
+				},
+				{
+					"name": "rashmihunt",
+					"email": "rashmihunt@gmail.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				},
+				{
+					"name": "thegman",
+					"email": "gpandya@live.com"
+				},
+				{
+					"name": "tonyf-ibm",
+					"email": "tffrench@us.ibm.com"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-passport/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-passport.git"
+			},
+			"dependencies": {
+				"passport": "^0.3.2",
+				"strong-globalize": "^2.6.2",
+				"underscore": "^1.8.3"
+			},
+			"devDependencies": {
+				"eslint": "^2.13.1",
+				"eslint-config-loopback": "^4.0.0",
+				"loopback": "^3.0.0",
+				"mocha": "^3.0.1",
+				"mock-require": "^1.3.0",
+				"sinon": "^1.17.5",
+				"supertest": "^2.0.0"
+			},
+			"scripts": {
+				"lint": "eslint .",
+				"test": "mocha -R spec --timeout 10000 test/*.js",
+				"posttest": "npm run lint"
+			},
+			"main": "./lib/index.js",
+			"license": "Artistic-2.0",
+			"gitHead": "6752407842bed018c52159928c2408efdfb8851a",
+			"_id": "loopback-component-passport@3.3.0",
+			"_shasum": "1d44aff4d43fb35de835b2062b057fa0acf70052",
+			"_from": ".",
+			"_npmVersion": "4.2.0",
+			"_nodeVersion": "6.10.0",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"dist": {
+				"shasum": "1d44aff4d43fb35de835b2062b057fa0acf70052",
+				"tarball": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-3.3.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/loopback-component-passport-3.3.0.tgz_1493186170922_0.6426911305170506"
+			},
+			"directories": {}
+		},
+		"3.4.0": {
+			"name": "loopback-component-passport",
+			"description": "LoopBack passport integration to support third party logins and account linking",
+			"engines": {
+				"node": ">=4"
+			},
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"social",
+				"login",
+				"security"
+			],
+			"homepage": "https://github.com/strongloop/loopback-component-passport",
+			"version": "3.4.0",
+			"maintainers": [
+				{
+					"email": "gewily@ca.ibm.com",
+					"name": "loay"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "rfeng"
+				},
+				{
+					"email": "skawful@gmail.com",
+					"name": "ritch"
+				},
+				{
+					"email": "strngops@us.ibm.com",
+					"name": "strongloop"
+				},
+				{
+					"email": "mbajtoss@gmail.com",
+					"name": "bajtos"
+				},
+				{
+					"email": "kjdelisle@gmail.com",
+					"name": "kjdelisle"
+				},
+				{
+					"email": "tffrench@us.ibm.com",
+					"name": "tonyf-ibm"
+				},
+				{
+					"email": "gpandya@live.com",
+					"name": "thegman"
+				},
+				{
+					"email": "qpresley@ca.ibm.com",
+					"name": "qpresley"
+				},
+				{
+					"email": "juehou@ca.ibm.com",
+					"name": "jannyhou2016"
+				},
+				{
+					"email": "captain@hacksparrow.com",
+					"name": "hacksparrow"
+				},
+				{
+					"email": "davidcheung@live.ca",
+					"name": "davidcheung"
+				},
+				{
+					"email": "binadmt@hotmail.com",
+					"name": "b-admike"
+				},
+				{
+					"email": "amirali.jfr61@gmail.com",
+					"name": "amir-61"
+				},
+				{
+					"email": "ngcandy@ca.ibm.com",
+					"name": "0candy"
+				},
+				{
+					"email": "superkhau@gmail.com",
+					"name": "superkhau"
+				},
+				{
+					"email": "setogit@gmail.com",
+					"name": "setogit"
+				},
+				{
+					"email": "rmg@ca.ibm.com",
+					"name": "ibmcloud-admin"
+				},
+				{
+					"email": "kraman@gmail.com",
+					"name": "kraman"
+				},
+				{
+					"email": "r.m.graham@gmail.com",
+					"name": "rmg"
+				},
+				{
+					"email": "vieuxtech@gmail.com",
+					"name": "octet"
+				},
+				{
+					"email": "rashmihunt@gmail.com",
+					"name": "rashmihunt"
+				},
+				{
+					"email": "mahesh.patsute@ibm.com",
+					"name": "mahesh.patsute"
+				},
+				{
+					"email": "dianahmlau@gmail.com",
+					"name": "dhmlau"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "loopback-admin"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-passport/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-passport.git"
+			},
+			"dependencies": {
+				"passport": "^0.3.2",
+				"strong-globalize": "^2.6.2",
+				"underscore": "^1.8.3"
+			},
+			"devDependencies": {
+				"eslint": "^2.13.1",
+				"eslint-config-loopback": "^4.0.0",
+				"loopback": "^3.0.0",
+				"mocha": "^3.0.1",
+				"mock-require": "^1.3.0",
+				"sinon": "^1.17.5",
+				"supertest": "^2.0.0"
+			},
+			"scripts": {
+				"lint": "eslint .",
+				"test": "mocha -R spec --timeout 10000 test/*.js",
+				"posttest": "npm run lint"
+			},
+			"main": "./lib/index.js",
+			"license": "Artistic-2.0",
+			"gitHead": "0a554de8342feecb6f5262ac733dddb8e6c4735a",
+			"_id": "loopback-component-passport@3.4.0",
+			"_npmVersion": "5.0.3",
+			"_nodeVersion": "8.1.3",
+			"_npmUser": {
+				"name": "superkhau",
+				"email": "superkhau@gmail.com"
+			},
+			"dist": {
+				"integrity": "sha512-YO1wyOKqNldMMqEd9fTFSNiPnn8wUPCwoir/pJKCMPFuJG8XHH8L1OBtS3WnnQ9zlV+ITRskQH6pMYovct78hg==",
+				"shasum": "8e2875faf3d79c99e8a1ed397ff31f53973b8627",
+				"tarball": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-3.4.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/loopback-component-passport-3.4.0.tgz_1499191488667_0.7483814840670675"
+			},
+			"directories": {}
+		},
+		"3.4.1": {
+			"name": "loopback-component-passport",
+			"description": "LoopBack passport integration to support third party logins and account linking",
+			"engines": {
+				"node": ">=4"
+			},
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"social",
+				"login",
+				"security"
+			],
+			"homepage": "https://github.com/strongloop/loopback-component-passport",
+			"version": "3.4.1",
+			"maintainers": [
+				{
+					"email": "gewily@ca.ibm.com",
+					"name": "loay"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "rfeng"
+				},
+				{
+					"email": "skawful@gmail.com",
+					"name": "ritch"
+				},
+				{
+					"email": "strngops@us.ibm.com",
+					"name": "strongloop"
+				},
+				{
+					"email": "mbajtoss@gmail.com",
+					"name": "bajtos"
+				},
+				{
+					"email": "kjdelisle@gmail.com",
+					"name": "kjdelisle"
+				},
+				{
+					"email": "tffrench@us.ibm.com",
+					"name": "tonyf-ibm"
+				},
+				{
+					"email": "gpandya@live.com",
+					"name": "thegman"
+				},
+				{
+					"email": "qpresley@ca.ibm.com",
+					"name": "qpresley"
+				},
+				{
+					"email": "juehou@ca.ibm.com",
+					"name": "jannyhou2016"
+				},
+				{
+					"email": "captain@hacksparrow.com",
+					"name": "hacksparrow"
+				},
+				{
+					"email": "davidcheung@live.ca",
+					"name": "davidcheung"
+				},
+				{
+					"email": "binadmt@hotmail.com",
+					"name": "b-admike"
+				},
+				{
+					"email": "amirali.jfr61@gmail.com",
+					"name": "amir-61"
+				},
+				{
+					"email": "ngcandy@ca.ibm.com",
+					"name": "0candy"
+				},
+				{
+					"email": "superkhau@gmail.com",
+					"name": "superkhau"
+				},
+				{
+					"email": "setogit@gmail.com",
+					"name": "setogit"
+				},
+				{
+					"email": "rmg@ca.ibm.com",
+					"name": "ibmcloud-admin"
+				},
+				{
+					"email": "kraman@gmail.com",
+					"name": "kraman"
+				},
+				{
+					"email": "r.m.graham@gmail.com",
+					"name": "rmg"
+				},
+				{
+					"email": "vieuxtech@gmail.com",
+					"name": "octet"
+				},
+				{
+					"email": "rashmihunt@gmail.com",
+					"name": "rashmihunt"
+				},
+				{
+					"email": "mahesh.patsute@ibm.com",
+					"name": "mahesh.patsute"
+				},
+				{
+					"email": "dianahmlau@gmail.com",
+					"name": "dhmlau"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "loopback-admin"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-passport/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-passport.git"
+			},
+			"dependencies": {
+				"passport": "^0.3.2",
+				"strong-globalize": "^2.6.2",
+				"underscore": "^1.8.3"
+			},
+			"devDependencies": {
+				"eslint": "^2.13.1",
+				"eslint-config-loopback": "^4.0.0",
+				"loopback": "^3.0.0",
+				"mocha": "^3.0.1",
+				"mock-require": "^1.3.0",
+				"sinon": "^1.17.5",
+				"supertest": "^2.0.0"
+			},
+			"scripts": {
+				"lint": "eslint .",
+				"test": "mocha -R spec --timeout 10000 test/*.js",
+				"posttest": "npm run lint"
+			},
+			"main": "./lib/index.js",
+			"license": "Artistic-2.0",
+			"gitHead": "d79a8d893ebca857ec2785d085dd6e4a085c2a2c",
+			"_id": "loopback-component-passport@3.4.1",
+			"_shasum": "2c7c81ea23c72e4379e8114b992d7abf901fd885",
+			"_from": ".",
+			"_npmVersion": "3.10.10",
+			"_nodeVersion": "6.11.2",
+			"_npmUser": {
+				"name": "kjdelisle",
+				"email": "kjdelisle@gmail.com"
+			},
+			"dist": {
+				"shasum": "2c7c81ea23c72e4379e8114b992d7abf901fd885",
+				"tarball": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-3.4.1.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/loopback-component-passport-3.4.1.tgz_1503338817638_0.06580147240310907"
+			},
+			"directories": {}
+		}
+	},
+	"dist-tags": {
+		"latest": "3.4.1"
+	},
+	"time": {
+		"modified": "2018-02-16T17:46:17.552Z",
+		"created": "2014-07-01T17:58:12.057Z",
+		"1.0.3": "2014-07-01T17:58:12.057Z",
+		"1.0.4": "2014-07-02T16:05:29.613Z",
+		"1.0.5": "2014-07-31T15:51:37.691Z",
+		"1.0.6": "2014-08-27T04:57:49.890Z",
+		"1.1.0": "2014-11-21T20:51:47.350Z",
+		"1.1.1": "2015-01-09T22:12:35.650Z",
+		"1.1.2": "2015-01-14T06:21:24.092Z",
+		"1.2.0": "2015-03-09T04:53:48.140Z",
+		"1.3.0": "2015-04-22T15:57:39.315Z",
+		"1.3.1": "2015-06-02T21:16:36.395Z",
+		"1.4.0": "2015-06-17T19:36:27.212Z",
+		"1.5.0": "2015-06-24T18:06:43.133Z",
+		"1.6.0": "2015-11-04T22:33:24.170Z",
+		"2.0.0": "2016-01-11T23:35:48.571Z",
+		"2.1.0": "2016-03-18T15:58:14.344Z",
+		"2.2.0": "2016-09-09T08:47:52.247Z",
+		"2.3.0": "2016-10-14T19:51:51.229Z",
+		"3.0.0": "2016-12-21T11:40:43.035Z",
+		"3.1.0": "2017-01-17T21:57:11.149Z",
+		"3.2.0": "2017-02-02T08:56:43.446Z",
+		"3.3.0": "2017-04-26T05:56:11.228Z",
+		"3.4.0": "2017-07-04T18:04:49.688Z",
+		"3.4.1": "2017-08-21T18:06:59.028Z"
+	},
+	"_distfiles": {
+		"loopback-component-passport-1.0.3.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-1.0.3.tgz",
+			"sha": "3abb5bd653d9aed65a3c986e95b0ef8b058a1b92",
+			"registry": "npmjs"
+		},
+		"loopback-component-passport-1.0.4.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-1.0.4.tgz",
+			"sha": "1aadbb35da43c3096a03ab80783d2e97bb1e5ca7",
+			"registry": "npmjs"
+		},
+		"loopback-component-passport-1.0.5.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-1.0.5.tgz",
+			"sha": "3c66502e93114a969095d8b388ba7ce85abe0360",
+			"registry": "npmjs"
+		},
+		"loopback-component-passport-1.0.6.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-1.0.6.tgz",
+			"sha": "66b4faaeec115ecbe80b6ccdd42c4600e5f6643e",
+			"registry": "npmjs"
+		},
+		"loopback-component-passport-1.1.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-1.1.0.tgz",
+			"sha": "13bf5cfcb269614075ac64794b1ff12b628ee57b",
+			"registry": "npmjs"
+		},
+		"loopback-component-passport-1.1.1.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-1.1.1.tgz",
+			"sha": "2d1cef9d659a7578fda0769032f7e4330696ba77",
+			"registry": "npmjs"
+		},
+		"loopback-component-passport-1.1.2.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-1.1.2.tgz",
+			"sha": "84a4905b3bd1ef67360fc1960ae28b961eaecf8e",
+			"registry": "npmjs"
+		},
+		"loopback-component-passport-1.2.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-1.2.0.tgz",
+			"sha": "446fbe010a0627e7f3ff4b8caa3c39c25c718308",
+			"registry": "npmjs"
+		},
+		"loopback-component-passport-1.3.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-1.3.0.tgz",
+			"sha": "ead183cf7d681496928778d794f84690af724f12",
+			"registry": "npmjs"
+		},
+		"loopback-component-passport-1.3.1.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-1.3.1.tgz",
+			"sha": "016fc690452ebe495e7159773e78ab0e4a6000a6",
+			"registry": "npmjs"
+		},
+		"loopback-component-passport-1.4.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-1.4.0.tgz",
+			"sha": "0b7a5690c497e996dacc42ee82a729a7aa720765",
+			"registry": "npmjs"
+		},
+		"loopback-component-passport-1.5.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-1.5.0.tgz",
+			"sha": "b7a2dc1882ae592fc32cddbbf5ac3bb6c03ebb0e",
+			"registry": "npmjs"
+		},
+		"loopback-component-passport-1.6.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-1.6.0.tgz",
+			"sha": "57adc8919fb91784f602ed5891f7121dd25cc42f",
+			"registry": "npmjs"
+		},
+		"loopback-component-passport-2.0.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-2.0.0.tgz",
+			"sha": "3afd81b3258680b734161f284a6ae77e8925a929",
+			"registry": "npmjs"
+		},
+		"loopback-component-passport-2.1.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-2.1.0.tgz",
+			"sha": "3dd7ac40c95b3ce76f932cd1a8598418621114f8",
+			"registry": "npmjs"
+		},
+		"loopback-component-passport-2.2.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-2.2.0.tgz",
+			"sha": "2fe5e1e9101eeefb7a5eb35f7372235e07322dc8",
+			"registry": "npmjs"
+		},
+		"loopback-component-passport-2.3.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-2.3.0.tgz",
+			"sha": "37dc1e42554f4b640264e8ca1f708f25c3eeab64",
+			"registry": "npmjs"
+		},
+		"loopback-component-passport-3.0.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-3.0.0.tgz",
+			"sha": "08c0302e486b313a04e558738d65e39c9f46f7ae",
+			"registry": "npmjs"
+		},
+		"loopback-component-passport-3.1.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-3.1.0.tgz",
+			"sha": "f96258158c3bab610c4e76db351e4d29a4869b5b",
+			"registry": "npmjs"
+		},
+		"loopback-component-passport-3.2.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-3.2.0.tgz",
+			"sha": "76cf113093dcdb20936aea857e3e30e77add6f9b",
+			"registry": "npmjs"
+		},
+		"loopback-component-passport-3.3.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-3.3.0.tgz",
+			"sha": "1d44aff4d43fb35de835b2062b057fa0acf70052",
+			"registry": "npmjs"
+		},
+		"loopback-component-passport-3.4.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-3.4.0.tgz",
+			"sha": "8e2875faf3d79c99e8a1ed397ff31f53973b8627",
+			"registry": "npmjs"
+		},
+		"loopback-component-passport-3.4.1.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-passport/-/loopback-component-passport-3.4.1.tgz",
+			"sha": "2c7c81ea23c72e4379e8114b992d7abf901fd885",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "\"5a8718e9-b804\"",
+			"fetched": 1519837506379
+		}
+	},
+	"_rev": "1-1a89662bf32f8269",
+	"readme": "# loopback-component-passport\n\n**NOTE: This module supersedes [loopback-passport](https://www.npmjs.org/package/loopback-passport). Please update your package.json accordingly.**\n\nThe module provides integration between [LoopBack](http://loopback.io) and\n[Passport](http://passportjs.org) to support third-party login and account\nlinking for LoopBack applications.\n\n<img src=\"./ids_and_credentials.png\" width=\"600px\" />\n\n> Please see the [official documentation](http://loopback.io/doc/en/lb2/Third-party-login-using-Passport.html) for more information.\n\n## All local accounts requires verification\n\n### All third party accounts will login with an email of `uniqueID@loopback.provider.com` example `123456@loopback.facebook.com`\n\nwhich will allow the user to link the social media accounts that they want as well as the users could sign up with the same email account that is used for facebook/twitter/google/local if they wish to keep them separate.\n\nFacebook profile information (such as email, gender, timezone, etc) may still be included if necessary. See\nhttps://github.com/strongloop/loopback-example-passport/blob/master/README.md#4-facebook-profile-info.\n\nAll user required info including the email will be available, but the main email for the account will remain `uniqueID@loopback.facebook.com`.\n"
+}

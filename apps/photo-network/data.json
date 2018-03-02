@@ -1,0 +1,20 @@
+{
+    "namespace": "ampretia.photo",
+    "registries": [
+        "Photographer"
+    ],
+    "Photographer": [
+        {
+            "$class": "ampretia.photo.Photographer",
+            "email" : "ansel@yosemite",
+            "firstName" : "Ansel",
+            "lastName" : "Adams"
+        },
+        {
+            "$class": "ampretia.photo.Photographer",
+            "email" : "fox@lacock",
+            "firstName" : "Fox",
+            "lastName" : "Talbot"
+        }
+    ]
+}

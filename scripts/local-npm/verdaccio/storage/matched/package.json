@@ -1,0 +1,1894 @@
+{
+	"name": "matched",
+	"versions": {
+		"0.1.0": {
+			"name": "matched",
+			"description": "Extends minimatch with support for multiple patterns. Similar to multimatch, but differs in crucial ways (see readme). Also similar to globule.match but slightly more compact (passes all globule.match tests).",
+			"version": "0.1.0",
+			"homepage": "https://github.com/jonschlinkert/matched",
+			"author": {
+				"name": "Jon Schlinkert",
+				"url": "https://github.com/jonschlinkert"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jonschlinkert/matched.git"
+			},
+			"bugs": {
+				"url": "https://github.com/jonschlinkert/matched/issues"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://github.com/jonschlinkert/matched/blob/master/LICENSE-MIT"
+				}
+			],
+			"main": "index.js",
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"keywords": [
+				"expand",
+				"find",
+				"glob",
+				"match",
+				"matcher",
+				"matches",
+				"matching",
+				"minimatch",
+				"multimatch",
+				"pattern",
+				"patterns",
+				"wildcard"
+			],
+			"dependencies": {
+				"lodash": "~2.4.1",
+				"minimatch": "~0.2.14"
+			},
+			"devDependencies": {
+				"chai": "~1.9.1",
+				"mocha": "~1.18.2",
+				"multimatch": "~0.1.0",
+				"globule": "~0.2.0"
+			},
+			"_id": "matched@0.1.0",
+			"dist": {
+				"shasum": "7c0bd572ce9e48198488538959b788f9f0b99715",
+				"tarball": "https://registry.npmjs.org/matched/-/matched-0.1.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.24",
+			"_npmUser": {
+				"name": "jonschlinkert",
+				"email": "github@sellside.com"
+			},
+			"maintainers": [
+				{
+					"name": "jonschlinkert",
+					"email": "github@sellside.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.1.1": {
+			"name": "matched",
+			"description": "Extends minimatch with support for multiple patterns. Similar to multimatch, but differs in crucial ways (see readme). Also similar to globule.match but slightly more compact (passes all globule.match tests).",
+			"version": "0.1.1",
+			"homepage": "https://github.com/jonschlinkert/matched",
+			"author": {
+				"name": "Jon Schlinkert",
+				"url": "https://github.com/jonschlinkert"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jonschlinkert/matched.git"
+			},
+			"bugs": {
+				"url": "https://github.com/jonschlinkert/matched/issues"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://github.com/jonschlinkert/matched/blob/master/LICENSE-MIT"
+				}
+			],
+			"main": "index.js",
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"keywords": [
+				"expand",
+				"find",
+				"glob",
+				"match",
+				"matcher",
+				"matches",
+				"matching",
+				"minimatch",
+				"multimatch",
+				"pattern",
+				"patterns",
+				"wildcard"
+			],
+			"dependencies": {
+				"lodash": "~2.4.1",
+				"minimatch": "~0.2.14"
+			},
+			"devDependencies": {
+				"chai": "~1.9.1",
+				"mocha": "~1.18.2",
+				"multimatch": "~0.1.0",
+				"globule": "~0.2.0"
+			},
+			"_id": "matched@0.1.1",
+			"dist": {
+				"shasum": "101324e38a89e12c8e1d7d6ee6f5129dc8ecdbe2",
+				"tarball": "https://registry.npmjs.org/matched/-/matched-0.1.1.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.24",
+			"_npmUser": {
+				"name": "jonschlinkert",
+				"email": "github@sellside.com"
+			},
+			"maintainers": [
+				{
+					"name": "jonschlinkert",
+					"email": "github@sellside.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.1.2": {
+			"name": "matched",
+			"description": "Extends minimatch with support for multiple patterns. Similar to multimatch, but returns expected results and passes all tests (see readme). Also similar to globule.match but more compact (and passes all globule.match tests).",
+			"version": "0.1.2",
+			"homepage": "https://github.com/jonschlinkert/matched",
+			"author": {
+				"name": "Jon Schlinkert",
+				"url": "https://github.com/jonschlinkert"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jonschlinkert/matched.git"
+			},
+			"bugs": {
+				"url": "https://github.com/jonschlinkert/matched/issues"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://github.com/jonschlinkert/matched/blob/master/LICENSE-MIT"
+				}
+			],
+			"main": "index.js",
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"keywords": [
+				"expand",
+				"find",
+				"glob",
+				"match",
+				"matcher",
+				"matches",
+				"matching",
+				"minimatch",
+				"multimatch",
+				"pattern",
+				"patterns",
+				"wildcard"
+			],
+			"dependencies": {
+				"lodash": "~2.4.1",
+				"minimatch": "~0.2.14"
+			},
+			"devDependencies": {
+				"chai": "~1.9.1",
+				"mocha": "~1.18.2",
+				"multimatch": "~0.1.0",
+				"globule": "~0.2.0"
+			},
+			"_id": "matched@0.1.2",
+			"_shasum": "85bddd5f5ba82688e25e6f570e87970a1c817321",
+			"_from": ".",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "jonschlinkert",
+				"email": "github@sellside.com"
+			},
+			"maintainers": [
+				{
+					"name": "jonschlinkert",
+					"email": "github@sellside.com"
+				}
+			],
+			"dist": {
+				"shasum": "85bddd5f5ba82688e25e6f570e87970a1c817321",
+				"tarball": "https://registry.npmjs.org/matched/-/matched-0.1.2.tgz"
+			},
+			"directories": {}
+		},
+		"0.2.0": {
+			"name": "matched",
+			"description": "Super fast globbing library.",
+			"version": "0.2.0",
+			"homepage": "https://github.com/jonschlinkert/matched",
+			"author": {
+				"name": "Jon Schlinkert",
+				"url": "https://github.com/jonschlinkert"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jonschlinkert/matched.git"
+			},
+			"bugs": {
+				"url": "https://github.com/jonschlinkert/matched/issues"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://github.com/jonschlinkert/matched/blob/master/LICENSE-MIT"
+				}
+			],
+			"main": "index.js",
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"array-flatten": "0.0.2",
+				"array-uniq": "^0.1.0",
+				"find-root": "^0.1.1",
+				"globby": "^0.1.1",
+				"lodash": "^2.4.1",
+				"normalize-path": "^0.1.0",
+				"parse-filepath": "^0.3.0",
+				"path-segments": "^0.1.1"
+			},
+			"devDependencies": {
+				"chai": "^1.9.1",
+				"mocha": "^1.20.1",
+				"verb": "^0.2.13"
+			},
+			"keywords": [
+				"array",
+				"card",
+				"directories",
+				"dirs",
+				"exclude",
+				"exclusions",
+				"expand",
+				"files",
+				"filesystem",
+				"filter",
+				"find",
+				"fnmatch",
+				"folders",
+				"fs",
+				"glob",
+				"globbing",
+				"globs",
+				"globstar",
+				"lookup",
+				"match",
+				"matcher",
+				"minimatch",
+				"multi",
+				"multiple",
+				"negate",
+				"node_modules",
+				"omissions",
+				"omit",
+				"paths",
+				"pattern",
+				"patterns",
+				"star",
+				"traverse",
+				"util",
+				"utility",
+				"wild",
+				"wildcard",
+				"wildcards"
+			],
+			"_id": "matched@0.2.0",
+			"_shasum": "f9a1291afce28741e15d443caaf0a52c2bd7da43",
+			"_from": ".",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "jonschlinkert",
+				"email": "github@sellside.com"
+			},
+			"maintainers": [
+				{
+					"name": "jonschlinkert",
+					"email": "github@sellside.com"
+				}
+			],
+			"dist": {
+				"shasum": "f9a1291afce28741e15d443caaf0a52c2bd7da43",
+				"tarball": "https://registry.npmjs.org/matched/-/matched-0.2.0.tgz"
+			},
+			"directories": {}
+		},
+		"0.2.1": {
+			"name": "matched",
+			"description": "Super fast globbing library.",
+			"version": "0.2.1",
+			"homepage": "https://github.com/jonschlinkert/matched",
+			"author": {
+				"name": "Jon Schlinkert",
+				"url": "https://github.com/jonschlinkert"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jonschlinkert/matched.git"
+			},
+			"bugs": {
+				"url": "https://github.com/jonschlinkert/matched/issues"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://github.com/jonschlinkert/matched/blob/master/LICENSE-MIT"
+				}
+			],
+			"main": "index.js",
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"array-differ": "^0.1.0",
+				"array-flatten": "0.0.2",
+				"array-union": "^0.1.0",
+				"array-uniq": "^0.1.0",
+				"find-root": "^0.1.1",
+				"globby": "^0.1.1",
+				"normalize-path": "^0.1.0",
+				"parse-filepath": "^0.3.0",
+				"path-segments": "^0.1.1",
+				"xtend": "^3.0.0"
+			},
+			"devDependencies": {
+				"chai": "^1.9.1",
+				"mocha": "^1.20.1",
+				"verb": "^0.2.13"
+			},
+			"keywords": [
+				"array",
+				"card",
+				"directories",
+				"dirs",
+				"exclude",
+				"exclusions",
+				"expand",
+				"files",
+				"filesystem",
+				"filter",
+				"find",
+				"fnmatch",
+				"folders",
+				"fs",
+				"glob",
+				"globbing",
+				"globs",
+				"globstar",
+				"lookup",
+				"match",
+				"matcher",
+				"minimatch",
+				"multi",
+				"multiple",
+				"negate",
+				"node_modules",
+				"omissions",
+				"omit",
+				"paths",
+				"pattern",
+				"patterns",
+				"star",
+				"traverse",
+				"util",
+				"utility",
+				"wild",
+				"wildcard",
+				"wildcards"
+			],
+			"_id": "matched@0.2.1",
+			"_shasum": "3b3078736dd4593cb85bfe7797a12097a005d538",
+			"_from": ".",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "jonschlinkert",
+				"email": "github@sellside.com"
+			},
+			"maintainers": [
+				{
+					"name": "jonschlinkert",
+					"email": "github@sellside.com"
+				}
+			],
+			"dist": {
+				"shasum": "3b3078736dd4593cb85bfe7797a12097a005d538",
+				"tarball": "https://registry.npmjs.org/matched/-/matched-0.2.1.tgz"
+			},
+			"directories": {}
+		},
+		"0.2.2": {
+			"name": "matched",
+			"description": "Super fast globbing library.",
+			"version": "0.2.2",
+			"homepage": "https://github.com/jonschlinkert/matched",
+			"author": {
+				"name": "Jon Schlinkert",
+				"url": "https://github.com/jonschlinkert"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jonschlinkert/matched.git"
+			},
+			"bugs": {
+				"url": "https://github.com/jonschlinkert/matched/issues"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://github.com/jonschlinkert/matched/blob/master/LICENSE-MIT"
+				}
+			],
+			"main": "index.js",
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"array-differ": "^0.1.0",
+				"array-flatten": "0.0.2",
+				"array-union": "^0.1.0",
+				"array-uniq": "^0.1.0",
+				"find-root": "^0.1.1",
+				"globby": "^0.1.1",
+				"normalize-path": "^0.1.0",
+				"parse-filepath": "^0.3.0",
+				"path-segments": "^0.1.1",
+				"xtend": "^3.0.0"
+			},
+			"devDependencies": {
+				"chai": "^1.9.1",
+				"mocha": "^1.20.1",
+				"verb": "^0.2.13"
+			},
+			"keywords": [
+				"array",
+				"card",
+				"directories",
+				"dirs",
+				"exclude",
+				"exclusions",
+				"expand",
+				"files",
+				"filesystem",
+				"filter",
+				"find",
+				"fnmatch",
+				"folders",
+				"fs",
+				"glob",
+				"globbing",
+				"globs",
+				"globstar",
+				"lookup",
+				"match",
+				"matcher",
+				"minimatch",
+				"multi",
+				"multiple",
+				"negate",
+				"node_modules",
+				"omissions",
+				"omit",
+				"paths",
+				"pattern",
+				"patterns",
+				"star",
+				"traverse",
+				"util",
+				"utility",
+				"wild",
+				"wildcard",
+				"wildcards"
+			],
+			"_id": "matched@0.2.2",
+			"_shasum": "6637cac0cfa145932d3d8185fc4a298c5156392e",
+			"_from": ".",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "jonschlinkert",
+				"email": "github@sellside.com"
+			},
+			"maintainers": [
+				{
+					"name": "jonschlinkert",
+					"email": "github@sellside.com"
+				}
+			],
+			"dist": {
+				"shasum": "6637cac0cfa145932d3d8185fc4a298c5156392e",
+				"tarball": "https://registry.npmjs.org/matched/-/matched-0.2.2.tgz"
+			},
+			"directories": {}
+		},
+		"0.3.0": {
+			"name": "matched",
+			"description": "Adds array support to node-glob, sync and async. Also supports tilde expansion (user home) and resolving to global npm modules.",
+			"version": "0.3.0",
+			"homepage": "https://github.com/jonschlinkert/matched",
+			"author": {
+				"name": "Jon Schlinkert",
+				"url": "https://github.com/jonschlinkert"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jonschlinkert/matched.git"
+			},
+			"bugs": {
+				"url": "https://github.com/jonschlinkert/matched/issues"
+			},
+			"license": "MIT",
+			"main": "index.js",
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"async-array-reduce": "^0.1.0",
+				"extend-shallow": "^2.0.1",
+				"glob": "^5.0.15",
+				"is-valid-glob": "^0.3.0",
+				"lazy-cache": "^0.2.3",
+				"resolve-dir": "^0.1.0"
+			},
+			"devDependencies": {
+				"gulp": "^3.9.0",
+				"gulp-istanbul": "^0.10.1",
+				"gulp-jshint": "^1.11.2",
+				"gulp-mocha": "^2.1.3",
+				"jshint-stylish": "^2.0.1",
+				"mocha": "^2.3.3"
+			},
+			"keywords": [
+				"array",
+				"directories",
+				"exclude",
+				"exclusions",
+				"expand",
+				"files",
+				"filesystem",
+				"find",
+				"fnmatch",
+				"folders",
+				"fs",
+				"glob",
+				"globbing",
+				"globby",
+				"globs",
+				"globstar",
+				"lookup",
+				"match",
+				"matcher",
+				"matching",
+				"minimatch",
+				"multi",
+				"multimatch",
+				"multiple",
+				"negate",
+				"node",
+				"node-glob",
+				"paths",
+				"pattern",
+				"patterns",
+				"star",
+				"wildcard",
+				"wildcards"
+			],
+			"verb": {
+				"related": {
+					"list": [
+						"is-glob",
+						"micromatch",
+						"look-up"
+					]
+				}
+			},
+			"gitHead": "bdca0c6284fa4517ed1341cfce3780453f91b7b8",
+			"_id": "matched@0.3.0",
+			"scripts": {},
+			"_shasum": "16ee7552836274e5d54a76c90c01bde0c70958df",
+			"_from": ".",
+			"_npmVersion": "2.14.4",
+			"_nodeVersion": "4.1.1",
+			"_npmUser": {
+				"name": "jonschlinkert",
+				"email": "github@sellside.com"
+			},
+			"maintainers": [
+				{
+					"name": "jonschlinkert",
+					"email": "github@sellside.com"
+				}
+			],
+			"dist": {
+				"shasum": "16ee7552836274e5d54a76c90c01bde0c70958df",
+				"tarball": "https://registry.npmjs.org/matched/-/matched-0.3.0.tgz"
+			},
+			"directories": {}
+		},
+		"0.3.1": {
+			"name": "matched",
+			"description": "Adds array support to node-glob, sync and async. Also supports tilde expansion (user home) and resolving to global npm modules.",
+			"version": "0.3.1",
+			"homepage": "https://github.com/jonschlinkert/matched",
+			"author": {
+				"name": "Jon Schlinkert",
+				"url": "https://github.com/jonschlinkert"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jonschlinkert/matched.git"
+			},
+			"bugs": {
+				"url": "https://github.com/jonschlinkert/matched/issues"
+			},
+			"license": "MIT",
+			"main": "index.js",
+			"files": [
+				"index.js",
+				"utils.js"
+			],
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"async-array-reduce": "^0.1.0",
+				"extend-shallow": "^2.0.1",
+				"glob": "^5.0.15",
+				"is-valid-glob": "^0.3.0",
+				"lazy-cache": "^0.2.3",
+				"resolve-dir": "^0.1.0"
+			},
+			"devDependencies": {
+				"gulp": "^3.9.0",
+				"gulp-istanbul": "^0.10.1",
+				"gulp-jshint": "^1.11.2",
+				"gulp-mocha": "^2.1.3",
+				"jshint-stylish": "^2.0.1",
+				"mocha": "^2.3.3"
+			},
+			"keywords": [
+				"array",
+				"directories",
+				"exclude",
+				"exclusions",
+				"expand",
+				"files",
+				"filesystem",
+				"find",
+				"fnmatch",
+				"folders",
+				"fs",
+				"glob",
+				"globbing",
+				"globby",
+				"globs",
+				"globstar",
+				"lookup",
+				"match",
+				"matcher",
+				"matching",
+				"minimatch",
+				"multi",
+				"multimatch",
+				"multiple",
+				"negate",
+				"node",
+				"node-glob",
+				"paths",
+				"pattern",
+				"patterns",
+				"star",
+				"wildcard",
+				"wildcards"
+			],
+			"verb": {
+				"related": {
+					"list": [
+						"is-glob",
+						"micromatch",
+						"look-up"
+					]
+				}
+			},
+			"gitHead": "bdca0c6284fa4517ed1341cfce3780453f91b7b8",
+			"_id": "matched@0.3.1",
+			"scripts": {},
+			"_shasum": "5d9496a10f8a30441340dbf9c917e2762b7fd25b",
+			"_from": ".",
+			"_npmVersion": "2.14.4",
+			"_nodeVersion": "4.1.1",
+			"_npmUser": {
+				"name": "jonschlinkert",
+				"email": "github@sellside.com"
+			},
+			"maintainers": [
+				{
+					"name": "jonschlinkert",
+					"email": "github@sellside.com"
+				}
+			],
+			"dist": {
+				"shasum": "5d9496a10f8a30441340dbf9c917e2762b7fd25b",
+				"tarball": "https://registry.npmjs.org/matched/-/matched-0.3.1.tgz"
+			},
+			"directories": {}
+		},
+		"0.3.2": {
+			"name": "matched",
+			"description": "Adds array support to node-glob, sync and async. Also supports tilde expansion (user home) and resolving to global npm modules.",
+			"version": "0.3.2",
+			"homepage": "https://github.com/jonschlinkert/matched",
+			"author": {
+				"name": "Jon Schlinkert",
+				"url": "https://github.com/jonschlinkert"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jonschlinkert/matched.git"
+			},
+			"bugs": {
+				"url": "https://github.com/jonschlinkert/matched/issues"
+			},
+			"license": "MIT",
+			"main": "index.js",
+			"files": [
+				"index.js",
+				"utils.js"
+			],
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"async-array-reduce": "^0.1.0",
+				"extend-shallow": "^2.0.1",
+				"glob": "^5.0.15",
+				"is-valid-glob": "^0.3.0",
+				"lazy-cache": "^0.2.3",
+				"resolve-dir": "^0.1.0"
+			},
+			"devDependencies": {
+				"gulp": "^3.9.0",
+				"gulp-istanbul": "^0.10.1",
+				"gulp-jshint": "^1.11.2",
+				"gulp-mocha": "^2.1.3",
+				"jshint-stylish": "^2.0.1",
+				"mocha": "^2.3.3"
+			},
+			"keywords": [
+				"array",
+				"directories",
+				"exclude",
+				"exclusions",
+				"expand",
+				"files",
+				"filesystem",
+				"find",
+				"fnmatch",
+				"folders",
+				"fs",
+				"glob",
+				"globbing",
+				"globby",
+				"globs",
+				"globstar",
+				"lookup",
+				"match",
+				"matcher",
+				"matching",
+				"minimatch",
+				"multi",
+				"multimatch",
+				"multiple",
+				"negate",
+				"node",
+				"node-glob",
+				"paths",
+				"pattern",
+				"patterns",
+				"star",
+				"wildcard",
+				"wildcards"
+			],
+			"verb": {
+				"related": {
+					"list": [
+						"is-glob",
+						"micromatch",
+						"look-up"
+					]
+				}
+			},
+			"gitHead": "98d3b9ac09cd43b91590bbab0da8369661a99f35",
+			"_id": "matched@0.3.2",
+			"scripts": {},
+			"_shasum": "817cc5ef31c539ddb01d1e0f508e38acb63be48a",
+			"_from": ".",
+			"_npmVersion": "2.14.4",
+			"_nodeVersion": "4.1.1",
+			"_npmUser": {
+				"name": "jonschlinkert",
+				"email": "github@sellside.com"
+			},
+			"maintainers": [
+				{
+					"name": "jonschlinkert",
+					"email": "github@sellside.com"
+				}
+			],
+			"dist": {
+				"shasum": "817cc5ef31c539ddb01d1e0f508e38acb63be48a",
+				"tarball": "https://registry.npmjs.org/matched/-/matched-0.3.2.tgz"
+			},
+			"directories": {}
+		},
+		"0.4.0": {
+			"name": "matched",
+			"description": "Adds array support to node-glob, sync and async. Also supports tilde expansion (user home) and resolving to global npm modules.",
+			"version": "0.4.0",
+			"homepage": "https://github.com/jonschlinkert/matched",
+			"author": {
+				"name": "Jon Schlinkert",
+				"url": "https://github.com/jonschlinkert"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jonschlinkert/matched.git"
+			},
+			"bugs": {
+				"url": "https://github.com/jonschlinkert/matched/issues"
+			},
+			"license": "MIT",
+			"files": [
+				"index.js",
+				"lib/"
+			],
+			"main": "index.js",
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"async-array-reduce": "^0.1.0",
+				"bluebird": "^3.1.1",
+				"extend-shallow": "^2.0.1",
+				"glob": "^6.0.2",
+				"is-valid-glob": "^0.3.0",
+				"lazy-cache": "^1.0.3",
+				"resolve-dir": "^0.1.0"
+			},
+			"devDependencies": {
+				"gulp": "^3.9.0",
+				"gulp-eslint": "^1.1.1",
+				"gulp-istanbul": "^0.10.3",
+				"gulp-mocha": "^2.2.0",
+				"mocha": "^2.3.4",
+				"rimraf": "^2.5.0"
+			},
+			"keywords": [
+				"array",
+				"directories",
+				"exclude",
+				"exclusions",
+				"expand",
+				"files",
+				"filesystem",
+				"find",
+				"fnmatch",
+				"folders",
+				"fs",
+				"glob",
+				"globbing",
+				"globby",
+				"globs",
+				"globstar",
+				"lookup",
+				"match",
+				"matcher",
+				"matching",
+				"minimatch",
+				"multi",
+				"multimatch",
+				"multiple",
+				"negate",
+				"node",
+				"node-glob",
+				"paths",
+				"pattern",
+				"patterns",
+				"star",
+				"wildcard",
+				"wildcards"
+			],
+			"verb": {
+				"related": {
+					"list": [
+						"is-glob",
+						"look-up",
+						"micromatch"
+					]
+				},
+				"reflinks": [
+					"vinyl"
+				],
+				"layout": "default",
+				"plugins": [
+					"gulp-format-md"
+				]
+			},
+			"gitHead": "c9e90c0cf6d18d296f1cb30e0955905c5c38adb4",
+			"_id": "matched@0.4.0",
+			"scripts": {},
+			"_shasum": "09bee5aeea5f61fdf00dc64ba2208491b47dfe9f",
+			"_from": ".",
+			"_npmVersion": "3.3.6",
+			"_nodeVersion": "5.0.0",
+			"_npmUser": {
+				"name": "jonschlinkert",
+				"email": "github@sellside.com"
+			},
+			"maintainers": [
+				{
+					"name": "jonschlinkert",
+					"email": "github@sellside.com"
+				}
+			],
+			"dist": {
+				"shasum": "09bee5aeea5f61fdf00dc64ba2208491b47dfe9f",
+				"tarball": "https://registry.npmjs.org/matched/-/matched-0.4.0.tgz"
+			},
+			"directories": {}
+		},
+		"0.4.1": {
+			"name": "matched",
+			"description": "Adds array support to node-glob, sync and async. Also supports tilde expansion (user home) and resolving to global npm modules.",
+			"version": "0.4.1",
+			"homepage": "https://github.com/jonschlinkert/matched",
+			"author": {
+				"name": "Jon Schlinkert",
+				"url": "https://github.com/jonschlinkert"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jonschlinkert/matched.git"
+			},
+			"bugs": {
+				"url": "https://github.com/jonschlinkert/matched/issues"
+			},
+			"license": "MIT",
+			"files": [
+				"index.js",
+				"lib/"
+			],
+			"main": "index.js",
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"arr-union": "^3.0.0",
+				"async-array-reduce": "^0.1.0",
+				"bluebird": "^3.1.1",
+				"extend-shallow": "^2.0.1",
+				"glob": "^6.0.3",
+				"is-valid-glob": "^0.3.0",
+				"lazy-cache": "^1.0.3",
+				"resolve-dir": "^0.1.0"
+			},
+			"devDependencies": {
+				"gulp": "^3.9.0",
+				"gulp-eslint": "^1.1.1",
+				"gulp-format-md": "^0.1.4",
+				"gulp-istanbul": "^0.10.3",
+				"gulp-mocha": "^2.2.0",
+				"mocha": "^2.3.4",
+				"rimraf": "^2.5.0"
+			},
+			"keywords": [
+				"array",
+				"directories",
+				"exclude",
+				"exclusions",
+				"expand",
+				"files",
+				"filesystem",
+				"find",
+				"fnmatch",
+				"folders",
+				"fs",
+				"glob",
+				"globbing",
+				"globby",
+				"globs",
+				"globstar",
+				"lookup",
+				"match",
+				"matcher",
+				"matching",
+				"minimatch",
+				"multi",
+				"multimatch",
+				"multiple",
+				"negate",
+				"node",
+				"node-glob",
+				"paths",
+				"pattern",
+				"patterns",
+				"star",
+				"wildcard",
+				"wildcards"
+			],
+			"verb": {
+				"related": {
+					"list": [
+						"is-glob",
+						"look-up",
+						"micromatch"
+					]
+				},
+				"reflinks": [
+					"vinyl"
+				],
+				"layout": "default",
+				"plugins": [
+					"gulp-format-md"
+				]
+			},
+			"gitHead": "4a6058ff25855c3969de048cfb990e34c4a7e085",
+			"_id": "matched@0.4.1",
+			"scripts": {},
+			"_shasum": "db470be3d60b20b3f50dc929724489b9fd83f684",
+			"_from": ".",
+			"_npmVersion": "3.3.12",
+			"_nodeVersion": "5.3.0",
+			"_npmUser": {
+				"name": "jonschlinkert",
+				"email": "github@sellside.com"
+			},
+			"maintainers": [
+				{
+					"name": "jonschlinkert",
+					"email": "github@sellside.com"
+				}
+			],
+			"dist": {
+				"shasum": "db470be3d60b20b3f50dc929724489b9fd83f684",
+				"tarball": "https://registry.npmjs.org/matched/-/matched-0.4.1.tgz"
+			},
+			"directories": {}
+		},
+		"0.4.2": {
+			"name": "matched",
+			"description": "Adds array support to node-glob, sync and async. Also supports tilde expansion (user home) and resolving to global npm modules.",
+			"version": "0.4.2",
+			"homepage": "https://github.com/jonschlinkert/matched",
+			"author": {
+				"name": "Jon Schlinkert",
+				"url": "https://github.com/jonschlinkert"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jonschlinkert/matched.git"
+			},
+			"bugs": {
+				"url": "https://github.com/jonschlinkert/matched/issues"
+			},
+			"license": "MIT",
+			"files": [
+				"index.js",
+				"lib",
+				"LICENSE",
+				"README.md"
+			],
+			"main": "index.js",
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"arr-union": "^3.1.0",
+				"async-array-reduce": "^0.1.0",
+				"bluebird": "^3.4.1",
+				"extend-shallow": "^2.0.1",
+				"fs-exists-sync": "^0.1.0",
+				"glob": "^7.0.5",
+				"has-glob": "^0.1.1",
+				"is-valid-glob": "^0.3.0",
+				"lazy-cache": "^2.0.1",
+				"resolve-dir": "^0.1.0"
+			},
+			"devDependencies": {
+				"glob-stream": "^5.3.2",
+				"gulp": "^3.9.1",
+				"gulp-eslint": "^2.0.0",
+				"gulp-format-md": "^0.1.9",
+				"gulp-istanbul": "^1.0.0",
+				"gulp-mocha": "^2.2.0",
+				"mocha": "^2.5.3",
+				"rimraf": "^2.5.2"
+			},
+			"keywords": [
+				"array",
+				"directories",
+				"exclude",
+				"exclusions",
+				"expand",
+				"files",
+				"filesystem",
+				"find",
+				"fnmatch",
+				"folders",
+				"fs",
+				"glob",
+				"globbing",
+				"globby",
+				"globs",
+				"globstar",
+				"lookup",
+				"match",
+				"matched",
+				"matcher",
+				"matching",
+				"minimatch",
+				"multi",
+				"multimatch",
+				"multiple",
+				"negate",
+				"node",
+				"node-glob",
+				"paths",
+				"pattern",
+				"patterns",
+				"star",
+				"wildcard",
+				"wildcards"
+			],
+			"verb": {
+				"toc": false,
+				"layout": "default",
+				"tasks": [
+					"readme"
+				],
+				"plugins": [
+					"gulp-format-md"
+				],
+				"related": {
+					"list": [
+						"is-glob",
+						"look-up",
+						"micromatch"
+					]
+				},
+				"reflinks": [
+					"glob-stream",
+					"verb",
+					"verb-readme-generator",
+					"vinyl"
+				],
+				"lint": {
+					"reflinks": true
+				}
+			},
+			"gitHead": "1a226aac59c118f53464cf636ce9f200ea056912",
+			"_id": "matched@0.4.2",
+			"scripts": {},
+			"_shasum": "b1c8c3132afd0199da66f947f03c4d50c12cdec4",
+			"_from": ".",
+			"_npmVersion": "3.8.9",
+			"_nodeVersion": "6.2.0",
+			"_npmUser": {
+				"name": "jonschlinkert",
+				"email": "github@sellside.com"
+			},
+			"maintainers": [
+				{
+					"name": "jonschlinkert",
+					"email": "github@sellside.com"
+				}
+			],
+			"dist": {
+				"shasum": "b1c8c3132afd0199da66f947f03c4d50c12cdec4",
+				"tarball": "https://registry.npmjs.org/matched/-/matched-0.4.2.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/matched-0.4.2.tgz_1467435104273_0.08062133332714438"
+			},
+			"directories": {}
+		},
+		"0.4.3": {
+			"name": "matched",
+			"description": "Adds array support to node-glob, sync and async. Also supports tilde expansion (user home) and resolving to global npm modules.",
+			"version": "0.4.3",
+			"homepage": "https://github.com/jonschlinkert/matched",
+			"author": {
+				"name": "Jon Schlinkert",
+				"url": "https://github.com/jonschlinkert"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jonschlinkert/matched.git"
+			},
+			"bugs": {
+				"url": "https://github.com/jonschlinkert/matched/issues"
+			},
+			"license": "MIT",
+			"files": [
+				"index.js",
+				"lib",
+				"LICENSE",
+				"README.md"
+			],
+			"main": "index.js",
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"arr-union": "^3.1.0",
+				"async-array-reduce": "^0.1.0",
+				"bluebird": "^3.4.1",
+				"extend-shallow": "^2.0.1",
+				"fs-exists-sync": "^0.1.0",
+				"glob": "^7.0.5",
+				"has-glob": "^0.1.1",
+				"is-valid-glob": "^0.3.0",
+				"lazy-cache": "^2.0.1",
+				"resolve-dir": "^0.1.0"
+			},
+			"devDependencies": {
+				"glob-stream": "^5.3.2",
+				"gulp": "^3.9.1",
+				"gulp-eslint": "^2.0.0",
+				"gulp-format-md": "^0.1.9",
+				"gulp-istanbul": "^1.0.0",
+				"gulp-mocha": "^2.2.0",
+				"mocha": "^2.5.3",
+				"rimraf": "^2.5.2"
+			},
+			"keywords": [
+				"array",
+				"directories",
+				"exclude",
+				"exclusions",
+				"expand",
+				"files",
+				"filesystem",
+				"find",
+				"fnmatch",
+				"folders",
+				"fs",
+				"glob",
+				"globbing",
+				"globby",
+				"globs",
+				"globstar",
+				"lookup",
+				"match",
+				"matched",
+				"matcher",
+				"matching",
+				"minimatch",
+				"multi",
+				"multimatch",
+				"multiple",
+				"negate",
+				"node",
+				"node-glob",
+				"paths",
+				"pattern",
+				"patterns",
+				"star",
+				"wildcard",
+				"wildcards"
+			],
+			"verb": {
+				"toc": false,
+				"layout": "default",
+				"tasks": [
+					"readme"
+				],
+				"plugins": [
+					"gulp-format-md"
+				],
+				"related": {
+					"list": [
+						"is-glob",
+						"look-up",
+						"micromatch"
+					]
+				},
+				"reflinks": [
+					"glob-stream",
+					"verb",
+					"verb-readme-generator",
+					"vinyl"
+				],
+				"lint": {
+					"reflinks": true
+				}
+			},
+			"gitHead": "8c2a5945a43ff3d7ead1aa3bf844bb7890d69343",
+			"_id": "matched@0.4.3",
+			"scripts": {},
+			"_shasum": "18dc6074cdda40240078b0ca48255766c1f23bf4",
+			"_from": ".",
+			"_npmVersion": "3.8.9",
+			"_nodeVersion": "6.2.0",
+			"_npmUser": {
+				"name": "jonschlinkert",
+				"email": "github@sellside.com"
+			},
+			"maintainers": [
+				{
+					"name": "jonschlinkert",
+					"email": "github@sellside.com"
+				}
+			],
+			"dist": {
+				"shasum": "18dc6074cdda40240078b0ca48255766c1f23bf4",
+				"tarball": "https://registry.npmjs.org/matched/-/matched-0.4.3.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/matched-0.4.3.tgz_1467525039992_0.7354712309315801"
+			},
+			"directories": {}
+		},
+		"0.4.4": {
+			"name": "matched",
+			"description": "Adds array support to node-glob, sync and async. Also supports tilde expansion (user home) and resolving to global npm modules.",
+			"version": "0.4.4",
+			"homepage": "https://github.com/jonschlinkert/matched",
+			"author": {
+				"name": "Jon Schlinkert",
+				"url": "https://github.com/jonschlinkert"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jonschlinkert/matched.git"
+			},
+			"bugs": {
+				"url": "https://github.com/jonschlinkert/matched/issues"
+			},
+			"license": "MIT",
+			"files": [
+				"index.js",
+				"lib"
+			],
+			"main": "index.js",
+			"engines": {
+				"node": ">= 0.12.0"
+			},
+			"scripts": {
+				"report": "nyc report --reporter=html",
+				"test": "nyc mocha test/*.js",
+				"posttest": "eslint *.js test/*.js lib/*.js"
+			},
+			"dependencies": {
+				"arr-union": "^3.1.0",
+				"async-array-reduce": "^0.2.0",
+				"extend-shallow": "^2.0.1",
+				"fs-exists-sync": "^0.1.0",
+				"glob": "^7.0.5",
+				"has-glob": "^0.1.1",
+				"is-valid-glob": "^0.3.0",
+				"lazy-cache": "^2.0.1",
+				"resolve-dir": "^0.1.0"
+			},
+			"devDependencies": {
+				"eslint": "^2.13.1",
+				"mocha": "^3.0.2",
+				"nyc": "^8.1.0",
+				"rimraf": "^2.5.2"
+			},
+			"keywords": [
+				"array",
+				"directories",
+				"exclude",
+				"exclusions",
+				"expand",
+				"files",
+				"filesystem",
+				"find",
+				"fnmatch",
+				"folders",
+				"fs",
+				"glob",
+				"globbing",
+				"globby",
+				"globs",
+				"globstar",
+				"lookup",
+				"match",
+				"matched",
+				"matcher",
+				"matching",
+				"minimatch",
+				"multi",
+				"multimatch",
+				"multiple",
+				"negate",
+				"node",
+				"node-glob",
+				"paths",
+				"pattern",
+				"patterns",
+				"star",
+				"wildcard",
+				"wildcards"
+			],
+			"verb": {
+				"toc": false,
+				"layout": "default",
+				"tasks": [
+					"readme"
+				],
+				"plugins": [
+					"gulp-format-md"
+				],
+				"related": {
+					"list": [
+						"is-glob",
+						"look-up",
+						"micromatch"
+					]
+				},
+				"reflinks": [
+					"glob-stream",
+					"verb",
+					"verb-readme-generator",
+					"vinyl"
+				],
+				"lint": {
+					"reflinks": true
+				}
+			},
+			"gitHead": "97b51c7eac90add0aaafe985e6ee8bc4d15fb2bc",
+			"_id": "matched@0.4.4",
+			"_shasum": "56d7b7eb18033f0cf9bc52eb2090fac7dc1e89fa",
+			"_from": ".",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.1",
+			"_npmUser": {
+				"name": "trysound",
+				"email": "trysound@yandex.ru"
+			},
+			"maintainers": [
+				{
+					"name": "doowb",
+					"email": "brian.woodward@gmail.com"
+				},
+				{
+					"name": "jonschlinkert",
+					"email": "github@sellside.com"
+				},
+				{
+					"name": "trysound",
+					"email": "trysound@yandex.ru"
+				}
+			],
+			"dist": {
+				"shasum": "56d7b7eb18033f0cf9bc52eb2090fac7dc1e89fa",
+				"tarball": "https://registry.npmjs.org/matched/-/matched-0.4.4.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/matched-0.4.4.tgz_1472710620786_0.06850130413658917"
+			},
+			"directories": {}
+		},
+		"1.0.1": {
+			"name": "matched",
+			"description": "Adds array support to node-glob, sync and async. Also supports tilde expansion (user home) and resolving to global npm modules.",
+			"version": "1.0.1",
+			"homepage": "https://github.com/jonschlinkert/matched",
+			"author": {
+				"name": "Jon Schlinkert",
+				"url": "https://github.com/jonschlinkert"
+			},
+			"contributors": [
+				{
+					"name": "Bogdan Chadkin",
+					"url": "https://github.com/TrySound"
+				},
+				{
+					"name": "Jon Schlinkert",
+					"url": "http://twitter.com/jonschlinkert"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jonschlinkert/matched.git"
+			},
+			"bugs": {
+				"url": "https://github.com/jonschlinkert/matched/issues"
+			},
+			"license": "MIT",
+			"files": [
+				"index.js",
+				"lib"
+			],
+			"main": "index.js",
+			"engines": {
+				"node": ">= 0.12.0"
+			},
+			"scripts": {
+				"report": "nyc report --reporter=html",
+				"test": "nyc mocha test/*.js",
+				"posttest": "eslint *.js test/*.js lib/*.js"
+			},
+			"dependencies": {
+				"arr-union": "^3.1.0",
+				"async-array-reduce": "^0.2.1",
+				"glob": "^7.1.2",
+				"has-glob": "^1.0.0",
+				"is-valid-glob": "^1.0.0",
+				"resolve-dir": "^1.0.0"
+			},
+			"devDependencies": {
+				"gulp-format-md": "^0.1.12",
+				"mocha": "^3.0.2",
+				"rimraf": "^2.5.2"
+			},
+			"keywords": [
+				"array",
+				"directories",
+				"exclude",
+				"exclusions",
+				"expand",
+				"files",
+				"filesystem",
+				"find",
+				"fnmatch",
+				"folders",
+				"fs",
+				"glob",
+				"globbing",
+				"globby",
+				"globs",
+				"globstar",
+				"lookup",
+				"match",
+				"matched",
+				"matcher",
+				"matching",
+				"minimatch",
+				"multi",
+				"multimatch",
+				"multiple",
+				"negate",
+				"node",
+				"node-glob",
+				"paths",
+				"pattern",
+				"patterns",
+				"star",
+				"wildcard",
+				"wildcards"
+			],
+			"verb": {
+				"toc": false,
+				"layout": "default",
+				"tasks": [
+					"readme"
+				],
+				"plugins": [
+					"gulp-format-md"
+				],
+				"related": {
+					"list": [
+						"is-glob",
+						"look-up",
+						"micromatch"
+					]
+				},
+				"reflinks": [
+					"glob-stream",
+					"verb",
+					"verb-readme-generator",
+					"vinyl"
+				],
+				"lint": {
+					"reflinks": true
+				}
+			},
+			"gitHead": "6e0e8564beb34a8df21e9c8d92895e9dbb7d860f",
+			"_id": "matched@1.0.1",
+			"_npmVersion": "5.0.3",
+			"_nodeVersion": "7.7.3",
+			"_npmUser": {
+				"name": "jonschlinkert",
+				"email": "github@sellside.com"
+			},
+			"maintainers": [
+				{
+					"name": "jonschlinkert",
+					"email": "github@sellside.com"
+				}
+			],
+			"dist": {
+				"integrity": "sha512-Ux1dkSopHuumO8FvlQ0GYLCtlwFPbDhOWs2xoYuVEjWooZq+/r/X9Q2dJ7M1K7TuNoKf+Ds++2uHcxdwj6jE5g==",
+				"shasum": "49c7690d99de61495f619cd28db36bd3e88f8769",
+				"tarball": "https://registry.npmjs.org/matched/-/matched-1.0.1.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/matched-1.0.1.tgz_1498234805465_0.7963045914657414"
+			},
+			"directories": {}
+		},
+		"1.0.2": {
+			"name": "matched",
+			"description": "Adds array support to node-glob, sync and async. Also supports tilde expansion (user home) and resolving to global npm modules.",
+			"version": "1.0.2",
+			"homepage": "https://github.com/jonschlinkert/matched",
+			"author": {
+				"name": "Jon Schlinkert",
+				"url": "https://github.com/jonschlinkert"
+			},
+			"contributors": [
+				{
+					"name": "Bogdan Chadkin",
+					"url": "https://github.com/TrySound"
+				},
+				{
+					"name": "Jon Schlinkert",
+					"url": "http://twitter.com/jonschlinkert"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jonschlinkert/matched.git"
+			},
+			"bugs": {
+				"url": "https://github.com/jonschlinkert/matched/issues"
+			},
+			"license": "MIT",
+			"files": [
+				"index.js",
+				"lib"
+			],
+			"main": "index.js",
+			"engines": {
+				"node": ">= 0.12.0"
+			},
+			"scripts": {
+				"report": "nyc report --reporter=html",
+				"test": "nyc mocha test/*.js",
+				"posttest": "eslint *.js test/*.js lib/*.js"
+			},
+			"dependencies": {
+				"arr-union": "^3.1.0",
+				"async-array-reduce": "^0.2.1",
+				"glob": "^7.1.2",
+				"has-glob": "^1.0.0",
+				"is-valid-glob": "^1.0.0",
+				"resolve-dir": "^1.0.0"
+			},
+			"devDependencies": {
+				"eslint": "^4.0.0",
+				"gulp-format-md": "^0.1.12",
+				"mocha": "^3.0.2",
+				"nyc": "^11.0.2",
+				"rimraf": "^2.5.2"
+			},
+			"keywords": [
+				"array",
+				"directories",
+				"exclude",
+				"exclusions",
+				"expand",
+				"files",
+				"filesystem",
+				"find",
+				"fnmatch",
+				"folders",
+				"fs",
+				"glob",
+				"globbing",
+				"globby",
+				"globs",
+				"globstar",
+				"lookup",
+				"match",
+				"matched",
+				"matcher",
+				"matching",
+				"minimatch",
+				"multi",
+				"multimatch",
+				"multiple",
+				"negate",
+				"node",
+				"node-glob",
+				"paths",
+				"pattern",
+				"patterns",
+				"star",
+				"wildcard",
+				"wildcards"
+			],
+			"verb": {
+				"toc": false,
+				"layout": "default",
+				"tasks": [
+					"readme"
+				],
+				"plugins": [
+					"gulp-format-md"
+				],
+				"related": {
+					"list": [
+						"is-glob",
+						"look-up",
+						"micromatch"
+					]
+				},
+				"reflinks": [
+					"glob-stream",
+					"verb",
+					"verb-readme-generator",
+					"vinyl"
+				],
+				"lint": {
+					"reflinks": true
+				}
+			},
+			"gitHead": "2b7f60d005c384f539783c5df9be2b298b25230c",
+			"_id": "matched@1.0.2",
+			"_npmVersion": "5.0.3",
+			"_nodeVersion": "7.7.3",
+			"_npmUser": {
+				"name": "jonschlinkert",
+				"email": "github@sellside.com"
+			},
+			"maintainers": [
+				{
+					"name": "jonschlinkert",
+					"email": "github@sellside.com"
+				}
+			],
+			"dist": {
+				"integrity": "sha512-7ivM1jFZVTOOS77QsR+TtYHH0ecdLclMkqbf5qiJdX2RorqfhsL65QHySPZgDE0ZjHoh+mQUNHTanNXIlzXd0Q==",
+				"shasum": "1d95d77dd5f1b5075a9e94acde5462ffd85f317a",
+				"tarball": "https://registry.npmjs.org/matched/-/matched-1.0.2.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/matched-1.0.2.tgz_1498244126881_0.11760854301974177"
+			},
+			"directories": {}
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.2"
+	},
+	"time": {
+		"modified": "2017-07-02T17:40:33.035Z",
+		"created": "2014-05-03T14:15:20.231Z",
+		"0.1.0": "2014-05-03T14:15:20.231Z",
+		"0.1.1": "2014-05-03T15:10:34.327Z",
+		"0.1.2": "2014-06-15T00:19:10.295Z",
+		"0.2.0": "2014-06-26T08:59:25.190Z",
+		"0.2.1": "2014-06-26T09:04:03.636Z",
+		"0.2.2": "2014-06-26T10:27:32.543Z",
+		"0.3.0": "2015-10-08T22:37:04.349Z",
+		"0.3.1": "2015-10-08T22:38:18.392Z",
+		"0.3.2": "2015-10-12T01:16:58.319Z",
+		"0.4.0": "2015-12-28T02:15:44.106Z",
+		"0.4.1": "2016-01-03T07:42:28.091Z",
+		"0.4.2": "2016-07-02T04:51:46.470Z",
+		"0.4.3": "2016-07-03T05:50:42.472Z",
+		"0.4.4": "2016-09-01T06:17:02.416Z",
+		"1.0.0": "2017-06-23T16:03:52.675Z",
+		"1.0.1": "2017-06-23T16:20:06.469Z",
+		"1.0.2": "2017-06-23T18:55:27.914Z"
+	},
+	"_distfiles": {
+		"matched-0.1.0.tgz": {
+			"url": "https://registry.npmjs.org/matched/-/matched-0.1.0.tgz",
+			"sha": "7c0bd572ce9e48198488538959b788f9f0b99715",
+			"registry": "npmjs"
+		},
+		"matched-0.1.1.tgz": {
+			"url": "https://registry.npmjs.org/matched/-/matched-0.1.1.tgz",
+			"sha": "101324e38a89e12c8e1d7d6ee6f5129dc8ecdbe2",
+			"registry": "npmjs"
+		},
+		"matched-0.1.2.tgz": {
+			"url": "https://registry.npmjs.org/matched/-/matched-0.1.2.tgz",
+			"sha": "85bddd5f5ba82688e25e6f570e87970a1c817321",
+			"registry": "npmjs"
+		},
+		"matched-0.2.0.tgz": {
+			"url": "https://registry.npmjs.org/matched/-/matched-0.2.0.tgz",
+			"sha": "f9a1291afce28741e15d443caaf0a52c2bd7da43",
+			"registry": "npmjs"
+		},
+		"matched-0.2.1.tgz": {
+			"url": "https://registry.npmjs.org/matched/-/matched-0.2.1.tgz",
+			"sha": "3b3078736dd4593cb85bfe7797a12097a005d538",
+			"registry": "npmjs"
+		},
+		"matched-0.2.2.tgz": {
+			"url": "https://registry.npmjs.org/matched/-/matched-0.2.2.tgz",
+			"sha": "6637cac0cfa145932d3d8185fc4a298c5156392e",
+			"registry": "npmjs"
+		},
+		"matched-0.3.0.tgz": {
+			"url": "https://registry.npmjs.org/matched/-/matched-0.3.0.tgz",
+			"sha": "16ee7552836274e5d54a76c90c01bde0c70958df",
+			"registry": "npmjs"
+		},
+		"matched-0.3.1.tgz": {
+			"url": "https://registry.npmjs.org/matched/-/matched-0.3.1.tgz",
+			"sha": "5d9496a10f8a30441340dbf9c917e2762b7fd25b",
+			"registry": "npmjs"
+		},
+		"matched-0.3.2.tgz": {
+			"url": "https://registry.npmjs.org/matched/-/matched-0.3.2.tgz",
+			"sha": "817cc5ef31c539ddb01d1e0f508e38acb63be48a",
+			"registry": "npmjs"
+		},
+		"matched-0.4.0.tgz": {
+			"url": "https://registry.npmjs.org/matched/-/matched-0.4.0.tgz",
+			"sha": "09bee5aeea5f61fdf00dc64ba2208491b47dfe9f",
+			"registry": "npmjs"
+		},
+		"matched-0.4.1.tgz": {
+			"url": "https://registry.npmjs.org/matched/-/matched-0.4.1.tgz",
+			"sha": "db470be3d60b20b3f50dc929724489b9fd83f684",
+			"registry": "npmjs"
+		},
+		"matched-0.4.2.tgz": {
+			"url": "https://registry.npmjs.org/matched/-/matched-0.4.2.tgz",
+			"sha": "b1c8c3132afd0199da66f947f03c4d50c12cdec4",
+			"registry": "npmjs"
+		},
+		"matched-0.4.3.tgz": {
+			"url": "https://registry.npmjs.org/matched/-/matched-0.4.3.tgz",
+			"sha": "18dc6074cdda40240078b0ca48255766c1f23bf4",
+			"registry": "npmjs"
+		},
+		"matched-0.4.4.tgz": {
+			"url": "https://registry.npmjs.org/matched/-/matched-0.4.4.tgz",
+			"sha": "56d7b7eb18033f0cf9bc52eb2090fac7dc1e89fa",
+			"registry": "npmjs"
+		},
+		"matched-1.0.1.tgz": {
+			"url": "https://registry.npmjs.org/matched/-/matched-1.0.1.tgz",
+			"sha": "49c7690d99de61495f619cd28db36bd3e88f8769",
+			"registry": "npmjs"
+		},
+		"matched-1.0.2.tgz": {
+			"url": "https://registry.npmjs.org/matched/-/matched-1.0.2.tgz",
+			"sha": "1d95d77dd5f1b5075a9e94acde5462ffd85f317a",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {
+		"matched-0.4.4.tgz": {
+			"shasum": "56d7b7eb18033f0cf9bc52eb2090fac7dc1e89fa"
+		}
+	},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "\"59593011-898e\"",
+			"fetched": 1519912118173
+		}
+	},
+	"_rev": "7-c91b4be340070137",
+	"readme": "# matched [![NPM version](https://img.shields.io/npm/v/matched.svg?style=flat)](https://www.npmjs.com/package/matched) [![NPM monthly downloads](https://img.shields.io/npm/dm/matched.svg?style=flat)](https://npmjs.org/package/matched) [![NPM total downloads](https://img.shields.io/npm/dt/matched.svg?style=flat)](https://npmjs.org/package/matched) [![Linux Build Status](https://img.shields.io/travis/jonschlinkert/matched.svg?style=flat&label=Travis)](https://travis-ci.org/jonschlinkert/matched)\n\n> Adds array support to node-glob, sync and async. Also supports tilde expansion (user home) and resolving to global npm modules.\n\n## Install\n\nInstall with [npm](https://www.npmjs.com/):\n\n```sh\n$ npm install --save matched\n```\n\n## Usage\n\nIf non-glob patterns (e.g. file paths) are passed, only paths that exist on the file system are returned.\n\n```js\nvar glob = require('matched');\n```\n\n**async**\n\n```js\nglob(['*.js'], function(err, files) {\n  //=> ['utils.js', 'index.js']\n});\n```\n\n**sync**\n\n```js\nvar files = glob.sync(['*.js']);\n//=> ['utils.js', 'index.js']\n```\n\n**promise**\n\n```js\nglob.promise(['*.txt'])\n  .then(function(files) {\n    //=> ['a.txt', 'b.txt', 'c.txt']\n  });\n```\n\n**options**\n\nAll methods take options as the second argument:\n\n```js\nglob(['*.js'], {cwd: 'test'}, function(err, files) {\n  //=> ['test.js']\n});\n```\n\n## Release history\n\n### v1.0.0\n\n* Minor code improvements, dependency upgrades\n\n### v0.4.1\n\n* Exposes a non-enumerable `cache` property on the returned files array. This is a patch relase since the property does not change the existing API and should not otherwise effect behavior or results.\n\n## About\n\n### Related projects\n\n* [is-glob](https://www.npmjs.com/package/is-glob): Returns `true` if the given string looks like a glob pattern or an extglob pattern… [more](https://github.com/jonschlinkert/is-glob) | [homepage](https://github.com/jonschlinkert/is-glob \"Returns `true` if the given string looks like a glob pattern or an extglob pattern. This makes it easy to create code that only uses external modules like node-glob when necessary, resulting in much faster code execution and initialization time, and a bet\")\n* [look-up](https://www.npmjs.com/package/look-up): Faster drop-in replacement for find-up and findup-sync. | [homepage](https://github.com/jonschlinkert/look-up \"Faster drop-in replacement for find-up and findup-sync.\")\n* [micromatch](https://www.npmjs.com/package/micromatch): Glob matching for javascript/node.js. A drop-in replacement and faster alternative to minimatch and multimatch. | [homepage](https://github.com/micromatch/micromatch \"Glob matching for javascript/node.js. A drop-in replacement and faster alternative to minimatch and multimatch.\")\n\n### Contributing\n\nPull requests and stars are always welcome. For bugs and feature requests, [please create an issue](../../issues/new).\n\n### Contributors\n\n| **Commits** | **Contributor** | \n| --- | --- |\n| 48 | [jonschlinkert](https://github.com/jonschlinkert) |\n| 7 | [TrySound](https://github.com/TrySound) |\n| 1 | [sindresorhus](https://github.com/sindresorhus) |\n\n### Building docs\n\n_(This project's readme.md is generated by [verb](https://github.com/verbose/verb-generate-readme), please don't edit the readme directly. Any changes to the readme must be made in the [.verb.md](.verb.md) readme template.)_\n\nTo generate the readme, run the following command:\n\n```sh\n$ npm install -g verbose/verb#dev verb-generate-readme && verb\n```\n\n### Running tests\n\nRunning and reviewing unit tests is a great way to get familiarized with a library and its API. You can install dependencies and run tests with the following command:\n\n```sh\n$ npm install && npm test\n```\n\n### Author\n\n**Jon Schlinkert**\n\n* [github/jonschlinkert](https://github.com/jonschlinkert)\n* [twitter/jonschlinkert](https://twitter.com/jonschlinkert)\n\n### License\n\nCopyright © 2017, [Jon Schlinkert](https://github.com/jonschlinkert).\nReleased under the [MIT License](LICENSE).\n\n***\n\n_This file was generated by [verb-generate-readme](https://github.com/verbose/verb-generate-readme), v0.6.0, on June 23, 2017._"
+}

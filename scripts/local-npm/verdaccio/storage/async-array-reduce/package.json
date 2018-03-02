@@ -1,0 +1,399 @@
+{
+	"name": "async-array-reduce",
+	"versions": {
+		"0.1.0": {
+			"name": "async-array-reduce",
+			"description": "Async reduce.",
+			"version": "0.1.0",
+			"homepage": "https://github.com/jonschlinkert/async-array-reduce",
+			"author": {
+				"name": "Jon Schlinkert",
+				"url": "https://github.com/jonschlinkert"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jonschlinkert/async-array-reduce.git"
+			},
+			"bugs": {
+				"url": "https://github.com/jonschlinkert/async-array-reduce/issues"
+			},
+			"license": "MIT",
+			"files": [
+				"index.js"
+			],
+			"main": "index.js",
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*"
+			},
+			"keywords": [
+				"array",
+				"async",
+				"reduce"
+			],
+			"verb": {
+				"related": {
+					"list": [
+						"arr-reduce",
+						"arr-filter",
+						"arr-flatten",
+						"array-unique"
+					]
+				}
+			},
+			"gitHead": "a53cb73e069390950d9062c0bc04fc80d3d221c0",
+			"_id": "async-array-reduce@0.1.0",
+			"_shasum": "c74b88651d5c7f46ce5203d150c3cc7eedca57f2",
+			"_from": ".",
+			"_npmVersion": "2.10.1",
+			"_nodeVersion": "0.12.4",
+			"_npmUser": {
+				"name": "jonschlinkert",
+				"email": "github@sellside.com"
+			},
+			"maintainers": [
+				{
+					"name": "jonschlinkert",
+					"email": "github@sellside.com"
+				}
+			],
+			"dist": {
+				"shasum": "c74b88651d5c7f46ce5203d150c3cc7eedca57f2",
+				"tarball": "https://registry.npmjs.org/async-array-reduce/-/async-array-reduce-0.1.0.tgz"
+			},
+			"directories": {}
+		},
+		"0.2.0": {
+			"name": "async-array-reduce",
+			"description": "Async reduce.",
+			"version": "0.2.0",
+			"homepage": "https://github.com/jonschlinkert/async-array-reduce",
+			"author": {
+				"name": "Jon Schlinkert",
+				"url": "https://github.com/jonschlinkert"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jonschlinkert/async-array-reduce.git"
+			},
+			"bugs": {
+				"url": "https://github.com/jonschlinkert/async-array-reduce/issues"
+			},
+			"license": "MIT",
+			"files": [
+				"index.js",
+				"LICENSE"
+			],
+			"main": "index.js",
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"devDependencies": {
+				"gulp-format-md": "^0.1.9",
+				"mocha": "^3.0.0"
+			},
+			"keywords": [
+				"array",
+				"async",
+				"reduce"
+			],
+			"verb": {
+				"related": {
+					"list": [
+						"arr-filter",
+						"arr-flatten",
+						"arr-reduce",
+						"array-unique"
+					]
+				},
+				"toc": false,
+				"layout": "default",
+				"tasks": [
+					"readme"
+				],
+				"plugins": [
+					"gulp-format-md"
+				],
+				"lint": {
+					"reflinks": true
+				},
+				"reflinks": [
+					"verb",
+					"verb-generate-readme"
+				]
+			},
+			"gitHead": "ced6d6f5db34a85a85c9bfcc2a5a0ebcc652de17",
+			"_id": "async-array-reduce@0.2.0",
+			"_shasum": "743d91238cf71e79e6d59e86ad080f6c437a5bd6",
+			"_from": ".",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "jonschlinkert",
+				"email": "github@sellside.com"
+			},
+			"maintainers": [
+				{
+					"name": "jonschlinkert",
+					"email": "github@sellside.com"
+				}
+			],
+			"dist": {
+				"shasum": "743d91238cf71e79e6d59e86ad080f6c437a5bd6",
+				"tarball": "https://registry.npmjs.org/async-array-reduce/-/async-array-reduce-0.2.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/async-array-reduce-0.2.0.tgz_1470128912093_0.3127787571866065"
+			},
+			"directories": {}
+		},
+		"0.2.1": {
+			"name": "async-array-reduce",
+			"description": "Async reduce.",
+			"version": "0.2.1",
+			"homepage": "https://github.com/jonschlinkert/async-array-reduce",
+			"author": {
+				"name": "Jon Schlinkert",
+				"url": "https://github.com/jonschlinkert"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jonschlinkert/async-array-reduce.git"
+			},
+			"bugs": {
+				"url": "https://github.com/jonschlinkert/async-array-reduce/issues"
+			},
+			"license": "MIT",
+			"files": [
+				"index.js",
+				"LICENSE"
+			],
+			"main": "index.js",
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"devDependencies": {
+				"gulp-format-md": "^0.1.9",
+				"mocha": "^3.0.0"
+			},
+			"keywords": [
+				"array",
+				"async",
+				"reduce"
+			],
+			"verb": {
+				"related": {
+					"list": [
+						"arr-filter",
+						"arr-flatten",
+						"arr-reduce",
+						"array-unique"
+					]
+				},
+				"toc": false,
+				"layout": "default",
+				"tasks": [
+					"readme"
+				],
+				"plugins": [
+					"gulp-format-md"
+				],
+				"lint": {
+					"reflinks": true
+				},
+				"reflinks": [
+					"verb",
+					"verb-generate-readme"
+				]
+			},
+			"gitHead": "29939bc6ac2a7ddd35dd7716b290cfb052911980",
+			"_id": "async-array-reduce@0.2.1",
+			"_shasum": "c8be010a2b5cd00dea96c81116034693dfdd82d1",
+			"_from": ".",
+			"_npmVersion": "3.7.5",
+			"_nodeVersion": "5.1.1",
+			"_npmUser": {
+				"name": "doowb",
+				"email": "brian.woodward@gmail.com"
+			},
+			"dist": {
+				"shasum": "c8be010a2b5cd00dea96c81116034693dfdd82d1",
+				"tarball": "https://registry.npmjs.org/async-array-reduce/-/async-array-reduce-0.2.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "doowb",
+					"email": "brian.woodward@gmail.com"
+				},
+				{
+					"name": "jonschlinkert",
+					"email": "github@sellside.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/async-array-reduce-0.2.1.tgz_1479358535538_0.9779731775633991"
+			},
+			"directories": {}
+		},
+		"1.0.0": {
+			"name": "async-array-reduce",
+			"description": "Async array reduce. Asynchronously applies a function against an accumulator and each element in an array (from left to right, in series) to reduce it to a single value.",
+			"version": "1.0.0",
+			"homepage": "https://github.com/jonschlinkert/async-array-reduce",
+			"author": {
+				"name": "Jon Schlinkert",
+				"url": "https://github.com/jonschlinkert"
+			},
+			"contributors": [
+				{
+					"name": "Brian Woodward",
+					"url": "https://twitter.com/doowb"
+				},
+				{
+					"name": "Jon Schlinkert",
+					"url": "http://twitter.com/jonschlinkert"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jonschlinkert/async-array-reduce.git"
+			},
+			"bugs": {
+				"url": "https://github.com/jonschlinkert/async-array-reduce/issues"
+			},
+			"license": "MIT",
+			"files": [
+				"index.js"
+			],
+			"main": "index.js",
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"devDependencies": {
+				"gulp-format-md": "^0.1.9",
+				"mocha": "^3.0.0"
+			},
+			"keywords": [
+				"array",
+				"async",
+				"reduce"
+			],
+			"verb": {
+				"related": {
+					"list": [
+						"arr-filter",
+						"arr-flatten",
+						"arr-reduce",
+						"array-unique"
+					]
+				},
+				"toc": false,
+				"layout": "default",
+				"tasks": [
+					"readme"
+				],
+				"plugins": [
+					"gulp-format-md"
+				],
+				"lint": {
+					"reflinks": true
+				},
+				"reflinks": [
+					"verb",
+					"verb-generate-readme"
+				]
+			},
+			"gitHead": "e429a49fe753b7b1a317f971c354a32f80a7ca57",
+			"_id": "async-array-reduce@1.0.0",
+			"_npmVersion": "5.4.1",
+			"_nodeVersion": "8.4.0",
+			"_npmUser": {
+				"name": "jonschlinkert",
+				"email": "github@sellside.com"
+			},
+			"maintainers": [
+				{
+					"name": "doowb",
+					"email": "brian.woodward@gmail.com"
+				},
+				{
+					"name": "jonschlinkert",
+					"email": "github@sellside.com"
+				}
+			],
+			"dist": {
+				"integrity": "sha512-4IRmdGYtDrJ8bJkClMUJUq61XvBIoVphoXmQsYtXUj8dlJET8gd7x1Y0N4WZYvrtt4NsBkEmuApln/rLjpf2eA==",
+				"shasum": "3651dc50a1b24ab8452e660316d06da7128be90b",
+				"tarball": "https://registry.npmjs.org/async-array-reduce/-/async-array-reduce-1.0.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/async-array-reduce-1.0.0.tgz_1504954912589_0.5929989742580801"
+			},
+			"directories": {}
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.0"
+	},
+	"time": {
+		"modified": "2017-09-09T11:01:53.562Z",
+		"created": "2015-08-01T13:02:54.365Z",
+		"0.1.0": "2015-08-01T13:02:54.365Z",
+		"0.2.0": "2016-08-02T09:08:33.868Z",
+		"0.2.1": "2016-11-17T04:55:36.051Z",
+		"1.0.0": "2017-09-09T11:01:53.562Z"
+	},
+	"_distfiles": {
+		"async-array-reduce-0.1.0.tgz": {
+			"url": "https://registry.npmjs.org/async-array-reduce/-/async-array-reduce-0.1.0.tgz",
+			"sha": "c74b88651d5c7f46ce5203d150c3cc7eedca57f2",
+			"registry": "npmjs"
+		},
+		"async-array-reduce-0.2.0.tgz": {
+			"url": "https://registry.npmjs.org/async-array-reduce/-/async-array-reduce-0.2.0.tgz",
+			"sha": "743d91238cf71e79e6d59e86ad080f6c437a5bd6",
+			"registry": "npmjs"
+		},
+		"async-array-reduce-0.2.1.tgz": {
+			"url": "https://registry.npmjs.org/async-array-reduce/-/async-array-reduce-0.2.1.tgz",
+			"sha": "c8be010a2b5cd00dea96c81116034693dfdd82d1",
+			"registry": "npmjs"
+		},
+		"async-array-reduce-1.0.0.tgz": {
+			"url": "https://registry.npmjs.org/async-array-reduce/-/async-array-reduce-1.0.0.tgz",
+			"sha": "3651dc50a1b24ab8452e660316d06da7128be90b",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {
+		"async-array-reduce-0.2.1.tgz": {
+			"shasum": "c8be010a2b5cd00dea96c81116034693dfdd82d1"
+		}
+	},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "\"59b3ca21-2b04\"",
+			"fetched": 1519912120193
+		}
+	},
+	"_rev": "7-5e0476a9c6a5d178",
+	"readme": "# async-array-reduce [![NPM version](https://img.shields.io/npm/v/async-array-reduce.svg?style=flat)](https://www.npmjs.com/package/async-array-reduce) [![NPM monthly downloads](https://img.shields.io/npm/dm/async-array-reduce.svg?style=flat)](https://npmjs.org/package/async-array-reduce) [![NPM total downloads](https://img.shields.io/npm/dt/async-array-reduce.svg?style=flat)](https://npmjs.org/package/async-array-reduce) [![Linux Build Status](https://img.shields.io/travis/jonschlinkert/async-array-reduce.svg?style=flat&label=Travis)](https://travis-ci.org/jonschlinkert/async-array-reduce)\n\n> Async array reduce. Asynchronously applies a function against an accumulator and each element in an array (from left to right, in series) to reduce it to a single value.\n\nFollow this project's author, [Jon Schlinkert](https://github.com/jonschlinkert), for updates on this project and others.\n\n## Install\n\nInstall with [npm](https://www.npmjs.com/):\n\n```sh\n$ npm install --save async-array-reduce\n```\n\n## Usage\n\n```js\nvar reduce = require('async-array-reduce');\n\nreduce(['a', 'b', 'c'], [], function(acc, val, next) {\n  next(null, acc.concat(val + val));\n}, function (err, result) {\n  console.log(result);\n  //=> ['aa', 'bb', 'cc']\n});\n```\n\n## About\n\n### Related projects\n\nYou might also be interested in these projects:\n\n* [arr-filter](https://www.npmjs.com/package/arr-filter): Faster alternative to javascript's native filter method. | [homepage](https://github.com/jonschlinkert/arr-filter \"Faster alternative to javascript's native filter method.\")\n* [arr-flatten](https://www.npmjs.com/package/arr-flatten): Recursively flatten an array or arrays. | [homepage](https://github.com/jonschlinkert/arr-flatten \"Recursively flatten an array or arrays.\")\n* [arr-reduce](https://www.npmjs.com/package/arr-reduce): Fast array reduce that also loops over sparse elements. | [homepage](https://github.com/jonschlinkert/arr-reduce \"Fast array reduce that also loops over sparse elements.\")\n* [array-unique](https://www.npmjs.com/package/array-unique): Remove duplicate values from an array. Fastest ES5 implementation. | [homepage](https://github.com/jonschlinkert/array-unique \"Remove duplicate values from an array. Fastest ES5 implementation.\")\n\n### Contributing\n\nPull requests and stars are always welcome. For bugs and feature requests, [please create an issue](../../issues/new).\n\n### Contributors\n\n| **Commits** | **Contributor** | \n| --- | --- |\n| 6 | [jonschlinkert](https://github.com/jonschlinkert) |\n| 2 | [doowb](https://github.com/doowb) |\n\n### Building docs\n\n_(This project's readme.md is generated by [verb](https://github.com/verbose/verb-generate-readme), please don't edit the readme directly. Any changes to the readme must be made in the [.verb.md](.verb.md) readme template.)_\n\nTo generate the readme, run the following command:\n\n```sh\n$ npm install -g verbose/verb#dev verb-generate-readme && verb\n```\n\n### Running tests\n\nRunning and reviewing unit tests is a great way to get familiarized with a library and its API. You can install dependencies and run tests with the following command:\n\n```sh\n$ npm install && npm test\n```\n\n### Author\n\n**Jon Schlinkert**\n\n* [github/jonschlinkert](https://github.com/jonschlinkert)\n* [twitter/jonschlinkert](https://twitter.com/jonschlinkert)\n\n### License\n\nCopyright © 2017, [Jon Schlinkert](https://github.com/jonschlinkert).\nReleased under the [MIT License](LICENSE).\n\n***\n\n_This file was generated by [verb-generate-readme](https://github.com/verbose/verb-generate-readme), v0.6.0, on September 09, 2017._"
+}

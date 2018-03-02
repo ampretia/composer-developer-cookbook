@@ -2,16 +2,18 @@
 
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 export FABRIC_VERSION=hlfv11
+#export NODE_CONFIG={"composer":{"wallet":{"type":"composer-wallet-filesystem","options":{"storePath":"./composer-store"}}}}
 
-COMPOSER_CLI=$(which composer)
 
 if [[ -z "${COMPOSER_CLI}" ]]; then
 	COMPOSER_CLI=$(npm bin)/composer
 fi
 
-${DIR}/scripts/fabric-tools/startFabric.sh  --dev
+echo "Using   ${COMPOSER_CLI}"
+
+${DIR}/scripts/fabric-tools/startFabric.sh 
 ${DIR}/scripts/fabric-tools/createPeerAdminCard.sh
-${COMPOSER_CLI} card delete --name admin@bsn-local 
+${COMPOSER_CLI} card delete --name admin@bsn-local || echo 'not there'
 
 read -n1 -rsp $'Please start the node container and press H to continue or Ctrl+C to exit...\n' 
 

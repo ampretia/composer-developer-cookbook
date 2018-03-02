@@ -1,0 +1,161 @@
+{
+	"name": "connect-ensure-login",
+	"versions": {
+		"0.1.0": {
+			"name": "connect-ensure-login",
+			"version": "0.1.0",
+			"description": "Login session ensuring middleware for Connect.",
+			"keywords": [
+				"connect",
+				"express",
+				"auth",
+				"authn",
+				"authentication",
+				"login",
+				"session",
+				"passport"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jaredhanson/connect-ensure-login.git"
+			},
+			"bugs": {
+				"url": "http://github.com/jaredhanson/connect-ensure-login/issues"
+			},
+			"author": {
+				"name": "Jared Hanson",
+				"email": "jaredhanson@gmail.com",
+				"url": "http://www.jaredhanson.net/"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://www.opensource.org/licenses/MIT"
+				}
+			],
+			"main": "./lib",
+			"dependencies": {},
+			"devDependencies": {
+				"vows": "0.6.x"
+			},
+			"scripts": {
+				"test": "NODE_PATH=lib node_modules/.bin/vows test/*-test.js"
+			},
+			"engines": {
+				"node": ">= 0.4.0"
+			},
+			"_npmUser": {
+				"name": "jaredhanson",
+				"email": "jaredhanson@gmail.com"
+			},
+			"_id": "connect-ensure-login@0.1.0",
+			"optionalDependencies": {},
+			"_engineSupported": true,
+			"_npmVersion": "1.1.21",
+			"_nodeVersion": "v0.6.17",
+			"_defaultsLoaded": true,
+			"dist": {
+				"shasum": "8fb2b4ad43f16ee53cb389e1227289f12154462e",
+				"tarball": "https://registry.npmjs.org/connect-ensure-login/-/connect-ensure-login-0.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "jaredhanson",
+					"email": "jaredhanson@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.1.1": {
+			"name": "connect-ensure-login",
+			"version": "0.1.1",
+			"description": "Login session ensuring middleware for Connect.",
+			"keywords": [
+				"connect",
+				"express",
+				"auth",
+				"authn",
+				"authentication",
+				"login",
+				"session",
+				"passport"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jaredhanson/connect-ensure-login.git"
+			},
+			"bugs": {
+				"url": "http://github.com/jaredhanson/connect-ensure-login/issues"
+			},
+			"author": {
+				"name": "Jared Hanson",
+				"email": "jaredhanson@gmail.com",
+				"url": "http://www.jaredhanson.net/"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://www.opensource.org/licenses/MIT"
+				}
+			],
+			"main": "./lib",
+			"dependencies": {},
+			"devDependencies": {
+				"vows": "0.6.x"
+			},
+			"scripts": {
+				"test": "NODE_PATH=lib node_modules/.bin/vows test/*-test.js"
+			},
+			"engines": {
+				"node": ">= 0.4.0"
+			},
+			"_id": "connect-ensure-login@0.1.1",
+			"dist": {
+				"shasum": "174dcc51243b9eac23f8d98215aeb6694e2e8a12",
+				"tarball": "https://registry.npmjs.org/connect-ensure-login/-/connect-ensure-login-0.1.1.tgz"
+			},
+			"_npmVersion": "1.1.62",
+			"_npmUser": {
+				"name": "jaredhanson",
+				"email": "jaredhanson@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "jaredhanson",
+					"email": "jaredhanson@gmail.com"
+				}
+			],
+			"directories": {}
+		}
+	},
+	"dist-tags": {
+		"latest": "0.1.1"
+	},
+	"time": {
+		"modified": "2017-12-09T23:37:20.595Z",
+		"created": "2012-07-01T03:00:06.019Z",
+		"0.1.0": "2012-07-01T03:00:07.524Z",
+		"0.1.1": "2013-05-11T19:08:48.902Z"
+	},
+	"_distfiles": {
+		"connect-ensure-login-0.1.0.tgz": {
+			"url": "https://registry.npmjs.org/connect-ensure-login/-/connect-ensure-login-0.1.0.tgz",
+			"sha": "8fb2b4ad43f16ee53cb389e1227289f12154462e",
+			"registry": "npmjs"
+		},
+		"connect-ensure-login-0.1.1.tgz": {
+			"url": "https://registry.npmjs.org/connect-ensure-login/-/connect-ensure-login-0.1.1.tgz",
+			"sha": "174dcc51243b9eac23f8d98215aeb6694e2e8a12",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "\"5a2c73b0-1685\"",
+			"fetched": 1519837506071
+		}
+	},
+	"_rev": "1-1922dde5de3fa3e3",
+	"readme": ""
+}

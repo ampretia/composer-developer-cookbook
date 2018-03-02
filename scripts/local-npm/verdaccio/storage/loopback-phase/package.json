@@ -1,0 +1,1029 @@
+{
+	"name": "loopback-phase",
+	"versions": {
+		"1.0.0": {
+			"name": "loopback-phase",
+			"version": "1.0.0",
+			"description": "Hook into a LoopBack application's phases",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Hook",
+				"Phase"
+			],
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/strongloop/loopback-phase"
+			},
+			"main": "index.js",
+			"scripts": {
+				"pretest": "jshint .",
+				"test": "mocha"
+			},
+			"license": {
+				"name": "Dual MIT/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-phase/blob/master/LICENSE"
+			},
+			"dependencies": {
+				"debug": "^2.0.0",
+				"async": "^0.9.0"
+			},
+			"devDependencies": {
+				"loopback": "^1.5.0",
+				"mocha": "^1.19.0",
+				"chai": "~1.9.2"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-phase/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-phase",
+			"_id": "loopback-phase@1.0.0",
+			"dist": {
+				"shasum": "f329c8b3ef6941f3091c35ef33e308f57264e031",
+				"tarball": "https://registry.npmjs.org/loopback-phase/-/loopback-phase-1.0.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.4.3",
+			"_npmUser": {
+				"name": "ritch",
+				"email": "skawful@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"1.0.1": {
+			"name": "loopback-phase",
+			"version": "1.0.1",
+			"description": "Hook into a LoopBack application's phases",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Hook",
+				"Phase"
+			],
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/strongloop/loopback-phase"
+			},
+			"main": "index.js",
+			"scripts": {
+				"pretest": "jshint .",
+				"test": "mocha"
+			},
+			"license": {
+				"name": "Dual MIT/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-phase/blob/master/LICENSE"
+			},
+			"dependencies": {
+				"debug": "^2.0.0",
+				"async": "^0.9.0"
+			},
+			"devDependencies": {
+				"loopback": "^1.5.0",
+				"mocha": "^1.19.0",
+				"chai": "~1.9.2"
+			},
+			"gitHead": "d8f394d45f30efa83352e5dee70f74cd5d1965d8",
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-phase/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-phase",
+			"_id": "loopback-phase@1.0.1",
+			"_shasum": "f2282a1b043b1ea92fab74ce3676e0b12eb30c40",
+			"_from": ".",
+			"_npmVersion": "1.4.27",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "miro.bajtos@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "f2282a1b043b1ea92fab74ce3676e0b12eb30c40",
+				"tarball": "https://registry.npmjs.org/loopback-phase/-/loopback-phase-1.0.1.tgz"
+			},
+			"directories": {}
+		},
+		"1.1.0": {
+			"name": "loopback-phase",
+			"version": "1.1.0",
+			"description": "Hook into a LoopBack application's phases",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Hook",
+				"Phase"
+			],
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/strongloop/loopback-phase"
+			},
+			"main": "index.js",
+			"scripts": {
+				"pretest": "jshint .",
+				"test": "mocha"
+			},
+			"license": {
+				"name": "Dual MIT/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-phase/blob/master/LICENSE"
+			},
+			"dependencies": {
+				"debug": "^2.1.0",
+				"async": "^0.9.0"
+			},
+			"devDependencies": {
+				"chai": "~1.10.0",
+				"jshint": "^2.5.10",
+				"express": "^4.0.0",
+				"mocha": "^2.0.1"
+			},
+			"gitHead": "314143f899eefac97ca2eec0030da8fd512677af",
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-phase/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-phase",
+			"_id": "loopback-phase@1.1.0",
+			"_shasum": "e627f813de8ecf4d61289bfe316b626601fc914e",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "e627f813de8ecf4d61289bfe316b626601fc914e",
+				"tarball": "https://registry.npmjs.org/loopback-phase/-/loopback-phase-1.1.0.tgz"
+			},
+			"directories": {}
+		},
+		"1.2.0": {
+			"name": "loopback-phase",
+			"version": "1.2.0",
+			"description": "Hook into a LoopBack application's phases",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Hook",
+				"Phase"
+			],
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/strongloop/loopback-phase"
+			},
+			"main": "index.js",
+			"scripts": {
+				"pretest": "jshint .",
+				"test": "mocha"
+			},
+			"license": {
+				"name": "Dual MIT/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-phase/blob/master/LICENSE"
+			},
+			"dependencies": {
+				"async": "^0.9.0",
+				"debug": "^2.1.0"
+			},
+			"devDependencies": {
+				"chai": "~1.10.0",
+				"jshint": "^2.5.10",
+				"express": "^4.0.0",
+				"mocha": "^2.0.1"
+			},
+			"gitHead": "c1bbfe2b155335dbe4e303f9dcc1ddabd2110495",
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-phase/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-phase",
+			"_id": "loopback-phase@1.2.0",
+			"_shasum": "3d6775fae73e376f97085cf340e743ef36270426",
+			"_from": ".",
+			"_npmVersion": "2.1.9",
+			"_nodeVersion": "0.10.33",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "miro.bajtos@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				}
+			],
+			"dist": {
+				"shasum": "3d6775fae73e376f97085cf340e743ef36270426",
+				"tarball": "https://registry.npmjs.org/loopback-phase/-/loopback-phase-1.2.0.tgz"
+			},
+			"directories": {}
+		},
+		"1.3.0": {
+			"name": "loopback-phase",
+			"version": "1.3.0",
+			"description": "Hook into a LoopBack application's phases",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Hook",
+				"Phase"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/strongloop/loopback-phase.git"
+			},
+			"main": "index.js",
+			"scripts": {
+				"pretest": "jshint .",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^0.9.0",
+				"debug": "^2.1.0"
+			},
+			"devDependencies": {
+				"chai": "~1.10.0",
+				"jshint": "^2.5.10",
+				"express": "^4.0.0",
+				"mocha": "^2.0.1"
+			},
+			"gitHead": "3a4205972bd421924ee0dce6c3f37f9df5f0b9ba",
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-phase/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-phase#readme",
+			"_id": "loopback-phase@1.3.0",
+			"_shasum": "ff44594f35d57294c475c4d763da6c5f4eabc75b",
+			"_from": ".",
+			"_npmVersion": "2.14.12",
+			"_nodeVersion": "4.2.6",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "mbajtoss@gmail.com"
+			},
+			"dist": {
+				"shasum": "ff44594f35d57294c475c4d763da6c5f4eabc75b",
+				"tarball": "https://registry.npmjs.org/loopback-phase/-/loopback-phase-1.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				}
+			],
+			"directories": {}
+		},
+		"1.3.1": {
+			"name": "loopback-phase",
+			"version": "1.3.1",
+			"description": "Hook into a LoopBack application's phases",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Hook",
+				"Phase"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/strongloop/loopback-phase.git"
+			},
+			"main": "index.js",
+			"scripts": {
+				"pretest": "jshint .",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^0.9.0",
+				"debug": "^2.1.0"
+			},
+			"devDependencies": {
+				"chai": "~1.10.0",
+				"jshint": "^2.5.10",
+				"express": "^4.0.0",
+				"mocha": "^2.0.1"
+			},
+			"gitHead": "e1c46b7cfcbb6d0db9c8f004126096efc88eecb0",
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-phase/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-phase#readme",
+			"_id": "loopback-phase@1.3.1",
+			"_shasum": "5ac9714c230461331f034384d2499718a5fc231a",
+			"_from": ".",
+			"_npmVersion": "3.8.8",
+			"_nodeVersion": "4.4.3",
+			"_npmUser": {
+				"name": "rmg",
+				"email": "r.m.graham@gmail.com"
+			},
+			"dist": {
+				"shasum": "5ac9714c230461331f034384d2499718a5fc231a",
+				"tarball": "https://registry.npmjs.org/loopback-phase/-/loopback-phase-1.3.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/loopback-phase-1.3.1.tgz_1462561907197_0.5738599663600326"
+			},
+			"directories": {}
+		},
+		"1.4.0": {
+			"name": "loopback-phase",
+			"version": "1.4.0",
+			"description": "Hook into a LoopBack application's phases",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Hook",
+				"Phase"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/strongloop/loopback-phase.git"
+			},
+			"main": "index.js",
+			"scripts": {
+				"pretest": "jshint .",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^0.9.0",
+				"debug": "^2.1.0",
+				"strong-globalize": "^2.6.2"
+			},
+			"devDependencies": {
+				"chai": "~1.10.0",
+				"jshint": "^2.5.10",
+				"express": "^4.0.0",
+				"mocha": "^2.0.1"
+			},
+			"gitHead": "3ee8a24aacdb7d2534164eb0c953faae2bdb0f53",
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-phase/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-phase#readme",
+			"_id": "loopback-phase@1.4.0",
+			"_shasum": "fb8f7a1c9c0f7e7ff1054801d392534dd2ffba89",
+			"_from": ".",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.5.0",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "mbajtoss@gmail.com"
+			},
+			"dist": {
+				"shasum": "fb8f7a1c9c0f7e7ff1054801d392534dd2ffba89",
+				"tarball": "https://registry.npmjs.org/loopback-phase/-/loopback-phase-1.4.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "amir-61",
+					"email": "amirali.jfr61@gmail.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "qpresley",
+					"email": "qpresley@ca.ibm.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "richardpringle",
+					"email": "rpring9@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				},
+				{
+					"name": "tonyf-ibm",
+					"email": "tffrench@us.ibm.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/loopback-phase-1.4.0.tgz_1473080476012_0.9691417156718671"
+			},
+			"directories": {}
+		},
+		"1.4.1": {
+			"name": "loopback-phase",
+			"version": "1.4.1",
+			"description": "Hook into a LoopBack application's phases",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Hook",
+				"Phase"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/strongloop/loopback-phase.git"
+			},
+			"main": "index.js",
+			"scripts": {
+				"pretest": "jshint .",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^0.9.0",
+				"debug": "^2.1.0",
+				"strong-globalize": "^2.6.2"
+			},
+			"devDependencies": {
+				"chai": "~1.10.0",
+				"jshint": "^2.5.10",
+				"express": "^4.0.0",
+				"mocha": "^2.0.1"
+			},
+			"gitHead": "acd74eda69b66c13697430cc571d4a8e14e2f2a7",
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-phase/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-phase#readme",
+			"_id": "loopback-phase@1.4.1",
+			"_shasum": "d76e5ab0e6ec79cc5370d3c530f634871020bcee",
+			"_from": ".",
+			"_npmVersion": "2.15.1",
+			"_nodeVersion": "4.4.3",
+			"_npmUser": {
+				"name": "0candy",
+				"email": "ngcandy@ca.ibm.com"
+			},
+			"dist": {
+				"shasum": "d76e5ab0e6ec79cc5370d3c530f634871020bcee",
+				"tarball": "https://registry.npmjs.org/loopback-phase/-/loopback-phase-1.4.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "0candy",
+					"email": "ngcandy@ca.ibm.com"
+				},
+				{
+					"name": "amir-61",
+					"email": "amirali.jfr61@gmail.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "qpresley",
+					"email": "qpresley@ca.ibm.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "richardpringle",
+					"email": "rpring9@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				},
+				{
+					"name": "tonyf-ibm",
+					"email": "tffrench@us.ibm.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/loopback-phase-1.4.1.tgz_1475864010303_0.7822450364474207"
+			},
+			"directories": {}
+		},
+		"3.0.0": {
+			"name": "loopback-phase",
+			"version": "3.0.0",
+			"description": "Hook into a LoopBack application's phases",
+			"engines": {
+				"node": ">=4"
+			},
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Hook",
+				"Phase"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/strongloop/loopback-phase.git"
+			},
+			"main": "index.js",
+			"scripts": {
+				"pretest": "jshint .",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^0.9.0",
+				"debug": "^2.1.0",
+				"strong-globalize": "^2.6.2"
+			},
+			"devDependencies": {
+				"chai": "~1.10.0",
+				"jshint": "^2.5.10",
+				"express": "^4.0.0",
+				"mocha": "^2.0.1"
+			},
+			"gitHead": "da66a4d2acbba5ae35b46ae78923356c74185d93",
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-phase/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-phase#readme",
+			"_id": "loopback-phase@3.0.0",
+			"_shasum": "75234f3bb94c069e6a0a3125ad47ff8fc536d366",
+			"_from": ".",
+			"_npmVersion": "3.10.8",
+			"_nodeVersion": "6.9.1",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "mbajtoss@gmail.com"
+			},
+			"dist": {
+				"shasum": "75234f3bb94c069e6a0a3125ad47ff8fc536d366",
+				"tarball": "https://registry.npmjs.org/loopback-phase/-/loopback-phase-3.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "0candy",
+					"email": "ngcandy@ca.ibm.com"
+				},
+				{
+					"name": "amir-61",
+					"email": "amirali.jfr61@gmail.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "davidcheung",
+					"email": "davidcheung@live.ca"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "jannyhou2016",
+					"email": "juehou@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "loay",
+					"email": "gewily@ca.ibm.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "qpresley",
+					"email": "qpresley@ca.ibm.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				},
+				{
+					"name": "thegman",
+					"email": "gpandya@live.com"
+				},
+				{
+					"name": "tonyf-ibm",
+					"email": "tffrench@us.ibm.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/loopback-phase-3.0.0.tgz_1482320290254_0.03041480970568955"
+			},
+			"directories": {}
+		},
+		"3.1.0": {
+			"name": "loopback-phase",
+			"version": "3.1.0",
+			"description": "Hook into a LoopBack application's phases",
+			"engines": {
+				"node": ">=4"
+			},
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Hook",
+				"Phase"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/strongloop/loopback-phase.git"
+			},
+			"main": "index.js",
+			"scripts": {
+				"pretest": "jshint .",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^0.9.0",
+				"debug": "^2.1.0",
+				"strong-globalize": "^3.1.0"
+			},
+			"devDependencies": {
+				"chai": "~1.10.0",
+				"jshint": "^2.5.10",
+				"express": "^4.0.0",
+				"mocha": "^2.0.1"
+			},
+			"gitHead": "7fc8ab4b52a39e6c1efdec9965930c47345c15d0",
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-phase/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-phase#readme",
+			"_id": "loopback-phase@3.1.0",
+			"_npmVersion": "5.4.2",
+			"_nodeVersion": "8.7.0",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "mbajtoss@gmail.com"
+			},
+			"dist": {
+				"integrity": "sha512-0FFccBdB28h5/G9r1bjeuDqE5xD/Wv42uo8dWKMz4yd300+Jc5dfso/dmJzdSyLMxI8RLtx15mkFT9JVAXRduw==",
+				"shasum": "91adc8e9847cfb521a3d29f96be35f67860cae42",
+				"tarball": "https://registry.npmjs.org/loopback-phase/-/loopback-phase-3.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"email": "kjdelisle@gmail.com",
+					"name": "kjdelisle"
+				},
+				{
+					"email": "tffrench@us.ibm.com",
+					"name": "tonyf-ibm"
+				},
+				{
+					"email": "gpandya@live.com",
+					"name": "thegman"
+				},
+				{
+					"email": "qpresley@ca.ibm.com",
+					"name": "qpresley"
+				},
+				{
+					"email": "gewily@ca.ibm.com",
+					"name": "loay"
+				},
+				{
+					"email": "juehou@ca.ibm.com",
+					"name": "jannyhou2016"
+				},
+				{
+					"email": "captain@hacksparrow.com",
+					"name": "hacksparrow"
+				},
+				{
+					"email": "davidcheung@live.ca",
+					"name": "davidcheung"
+				},
+				{
+					"email": "binadmt@hotmail.com",
+					"name": "b-admike"
+				},
+				{
+					"email": "amirali.jfr61@gmail.com",
+					"name": "amir-61"
+				},
+				{
+					"email": "ngcandy@ca.ibm.com",
+					"name": "0candy"
+				},
+				{
+					"email": "superkhau@gmail.com",
+					"name": "superkhau"
+				},
+				{
+					"email": "setogit@gmail.com",
+					"name": "setogit"
+				},
+				{
+					"email": "mbajtoss@gmail.com",
+					"name": "bajtos"
+				},
+				{
+					"email": "rmg@ca.ibm.com",
+					"name": "ibmcloud-admin"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "rfeng"
+				},
+				{
+					"email": "skawful@gmail.com",
+					"name": "ritch"
+				},
+				{
+					"email": "kraman@gmail.com",
+					"name": "kraman"
+				},
+				{
+					"email": "strngops@us.ibm.com",
+					"name": "strongloop"
+				},
+				{
+					"email": "r.m.graham@gmail.com",
+					"name": "rmg"
+				},
+				{
+					"email": "vieuxtech@gmail.com",
+					"name": "octet"
+				},
+				{
+					"email": "rashmihunt@gmail.com",
+					"name": "rashmihunt"
+				},
+				{
+					"email": "mahesh.patsute@ibm.com",
+					"name": "mahesh.patsute"
+				},
+				{
+					"email": "dianahmlau@gmail.com",
+					"name": "dhmlau"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "loopback-admin"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/loopback-phase-3.1.0.tgz_1507901834760_0.9253028265666217"
+			},
+			"directories": {}
+		}
+	},
+	"dist-tags": {
+		"latest": "3.1.0"
+	},
+	"time": {
+		"modified": "2018-01-11T17:05:21.971Z",
+		"created": "2014-10-22T21:57:16.781Z",
+		"1.0.0": "2014-10-22T21:57:16.781Z",
+		"1.0.1": "2014-11-07T07:36:38.914Z",
+		"1.1.0": "2014-11-13T21:31:32.664Z",
+		"1.2.0": "2014-12-11T17:23:48.006Z",
+		"1.3.0": "2016-02-01T17:01:16.558Z",
+		"1.3.1": "2016-05-06T19:11:47.699Z",
+		"1.4.0": "2016-09-05T13:01:18.074Z",
+		"1.4.1": "2016-10-07T18:13:30.571Z",
+		"3.0.0": "2016-12-21T11:38:10.779Z",
+		"3.1.0": "2017-10-13T13:37:16.570Z"
+	},
+	"_distfiles": {
+		"loopback-phase-1.0.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-phase/-/loopback-phase-1.0.0.tgz",
+			"sha": "f329c8b3ef6941f3091c35ef33e308f57264e031",
+			"registry": "npmjs"
+		},
+		"loopback-phase-1.0.1.tgz": {
+			"url": "https://registry.npmjs.org/loopback-phase/-/loopback-phase-1.0.1.tgz",
+			"sha": "f2282a1b043b1ea92fab74ce3676e0b12eb30c40",
+			"registry": "npmjs"
+		},
+		"loopback-phase-1.1.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-phase/-/loopback-phase-1.1.0.tgz",
+			"sha": "e627f813de8ecf4d61289bfe316b626601fc914e",
+			"registry": "npmjs"
+		},
+		"loopback-phase-1.2.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-phase/-/loopback-phase-1.2.0.tgz",
+			"sha": "3d6775fae73e376f97085cf340e743ef36270426",
+			"registry": "npmjs"
+		},
+		"loopback-phase-1.3.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-phase/-/loopback-phase-1.3.0.tgz",
+			"sha": "ff44594f35d57294c475c4d763da6c5f4eabc75b",
+			"registry": "npmjs"
+		},
+		"loopback-phase-1.3.1.tgz": {
+			"url": "https://registry.npmjs.org/loopback-phase/-/loopback-phase-1.3.1.tgz",
+			"sha": "5ac9714c230461331f034384d2499718a5fc231a",
+			"registry": "npmjs"
+		},
+		"loopback-phase-1.4.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-phase/-/loopback-phase-1.4.0.tgz",
+			"sha": "fb8f7a1c9c0f7e7ff1054801d392534dd2ffba89",
+			"registry": "npmjs"
+		},
+		"loopback-phase-1.4.1.tgz": {
+			"url": "https://registry.npmjs.org/loopback-phase/-/loopback-phase-1.4.1.tgz",
+			"sha": "d76e5ab0e6ec79cc5370d3c530f634871020bcee",
+			"registry": "npmjs"
+		},
+		"loopback-phase-3.0.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-phase/-/loopback-phase-3.0.0.tgz",
+			"sha": "75234f3bb94c069e6a0a3125ad47ff8fc536d366",
+			"registry": "npmjs"
+		},
+		"loopback-phase-3.1.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-phase/-/loopback-phase-3.1.0.tgz",
+			"sha": "91adc8e9847cfb521a3d29f96be35f67860cae42",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "\"5a579951-4a16\"",
+			"fetched": 1519837511277
+		}
+	},
+	"_rev": "1-80379755fa224de2",
+	"readme": "# LoopBack Phase\n\nHook into the various phases of a LoopBack application.\n\n## Installation\n\n    npm install loopback-phase\n\n## Usage\n\n```js\nvar PhaseList = require('loopback-phase').PhaseList;\nvar phases = new PhaseList();\nphases.add('first');\nphases.add('second');\nphases.add('third');\n\nvar first = phases.find('first');\nvar second = phases.find('second');\n\nfirst.use(function(ctx, cb) {\n  console.log('this is the first phase!');\n  cb();\n});\n\nsecond.use(function(ctx, cb) {\n  console.log('this is the second phase!');\n  cb();\n});\n\nphases.run(ctx);\n```\n\nSee [API docs](http://apidocs.strongloop.com/loopback-phase/) for\ncomplete API reference.\n\n## License\n\n[MIT](LICENSE).\n"
+}

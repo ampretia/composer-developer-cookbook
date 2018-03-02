@@ -1,0 +1,2967 @@
+{
+	"name": "loopback-connector",
+	"versions": {
+		"1.0.0": {
+			"name": "loopback-connector",
+			"version": "1.0.0",
+			"description": "Building blocks for LoopBack connectors",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Connector"
+			],
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/strongloop/loopback-connector"
+			},
+			"main": "index.js",
+			"scripts": {
+				"pretest": "jshint .",
+				"test": "mocha"
+			},
+			"license": {
+				"name": "Dual MIT/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-connector/blob/master/LICENSE"
+			},
+			"dependencies": {
+				"async": "^0.9.0"
+			},
+			"devDependencies": {
+				"mocha": "^1.19.0"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-connector/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-connector",
+			"_id": "loopback-connector@1.0.0",
+			"dist": {
+				"shasum": "6deb1f0f9a8e9fd3154b9026d4513809a19a59e7",
+				"tarball": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-1.0.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.4.3",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "miro.bajtos@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"1.1.0": {
+			"name": "loopback-connector",
+			"version": "1.1.0",
+			"description": "Building blocks for LoopBack connectors",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Connector"
+			],
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/strongloop/loopback-connector"
+			},
+			"main": "index.js",
+			"scripts": {
+				"pretest": "jshint .",
+				"test": "mocha"
+			},
+			"license": {
+				"name": "Dual MIT/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-connector/blob/master/LICENSE"
+			},
+			"dependencies": {
+				"async": "^0.9.0"
+			},
+			"devDependencies": {
+				"mocha": "^1.19.0"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-connector/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-connector",
+			"_id": "loopback-connector@1.1.0",
+			"_shasum": "18612a54f37fe8295625cc180e7cf7d49ba487ca",
+			"_from": ".",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "18612a54f37fe8295625cc180e7cf7d49ba487ca",
+				"tarball": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-1.1.0.tgz"
+			},
+			"directories": {}
+		},
+		"1.1.1": {
+			"name": "loopback-connector",
+			"version": "1.1.1",
+			"description": "Building blocks for LoopBack connectors",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Connector"
+			],
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/strongloop/loopback-connector"
+			},
+			"main": "index.js",
+			"scripts": {
+				"pretest": "jshint .",
+				"test": "mocha"
+			},
+			"license": {
+				"name": "Dual MIT/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-connector/blob/master/LICENSE"
+			},
+			"dependencies": {
+				"async": "^0.9.0"
+			},
+			"devDependencies": {
+				"mocha": "^1.19.0"
+			},
+			"gitHead": "3d356c579cb48fb625d2b9141ca55cf360948bc2",
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-connector/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-connector",
+			"_id": "loopback-connector@1.1.1",
+			"_shasum": "2c9f8a3e1b407c3e37a07e7e9e5e457549628019",
+			"_from": ".",
+			"_npmVersion": "1.4.14",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "2c9f8a3e1b407c3e37a07e7e9e5e457549628019",
+				"tarball": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-1.1.1.tgz"
+			},
+			"directories": {}
+		},
+		"1.2.0": {
+			"name": "loopback-connector",
+			"version": "1.2.0",
+			"description": "Building blocks for LoopBack connectors",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Connector"
+			],
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/strongloop/loopback-connector"
+			},
+			"main": "index.js",
+			"scripts": {
+				"pretest": "jshint .",
+				"test": "mocha"
+			},
+			"license": {
+				"name": "Dual MIT/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-connector/blob/master/LICENSE"
+			},
+			"dependencies": {
+				"async": "^0.9.0"
+			},
+			"devDependencies": {
+				"chai": "~1.9.2",
+				"loopback-datasource-juggler": "^2.0.0",
+				"mocha": "^1.19.0"
+			},
+			"gitHead": "9278a608cee67ce5efd6450c40b6526be5d3b3a2",
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-connector/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-connector",
+			"_id": "loopback-connector@1.2.0",
+			"_shasum": "73938ea2567a793f53cb8adceb9f3e3ed0e8d27b",
+			"_from": ".",
+			"_npmVersion": "1.4.21",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "73938ea2567a793f53cb8adceb9f3e3ed0e8d27b",
+				"tarball": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-1.2.0.tgz"
+			},
+			"directories": {}
+		},
+		"1.2.1": {
+			"name": "loopback-connector",
+			"version": "1.2.1",
+			"description": "Building blocks for LoopBack connectors",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Connector"
+			],
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/strongloop/loopback-connector"
+			},
+			"main": "index.js",
+			"scripts": {
+				"pretest": "jshint .",
+				"test": "mocha"
+			},
+			"license": {
+				"name": "Dual MIT/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-connector/blob/master/LICENSE"
+			},
+			"dependencies": {
+				"async": "^0.9.0"
+			},
+			"devDependencies": {
+				"chai": "~1.9.2",
+				"jshint": "^2.6.0",
+				"loopback-datasource-juggler": "^2.0.0",
+				"mocha": "^1.19.0"
+			},
+			"gitHead": "bd7cdb6f6d11dbe7762d7830219f97124dddf482",
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-connector/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-connector",
+			"_id": "loopback-connector@1.2.1",
+			"_shasum": "454e67a19203f5b86c766f581aa2ba309d38d9c2",
+			"_from": ".",
+			"_npmVersion": "2.2.0",
+			"_nodeVersion": "1.0.3",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "miro.bajtos@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "454e67a19203f5b86c766f581aa2ba309d38d9c2",
+				"tarball": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-1.2.1.tgz"
+			},
+			"directories": {}
+		},
+		"2.0.0": {
+			"name": "loopback-connector",
+			"version": "2.0.0",
+			"description": "Building blocks for LoopBack connectors",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Connector"
+			],
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/strongloop/loopback-connector"
+			},
+			"main": "index.js",
+			"scripts": {
+				"pretest": "jshint .",
+				"test": "mocha"
+			},
+			"license": {
+				"name": "Dual MIT/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-connector/blob/master/LICENSE"
+			},
+			"dependencies": {
+				"async": "^0.9.0",
+				"debug": "^2.1.3"
+			},
+			"devDependencies": {
+				"chai": "~2.3.0",
+				"jshint": "^2.7.0",
+				"loopback-datasource-juggler": "^2.27.0",
+				"mocha": "^2.2.4"
+			},
+			"gitHead": "772132497d53d3bb225e417b624b369243fb5b61",
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-connector/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-connector",
+			"_id": "loopback-connector@2.0.0",
+			"_shasum": "9d20ad4406dd362014f8760142f7024edff8eee7",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "9d20ad4406dd362014f8760142f7024edff8eee7",
+				"tarball": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-2.0.0.tgz"
+			},
+			"directories": {}
+		},
+		"2.0.1": {
+			"name": "loopback-connector",
+			"version": "2.0.1",
+			"description": "Building blocks for LoopBack connectors",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Connector"
+			],
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/strongloop/loopback-connector"
+			},
+			"main": "index.js",
+			"scripts": {
+				"pretest": "jshint .",
+				"test": "mocha"
+			},
+			"license": {
+				"name": "Dual MIT/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-connector/blob/master/LICENSE"
+			},
+			"dependencies": {
+				"async": "^0.9.0",
+				"debug": "^2.1.3"
+			},
+			"devDependencies": {
+				"chai": "~2.3.0",
+				"jshint": "^2.7.0",
+				"loopback-datasource-juggler": "^2.27.0",
+				"mocha": "^2.2.4"
+			},
+			"gitHead": "e33378b5b7c6473cdd3f3b183973a5be323ff0d8",
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-connector/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-connector",
+			"_id": "loopback-connector@2.0.1",
+			"_shasum": "2c8eeb58d237cb7d45291365325368a09c111a78",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "2c8eeb58d237cb7d45291365325368a09c111a78",
+				"tarball": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-2.0.1.tgz"
+			},
+			"directories": {}
+		},
+		"2.1.0": {
+			"name": "loopback-connector",
+			"version": "2.1.0",
+			"description": "Building blocks for LoopBack connectors",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Connector"
+			],
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/strongloop/loopback-connector"
+			},
+			"main": "index.js",
+			"scripts": {
+				"pretest": "jshint .",
+				"test": "mocha"
+			},
+			"license": {
+				"name": "Dual MIT/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-connector/blob/master/LICENSE"
+			},
+			"dependencies": {
+				"async": "^0.9.0",
+				"debug": "^2.1.3"
+			},
+			"devDependencies": {
+				"chai": "~2.3.0",
+				"jshint": "^2.7.0",
+				"loopback-datasource-juggler": "^2.28.0",
+				"mocha": "^2.2.4"
+			},
+			"gitHead": "5815e79395a97a1568a137b7df36d2e3644f1da5",
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-connector/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-connector",
+			"_id": "loopback-connector@2.1.0",
+			"_shasum": "c0b5fedd21dcfcf4e8e95faa5e33f0a88390c926",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "c0b5fedd21dcfcf4e8e95faa5e33f0a88390c926",
+				"tarball": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-2.1.0.tgz"
+			},
+			"directories": {}
+		},
+		"2.1.1": {
+			"name": "loopback-connector",
+			"version": "2.1.1",
+			"description": "Building blocks for LoopBack connectors",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Connector"
+			],
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/strongloop/loopback-connector"
+			},
+			"main": "index.js",
+			"scripts": {
+				"pretest": "jshint .",
+				"test": "mocha"
+			},
+			"license": {
+				"name": "Dual MIT/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-connector/blob/master/LICENSE"
+			},
+			"dependencies": {
+				"async": "^0.9.0",
+				"debug": "^2.1.3"
+			},
+			"devDependencies": {
+				"chai": "~2.3.0",
+				"jshint": "^2.7.0",
+				"loopback-datasource-juggler": "^2.28.0",
+				"mocha": "^2.2.4"
+			},
+			"gitHead": "09fd0ea54f564a338905f26ff9991ab5478bc2b4",
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-connector/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-connector",
+			"_id": "loopback-connector@2.1.1",
+			"_shasum": "14b826df80d28091386dc37b52faea280ea978fc",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "14b826df80d28091386dc37b52faea280ea978fc",
+				"tarball": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-2.1.1.tgz"
+			},
+			"directories": {}
+		},
+		"2.1.2": {
+			"name": "loopback-connector",
+			"version": "2.1.2",
+			"description": "Building blocks for LoopBack connectors",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Connector"
+			],
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/strongloop/loopback-connector"
+			},
+			"main": "index.js",
+			"scripts": {
+				"pretest": "jshint .",
+				"test": "mocha"
+			},
+			"license": {
+				"name": "Dual MIT/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-connector/blob/master/LICENSE"
+			},
+			"dependencies": {
+				"async": "^0.9.0",
+				"debug": "^2.1.3"
+			},
+			"devDependencies": {
+				"chai": "~2.3.0",
+				"jshint": "^2.7.0",
+				"loopback-datasource-juggler": "^2.28.0",
+				"mocha": "^2.2.4"
+			},
+			"gitHead": "ceea61e93c8067e3eaa1e78f645ff740ac581bcc",
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-connector/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-connector",
+			"_id": "loopback-connector@2.1.2",
+			"_shasum": "a414c9969ae702693944abd0ac0b245e5531dbcf",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "a414c9969ae702693944abd0ac0b245e5531dbcf",
+				"tarball": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-2.1.2.tgz"
+			},
+			"directories": {}
+		},
+		"2.2.0": {
+			"name": "loopback-connector",
+			"version": "2.2.0",
+			"description": "Building blocks for LoopBack connectors",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Connector"
+			],
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/strongloop/loopback-connector"
+			},
+			"main": "index.js",
+			"scripts": {
+				"pretest": "jshint .",
+				"test": "mocha"
+			},
+			"license": {
+				"name": "Dual MIT/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-connector/blob/master/LICENSE"
+			},
+			"dependencies": {
+				"async": "^1.0.0",
+				"debug": "^2.2.0"
+			},
+			"devDependencies": {
+				"chai": "~2.3.0",
+				"jshint": "^2.7.0",
+				"loopback-datasource-juggler": "^2.29.0",
+				"mocha": "^2.2.5"
+			},
+			"gitHead": "455774e666574773ef71d7f3deb51a290282361d",
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-connector/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-connector",
+			"_id": "loopback-connector@2.2.0",
+			"_shasum": "25e895e95418edeef8a82981992d4a7989b5c33b",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "25e895e95418edeef8a82981992d4a7989b5c33b",
+				"tarball": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-2.2.0.tgz"
+			},
+			"directories": {}
+		},
+		"2.2.1": {
+			"name": "loopback-connector",
+			"version": "2.2.1",
+			"description": "Building blocks for LoopBack connectors",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Connector"
+			],
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/strongloop/loopback-connector"
+			},
+			"main": "index.js",
+			"scripts": {
+				"pretest": "jshint .",
+				"test": "mocha"
+			},
+			"license": {
+				"name": "Dual MIT/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-connector/blob/master/LICENSE"
+			},
+			"dependencies": {
+				"async": "^1.0.0",
+				"debug": "^2.2.0"
+			},
+			"devDependencies": {
+				"chai": "~2.3.0",
+				"jshint": "^2.7.0",
+				"loopback-datasource-juggler": "^2.29.0",
+				"mocha": "^2.2.5"
+			},
+			"gitHead": "1996c83d9552aecde24a939b13748db4a5cc6abd",
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-connector/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-connector",
+			"_id": "loopback-connector@2.2.1",
+			"_shasum": "844b9f2c266b0fb710cbb16edc5db59f09eb18e0",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "844b9f2c266b0fb710cbb16edc5db59f09eb18e0",
+				"tarball": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-2.2.1.tgz"
+			},
+			"directories": {}
+		},
+		"2.2.2": {
+			"name": "loopback-connector",
+			"version": "2.2.2",
+			"description": "Building blocks for LoopBack connectors",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Connector"
+			],
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/strongloop/loopback-connector"
+			},
+			"main": "index.js",
+			"scripts": {
+				"pretest": "jshint .",
+				"test": "mocha"
+			},
+			"license": {
+				"name": "Dual MIT/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-connector/blob/master/LICENSE"
+			},
+			"dependencies": {
+				"async": "^1.0.0",
+				"debug": "^2.2.0"
+			},
+			"devDependencies": {
+				"chai": "~2.3.0",
+				"jshint": "^2.7.0",
+				"loopback-datasource-juggler": "^2.29.0",
+				"mocha": "^2.2.5"
+			},
+			"gitHead": "6989cfc5fb989de2e3bae392b5f0d695cf276d54",
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-connector/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-connector",
+			"_id": "loopback-connector@2.2.2",
+			"_shasum": "138a4eee8a20e0a87e01b32fb7e8d3c2ff53dd0b",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "138a4eee8a20e0a87e01b32fb7e8d3c2ff53dd0b",
+				"tarball": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-2.2.2.tgz"
+			},
+			"directories": {}
+		},
+		"2.3.0": {
+			"name": "loopback-connector",
+			"version": "2.3.0",
+			"description": "Building blocks for LoopBack connectors",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Connector"
+			],
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/strongloop/loopback-connector"
+			},
+			"main": "index.js",
+			"scripts": {
+				"pretest": "jshint .",
+				"test": "mocha"
+			},
+			"license": {
+				"name": "Dual MIT/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-connector/blob/master/LICENSE"
+			},
+			"dependencies": {
+				"async": "^1.0.0",
+				"debug": "^2.2.0"
+			},
+			"devDependencies": {
+				"chai": "~2.3.0",
+				"jshint": "^2.7.0",
+				"loopback-datasource-juggler": "^2.29.0",
+				"mocha": "^2.2.5"
+			},
+			"gitHead": "12aa7d64856ba5a43c2b7dede9c2877f6fb18cd2",
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-connector/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-connector",
+			"_id": "loopback-connector@2.3.0",
+			"_shasum": "ea62fea190d6824e2e77d7da6d7dbb138c884918",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "ea62fea190d6824e2e77d7da6d7dbb138c884918",
+				"tarball": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-2.3.0.tgz"
+			},
+			"directories": {}
+		},
+		"2.4.0": {
+			"name": "loopback-connector",
+			"version": "2.4.0",
+			"description": "Building blocks for LoopBack connectors",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Connector"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/strongloop/loopback-connector.git"
+			},
+			"main": "index.js",
+			"scripts": {
+				"lint": "eslint .",
+				"posttest": "npm run lint",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^1.0.0",
+				"debug": "^2.2.0"
+			},
+			"devDependencies": {
+				"chai": "~2.3.0",
+				"eslint": "^2.7.0",
+				"eslint-config-loopback": "^1.0.0",
+				"loopback-datasource-juggler": "^2.29.0",
+				"mocha": "^2.2.5"
+			},
+			"gitHead": "17fc349cf47461b0de6b5d108e17d7faaa5e80ee",
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-connector/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-connector#readme",
+			"_id": "loopback-connector@2.4.0",
+			"_shasum": "8eee9c0eb1d801ea03adda12a0da7e268e85dc2f",
+			"_from": ".",
+			"_npmVersion": "3.9.3",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				}
+			],
+			"dist": {
+				"shasum": "8eee9c0eb1d801ea03adda12a0da7e268e85dc2f",
+				"tarball": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-2.4.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/loopback-connector-2.4.0.tgz_1467233118444_0.21150535764172673"
+			},
+			"directories": {}
+		},
+		"2.5.0": {
+			"name": "loopback-connector",
+			"version": "2.5.0",
+			"description": "Building blocks for LoopBack connectors",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Connector"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/strongloop/loopback-connector.git"
+			},
+			"main": "index.js",
+			"scripts": {
+				"lint": "eslint .",
+				"posttest": "npm run lint",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^1.0.0",
+				"debug": "^2.2.0",
+				"strong-globalize": "^2.5.8"
+			},
+			"devDependencies": {
+				"chai": "~2.3.0",
+				"eslint": "^2.7.0",
+				"eslint-config-loopback": "^1.0.0",
+				"loopback-datasource-juggler": "^3.0.0",
+				"mocha": "^2.2.5"
+			},
+			"gitHead": "782a68e9148f70e8014cc711f568f84048f8a396",
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-connector/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-connector#readme",
+			"_id": "loopback-connector@2.5.0",
+			"_shasum": "376dba8736bad71bf97adc7fca4919916f6b2e21",
+			"_from": ".",
+			"_npmVersion": "2.15.1",
+			"_nodeVersion": "4.4.3",
+			"_npmUser": {
+				"name": "0candy",
+				"email": "ngcandy@ca.ibm.com"
+			},
+			"dist": {
+				"shasum": "376dba8736bad71bf97adc7fca4919916f6b2e21",
+				"tarball": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-2.5.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "0candy",
+					"email": "ngcandy@ca.ibm.com"
+				},
+				{
+					"name": "amir-61",
+					"email": "amirali.jfr61@gmail.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "qpresley",
+					"email": "qpresley@ca.ibm.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "richardpringle",
+					"email": "rpring9@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				},
+				{
+					"name": "tonyf-ibm",
+					"email": "tffrench@us.ibm.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/loopback-connector-2.5.0.tgz_1476307811970_0.2392506378237158"
+			},
+			"directories": {}
+		},
+		"2.6.0": {
+			"name": "loopback-connector",
+			"version": "2.6.0",
+			"description": "Building blocks for LoopBack connectors",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Connector"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/strongloop/loopback-connector.git"
+			},
+			"main": "index.js",
+			"scripts": {
+				"lint": "eslint .",
+				"posttest": "npm run lint",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^1.0.0",
+				"bluebird": "^3.4.6",
+				"debug": "^2.2.0",
+				"msgpack5": "^3.4.1",
+				"strong-globalize": "^2.5.8"
+			},
+			"devDependencies": {
+				"chai": "~2.3.0",
+				"eslint": "^2.7.0",
+				"eslint-config-loopback": "^1.0.0",
+				"loopback-datasource-juggler": "^3.0.0",
+				"mocha": "^2.2.5"
+			},
+			"gitHead": "b698b82ce7ba4f42ae2810444cded5fec9507b8b",
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-connector/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-connector#readme",
+			"_id": "loopback-connector@2.6.0",
+			"_shasum": "4667af15a105a4c2d8d21a026e7b8098feb987b6",
+			"_from": ".",
+			"_npmVersion": "3.10.8",
+			"_nodeVersion": "6.9.0",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "mbajtoss@gmail.com"
+			},
+			"dist": {
+				"shasum": "4667af15a105a4c2d8d21a026e7b8098feb987b6",
+				"tarball": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-2.6.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "0candy",
+					"email": "ngcandy@ca.ibm.com"
+				},
+				{
+					"name": "amir-61",
+					"email": "amirali.jfr61@gmail.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "qpresley",
+					"email": "qpresley@ca.ibm.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "richardpringle",
+					"email": "rpring9@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				},
+				{
+					"name": "tonyf-ibm",
+					"email": "tffrench@us.ibm.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/loopback-connector-2.6.0.tgz_1477297146491_0.3999544663820416"
+			},
+			"directories": {}
+		},
+		"2.7.0": {
+			"name": "loopback-connector",
+			"version": "2.7.0",
+			"description": "Building blocks for LoopBack connectors",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Connector"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/strongloop/loopback-connector.git"
+			},
+			"main": "index.js",
+			"scripts": {
+				"lint": "eslint .",
+				"posttest": "npm run lint",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^1.0.0",
+				"bluebird": "^3.4.6",
+				"debug": "^2.2.0",
+				"msgpack5": "^3.4.1",
+				"strong-globalize": "^2.5.8"
+			},
+			"devDependencies": {
+				"chai": "~2.3.0",
+				"eslint": "^2.7.0",
+				"eslint-config-loopback": "^1.0.0",
+				"loopback-datasource-juggler": "^3.0.0",
+				"mocha": "^2.2.5"
+			},
+			"gitHead": "3ad313aed68e551caa50d59da782a812d191ed6c",
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-connector/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-connector#readme",
+			"_id": "loopback-connector@2.7.0",
+			"_shasum": "fddd0181445e567a959e2dc6db6d9c612fc81272",
+			"_from": ".",
+			"_npmVersion": "3.10.8",
+			"_nodeVersion": "6.9.0",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "mbajtoss@gmail.com"
+			},
+			"dist": {
+				"shasum": "fddd0181445e567a959e2dc6db6d9c612fc81272",
+				"tarball": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-2.7.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "0candy",
+					"email": "ngcandy@ca.ibm.com"
+				},
+				{
+					"name": "amir-61",
+					"email": "amirali.jfr61@gmail.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "qpresley",
+					"email": "qpresley@ca.ibm.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "richardpringle",
+					"email": "rpring9@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				},
+				{
+					"name": "tonyf-ibm",
+					"email": "tffrench@us.ibm.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/loopback-connector-2.7.0.tgz_1478613003925_0.9377266003284603"
+			},
+			"directories": {}
+		},
+		"2.7.1": {
+			"name": "loopback-connector",
+			"version": "2.7.1",
+			"description": "Building blocks for LoopBack connectors",
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Connector"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/strongloop/loopback-connector.git"
+			},
+			"main": "index.js",
+			"scripts": {
+				"lint": "eslint .",
+				"posttest": "npm run lint",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^1.0.0",
+				"bluebird": "^3.4.6",
+				"debug": "^2.2.0",
+				"msgpack5": "^3.4.1",
+				"strong-globalize": "^2.5.8"
+			},
+			"devDependencies": {
+				"chai": "~2.3.0",
+				"eslint": "^2.7.0",
+				"eslint-config-loopback": "^1.0.0",
+				"loopback-datasource-juggler": "^3.0.0",
+				"mocha": "^2.2.5"
+			},
+			"gitHead": "bdf8dd4e8964602f49fde0d84f04e4e876063499",
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-connector/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-connector#readme",
+			"_id": "loopback-connector@2.7.1",
+			"_shasum": "60afc244e31919976391a997838685781fa28e52",
+			"_from": ".",
+			"_npmVersion": "3.10.8",
+			"_nodeVersion": "6.9.0",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "mbajtoss@gmail.com"
+			},
+			"dist": {
+				"shasum": "60afc244e31919976391a997838685781fa28e52",
+				"tarball": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-2.7.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "0candy",
+					"email": "ngcandy@ca.ibm.com"
+				},
+				{
+					"name": "amir-61",
+					"email": "amirali.jfr61@gmail.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "qpresley",
+					"email": "qpresley@ca.ibm.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "richardpringle",
+					"email": "rpring9@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				},
+				{
+					"name": "tonyf-ibm",
+					"email": "tffrench@us.ibm.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/loopback-connector-2.7.1.tgz_1478768519985_0.6039535775780678"
+			},
+			"directories": {}
+		},
+		"3.0.0": {
+			"name": "loopback-connector",
+			"version": "3.0.0",
+			"description": "Building blocks for LoopBack connectors",
+			"engines": {
+				"node": ">=4"
+			},
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Connector"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/strongloop/loopback-connector.git"
+			},
+			"main": "index.js",
+			"scripts": {
+				"lint": "eslint .",
+				"posttest": "npm run lint",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^1.0.0",
+				"bluebird": "^3.4.6",
+				"debug": "^2.2.0",
+				"msgpack5": "^3.4.1",
+				"strong-globalize": "^2.5.8"
+			},
+			"devDependencies": {
+				"chai": "~2.3.0",
+				"eslint": "^2.7.0",
+				"eslint-config-loopback": "^1.0.0",
+				"loopback-datasource-juggler": "^3.0.0",
+				"mocha": "^2.2.5"
+			},
+			"gitHead": "e384aa53ee639c35e01f9f9f9faf03ca2427271e",
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-connector/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-connector#readme",
+			"_id": "loopback-connector@3.0.0",
+			"_shasum": "ea2531cf87aff4fc512271d6fdc9dc8e8affcf36",
+			"_from": ".",
+			"_npmVersion": "3.10.8",
+			"_nodeVersion": "6.9.1",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "mbajtoss@gmail.com"
+			},
+			"dist": {
+				"shasum": "ea2531cf87aff4fc512271d6fdc9dc8e8affcf36",
+				"tarball": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-3.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "0candy",
+					"email": "ngcandy@ca.ibm.com"
+				},
+				{
+					"name": "amir-61",
+					"email": "amirali.jfr61@gmail.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "davidcheung",
+					"email": "davidcheung@live.ca"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "jannyhou2016",
+					"email": "juehou@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "loay",
+					"email": "gewily@ca.ibm.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "qpresley",
+					"email": "qpresley@ca.ibm.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				},
+				{
+					"name": "thegman",
+					"email": "gpandya@live.com"
+				},
+				{
+					"name": "tonyf-ibm",
+					"email": "tffrench@us.ibm.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/loopback-connector-3.0.0.tgz_1482321016730_0.3795385069679469"
+			},
+			"directories": {}
+		},
+		"4.0.0": {
+			"name": "loopback-connector",
+			"version": "4.0.0",
+			"description": "Building blocks for LoopBack connectors",
+			"engines": {
+				"node": ">=4"
+			},
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Connector"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/strongloop/loopback-connector.git"
+			},
+			"main": "index.js",
+			"scripts": {
+				"lint": "eslint .",
+				"posttest": "npm run lint",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^2.1.5",
+				"bluebird": "^3.4.6",
+				"debug": "^2.2.0",
+				"msgpack5": "^3.4.1",
+				"strong-globalize": "^2.5.8"
+			},
+			"devDependencies": {
+				"chai": "~3.5.0",
+				"eslint": "^3.17.1",
+				"eslint-config-loopback": "^8.0.0",
+				"loopback-datasource-juggler": "^3.0.0",
+				"mocha": "^3.2.0"
+			},
+			"gitHead": "8f2cb3ae7a922381b5f591d5365aad5b0d21f041",
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-connector/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-connector#readme",
+			"_id": "loopback-connector@4.0.0",
+			"_shasum": "97a28c7d8e1d8912773bed2957ba4ffa2b8455f7",
+			"_from": ".",
+			"_npmVersion": "4.2.0",
+			"_nodeVersion": "6.10.0",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"dist": {
+				"shasum": "97a28c7d8e1d8912773bed2957ba4ffa2b8455f7",
+				"tarball": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-4.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "0candy",
+					"email": "ngcandy@ca.ibm.com"
+				},
+				{
+					"name": "amir-61",
+					"email": "amirali.jfr61@gmail.com"
+				},
+				{
+					"name": "b-admike",
+					"email": "binadmt@hotmail.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "davidcheung",
+					"email": "davidcheung@live.ca"
+				},
+				{
+					"name": "hacksparrow",
+					"email": "captain@hacksparrow.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "jannyhou2016",
+					"email": "juehou@ca.ibm.com"
+				},
+				{
+					"name": "kjdelisle",
+					"email": "kjdelisle@gmail.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "loay",
+					"email": "gewily@ca.ibm.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "qpresley",
+					"email": "qpresley@ca.ibm.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				},
+				{
+					"name": "thegman",
+					"email": "gpandya@live.com"
+				},
+				{
+					"name": "tonyf-ibm",
+					"email": "tffrench@us.ibm.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/loopback-connector-4.0.0.tgz_1488844629033_0.6514641428366303"
+			},
+			"directories": {}
+		},
+		"4.1.0": {
+			"name": "loopback-connector",
+			"version": "4.1.0",
+			"description": "Building blocks for LoopBack connectors",
+			"engines": {
+				"node": ">=4"
+			},
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Connector"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/strongloop/loopback-connector.git"
+			},
+			"main": "index.js",
+			"scripts": {
+				"lint": "eslint .",
+				"posttest": "npm run lint",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^2.1.5",
+				"bluebird": "^3.4.6",
+				"debug": "^2.2.0",
+				"msgpack5": "^3.4.1",
+				"strong-globalize": "^2.5.8"
+			},
+			"devDependencies": {
+				"chai": "~3.5.0",
+				"eslint": "^3.17.1",
+				"eslint-config-loopback": "^8.0.0",
+				"loopback-datasource-juggler": "^3.0.0",
+				"mocha": "^3.2.0"
+			},
+			"gitHead": "34cd86901a2df4d8d8e88bb6ad396f99c3e21ecb",
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-connector/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-connector#readme",
+			"_id": "loopback-connector@4.1.0",
+			"_shasum": "d5d237a27e5b9f217bf9ccf30722fdf8167efcda",
+			"_from": ".",
+			"_npmVersion": "3.10.10",
+			"_nodeVersion": "6.9.5",
+			"_npmUser": {
+				"name": "kjdelisle",
+				"email": "kjdelisle@gmail.com"
+			},
+			"dist": {
+				"shasum": "d5d237a27e5b9f217bf9ccf30722fdf8167efcda",
+				"tarball": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-4.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "0candy",
+					"email": "ngcandy@ca.ibm.com"
+				},
+				{
+					"name": "amir-61",
+					"email": "amirali.jfr61@gmail.com"
+				},
+				{
+					"name": "b-admike",
+					"email": "binadmt@hotmail.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "davidcheung",
+					"email": "davidcheung@live.ca"
+				},
+				{
+					"name": "hacksparrow",
+					"email": "captain@hacksparrow.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "jannyhou2016",
+					"email": "juehou@ca.ibm.com"
+				},
+				{
+					"name": "kjdelisle",
+					"email": "kjdelisle@gmail.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "loay",
+					"email": "gewily@ca.ibm.com"
+				},
+				{
+					"name": "loopback-admin",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "qpresley",
+					"email": "qpresley@ca.ibm.com"
+				},
+				{
+					"name": "rashmihunt",
+					"email": "rashmihunt@gmail.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				},
+				{
+					"name": "thegman",
+					"email": "gpandya@live.com"
+				},
+				{
+					"name": "tonyf-ibm",
+					"email": "tffrench@us.ibm.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/loopback-connector-4.1.0.tgz_1490970930542_0.5411988263949752"
+			},
+			"directories": {}
+		},
+		"4.2.0": {
+			"name": "loopback-connector",
+			"version": "4.2.0",
+			"description": "Building blocks for LoopBack connectors",
+			"engines": {
+				"node": ">=4"
+			},
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Connector"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/strongloop/loopback-connector.git"
+			},
+			"main": "index.js",
+			"scripts": {
+				"lint": "eslint .",
+				"posttest": "npm run lint",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^2.1.5",
+				"bluebird": "^3.4.6",
+				"debug": "^2.2.0",
+				"msgpack5": "^3.4.1",
+				"strong-globalize": "^2.5.8"
+			},
+			"devDependencies": {
+				"chai": "~3.5.0",
+				"eslint": "^3.17.1",
+				"eslint-config-loopback": "^8.0.0",
+				"loopback-datasource-juggler": "^3.0.0",
+				"mocha": "^3.2.0"
+			},
+			"gitHead": "6bb07257d39ab8b17272c23a74868ac3d399c7cf",
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-connector/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-connector#readme",
+			"_id": "loopback-connector@4.2.0",
+			"_shasum": "cf5a7507eb56e1fc173af582b868efbda6432560",
+			"_from": ".",
+			"_npmVersion": "3.10.10",
+			"_nodeVersion": "6.9.5",
+			"_npmUser": {
+				"name": "kjdelisle",
+				"email": "kjdelisle@gmail.com"
+			},
+			"dist": {
+				"shasum": "cf5a7507eb56e1fc173af582b868efbda6432560",
+				"tarball": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-4.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "0candy",
+					"email": "ngcandy@ca.ibm.com"
+				},
+				{
+					"name": "amir-61",
+					"email": "amirali.jfr61@gmail.com"
+				},
+				{
+					"name": "b-admike",
+					"email": "binadmt@hotmail.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "davidcheung",
+					"email": "davidcheung@live.ca"
+				},
+				{
+					"name": "hacksparrow",
+					"email": "captain@hacksparrow.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "jannyhou2016",
+					"email": "juehou@ca.ibm.com"
+				},
+				{
+					"name": "kjdelisle",
+					"email": "kjdelisle@gmail.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "loay",
+					"email": "gewily@ca.ibm.com"
+				},
+				{
+					"name": "loopback-admin",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "qpresley",
+					"email": "qpresley@ca.ibm.com"
+				},
+				{
+					"name": "rashmihunt",
+					"email": "rashmihunt@gmail.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				},
+				{
+					"name": "thegman",
+					"email": "gpandya@live.com"
+				},
+				{
+					"name": "tonyf-ibm",
+					"email": "tffrench@us.ibm.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/loopback-connector-4.2.0.tgz_1491851336574_0.31892912881448865"
+			},
+			"directories": {}
+		},
+		"4.2.1": {
+			"name": "loopback-connector",
+			"version": "4.2.1",
+			"description": "Building blocks for LoopBack connectors",
+			"engines": {
+				"node": ">=4"
+			},
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Connector"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/strongloop/loopback-connector.git"
+			},
+			"main": "index.js",
+			"scripts": {
+				"lint": "eslint .",
+				"posttest": "npm run lint",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^2.1.5",
+				"bluebird": "^3.4.6",
+				"debug": "^2.2.0",
+				"msgpack5": "^3.4.1",
+				"strong-globalize": "^2.5.8"
+			},
+			"devDependencies": {
+				"chai": "~3.5.0",
+				"eslint": "^3.17.1",
+				"eslint-config-loopback": "^8.0.0",
+				"loopback-datasource-juggler": "^3.0.0",
+				"mocha": "^3.2.0"
+			},
+			"gitHead": "e50644a92287dfff0d2154291d76bd42f9ea080f",
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-connector/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-connector#readme",
+			"_id": "loopback-connector@4.2.1",
+			"_shasum": "a3d5e2c8a655bd71671d1cffecbfa292d984d8d4",
+			"_from": ".",
+			"_npmVersion": "3.10.10",
+			"_nodeVersion": "6.9.5",
+			"_npmUser": {
+				"name": "kjdelisle",
+				"email": "kjdelisle@gmail.com"
+			},
+			"dist": {
+				"shasum": "a3d5e2c8a655bd71671d1cffecbfa292d984d8d4",
+				"tarball": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-4.2.1.tgz"
+			},
+			"maintainers": [
+				{
+					"email": "kjdelisle@gmail.com",
+					"name": "kjdelisle"
+				},
+				{
+					"email": "tffrench@us.ibm.com",
+					"name": "tonyf-ibm"
+				},
+				{
+					"email": "gpandya@live.com",
+					"name": "thegman"
+				},
+				{
+					"email": "qpresley@ca.ibm.com",
+					"name": "qpresley"
+				},
+				{
+					"email": "gewily@ca.ibm.com",
+					"name": "loay"
+				},
+				{
+					"email": "juehou@ca.ibm.com",
+					"name": "jannyhou2016"
+				},
+				{
+					"email": "captain@hacksparrow.com",
+					"name": "hacksparrow"
+				},
+				{
+					"email": "davidcheung@live.ca",
+					"name": "davidcheung"
+				},
+				{
+					"email": "binadmt@hotmail.com",
+					"name": "b-admike"
+				},
+				{
+					"email": "amirali.jfr61@gmail.com",
+					"name": "amir-61"
+				},
+				{
+					"email": "ngcandy@ca.ibm.com",
+					"name": "0candy"
+				},
+				{
+					"email": "superkhau@gmail.com",
+					"name": "superkhau"
+				},
+				{
+					"email": "setogit@gmail.com",
+					"name": "setogit"
+				},
+				{
+					"email": "mbajtoss@gmail.com",
+					"name": "bajtos"
+				},
+				{
+					"email": "rmg@ca.ibm.com",
+					"name": "ibmcloud-admin"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "rfeng"
+				},
+				{
+					"email": "skawful@gmail.com",
+					"name": "ritch"
+				},
+				{
+					"email": "kraman@gmail.com",
+					"name": "kraman"
+				},
+				{
+					"email": "strngops@us.ibm.com",
+					"name": "strongloop"
+				},
+				{
+					"email": "r.m.graham@gmail.com",
+					"name": "rmg"
+				},
+				{
+					"email": "vieuxtech@gmail.com",
+					"name": "octet"
+				},
+				{
+					"email": "rashmihunt@gmail.com",
+					"name": "rashmihunt"
+				},
+				{
+					"email": "dianahmlau@gmail.com",
+					"name": "dhmlau"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "loopback-admin"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/loopback-connector-4.2.1.tgz_1498142768396_0.6894904805812985"
+			},
+			"directories": {}
+		},
+		"4.2.2": {
+			"name": "loopback-connector",
+			"version": "4.2.2",
+			"description": "Building blocks for LoopBack connectors",
+			"engines": {
+				"node": ">=4"
+			},
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Connector"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/strongloop/loopback-connector.git"
+			},
+			"main": "index.js",
+			"scripts": {
+				"lint": "eslint .",
+				"posttest": "npm run lint",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^2.1.5",
+				"bluebird": "^3.4.6",
+				"debug": "^2.2.0",
+				"msgpack5": "^3.4.1",
+				"strong-globalize": "^2.5.8"
+			},
+			"devDependencies": {
+				"chai": "~3.5.0",
+				"eslint": "^3.17.1",
+				"eslint-config-loopback": "^8.0.0",
+				"loopback-datasource-juggler": "^3.0.0",
+				"mocha": "^3.2.0"
+			},
+			"gitHead": "a22d8cb827b6432a3a974124fea7ebed03a80619",
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-connector/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-connector#readme",
+			"_id": "loopback-connector@4.2.2",
+			"_shasum": "e0d8fef4d53b38506dc16002ce07618fb2cf6f4f",
+			"_from": ".",
+			"_npmVersion": "3.10.10",
+			"_nodeVersion": "6.11.1",
+			"_npmUser": {
+				"name": "kjdelisle",
+				"email": "kjdelisle@gmail.com"
+			},
+			"dist": {
+				"shasum": "e0d8fef4d53b38506dc16002ce07618fb2cf6f4f",
+				"tarball": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-4.2.2.tgz"
+			},
+			"maintainers": [
+				{
+					"email": "kjdelisle@gmail.com",
+					"name": "kjdelisle"
+				},
+				{
+					"email": "tffrench@us.ibm.com",
+					"name": "tonyf-ibm"
+				},
+				{
+					"email": "gpandya@live.com",
+					"name": "thegman"
+				},
+				{
+					"email": "qpresley@ca.ibm.com",
+					"name": "qpresley"
+				},
+				{
+					"email": "gewily@ca.ibm.com",
+					"name": "loay"
+				},
+				{
+					"email": "juehou@ca.ibm.com",
+					"name": "jannyhou2016"
+				},
+				{
+					"email": "captain@hacksparrow.com",
+					"name": "hacksparrow"
+				},
+				{
+					"email": "davidcheung@live.ca",
+					"name": "davidcheung"
+				},
+				{
+					"email": "binadmt@hotmail.com",
+					"name": "b-admike"
+				},
+				{
+					"email": "amirali.jfr61@gmail.com",
+					"name": "amir-61"
+				},
+				{
+					"email": "ngcandy@ca.ibm.com",
+					"name": "0candy"
+				},
+				{
+					"email": "superkhau@gmail.com",
+					"name": "superkhau"
+				},
+				{
+					"email": "setogit@gmail.com",
+					"name": "setogit"
+				},
+				{
+					"email": "mbajtoss@gmail.com",
+					"name": "bajtos"
+				},
+				{
+					"email": "rmg@ca.ibm.com",
+					"name": "ibmcloud-admin"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "rfeng"
+				},
+				{
+					"email": "skawful@gmail.com",
+					"name": "ritch"
+				},
+				{
+					"email": "kraman@gmail.com",
+					"name": "kraman"
+				},
+				{
+					"email": "strngops@us.ibm.com",
+					"name": "strongloop"
+				},
+				{
+					"email": "r.m.graham@gmail.com",
+					"name": "rmg"
+				},
+				{
+					"email": "vieuxtech@gmail.com",
+					"name": "octet"
+				},
+				{
+					"email": "rashmihunt@gmail.com",
+					"name": "rashmihunt"
+				},
+				{
+					"email": "mahesh.patsute@ibm.com",
+					"name": "mahesh.patsute"
+				},
+				{
+					"email": "dianahmlau@gmail.com",
+					"name": "dhmlau"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "loopback-admin"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/loopback-connector-4.2.2.tgz_1500302427973_0.41610180912539363"
+			},
+			"directories": {}
+		},
+		"4.3.0": {
+			"name": "loopback-connector",
+			"version": "4.3.0",
+			"description": "Building blocks for LoopBack connectors",
+			"engines": {
+				"node": ">=4"
+			},
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Connector"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/strongloop/loopback-connector.git"
+			},
+			"main": "index.js",
+			"scripts": {
+				"lint": "eslint .",
+				"posttest": "npm run lint",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^2.1.5",
+				"bluebird": "^3.4.6",
+				"debug": "^2.2.0",
+				"msgpack5": "^3.4.1",
+				"strong-globalize": "^2.5.8",
+				"uuid": "^3.0.1"
+			},
+			"devDependencies": {
+				"chai": "~3.5.0",
+				"eslint": "^3.17.1",
+				"eslint-config-loopback": "^8.0.0",
+				"loopback-datasource-juggler": "^3.0.0",
+				"mocha": "^3.2.0"
+			},
+			"gitHead": "f2cbdedee5800c33a977be8d58f5c8b1a30143d3",
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-connector/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-connector#readme",
+			"_id": "loopback-connector@4.3.0",
+			"_shasum": "008b54a5d9d801cfd8ac6b193c800035063c51d4",
+			"_from": ".",
+			"_npmVersion": "3.10.10",
+			"_nodeVersion": "6.11.2",
+			"_npmUser": {
+				"name": "kjdelisle",
+				"email": "kjdelisle@gmail.com"
+			},
+			"dist": {
+				"shasum": "008b54a5d9d801cfd8ac6b193c800035063c51d4",
+				"tarball": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-4.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"email": "kjdelisle@gmail.com",
+					"name": "kjdelisle"
+				},
+				{
+					"email": "tffrench@us.ibm.com",
+					"name": "tonyf-ibm"
+				},
+				{
+					"email": "gpandya@live.com",
+					"name": "thegman"
+				},
+				{
+					"email": "qpresley@ca.ibm.com",
+					"name": "qpresley"
+				},
+				{
+					"email": "gewily@ca.ibm.com",
+					"name": "loay"
+				},
+				{
+					"email": "juehou@ca.ibm.com",
+					"name": "jannyhou2016"
+				},
+				{
+					"email": "captain@hacksparrow.com",
+					"name": "hacksparrow"
+				},
+				{
+					"email": "davidcheung@live.ca",
+					"name": "davidcheung"
+				},
+				{
+					"email": "binadmt@hotmail.com",
+					"name": "b-admike"
+				},
+				{
+					"email": "amirali.jfr61@gmail.com",
+					"name": "amir-61"
+				},
+				{
+					"email": "ngcandy@ca.ibm.com",
+					"name": "0candy"
+				},
+				{
+					"email": "superkhau@gmail.com",
+					"name": "superkhau"
+				},
+				{
+					"email": "setogit@gmail.com",
+					"name": "setogit"
+				},
+				{
+					"email": "mbajtoss@gmail.com",
+					"name": "bajtos"
+				},
+				{
+					"email": "rmg@ca.ibm.com",
+					"name": "ibmcloud-admin"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "rfeng"
+				},
+				{
+					"email": "skawful@gmail.com",
+					"name": "ritch"
+				},
+				{
+					"email": "kraman@gmail.com",
+					"name": "kraman"
+				},
+				{
+					"email": "strngops@us.ibm.com",
+					"name": "strongloop"
+				},
+				{
+					"email": "r.m.graham@gmail.com",
+					"name": "rmg"
+				},
+				{
+					"email": "vieuxtech@gmail.com",
+					"name": "octet"
+				},
+				{
+					"email": "rashmihunt@gmail.com",
+					"name": "rashmihunt"
+				},
+				{
+					"email": "mahesh.patsute@ibm.com",
+					"name": "mahesh.patsute"
+				},
+				{
+					"email": "dianahmlau@gmail.com",
+					"name": "dhmlau"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "loopback-admin"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/loopback-connector-4.3.0.tgz_1504284690146_0.8070689362939447"
+			},
+			"directories": {}
+		},
+		"4.4.0": {
+			"name": "loopback-connector",
+			"version": "4.4.0",
+			"description": "Building blocks for LoopBack connectors",
+			"engines": {
+				"node": ">=4"
+			},
+			"keywords": [
+				"StrongLoop",
+				"LoopBack",
+				"Connector"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/strongloop/loopback-connector.git"
+			},
+			"main": "index.js",
+			"scripts": {
+				"lint": "eslint .",
+				"posttest": "npm run lint",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^2.1.5",
+				"bluebird": "^3.4.6",
+				"debug": "^3.1.0",
+				"msgpack5": "^3.4.1",
+				"strong-globalize": "^3.1.0",
+				"uuid": "^3.0.1"
+			},
+			"devDependencies": {
+				"chai": "~3.5.0",
+				"eslint": "^3.17.1",
+				"eslint-config-loopback": "^8.0.0",
+				"loopback-datasource-juggler": "^3.12.0",
+				"mocha": "^3.2.0"
+			},
+			"gitHead": "32794834ce949317e74222a0896abae157a26927",
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-connector/issues"
+			},
+			"homepage": "https://github.com/strongloop/loopback-connector#readme",
+			"_id": "loopback-connector@4.4.0",
+			"_shasum": "15136532896b79d8dc280be27d657fad000c1209",
+			"_from": ".",
+			"_npmVersion": "3.10.10",
+			"_nodeVersion": "6.11.0",
+			"_npmUser": {
+				"name": "dhmlau",
+				"email": "dianahmlau@gmail.com"
+			},
+			"dist": {
+				"shasum": "15136532896b79d8dc280be27d657fad000c1209",
+				"tarball": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-4.4.0.tgz"
+			},
+			"maintainers": [
+				{
+					"email": "kjdelisle@gmail.com",
+					"name": "kjdelisle"
+				},
+				{
+					"email": "tffrench@us.ibm.com",
+					"name": "tonyf-ibm"
+				},
+				{
+					"email": "gpandya@live.com",
+					"name": "thegman"
+				},
+				{
+					"email": "qpresley@ca.ibm.com",
+					"name": "qpresley"
+				},
+				{
+					"email": "gewily@ca.ibm.com",
+					"name": "loay"
+				},
+				{
+					"email": "juehou@ca.ibm.com",
+					"name": "jannyhou2016"
+				},
+				{
+					"email": "captain@hacksparrow.com",
+					"name": "hacksparrow"
+				},
+				{
+					"email": "davidcheung@live.ca",
+					"name": "davidcheung"
+				},
+				{
+					"email": "binadmt@hotmail.com",
+					"name": "b-admike"
+				},
+				{
+					"email": "amirali.jfr61@gmail.com",
+					"name": "amir-61"
+				},
+				{
+					"email": "ngcandy@ca.ibm.com",
+					"name": "0candy"
+				},
+				{
+					"email": "superkhau@gmail.com",
+					"name": "superkhau"
+				},
+				{
+					"email": "setogit@gmail.com",
+					"name": "setogit"
+				},
+				{
+					"email": "mbajtoss@gmail.com",
+					"name": "bajtos"
+				},
+				{
+					"email": "rmg@ca.ibm.com",
+					"name": "ibmcloud-admin"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "rfeng"
+				},
+				{
+					"email": "skawful@gmail.com",
+					"name": "ritch"
+				},
+				{
+					"email": "kraman@gmail.com",
+					"name": "kraman"
+				},
+				{
+					"email": "strngops@us.ibm.com",
+					"name": "strongloop"
+				},
+				{
+					"email": "r.m.graham@gmail.com",
+					"name": "rmg"
+				},
+				{
+					"email": "vieuxtech@gmail.com",
+					"name": "octet"
+				},
+				{
+					"email": "rashmihunt@gmail.com",
+					"name": "rashmihunt"
+				},
+				{
+					"email": "mahesh.patsute@ibm.com",
+					"name": "mahesh.patsute"
+				},
+				{
+					"email": "dianahmlau@gmail.com",
+					"name": "dhmlau"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "loopback-admin"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/loopback-connector-4.4.0.tgz_1508243872976_0.2931451960466802"
+			},
+			"directories": {}
+		}
+	},
+	"dist-tags": {
+		"latest": "4.4.0"
+	},
+	"time": {
+		"modified": "2018-01-11T17:05:09.692Z",
+		"created": "2014-06-03T06:40:04.267Z",
+		"1.0.0": "2014-06-03T06:40:04.267Z",
+		"1.1.0": "2014-06-20T20:42:03.252Z",
+		"1.1.1": "2014-07-20T20:54:39.569Z",
+		"1.2.0": "2014-10-13T16:51:52.295Z",
+		"1.2.1": "2015-01-28T19:01:11.949Z",
+		"2.0.0": "2015-05-13T23:16:18.676Z",
+		"2.0.1": "2015-05-18T16:51:58.115Z",
+		"2.1.0": "2015-05-18T21:28:51.222Z",
+		"2.1.1": "2015-05-20T16:21:17.164Z",
+		"2.1.2": "2015-05-22T15:53:24.394Z",
+		"2.2.0": "2015-05-27T18:19:56.031Z",
+		"2.2.1": "2015-05-27T20:40:22.344Z",
+		"2.2.2": "2015-06-23T21:36:11.096Z",
+		"2.3.0": "2015-07-29T14:52:42.258Z",
+		"2.4.0": "2016-06-29T20:45:19.884Z",
+		"2.5.0": "2016-10-12T21:30:12.955Z",
+		"2.6.0": "2016-10-24T08:19:07.853Z",
+		"2.7.0": "2016-11-08T13:50:05.895Z",
+		"2.7.1": "2016-11-10T09:02:02.315Z",
+		"3.0.0": "2016-12-21T11:50:17.295Z",
+		"4.0.0": "2017-03-06T23:57:11.253Z",
+		"4.1.0": "2017-03-31T14:35:32.680Z",
+		"4.2.0": "2017-04-10T19:08:58.825Z",
+		"4.2.1": "2017-06-22T14:46:09.922Z",
+		"4.2.2": "2017-07-17T14:40:28.282Z",
+		"4.3.0": "2017-09-01T16:51:31.477Z",
+		"4.4.0": "2017-10-17T12:37:53.120Z"
+	},
+	"_distfiles": {
+		"loopback-connector-1.0.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-1.0.0.tgz",
+			"sha": "6deb1f0f9a8e9fd3154b9026d4513809a19a59e7",
+			"registry": "npmjs"
+		},
+		"loopback-connector-1.1.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-1.1.0.tgz",
+			"sha": "18612a54f37fe8295625cc180e7cf7d49ba487ca",
+			"registry": "npmjs"
+		},
+		"loopback-connector-1.1.1.tgz": {
+			"url": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-1.1.1.tgz",
+			"sha": "2c9f8a3e1b407c3e37a07e7e9e5e457549628019",
+			"registry": "npmjs"
+		},
+		"loopback-connector-1.2.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-1.2.0.tgz",
+			"sha": "73938ea2567a793f53cb8adceb9f3e3ed0e8d27b",
+			"registry": "npmjs"
+		},
+		"loopback-connector-1.2.1.tgz": {
+			"url": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-1.2.1.tgz",
+			"sha": "454e67a19203f5b86c766f581aa2ba309d38d9c2",
+			"registry": "npmjs"
+		},
+		"loopback-connector-2.0.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-2.0.0.tgz",
+			"sha": "9d20ad4406dd362014f8760142f7024edff8eee7",
+			"registry": "npmjs"
+		},
+		"loopback-connector-2.0.1.tgz": {
+			"url": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-2.0.1.tgz",
+			"sha": "2c8eeb58d237cb7d45291365325368a09c111a78",
+			"registry": "npmjs"
+		},
+		"loopback-connector-2.1.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-2.1.0.tgz",
+			"sha": "c0b5fedd21dcfcf4e8e95faa5e33f0a88390c926",
+			"registry": "npmjs"
+		},
+		"loopback-connector-2.1.1.tgz": {
+			"url": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-2.1.1.tgz",
+			"sha": "14b826df80d28091386dc37b52faea280ea978fc",
+			"registry": "npmjs"
+		},
+		"loopback-connector-2.1.2.tgz": {
+			"url": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-2.1.2.tgz",
+			"sha": "a414c9969ae702693944abd0ac0b245e5531dbcf",
+			"registry": "npmjs"
+		},
+		"loopback-connector-2.2.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-2.2.0.tgz",
+			"sha": "25e895e95418edeef8a82981992d4a7989b5c33b",
+			"registry": "npmjs"
+		},
+		"loopback-connector-2.2.1.tgz": {
+			"url": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-2.2.1.tgz",
+			"sha": "844b9f2c266b0fb710cbb16edc5db59f09eb18e0",
+			"registry": "npmjs"
+		},
+		"loopback-connector-2.2.2.tgz": {
+			"url": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-2.2.2.tgz",
+			"sha": "138a4eee8a20e0a87e01b32fb7e8d3c2ff53dd0b",
+			"registry": "npmjs"
+		},
+		"loopback-connector-2.3.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-2.3.0.tgz",
+			"sha": "ea62fea190d6824e2e77d7da6d7dbb138c884918",
+			"registry": "npmjs"
+		},
+		"loopback-connector-2.4.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-2.4.0.tgz",
+			"sha": "8eee9c0eb1d801ea03adda12a0da7e268e85dc2f",
+			"registry": "npmjs"
+		},
+		"loopback-connector-2.5.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-2.5.0.tgz",
+			"sha": "376dba8736bad71bf97adc7fca4919916f6b2e21",
+			"registry": "npmjs"
+		},
+		"loopback-connector-2.6.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-2.6.0.tgz",
+			"sha": "4667af15a105a4c2d8d21a026e7b8098feb987b6",
+			"registry": "npmjs"
+		},
+		"loopback-connector-2.7.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-2.7.0.tgz",
+			"sha": "fddd0181445e567a959e2dc6db6d9c612fc81272",
+			"registry": "npmjs"
+		},
+		"loopback-connector-2.7.1.tgz": {
+			"url": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-2.7.1.tgz",
+			"sha": "60afc244e31919976391a997838685781fa28e52",
+			"registry": "npmjs"
+		},
+		"loopback-connector-3.0.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-3.0.0.tgz",
+			"sha": "ea2531cf87aff4fc512271d6fdc9dc8e8affcf36",
+			"registry": "npmjs"
+		},
+		"loopback-connector-4.0.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-4.0.0.tgz",
+			"sha": "97a28c7d8e1d8912773bed2957ba4ffa2b8455f7",
+			"registry": "npmjs"
+		},
+		"loopback-connector-4.1.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-4.1.0.tgz",
+			"sha": "d5d237a27e5b9f217bf9ccf30722fdf8167efcda",
+			"registry": "npmjs"
+		},
+		"loopback-connector-4.2.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-4.2.0.tgz",
+			"sha": "cf5a7507eb56e1fc173af582b868efbda6432560",
+			"registry": "npmjs"
+		},
+		"loopback-connector-4.2.1.tgz": {
+			"url": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-4.2.1.tgz",
+			"sha": "a3d5e2c8a655bd71671d1cffecbfa292d984d8d4",
+			"registry": "npmjs"
+		},
+		"loopback-connector-4.2.2.tgz": {
+			"url": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-4.2.2.tgz",
+			"sha": "e0d8fef4d53b38506dc16002ce07618fb2cf6f4f",
+			"registry": "npmjs"
+		},
+		"loopback-connector-4.3.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-4.3.0.tgz",
+			"sha": "008b54a5d9d801cfd8ac6b193c800035063c51d4",
+			"registry": "npmjs"
+		},
+		"loopback-connector-4.4.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-connector/-/loopback-connector-4.4.0.tgz",
+			"sha": "15136532896b79d8dc280be27d657fad000c1209",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "\"5a579945-cade\"",
+			"fetched": 1519837514251
+		}
+	},
+	"_rev": "1-6eacd31af627cc42",
+	"readme": "# LoopBack Connector\n\nLoopBack Connector is a set of building blocks simplifying implementation\nof datasource-specific connectors like Oracle, MongoDB, REST.\n\n**For full documentation, see the official StrongLoop documentation**:\n * [Data sources and connectors](http://docs.strongloop.com/display/public/LB/Database+connectors)\n\n## Installation\n\n    npm install loopback-connector\n\n## Usage\n\nSee [loopback-connector-mysql](https://github.com/strongloop/loopback-connector-mysql) \nfor an example of connector using this module.\n\n"
+}

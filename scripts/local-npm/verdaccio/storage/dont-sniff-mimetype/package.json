@@ -1,0 +1,166 @@
+{
+	"name": "dont-sniff-mimetype",
+	"versions": {
+		"0.1.0": {
+			"name": "dont-sniff-mimetype",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "Middleware to prevent mimetype from being sniffed",
+			"version": "0.1.0",
+			"keywords": [
+				"helmet",
+				"security",
+				"express",
+				"connect",
+				"mimetype",
+				"x-content-type-options"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/dont-sniff-mimetype.git"
+			},
+			"bugs": {
+				"url": "https://github.com/helmetjs/dont-sniff-mimetype/issues"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"devDependencies": {
+				"connect": "^3.3.1",
+				"mocha": "^2.0.1",
+				"supertest": "^0.14.0"
+			},
+			"gitHead": "91231c8b4ba5a197219fcf599c08d1b79e57e3c6",
+			"homepage": "https://github.com/helmetjs/dont-sniff-mimetype",
+			"_id": "dont-sniff-mimetype@0.1.0",
+			"_shasum": "c62413dc7e4149d548b2c728ec370640b3058ca8",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "c62413dc7e4149d548b2c728ec370640b3058ca8",
+				"tarball": "https://registry.npmjs.org/dont-sniff-mimetype/-/dont-sniff-mimetype-0.1.0.tgz"
+			},
+			"directories": {}
+		},
+		"1.0.0": {
+			"name": "dont-sniff-mimetype",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "Middleware to prevent mimetype from being sniffed",
+			"version": "1.0.0",
+			"license": "MIT",
+			"keywords": [
+				"helmet",
+				"security",
+				"express",
+				"connect",
+				"mimetype",
+				"x-content-type-options"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/dont-sniff-mimetype.git"
+			},
+			"bugs": {
+				"url": "https://github.com/helmetjs/dont-sniff-mimetype/issues"
+			},
+			"scripts": {
+				"test": "standard && mocha"
+			},
+			"devDependencies": {
+				"connect": "^3.4.0",
+				"mocha": "^2.3.4",
+				"standard": "^5.4.1",
+				"supertest": "^1.1.0"
+			},
+			"standard": {
+				"globals": [
+					"describe",
+					"it"
+				]
+			},
+			"gitHead": "c72512de442885f5fd69ff35d181a59dea177929",
+			"homepage": "https://github.com/helmetjs/dont-sniff-mimetype#readme",
+			"_id": "dont-sniff-mimetype@1.0.0",
+			"_shasum": "5932890dc9f4e2f19e5eb02a20026e5e5efc8f58",
+			"_from": ".",
+			"_npmVersion": "3.5.3",
+			"_nodeVersion": "5.3.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "5932890dc9f4e2f19e5eb02a20026e5e5efc8f58",
+				"tarball": "https://registry.npmjs.org/dont-sniff-mimetype/-/dont-sniff-mimetype-1.0.0.tgz"
+			},
+			"directories": {}
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.0"
+	},
+	"time": {
+		"modified": "2017-03-24T12:06:16.888Z",
+		"created": "2014-10-28T14:43:00.874Z",
+		"0.1.0": "2014-10-28T14:43:00.874Z",
+		"1.0.0": "2015-12-18T22:31:27.547Z"
+	},
+	"_distfiles": {
+		"dont-sniff-mimetype-0.1.0.tgz": {
+			"url": "https://registry.npmjs.org/dont-sniff-mimetype/-/dont-sniff-mimetype-0.1.0.tgz",
+			"sha": "c62413dc7e4149d548b2c728ec370640b3058ca8",
+			"registry": "npmjs"
+		},
+		"dont-sniff-mimetype-1.0.0.tgz": {
+			"url": "https://registry.npmjs.org/dont-sniff-mimetype/-/dont-sniff-mimetype-1.0.0.tgz",
+			"sha": "5932890dc9f4e2f19e5eb02a20026e5e5efc8f58",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "\"58d50bb8-12a0\"",
+			"fetched": 1519837507841
+		}
+	},
+	"_rev": "1-5fb5bf32bf03bb52",
+	"readme": "\"Don't infer the MIME type\" middleware\n======================================\n[![Build Status](https://travis-ci.org/helmetjs/dont-sniff-mimetype.svg?branch=master)](https://travis-ci.org/helmetjs/dont-sniff-mimetype)\n[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)\n\nSome browsers will try to \"sniff\" mimetypes. For example, if my server serves *file.txt* with a *text/plain* content-type, some browsers can still run that file with `<script src=\"file.txt\"></script>`. Many browsers will allow *file.js* to be run even if the content-type isn't for JavaScript. There are [some other vulnerabilities](http://miki.it/blog/2014/7/8/abusing-jsonp-with-rosetta-flash/), too.\n\nThis middleware to keep Chrome, Opera, and IE from doing this sniffing ([and Firefox soon](https://bugzilla.mozilla.org/show_bug.cgi?id=471020)). The following example sets the `X-Content-Type-Options` header to its only option, `nosniff`:\n\n```javascript\nvar nosniff = require('dont-sniff-mimetype')\napp.use(nosniff())\n```\n\n[MSDN has a good description](http://msdn.microsoft.com/en-us/library/gg622941%28v=vs.85%29.aspx) of how browsers behave when this header is sent.\n"
+}

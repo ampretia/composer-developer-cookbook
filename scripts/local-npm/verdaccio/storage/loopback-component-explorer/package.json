@@ -1,0 +1,2555 @@
+{
+	"name": "loopback-component-explorer",
+	"versions": {
+		"2.1.0": {
+			"name": "loopback-component-explorer",
+			"version": "2.1.0",
+			"description": "Browse and test your LoopBack app's APIs",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-explorer.git"
+			},
+			"keywords": [
+				"loopback",
+				"api",
+				"explorer"
+			],
+			"author": {
+				"name": "Ritchie Martori"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-explorer/issues"
+			},
+			"devDependencies": {
+				"loopback": "^2.19.1",
+				"mocha": "^2.2.5",
+				"supertest": "^1.0.1",
+				"chai": "^3.2.0"
+			},
+			"license": {
+				"name": "Dual MIT/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-component-explorer/blob/master/LICENSE"
+			},
+			"dependencies": {
+				"cors": "^2.7.1",
+				"debug": "^2.2.0",
+				"lodash": "^3.10.0",
+				"loopback-swagger": "^2.1.0",
+				"strong-swagger-ui": "^21.0.0"
+			},
+			"gitHead": "64993b82d63e77fd8741259ada07615cc21d4e0f",
+			"homepage": "https://github.com/strongloop/loopback-component-explorer#readme",
+			"_id": "loopback-component-explorer@2.1.0",
+			"_shasum": "e264b4f872dd4bfb3ea15e9e58b5a464d48a00f8",
+			"_from": ".",
+			"_npmVersion": "2.14.2",
+			"_nodeVersion": "4.0.0",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "miro.bajtos@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "e264b4f872dd4bfb3ea15e9e58b5a464d48a00f8",
+				"tarball": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-2.1.0.tgz"
+			},
+			"directories": {}
+		},
+		"2.1.1": {
+			"name": "loopback-component-explorer",
+			"version": "2.1.1",
+			"description": "Browse and test your LoopBack app's APIs",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-explorer.git"
+			},
+			"keywords": [
+				"loopback",
+				"api",
+				"explorer"
+			],
+			"author": {
+				"name": "Ritchie Martori"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-explorer/issues"
+			},
+			"devDependencies": {
+				"loopback": "^2.19.1",
+				"mocha": "^2.2.5",
+				"supertest": "^1.0.1",
+				"chai": "^3.2.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"cors": "^2.7.1",
+				"debug": "^2.2.0",
+				"lodash": "^3.10.0",
+				"loopback-swagger": "^2.1.0",
+				"strong-swagger-ui": "^21.0.0"
+			},
+			"gitHead": "011af998a7e76f5697bcfca7b8036868386cc9fc",
+			"homepage": "https://github.com/strongloop/loopback-component-explorer",
+			"_id": "loopback-component-explorer@2.1.1",
+			"_shasum": "cbd423cc29b0afac4bf7789d60701947c3506142",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "miro.bajtos@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				}
+			],
+			"dist": {
+				"shasum": "cbd423cc29b0afac4bf7789d60701947c3506142",
+				"tarball": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-2.1.1.tgz"
+			},
+			"directories": {}
+		},
+		"2.2.0": {
+			"name": "loopback-component-explorer",
+			"version": "2.2.0",
+			"description": "Browse and test your LoopBack app's APIs",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-explorer.git"
+			},
+			"keywords": [
+				"loopback",
+				"api",
+				"explorer"
+			],
+			"author": {
+				"name": "Ritchie Martori"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-explorer/issues"
+			},
+			"devDependencies": {
+				"loopback": "^2.19.1",
+				"mocha": "^2.2.5",
+				"supertest": "^1.0.1",
+				"chai": "^3.2.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"cors": "^2.7.1",
+				"debug": "^2.2.0",
+				"lodash": "^3.10.0",
+				"loopback-swagger": "^2.1.0",
+				"strong-swagger-ui": "^21.0.0"
+			},
+			"gitHead": "2821078273e4cd7fef082f10fdfdcd58cf9a5e2c",
+			"homepage": "https://github.com/strongloop/loopback-component-explorer#readme",
+			"_id": "loopback-component-explorer@2.2.0",
+			"_shasum": "38b5713ed1ce3f34c4adb47b25c656c33ef8f9e4",
+			"_from": ".",
+			"_npmVersion": "3.3.12",
+			"_nodeVersion": "5.4.0",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				}
+			],
+			"dist": {
+				"shasum": "38b5713ed1ce3f34c4adb47b25c656c33ef8f9e4",
+				"tarball": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-2.2.0.tgz"
+			},
+			"directories": {}
+		},
+		"2.3.0": {
+			"name": "loopback-component-explorer",
+			"version": "2.3.0",
+			"description": "Browse and test your LoopBack app's APIs",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-explorer.git"
+			},
+			"keywords": [
+				"loopback",
+				"api",
+				"explorer"
+			],
+			"author": {
+				"name": "Ritchie Martori"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-explorer/issues"
+			},
+			"devDependencies": {
+				"loopback": "^2.19.1",
+				"mocha": "^2.2.5",
+				"supertest": "^1.0.1",
+				"chai": "^3.2.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"cors": "^2.7.1",
+				"debug": "^2.2.0",
+				"lodash": "^3.10.0",
+				"loopback-swagger": "^2.1.0",
+				"strong-swagger-ui": "^21.0.0"
+			},
+			"gitHead": "9192ee638bd53f2897b83dd6f172e177163d174a",
+			"homepage": "https://github.com/strongloop/loopback-component-explorer#readme",
+			"_id": "loopback-component-explorer@2.3.0",
+			"_shasum": "828e01b9f5a2beac5b3304f4f530fcf815cbef74",
+			"_from": ".",
+			"_npmVersion": "2.14.12",
+			"_nodeVersion": "4.2.6",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "mbajtoss@gmail.com"
+			},
+			"dist": {
+				"shasum": "828e01b9f5a2beac5b3304f4f530fcf815cbef74",
+				"tarball": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-2.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-9-west.internal.npmjs.com",
+				"tmp": "tmp/loopback-component-explorer-2.3.0.tgz_1454406361829_0.09576375223696232"
+			},
+			"directories": {}
+		},
+		"2.4.0": {
+			"name": "loopback-component-explorer",
+			"version": "2.4.0",
+			"description": "Browse and test your LoopBack app's APIs",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-explorer.git"
+			},
+			"keywords": [
+				"loopback",
+				"api",
+				"explorer"
+			],
+			"author": {
+				"name": "Ritchie Martori"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-explorer/issues"
+			},
+			"devDependencies": {
+				"loopback": "^2.19.1",
+				"mocha": "^2.2.5",
+				"supertest": "^1.0.1",
+				"chai": "^3.2.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"cors": "^2.7.1",
+				"debug": "^2.2.0",
+				"lodash": "^3.10.0",
+				"loopback-swagger": "^2.1.0",
+				"strong-swagger-ui": "^21.0.0"
+			},
+			"gitHead": "39ce73eee1fca8575fa7e12a7a36fdd6d6629e5f",
+			"homepage": "https://github.com/strongloop/loopback-component-explorer#readme",
+			"_id": "loopback-component-explorer@2.4.0",
+			"_shasum": "b4a8624036b670862ef8391a307cfc30f366aee6",
+			"_from": ".",
+			"_npmVersion": "2.14.9",
+			"_nodeVersion": "0.12.11",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				}
+			],
+			"dist": {
+				"shasum": "b4a8624036b670862ef8391a307cfc30f366aee6",
+				"tarball": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-2.4.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/loopback-component-explorer-2.4.0.tgz_1457470828338_0.7431213003583252"
+			},
+			"directories": {}
+		},
+		"2.5.0": {
+			"name": "loopback-component-explorer",
+			"version": "2.5.0",
+			"description": "Browse and test your LoopBack app's APIs",
+			"main": "index.js",
+			"scripts": {
+				"lint": "eslint .",
+				"test": "mocha",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-explorer.git"
+			},
+			"keywords": [
+				"loopback",
+				"api",
+				"explorer"
+			],
+			"author": {
+				"name": "Ritchie Martori"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-explorer/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"eslint": "^2.8.0",
+				"eslint-config-loopback": "^2.0.0",
+				"loopback": "^2.19.1",
+				"mocha": "^2.2.5",
+				"supertest": "^1.0.1"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"cors": "^2.7.1",
+				"debug": "^2.2.0",
+				"lodash": "^3.10.0",
+				"loopback-swagger": "^2.1.0",
+				"strong-swagger-ui": "^21.0.0"
+			},
+			"gitHead": "794394dabd9a445b8140409217f07929dc04a463",
+			"homepage": "https://github.com/strongloop/loopback-component-explorer#readme",
+			"_id": "loopback-component-explorer@2.5.0",
+			"_shasum": "9f8f03ac127a294f9984c5ccff4a5acaf60af232",
+			"_from": ".",
+			"_npmVersion": "2.15.0",
+			"_nodeVersion": "4.4.2",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "mbajtoss@gmail.com"
+			},
+			"dist": {
+				"shasum": "9f8f03ac127a294f9984c5ccff4a5acaf60af232",
+				"tarball": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-2.5.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/loopback-component-explorer-2.5.0.tgz_1462186877089_0.43575515085831285"
+			},
+			"directories": {}
+		},
+		"2.6.0": {
+			"name": "loopback-component-explorer",
+			"version": "2.6.0",
+			"description": "Browse and test your LoopBack app's APIs",
+			"main": "index.js",
+			"scripts": {
+				"lint": "eslint .",
+				"test": "mocha",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-explorer.git"
+			},
+			"keywords": [
+				"loopback",
+				"api",
+				"explorer"
+			],
+			"author": {
+				"name": "Ritchie Martori"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-explorer/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"eslint": "^2.8.0",
+				"eslint-config-loopback": "^2.0.0",
+				"loopback": "^2.28.0",
+				"mocha": "^2.2.5",
+				"supertest": "^1.0.1"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"cors": "^2.7.1",
+				"debug": "^2.2.0",
+				"lodash": "^3.10.0",
+				"loopback-swagger": "^2.1.0",
+				"strong-globalize": "^2.6.2",
+				"strong-swagger-ui": "^21.0.0"
+			},
+			"gitHead": "4714b5bb6a8d2d9f2d2bef6fe2218a571bb05625",
+			"homepage": "https://github.com/strongloop/loopback-component-explorer#readme",
+			"_id": "loopback-component-explorer@2.6.0",
+			"_shasum": "628f073a4c6214e582447a5e68e12472f25958e6",
+			"_from": ".",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.5.0",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "mbajtoss@gmail.com"
+			},
+			"dist": {
+				"shasum": "628f073a4c6214e582447a5e68e12472f25958e6",
+				"tarball": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-2.6.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "amir-61",
+					"email": "amirali.jfr61@gmail.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "qpresley",
+					"email": "qpresley@ca.ibm.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "richardpringle",
+					"email": "rpring9@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				},
+				{
+					"name": "tonyf-ibm",
+					"email": "tffrench@us.ibm.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/loopback-component-explorer-2.6.0.tgz_1473080415042_0.04868876445107162"
+			},
+			"directories": {}
+		},
+		"2.7.0": {
+			"name": "loopback-component-explorer",
+			"version": "2.7.0",
+			"description": "Browse and test your LoopBack app's APIs",
+			"main": "index.js",
+			"scripts": {
+				"lint": "eslint .",
+				"test": "mocha",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-explorer.git"
+			},
+			"keywords": [
+				"loopback",
+				"api",
+				"explorer"
+			],
+			"author": {
+				"name": "Ritchie Martori"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-explorer/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"eslint": "^2.8.0",
+				"eslint-config-loopback": "^2.0.0",
+				"loopback": "^3.0.0",
+				"mocha": "^2.2.5",
+				"supertest": "^1.0.1"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"cors": "^2.7.1",
+				"debug": "^2.2.0",
+				"depd": "^1.1.0",
+				"lodash": "^3.10.0",
+				"loopback-swagger": "^2.1.0",
+				"strong-globalize": "^2.6.2",
+				"strong-swagger-ui": "^21.0.0"
+			},
+			"gitHead": "91cdd7b63c4cd2372a3605d1fa07862975d4f813",
+			"homepage": "https://github.com/strongloop/loopback-component-explorer#readme",
+			"_id": "loopback-component-explorer@2.7.0",
+			"_shasum": "e27ef221a353ec782b15a9d0775e674e9af97c1b",
+			"_from": ".",
+			"_npmVersion": "2.15.1",
+			"_nodeVersion": "4.4.3",
+			"_npmUser": {
+				"name": "0candy",
+				"email": "ngcandy@ca.ibm.com"
+			},
+			"dist": {
+				"shasum": "e27ef221a353ec782b15a9d0775e674e9af97c1b",
+				"tarball": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-2.7.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "0candy",
+					"email": "ngcandy@ca.ibm.com"
+				},
+				{
+					"name": "amir-61",
+					"email": "amirali.jfr61@gmail.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "qpresley",
+					"email": "qpresley@ca.ibm.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "richardpringle",
+					"email": "rpring9@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				},
+				{
+					"name": "tonyf-ibm",
+					"email": "tffrench@us.ibm.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/loopback-component-explorer-2.7.0.tgz_1476312712520_0.1363264953251928"
+			},
+			"directories": {}
+		},
+		"3.0.0": {
+			"name": "loopback-component-explorer",
+			"version": "3.0.0",
+			"publishConfig": {
+				"tag": "next"
+			},
+			"description": "Browse and test your LoopBack app's APIs",
+			"main": "index.js",
+			"scripts": {
+				"lint": "eslint .",
+				"test": "mocha",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-explorer.git"
+			},
+			"keywords": [
+				"loopback",
+				"api",
+				"explorer"
+			],
+			"author": {
+				"name": "Ritchie Martori"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-explorer/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"eslint": "^2.8.0",
+				"eslint-config-loopback": "^2.0.0",
+				"loopback": "^3.0.0",
+				"mocha": "^2.2.5",
+				"supertest": "^1.0.1"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"cors": "^2.7.1",
+				"debug": "^2.2.0",
+				"depd": "^1.1.0",
+				"lodash": "^3.10.0",
+				"loopback-swagger": "^2.1.0",
+				"strong-globalize": "^2.6.2",
+				"swagger-ui": "^2.2.5"
+			},
+			"gitHead": "2da4491eadda484fba6672c3fe33eb1978517047",
+			"homepage": "https://github.com/strongloop/loopback-component-explorer#readme",
+			"_id": "loopback-component-explorer@3.0.0",
+			"_shasum": "988e6bf069e0646814e4b374809187453d52e66a",
+			"_from": ".",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.6.0",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "mbajtoss@gmail.com"
+			},
+			"dist": {
+				"shasum": "988e6bf069e0646814e4b374809187453d52e66a",
+				"tarball": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-3.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "0candy",
+					"email": "ngcandy@ca.ibm.com"
+				},
+				{
+					"name": "amir-61",
+					"email": "amirali.jfr61@gmail.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "qpresley",
+					"email": "qpresley@ca.ibm.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "richardpringle",
+					"email": "rpring9@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				},
+				{
+					"name": "tonyf-ibm",
+					"email": "tffrench@us.ibm.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/loopback-component-explorer-3.0.0.tgz_1476452499666_0.18017864669673145"
+			},
+			"directories": {}
+		},
+		"3.0.1": {
+			"name": "loopback-component-explorer",
+			"version": "3.0.1",
+			"publishConfig": {
+				"tag": "lts"
+			},
+			"description": "Browse and test your LoopBack app's APIs",
+			"main": "index.js",
+			"scripts": {
+				"lint": "eslint .",
+				"test": "mocha",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-explorer.git"
+			},
+			"keywords": [
+				"loopback",
+				"api",
+				"explorer"
+			],
+			"author": {
+				"name": "Ritchie Martori"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-explorer/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"eslint": "^2.8.0",
+				"eslint-config-loopback": "^2.0.0",
+				"loopback": "^2.36.0",
+				"mocha": "^2.2.5",
+				"supertest": "^1.0.1"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"cors": "^2.7.1",
+				"debug": "^2.2.0",
+				"depd": "^1.1.0",
+				"lodash": "^3.10.0",
+				"loopback-swagger": "^2.1.0",
+				"strong-globalize": "^2.6.2",
+				"swagger-ui": "^2.2.5"
+			},
+			"gitHead": "57efdeae3d97211ab812af519b33b6830582dbdf",
+			"homepage": "https://github.com/strongloop/loopback-component-explorer#readme",
+			"_id": "loopback-component-explorer@3.0.1",
+			"_shasum": "69b64f4393cf66a7bd258f75524f75e6683e22b9",
+			"_from": ".",
+			"_npmVersion": "3.10.8",
+			"_nodeVersion": "6.9.1",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "0candy",
+					"email": "ngcandy@ca.ibm.com"
+				},
+				{
+					"name": "amir-61",
+					"email": "amirali.jfr61@gmail.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "davidcheung",
+					"email": "davidcheung@live.ca"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "jannyhou2016",
+					"email": "juehou@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "loay",
+					"email": "gewily@ca.ibm.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "qpresley",
+					"email": "qpresley@ca.ibm.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				},
+				{
+					"name": "thegman",
+					"email": "gpandya@live.com"
+				},
+				{
+					"name": "tonyf-ibm",
+					"email": "tffrench@us.ibm.com"
+				}
+			],
+			"dist": {
+				"shasum": "69b64f4393cf66a7bd258f75524f75e6683e22b9",
+				"tarball": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-3.0.1.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/loopback-component-explorer-3.0.1.tgz_1482277282894_0.8765888046473265"
+			},
+			"directories": {}
+		},
+		"4.0.0": {
+			"name": "loopback-component-explorer",
+			"version": "4.0.0",
+			"description": "Browse and test your LoopBack app's APIs",
+			"engines": {
+				"node": ">=4"
+			},
+			"main": "index.js",
+			"scripts": {
+				"lint": "eslint .",
+				"test": "mocha",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-explorer.git"
+			},
+			"keywords": [
+				"loopback",
+				"api",
+				"explorer"
+			],
+			"author": {
+				"name": "Ritchie Martori"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-explorer/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"eslint": "^2.8.0",
+				"eslint-config-loopback": "^2.0.0",
+				"loopback": "^3.0.0",
+				"mocha": "^2.2.5",
+				"supertest": "^1.0.1"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"cors": "^2.7.1",
+				"debug": "^2.2.0",
+				"depd": "^1.1.0",
+				"lodash": "^3.10.0",
+				"loopback-swagger": "^2.1.0",
+				"strong-globalize": "^2.6.2",
+				"swagger-ui": "^2.2.5"
+			},
+			"gitHead": "c11924072d90b0c8688f3117be9e3caf02905a4a",
+			"homepage": "https://github.com/strongloop/loopback-component-explorer#readme",
+			"_id": "loopback-component-explorer@4.0.0",
+			"_shasum": "d18e869d17d7c0f9d8f3947d644a7fd1f0efc45e",
+			"_from": ".",
+			"_npmVersion": "3.10.8",
+			"_nodeVersion": "6.9.1",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "mbajtoss@gmail.com"
+			},
+			"dist": {
+				"shasum": "d18e869d17d7c0f9d8f3947d644a7fd1f0efc45e",
+				"tarball": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-4.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "0candy",
+					"email": "ngcandy@ca.ibm.com"
+				},
+				{
+					"name": "amir-61",
+					"email": "amirali.jfr61@gmail.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "davidcheung",
+					"email": "davidcheung@live.ca"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "jannyhou2016",
+					"email": "juehou@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "loay",
+					"email": "gewily@ca.ibm.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "qpresley",
+					"email": "qpresley@ca.ibm.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				},
+				{
+					"name": "thegman",
+					"email": "gpandya@live.com"
+				},
+				{
+					"name": "tonyf-ibm",
+					"email": "tffrench@us.ibm.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/loopback-component-explorer-4.0.0.tgz_1482314065458_0.6602321034297347"
+			},
+			"directories": {}
+		},
+		"4.1.0": {
+			"name": "loopback-component-explorer",
+			"version": "4.1.0",
+			"description": "Browse and test your LoopBack app's APIs",
+			"engines": {
+				"node": ">=4"
+			},
+			"main": "index.js",
+			"scripts": {
+				"lint": "eslint .",
+				"test": "mocha",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-explorer.git"
+			},
+			"keywords": [
+				"loopback",
+				"api",
+				"explorer"
+			],
+			"author": {
+				"name": "Ritchie Martori"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-explorer/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"eslint": "^2.8.0",
+				"eslint-config-loopback": "^2.0.0",
+				"loopback": "^3.0.0",
+				"mocha": "^2.2.5",
+				"supertest": "^1.0.1"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"cors": "^2.7.1",
+				"debug": "^2.2.0",
+				"depd": "^1.1.0",
+				"lodash": "^3.10.0",
+				"loopback-swagger": "^3.0.1",
+				"strong-globalize": "^2.6.2",
+				"swagger-ui": "^2.2.5"
+			},
+			"gitHead": "69d1459ecc0204381bb51aff2be0a2aa5c68fadf",
+			"homepage": "https://github.com/strongloop/loopback-component-explorer#readme",
+			"_id": "loopback-component-explorer@4.1.0",
+			"_shasum": "7e543e50b2a5784c5da772f0fe04e2ab05109bf4",
+			"_from": ".",
+			"_npmVersion": "3.10.10",
+			"_nodeVersion": "6.9.4",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "mbajtoss@gmail.com"
+			},
+			"dist": {
+				"shasum": "7e543e50b2a5784c5da772f0fe04e2ab05109bf4",
+				"tarball": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-4.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "0candy",
+					"email": "ngcandy@ca.ibm.com"
+				},
+				{
+					"name": "amir-61",
+					"email": "amirali.jfr61@gmail.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "davidcheung",
+					"email": "davidcheung@live.ca"
+				},
+				{
+					"name": "hacksparrow",
+					"email": "captain@hacksparrow.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "jannyhou2016",
+					"email": "juehou@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "loay",
+					"email": "gewily@ca.ibm.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "qpresley",
+					"email": "qpresley@ca.ibm.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				},
+				{
+					"name": "thegman",
+					"email": "gpandya@live.com"
+				},
+				{
+					"name": "tonyf-ibm",
+					"email": "tffrench@us.ibm.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/loopback-component-explorer-4.1.0.tgz_1485865099657_0.25822691107168794"
+			},
+			"directories": {}
+		},
+		"4.1.1": {
+			"name": "loopback-component-explorer",
+			"version": "4.1.1",
+			"description": "Browse and test your LoopBack app's APIs",
+			"engines": {
+				"node": ">=4"
+			},
+			"main": "index.js",
+			"scripts": {
+				"lint": "eslint .",
+				"test": "mocha",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-explorer.git"
+			},
+			"keywords": [
+				"loopback",
+				"api",
+				"explorer"
+			],
+			"author": {
+				"name": "Ritchie Martori"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-explorer/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"eslint": "^2.8.0",
+				"eslint-config-loopback": "^2.0.0",
+				"loopback": "^3.0.0",
+				"mocha": "^2.2.5",
+				"supertest": "^1.0.1"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"cors": "^2.7.1",
+				"debug": "^2.2.0",
+				"depd": "^1.1.0",
+				"lodash": "^3.10.0",
+				"loopback-swagger": "^3.0.1",
+				"strong-globalize": "^2.6.2",
+				"swagger-ui": "^2.2.5"
+			},
+			"gitHead": "188603f352e1a6a6ba7587aaa0a9e3e1a75ce387",
+			"homepage": "https://github.com/strongloop/loopback-component-explorer#readme",
+			"_id": "loopback-component-explorer@4.1.1",
+			"_shasum": "3486adfe61e410bd47a2b3fbe4fe087432780a71",
+			"_from": ".",
+			"_npmVersion": "3.10.10",
+			"_nodeVersion": "6.9.5",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "mbajtoss@gmail.com"
+			},
+			"dist": {
+				"shasum": "3486adfe61e410bd47a2b3fbe4fe087432780a71",
+				"tarball": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-4.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "0candy",
+					"email": "ngcandy@ca.ibm.com"
+				},
+				{
+					"name": "amir-61",
+					"email": "amirali.jfr61@gmail.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "davidcheung",
+					"email": "davidcheung@live.ca"
+				},
+				{
+					"name": "hacksparrow",
+					"email": "captain@hacksparrow.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "jannyhou2016",
+					"email": "juehou@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "loay",
+					"email": "gewily@ca.ibm.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "qpresley",
+					"email": "qpresley@ca.ibm.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				},
+				{
+					"name": "thegman",
+					"email": "gpandya@live.com"
+				},
+				{
+					"name": "tonyf-ibm",
+					"email": "tffrench@us.ibm.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/loopback-component-explorer-4.1.1.tgz_1487344298705_0.6241934469435364"
+			},
+			"directories": {}
+		},
+		"4.2.0": {
+			"name": "loopback-component-explorer",
+			"version": "4.2.0",
+			"description": "Browse and test your LoopBack app's APIs",
+			"engines": {
+				"node": ">=4"
+			},
+			"main": "index.js",
+			"scripts": {
+				"lint": "eslint .",
+				"test": "mocha",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-explorer.git"
+			},
+			"keywords": [
+				"loopback",
+				"api",
+				"explorer"
+			],
+			"author": {
+				"name": "Ritchie Martori"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-explorer/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"eslint": "^2.8.0",
+				"eslint-config-loopback": "^2.0.0",
+				"loopback": "^3.0.0",
+				"mocha": "^2.2.5",
+				"supertest": "^1.0.1"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"cors": "^2.7.1",
+				"debug": "^2.2.0",
+				"depd": "^1.1.0",
+				"lodash": "^3.10.0",
+				"loopback-swagger": "^3.0.1",
+				"strong-globalize": "^2.6.2",
+				"swagger-ui": "^2.2.5"
+			},
+			"gitHead": "1e3b8174694b2ce04678a21f6afc0e98c5f75ffb",
+			"homepage": "https://github.com/strongloop/loopback-component-explorer#readme",
+			"_id": "loopback-component-explorer@4.2.0",
+			"_shasum": "02564dfe7cf450dddbb40e115a768108c8d2804d",
+			"_from": ".",
+			"_npmVersion": "3.10.10",
+			"_nodeVersion": "6.10.1",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "mbajtoss@gmail.com"
+			},
+			"dist": {
+				"shasum": "02564dfe7cf450dddbb40e115a768108c8d2804d",
+				"tarball": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-4.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "0candy",
+					"email": "ngcandy@ca.ibm.com"
+				},
+				{
+					"name": "amir-61",
+					"email": "amirali.jfr61@gmail.com"
+				},
+				{
+					"name": "b-admike",
+					"email": "binadmt@hotmail.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "davidcheung",
+					"email": "davidcheung@live.ca"
+				},
+				{
+					"name": "hacksparrow",
+					"email": "captain@hacksparrow.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "jannyhou2016",
+					"email": "juehou@ca.ibm.com"
+				},
+				{
+					"name": "kjdelisle",
+					"email": "kjdelisle@gmail.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "loay",
+					"email": "gewily@ca.ibm.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "qpresley",
+					"email": "qpresley@ca.ibm.com"
+				},
+				{
+					"name": "rashmihunt",
+					"email": "rashmihunt@gmail.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				},
+				{
+					"name": "thegman",
+					"email": "gpandya@live.com"
+				},
+				{
+					"name": "tonyf-ibm",
+					"email": "tffrench@us.ibm.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/loopback-component-explorer-4.2.0.tgz_1490347976178_0.790930890943855"
+			},
+			"directories": {}
+		},
+		"5.0.0": {
+			"name": "loopback-component-explorer",
+			"version": "5.0.0",
+			"description": "Browse and test your LoopBack app's APIs",
+			"engines": {
+				"node": ">=4"
+			},
+			"main": "index.js",
+			"scripts": {
+				"lint": "eslint .",
+				"test": "mocha",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-explorer.git"
+			},
+			"keywords": [
+				"loopback",
+				"api",
+				"explorer"
+			],
+			"author": {
+				"name": "Ritchie Martori"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-explorer/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"eslint": "^2.8.0",
+				"eslint-config-loopback": "^2.0.0",
+				"loopback": "^3.0.0",
+				"mocha": "^2.2.5",
+				"supertest": "^1.0.1"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"cors": "^2.7.1",
+				"debug": "^2.2.0",
+				"depd": "^1.1.0",
+				"lodash": "^3.10.0",
+				"loopback-swagger": "^5.0.0",
+				"strong-globalize": "^2.6.2",
+				"swagger-ui": "^2.2.5"
+			},
+			"gitHead": "7da9a13c4458640ab4be5632b133fc7540898b1b",
+			"homepage": "https://github.com/strongloop/loopback-component-explorer#readme",
+			"_id": "loopback-component-explorer@5.0.0",
+			"_npmVersion": "5.0.0",
+			"_nodeVersion": "8.0.0",
+			"_npmUser": {
+				"name": "rashmihunt",
+				"email": "rashmihunt@gmail.com"
+			},
+			"dist": {
+				"integrity": "sha512-tjofgZGYjsgsaVPikTStNQUXJNeLRIs/5Iz69oZt9PTIfE9HF0bdzZdocM1OpG4pWU8XRWi5ZXtBtT7akf7a+Q==",
+				"shasum": "6f1179f76db7312bda8a736813a5b40b29d71390",
+				"tarball": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-5.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"email": "kjdelisle@gmail.com",
+					"name": "kjdelisle"
+				},
+				{
+					"email": "tffrench@us.ibm.com",
+					"name": "tonyf-ibm"
+				},
+				{
+					"email": "gpandya@live.com",
+					"name": "thegman"
+				},
+				{
+					"email": "qpresley@ca.ibm.com",
+					"name": "qpresley"
+				},
+				{
+					"email": "gewily@ca.ibm.com",
+					"name": "loay"
+				},
+				{
+					"email": "juehou@ca.ibm.com",
+					"name": "jannyhou2016"
+				},
+				{
+					"email": "captain@hacksparrow.com",
+					"name": "hacksparrow"
+				},
+				{
+					"email": "davidcheung@live.ca",
+					"name": "davidcheung"
+				},
+				{
+					"email": "binadmt@hotmail.com",
+					"name": "b-admike"
+				},
+				{
+					"email": "amirali.jfr61@gmail.com",
+					"name": "amir-61"
+				},
+				{
+					"email": "ngcandy@ca.ibm.com",
+					"name": "0candy"
+				},
+				{
+					"email": "superkhau@gmail.com",
+					"name": "superkhau"
+				},
+				{
+					"email": "setogit@gmail.com",
+					"name": "setogit"
+				},
+				{
+					"email": "mbajtoss@gmail.com",
+					"name": "bajtos"
+				},
+				{
+					"email": "rmg@ca.ibm.com",
+					"name": "ibmcloud-admin"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "rfeng"
+				},
+				{
+					"email": "skawful@gmail.com",
+					"name": "ritch"
+				},
+				{
+					"email": "kraman@gmail.com",
+					"name": "kraman"
+				},
+				{
+					"email": "strngops@us.ibm.com",
+					"name": "strongloop"
+				},
+				{
+					"email": "r.m.graham@gmail.com",
+					"name": "rmg"
+				},
+				{
+					"email": "vieuxtech@gmail.com",
+					"name": "octet"
+				},
+				{
+					"email": "rashmihunt@gmail.com",
+					"name": "rashmihunt"
+				},
+				{
+					"email": "mahesh.patsute@ibm.com",
+					"name": "mahesh.patsute"
+				},
+				{
+					"email": "dianahmlau@gmail.com",
+					"name": "dhmlau"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "loopback-admin"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/loopback-component-explorer-5.0.0.tgz_1504650030484_0.9702735971659422"
+			},
+			"directories": {}
+		},
+		"4.3.0": {
+			"name": "loopback-component-explorer",
+			"version": "4.3.0",
+			"description": "Browse and test your LoopBack app's APIs",
+			"engines": {
+				"node": ">=4"
+			},
+			"main": "index.js",
+			"scripts": {
+				"lint": "eslint .",
+				"test": "mocha",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-explorer.git"
+			},
+			"keywords": [
+				"loopback",
+				"api",
+				"explorer"
+			],
+			"author": {
+				"name": "Ritchie Martori"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-explorer/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"eslint": "^2.8.0",
+				"eslint-config-loopback": "^2.0.0",
+				"loopback": "^3.0.0",
+				"mocha": "^2.2.5",
+				"supertest": "^1.0.1"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"cors": "^2.7.1",
+				"debug": "^2.2.0",
+				"depd": "^1.1.0",
+				"lodash": "^3.10.0",
+				"loopback-swagger": "^3.0.1",
+				"strong-globalize": "^2.6.2",
+				"swagger-ui": "^2.2.5"
+			},
+			"gitHead": "51d1dc71b982190009f37836dbfbcfa6bebe3694",
+			"homepage": "https://github.com/strongloop/loopback-component-explorer#readme",
+			"_id": "loopback-component-explorer@4.3.0",
+			"_npmVersion": "5.4.1",
+			"_nodeVersion": "8.3.0",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"dist": {
+				"integrity": "sha512-V7cnGgf2/rR3huIP4qBTBXzlEWsNp7LKx472Au/47w3P9kpw2Re+zfCxMS3H+5kPAWjOwnwdRaR02ikU1jy5IA==",
+				"shasum": "1471e0b254c2f485d435b47466f2bf6d7438ba32",
+				"tarball": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-4.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"email": "kjdelisle@gmail.com",
+					"name": "kjdelisle"
+				},
+				{
+					"email": "tffrench@us.ibm.com",
+					"name": "tonyf-ibm"
+				},
+				{
+					"email": "gpandya@live.com",
+					"name": "thegman"
+				},
+				{
+					"email": "qpresley@ca.ibm.com",
+					"name": "qpresley"
+				},
+				{
+					"email": "gewily@ca.ibm.com",
+					"name": "loay"
+				},
+				{
+					"email": "juehou@ca.ibm.com",
+					"name": "jannyhou2016"
+				},
+				{
+					"email": "captain@hacksparrow.com",
+					"name": "hacksparrow"
+				},
+				{
+					"email": "davidcheung@live.ca",
+					"name": "davidcheung"
+				},
+				{
+					"email": "binadmt@hotmail.com",
+					"name": "b-admike"
+				},
+				{
+					"email": "amirali.jfr61@gmail.com",
+					"name": "amir-61"
+				},
+				{
+					"email": "ngcandy@ca.ibm.com",
+					"name": "0candy"
+				},
+				{
+					"email": "superkhau@gmail.com",
+					"name": "superkhau"
+				},
+				{
+					"email": "setogit@gmail.com",
+					"name": "setogit"
+				},
+				{
+					"email": "mbajtoss@gmail.com",
+					"name": "bajtos"
+				},
+				{
+					"email": "rmg@ca.ibm.com",
+					"name": "ibmcloud-admin"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "rfeng"
+				},
+				{
+					"email": "skawful@gmail.com",
+					"name": "ritch"
+				},
+				{
+					"email": "kraman@gmail.com",
+					"name": "kraman"
+				},
+				{
+					"email": "strngops@us.ibm.com",
+					"name": "strongloop"
+				},
+				{
+					"email": "r.m.graham@gmail.com",
+					"name": "rmg"
+				},
+				{
+					"email": "vieuxtech@gmail.com",
+					"name": "octet"
+				},
+				{
+					"email": "rashmihunt@gmail.com",
+					"name": "rashmihunt"
+				},
+				{
+					"email": "mahesh.patsute@ibm.com",
+					"name": "mahesh.patsute"
+				},
+				{
+					"email": "dianahmlau@gmail.com",
+					"name": "dhmlau"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "loopback-admin"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/loopback-component-explorer-4.3.0.tgz_1505498499130_0.3415791338775307"
+			},
+			"directories": {}
+		},
+		"5.1.0": {
+			"name": "loopback-component-explorer",
+			"version": "5.1.0",
+			"description": "Browse and test your LoopBack app's APIs",
+			"engines": {
+				"node": ">=4"
+			},
+			"main": "index.js",
+			"scripts": {
+				"lint": "eslint .",
+				"test": "mocha",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-explorer.git"
+			},
+			"keywords": [
+				"loopback",
+				"api",
+				"explorer"
+			],
+			"author": {
+				"name": "Ritchie Martori"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-explorer/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"eslint": "^2.8.0",
+				"eslint-config-loopback": "^2.0.0",
+				"loopback": "^3.0.0",
+				"mocha": "^2.2.5",
+				"supertest": "^1.0.1"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"cors": "^2.7.1",
+				"debug": "^2.2.0",
+				"depd": "^1.1.0",
+				"lodash": "^3.10.0",
+				"loopback-swagger": "^5.0.0",
+				"strong-globalize": "^2.6.2",
+				"swagger-ui": "^2.2.5"
+			},
+			"gitHead": "2ad0b93895b09a258513346b9a525baac2d1e203",
+			"homepage": "https://github.com/strongloop/loopback-component-explorer#readme",
+			"_id": "loopback-component-explorer@5.1.0",
+			"_npmVersion": "5.4.1",
+			"_nodeVersion": "8.3.0",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"dist": {
+				"integrity": "sha512-Lkleyc4Udi29kYGb12FTEnEbIqudk8gC/qRlOOsCIxqpjSrdCEHTR1dZ5QVBIz+HV0OIbaEk1AFmClF7Up0TAg==",
+				"shasum": "5cd0d8db88c9a898cee17309d588f6c58948a16d",
+				"tarball": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-5.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"email": "kjdelisle@gmail.com",
+					"name": "kjdelisle"
+				},
+				{
+					"email": "tffrench@us.ibm.com",
+					"name": "tonyf-ibm"
+				},
+				{
+					"email": "gpandya@live.com",
+					"name": "thegman"
+				},
+				{
+					"email": "qpresley@ca.ibm.com",
+					"name": "qpresley"
+				},
+				{
+					"email": "gewily@ca.ibm.com",
+					"name": "loay"
+				},
+				{
+					"email": "juehou@ca.ibm.com",
+					"name": "jannyhou2016"
+				},
+				{
+					"email": "captain@hacksparrow.com",
+					"name": "hacksparrow"
+				},
+				{
+					"email": "davidcheung@live.ca",
+					"name": "davidcheung"
+				},
+				{
+					"email": "binadmt@hotmail.com",
+					"name": "b-admike"
+				},
+				{
+					"email": "amirali.jfr61@gmail.com",
+					"name": "amir-61"
+				},
+				{
+					"email": "ngcandy@ca.ibm.com",
+					"name": "0candy"
+				},
+				{
+					"email": "superkhau@gmail.com",
+					"name": "superkhau"
+				},
+				{
+					"email": "setogit@gmail.com",
+					"name": "setogit"
+				},
+				{
+					"email": "mbajtoss@gmail.com",
+					"name": "bajtos"
+				},
+				{
+					"email": "rmg@ca.ibm.com",
+					"name": "ibmcloud-admin"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "rfeng"
+				},
+				{
+					"email": "skawful@gmail.com",
+					"name": "ritch"
+				},
+				{
+					"email": "kraman@gmail.com",
+					"name": "kraman"
+				},
+				{
+					"email": "strngops@us.ibm.com",
+					"name": "strongloop"
+				},
+				{
+					"email": "r.m.graham@gmail.com",
+					"name": "rmg"
+				},
+				{
+					"email": "vieuxtech@gmail.com",
+					"name": "octet"
+				},
+				{
+					"email": "rashmihunt@gmail.com",
+					"name": "rashmihunt"
+				},
+				{
+					"email": "mahesh.patsute@ibm.com",
+					"name": "mahesh.patsute"
+				},
+				{
+					"email": "dianahmlau@gmail.com",
+					"name": "dhmlau"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "loopback-admin"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/loopback-component-explorer-5.1.0.tgz_1505498523946_0.4230692330747843"
+			},
+			"directories": {}
+		},
+		"5.2.0": {
+			"name": "loopback-component-explorer",
+			"version": "5.2.0",
+			"description": "Browse and test your LoopBack app's APIs",
+			"engines": {
+				"node": ">=4"
+			},
+			"main": "index.js",
+			"scripts": {
+				"lint": "eslint .",
+				"test": "mocha",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-explorer.git"
+			},
+			"keywords": [
+				"loopback",
+				"api",
+				"explorer"
+			],
+			"author": {
+				"name": "Ritchie Martori"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-explorer/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"eslint": "^2.8.0",
+				"eslint-config-loopback": "^2.0.0",
+				"loopback": "^3.0.0",
+				"mocha": "^2.2.5",
+				"supertest": "^1.0.1"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"cors": "^2.7.1",
+				"debug": "^2.2.0",
+				"depd": "^1.1.0",
+				"lodash": "^3.10.0",
+				"loopback-swagger": "^5.0.0",
+				"strong-globalize": "^3.1.0",
+				"swagger-ui": "^2.2.5"
+			},
+			"gitHead": "c1925fa8c47b62f390789c1054f67e8139f78fda",
+			"homepage": "https://github.com/strongloop/loopback-component-explorer#readme",
+			"_id": "loopback-component-explorer@5.2.0",
+			"_npmVersion": "5.4.2",
+			"_nodeVersion": "8.7.0",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "mbajtoss@gmail.com"
+			},
+			"dist": {
+				"integrity": "sha512-6wKcGW7t17bzjjevlU9YuDKwD10qaQ6wFGK/Wm/MCHW6OurAgipuly1PKC2rZilrVEkQjK28QoX6P3qIFZbRmw==",
+				"shasum": "6f85503a514017f9f8ce0600c9502f73d15cbaa9",
+				"tarball": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-5.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"email": "kjdelisle@gmail.com",
+					"name": "kjdelisle"
+				},
+				{
+					"email": "tffrench@us.ibm.com",
+					"name": "tonyf-ibm"
+				},
+				{
+					"email": "gpandya@live.com",
+					"name": "thegman"
+				},
+				{
+					"email": "qpresley@ca.ibm.com",
+					"name": "qpresley"
+				},
+				{
+					"email": "gewily@ca.ibm.com",
+					"name": "loay"
+				},
+				{
+					"email": "juehou@ca.ibm.com",
+					"name": "jannyhou2016"
+				},
+				{
+					"email": "captain@hacksparrow.com",
+					"name": "hacksparrow"
+				},
+				{
+					"email": "davidcheung@live.ca",
+					"name": "davidcheung"
+				},
+				{
+					"email": "binadmt@hotmail.com",
+					"name": "b-admike"
+				},
+				{
+					"email": "amirali.jfr61@gmail.com",
+					"name": "amir-61"
+				},
+				{
+					"email": "ngcandy@ca.ibm.com",
+					"name": "0candy"
+				},
+				{
+					"email": "superkhau@gmail.com",
+					"name": "superkhau"
+				},
+				{
+					"email": "setogit@gmail.com",
+					"name": "setogit"
+				},
+				{
+					"email": "mbajtoss@gmail.com",
+					"name": "bajtos"
+				},
+				{
+					"email": "rmg@ca.ibm.com",
+					"name": "ibmcloud-admin"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "rfeng"
+				},
+				{
+					"email": "skawful@gmail.com",
+					"name": "ritch"
+				},
+				{
+					"email": "kraman@gmail.com",
+					"name": "kraman"
+				},
+				{
+					"email": "strngops@us.ibm.com",
+					"name": "strongloop"
+				},
+				{
+					"email": "r.m.graham@gmail.com",
+					"name": "rmg"
+				},
+				{
+					"email": "vieuxtech@gmail.com",
+					"name": "octet"
+				},
+				{
+					"email": "rashmihunt@gmail.com",
+					"name": "rashmihunt"
+				},
+				{
+					"email": "mahesh.patsute@ibm.com",
+					"name": "mahesh.patsute"
+				},
+				{
+					"email": "dianahmlau@gmail.com",
+					"name": "dhmlau"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "loopback-admin"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/loopback-component-explorer-5.2.0.tgz_1507901564027_0.26279399706982076"
+			},
+			"directories": {}
+		},
+		"5.3.0": {
+			"name": "loopback-component-explorer",
+			"version": "5.3.0",
+			"description": "Browse and test your LoopBack app's APIs",
+			"engines": {
+				"node": ">=4"
+			},
+			"main": "index.js",
+			"scripts": {
+				"lint": "eslint .",
+				"test": "mocha",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-component-explorer.git"
+			},
+			"keywords": [
+				"loopback",
+				"api",
+				"explorer"
+			],
+			"author": {
+				"name": "Ritchie Martori"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-component-explorer/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"eslint": "^2.8.0",
+				"eslint-config-loopback": "^2.0.0",
+				"loopback": "^3.0.0",
+				"mocha": "^2.2.5",
+				"supertest": "^1.0.1"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"cors": "^2.7.1",
+				"debug": "^2.2.0",
+				"depd": "^1.1.0",
+				"lodash": "^4.17.5",
+				"loopback-swagger": "^5.0.0",
+				"strong-globalize": "^3.1.0",
+				"swagger-ui": "^2.2.5"
+			},
+			"gitHead": "9dd7eb52afa121664e4ca79d1fc3786e6cf006b5",
+			"homepage": "https://github.com/strongloop/loopback-component-explorer#readme",
+			"_id": "loopback-component-explorer@5.3.0",
+			"_npmVersion": "5.5.1",
+			"_nodeVersion": "8.9.3",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "mbajtoss@gmail.com"
+			},
+			"dist": {
+				"integrity": "sha512-zNIQoM6m6GcwrGkaHPVVWS59pXMsiiIr3AD64Rt4mzE7dtdWzkApWddIi+yynNMn7ZkCcJoeYkQYxKFya53q9A==",
+				"shasum": "c479c26f3752f421f72f35afa909d43cbb3d0626",
+				"tarball": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-5.3.0.tgz",
+				"fileCount": 31,
+				"unpackedSize": 66629
+			},
+			"maintainers": [
+				{
+					"email": "ngcandy@ca.ibm.com",
+					"name": "0candy"
+				},
+				{
+					"email": "amirali.jfr61@gmail.com",
+					"name": "amir-61"
+				},
+				{
+					"email": "binadmt@hotmail.com",
+					"name": "b-admike"
+				},
+				{
+					"email": "mbajtoss@gmail.com",
+					"name": "bajtos"
+				},
+				{
+					"email": "davidcheung@live.ca",
+					"name": "davidcheung"
+				},
+				{
+					"email": "dianahmlau@gmail.com",
+					"name": "dhmlau"
+				},
+				{
+					"email": "captain@hacksparrow.com",
+					"name": "hacksparrow"
+				},
+				{
+					"email": "juehou@ca.ibm.com",
+					"name": "jannyhou2016"
+				},
+				{
+					"email": "kjdelisle@gmail.com",
+					"name": "kjdelisle"
+				},
+				{
+					"email": "kraman@gmail.com",
+					"name": "kraman"
+				},
+				{
+					"email": "mahesh.patsute@ibm.com",
+					"name": "mahesh.patsute"
+				},
+				{
+					"email": "qpresley@ca.ibm.com",
+					"name": "qpresley"
+				},
+				{
+					"email": "rashmihunt@gmail.com",
+					"name": "rashmihunt"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "rfeng"
+				},
+				{
+					"email": "skawful@gmail.com",
+					"name": "ritch"
+				},
+				{
+					"email": "r.m.graham@gmail.com",
+					"name": "rmg"
+				},
+				{
+					"email": "superkhau@gmail.com",
+					"name": "superkhau"
+				},
+				{
+					"email": "gpandya@live.com",
+					"name": "thegman"
+				},
+				{
+					"email": "tffrench@us.ibm.com",
+					"name": "tonyf-ibm"
+				},
+				{
+					"email": "taranveer@virk.cc",
+					"name": "virkt25"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/loopback-component-explorer_5.3.0_1519036594289_0.47254707323348377"
+			}
+		}
+	},
+	"dist-tags": {
+		"latest": "5.3.0",
+		"lts": "3.0.1"
+	},
+	"time": {
+		"modified": "2018-02-19T10:36:35.609Z",
+		"created": "2015-09-17T08:57:04.241Z",
+		"2.1.0": "2015-09-17T08:57:04.241Z",
+		"2.1.1": "2015-10-01T09:11:26.117Z",
+		"2.2.0": "2016-01-14T00:12:05.141Z",
+		"2.3.0": "2016-02-02T09:46:04.474Z",
+		"2.4.0": "2016-03-08T21:00:32.544Z",
+		"2.5.0": "2016-05-02T11:01:19.362Z",
+		"2.6.0": "2016-09-05T13:00:17.472Z",
+		"2.7.0": "2016-10-12T22:51:54.759Z",
+		"3.0.0": "2016-10-14T13:41:41.550Z",
+		"3.0.1": "2016-12-20T23:41:24.777Z",
+		"4.0.0": "2016-12-21T09:54:27.267Z",
+		"4.1.0": "2017-01-31T12:18:20.232Z",
+		"4.1.1": "2017-02-17T15:11:39.281Z",
+		"4.2.0": "2017-03-24T09:32:57.003Z",
+		"5.0.0": "2017-09-05T22:20:31.269Z",
+		"4.3.0": "2017-09-15T18:01:40.099Z",
+		"5.1.0": "2017-09-15T18:02:04.074Z",
+		"5.2.0": "2017-10-13T13:32:45.170Z",
+		"5.3.0": "2018-02-19T10:36:34.352Z"
+	},
+	"_distfiles": {
+		"loopback-component-explorer-2.1.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-2.1.0.tgz",
+			"sha": "e264b4f872dd4bfb3ea15e9e58b5a464d48a00f8",
+			"registry": "npmjs"
+		},
+		"loopback-component-explorer-2.1.1.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-2.1.1.tgz",
+			"sha": "cbd423cc29b0afac4bf7789d60701947c3506142",
+			"registry": "npmjs"
+		},
+		"loopback-component-explorer-2.2.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-2.2.0.tgz",
+			"sha": "38b5713ed1ce3f34c4adb47b25c656c33ef8f9e4",
+			"registry": "npmjs"
+		},
+		"loopback-component-explorer-2.3.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-2.3.0.tgz",
+			"sha": "828e01b9f5a2beac5b3304f4f530fcf815cbef74",
+			"registry": "npmjs"
+		},
+		"loopback-component-explorer-2.4.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-2.4.0.tgz",
+			"sha": "b4a8624036b670862ef8391a307cfc30f366aee6",
+			"registry": "npmjs"
+		},
+		"loopback-component-explorer-2.5.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-2.5.0.tgz",
+			"sha": "9f8f03ac127a294f9984c5ccff4a5acaf60af232",
+			"registry": "npmjs"
+		},
+		"loopback-component-explorer-2.6.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-2.6.0.tgz",
+			"sha": "628f073a4c6214e582447a5e68e12472f25958e6",
+			"registry": "npmjs"
+		},
+		"loopback-component-explorer-2.7.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-2.7.0.tgz",
+			"sha": "e27ef221a353ec782b15a9d0775e674e9af97c1b",
+			"registry": "npmjs"
+		},
+		"loopback-component-explorer-3.0.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-3.0.0.tgz",
+			"sha": "988e6bf069e0646814e4b374809187453d52e66a",
+			"registry": "npmjs"
+		},
+		"loopback-component-explorer-3.0.1.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-3.0.1.tgz",
+			"sha": "69b64f4393cf66a7bd258f75524f75e6683e22b9",
+			"registry": "npmjs"
+		},
+		"loopback-component-explorer-4.0.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-4.0.0.tgz",
+			"sha": "d18e869d17d7c0f9d8f3947d644a7fd1f0efc45e",
+			"registry": "npmjs"
+		},
+		"loopback-component-explorer-4.1.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-4.1.0.tgz",
+			"sha": "7e543e50b2a5784c5da772f0fe04e2ab05109bf4",
+			"registry": "npmjs"
+		},
+		"loopback-component-explorer-4.1.1.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-4.1.1.tgz",
+			"sha": "3486adfe61e410bd47a2b3fbe4fe087432780a71",
+			"registry": "npmjs"
+		},
+		"loopback-component-explorer-4.2.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-4.2.0.tgz",
+			"sha": "02564dfe7cf450dddbb40e115a768108c8d2804d",
+			"registry": "npmjs"
+		},
+		"loopback-component-explorer-5.0.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-5.0.0.tgz",
+			"sha": "6f1179f76db7312bda8a736813a5b40b29d71390",
+			"registry": "npmjs"
+		},
+		"loopback-component-explorer-4.3.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-4.3.0.tgz",
+			"sha": "1471e0b254c2f485d435b47466f2bf6d7438ba32",
+			"registry": "npmjs"
+		},
+		"loopback-component-explorer-5.1.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-5.1.0.tgz",
+			"sha": "5cd0d8db88c9a898cee17309d588f6c58948a16d",
+			"registry": "npmjs"
+		},
+		"loopback-component-explorer-5.2.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-5.2.0.tgz",
+			"sha": "6f85503a514017f9f8ce0600c9502f73d15cbaa9",
+			"registry": "npmjs"
+		},
+		"loopback-component-explorer-5.3.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-component-explorer/-/loopback-component-explorer-5.3.0.tgz",
+			"sha": "c479c26f3752f421f72f35afa909d43cbb3d0626",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "\"5a8aa8b3-c2a1\"",
+			"fetched": 1519837506556
+		}
+	},
+	"_rev": "1-50610d4d95891e29",
+	"readme": "# loopback-component-explorer\n\nBrowse and test your LoopBack app's APIs.\n\n## Supported versions\n\nCurrent|Long Term Support\n:-:|:-:\n4.x|2.x\n\nLearn more about our LTS plan in [docs](http://loopback.io/doc/en/contrib/Long-term-support.html).\n\n*The only difference between 3.x and 4.x versions is which Node.js versions\nare supported (loopback-component-explorer 4.x dropped support for pre-v4\nversions of Node.js). Therefore we decided to not maintain 3.x version line and\nprovide LTS support for the 2.x version line instead.*\n\n## Basic Usage\n\nBelow is a simple LoopBack application. The explorer is mounted at `/explorer`.\n\n```js\nvar loopback = require('loopback');\nvar app = loopback();\nvar explorer = require('../');\nvar port = 3000;\n\nvar Product = loopback.Model.extend('product');\nProduct.attachTo(loopback.memory());\napp.model(Product);\n\napp.use('/api', loopback.rest());\n\n// Register explorer using component-centric API:\nexplorer(app, { basePath: '/api', mountPath: '/explorer' });\n// Alternatively, register as a middleware:\napp.use('/explorer', explorer.routes(app, { basePath: '/api' }));\n\nconsole.log(\"Explorer mounted at localhost:\" + port + \"/explorer\");\n\napp.listen(port);\n```\n\n## Upgrading from v1.x\n\nTo upgrade your application using loopback-explorer version 1.x, just replace\n`explorer()` with `explorer.routes()` in your server script:\n\n```js\nvar explorer = require('loopback-component-explorer');  // Module was loopback-explorer in v. 2.0.1 and earlier\n\n// v1.x - does not work anymore\napp.use('/explorer', explorer(app, options);\n// v2.x\napp.use('/explorer', explorer.routes(app, options));\n```\n\nIn applications scaffolded by `lb app`, the idiomatic way is to register\nloopback-component-explorer in `server/component-config.json`:\n\n```json\n{\n  \"loopback-component-explorer\": {\n    \"mountPath\": \"/explorer\"\n  }\n}\n```\n\n## Advanced Usage\n\nMany aspects of the explorer are configurable.\n\nSee [options](#options) for a description of these options:\n\n```js\n// Mount middleware before calling `explorer()` to add custom headers, auth, etc.\napp.use('/explorer', loopback.basicAuth('user', 'password'));\nexplorer(app, {\n  basePath: '/custom-api-root',\n  uiDirs: [\n    path.resolve(__dirname, 'public'),\n    path.resolve(__dirname, 'node_modules', 'swagger-ui')\n  ]\n  apiInfo: {\n    'title': 'My API',\n    'description': 'Explorer example app.'\n  },\n  resourcePath: 'swagger.json',\n  version: '0.1-unreleasable'\n}));\napp.use('/custom-api-root', loopback.rest());\n```\nIn applications scaffolded by `lb app`, you can edit the `server/component-config.json`:\n\n```json\n{\n  \"loopback-component-explorer\": {\n    \"mountPath\": \"/explorer\",\n    \"apiInfo\": {\n      \"title\": \"My App\",\n      \"description\": \"Description of my app APIs.\",\n      \"termsOfServiceUrl\": \"http://api.mycompany.io/terms/\",\n      \"contact\": \"apiteam@mycompany.io\",\n      \"license\": \"Apache 2.0\",\n      \"licenseUrl\": \"http://www.apache.org/licenses/LICENSE-2.0.html\"\n    }\n  }\n}\n```\n\n## Options\n\nOptions are passed to `explorer(app, options)`.\n\n`basePath`: **String**\n\n> Default: `app.get('restAPIRoot')` or  `'/api'`.\n\n> Sets the API's base path. This must be set if you are mounting your api\n> to a path different than '/api', e.g. with\n> `loopback.use('/custom-api-root', loopback.rest());\n\n`mountPath`: **String**\n\n> Default: `/explorer`\n\n> Set the path where to mount the explorer component.\n\n`protocol`: **String**\n\n> Default: `null`\n\n> A hard override for the outgoing protocol (`http` or `https`) that is designated in Swagger\n> resource documents. By default, `loopback-component-explorer` will write the protocol that was used to retrieve\n> the doc. This option is useful if, for instance, your API sits behind an SSL terminator\n> and thus needs to report its endpoints as `https`, even though incoming traffic is auto-detected\n> as `http`.\n\n`uiDirs`: **Array of Strings**\n\n> Sets a list of paths within your application for overriding Swagger UI files.\n\n> If present, will search `uiDirs` first when attempting to load Swagger UI,\n> allowing you to pick and choose overrides to the interface. Use this to\n> style your explorer or add additional functionality.\n\n> See [index.html](public/index.html), where you may want to begin your overrides.\n> The rest of the UI is provided by [Swagger UI](https://github.com/wordnik/swagger-ui).\n\n`apiInfo`: **Object**\n\n> Additional information about your API. See the\n> [spec](https://github.com/wordnik/swagger-spec/blob/master/versions/1.2.md#513-info-object).\n\n`resourcePath`: **String**\n\n> Default: `'resources'`\n\n> Sets a different path for the\n> [resource listing](https://github.com/wordnik/swagger-spec/blob/master/versions/1.2.md#51-resource-listing).\n> You generally shouldn't have to change this.\n\n`version`: **String**\n\n> Default: Read from package.json\n\n> Sets your API version. If not present, will read from your app's package.json.\n"
+}

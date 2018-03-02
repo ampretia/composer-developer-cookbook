@@ -1,0 +1,442 @@
+{
+	"name": "dashify",
+	"versions": {
+		"0.1.0": {
+			"name": "dashify",
+			"description": "Convert a camelcase or space-separated string to a dash-separated string.",
+			"version": "0.1.0",
+			"homepage": "https://github.com/jonschlinkert/dashify",
+			"author": {
+				"name": "Jon Schlinkert",
+				"url": "https://github.com/jonschlinkert"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jonschlinkert/dashify.git"
+			},
+			"bugs": {
+				"url": "https://github.com/jonschlinkert/dashify/issues"
+			},
+			"license": {
+				"type": "MIT",
+				"url": "https://github.com/jonschlinkert/dashify/blob/master/LICENSE"
+			},
+			"files": [
+				"index.js"
+			],
+			"main": "index.js",
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"keywords": [
+				"dash",
+				"dashcase",
+				"dasherize",
+				"dashify",
+				"slug",
+				"slugify"
+			],
+			"gitHead": "abaf7bcdec754008c972831d71ffa5c5ac91dd4f",
+			"_id": "dashify@0.1.0",
+			"_shasum": "107daf9cca5e326e30a8b39ffa5048b6684922ea",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "jonschlinkert",
+				"email": "github@sellside.com"
+			},
+			"maintainers": [
+				{
+					"name": "jonschlinkert",
+					"email": "github@sellside.com"
+				}
+			],
+			"dist": {
+				"shasum": "107daf9cca5e326e30a8b39ffa5048b6684922ea",
+				"tarball": "https://registry.npmjs.org/dashify/-/dashify-0.1.0.tgz"
+			},
+			"directories": {}
+		},
+		"0.2.0": {
+			"name": "dashify",
+			"description": "Convert a camelcase or space-separated string to a dash-separated string.",
+			"version": "0.2.0",
+			"homepage": "https://github.com/jonschlinkert/dashify",
+			"author": {
+				"name": "Jon Schlinkert",
+				"url": "https://github.com/jonschlinkert"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jonschlinkert/dashify.git"
+			},
+			"bugs": {
+				"url": "https://github.com/jonschlinkert/dashify/issues"
+			},
+			"license": "MIT",
+			"files": [
+				"index.js"
+			],
+			"main": "index.js",
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*"
+			},
+			"keywords": [
+				"dash",
+				"dashcase",
+				"dasherize",
+				"dashify",
+				"slug",
+				"slugify"
+			],
+			"verb": {
+				"related": {
+					"description": "Some other awesome string libs:",
+					"list": [
+						"pascalcase",
+						"romanize",
+						"wordcount",
+						"word-wrap"
+					]
+				}
+			},
+			"gitHead": "a41e9fcb51c07474f1f43c9e772bf68b0b1d407f",
+			"_id": "dashify@0.2.0",
+			"_shasum": "77e6c092e6ba97c0e2d5f67ed2ebe86413f2e9c0",
+			"_from": ".",
+			"_npmVersion": "2.10.1",
+			"_nodeVersion": "0.12.4",
+			"_npmUser": {
+				"name": "jonschlinkert",
+				"email": "github@sellside.com"
+			},
+			"maintainers": [
+				{
+					"name": "jonschlinkert",
+					"email": "github@sellside.com"
+				}
+			],
+			"dist": {
+				"shasum": "77e6c092e6ba97c0e2d5f67ed2ebe86413f2e9c0",
+				"tarball": "https://registry.npmjs.org/dashify/-/dashify-0.2.0.tgz"
+			},
+			"directories": {}
+		},
+		"0.2.1": {
+			"name": "dashify",
+			"description": "Convert a camelcase or space-separated string to a dash-separated string.",
+			"version": "0.2.1",
+			"homepage": "https://github.com/jonschlinkert/dashify",
+			"author": {
+				"name": "Jon Schlinkert",
+				"url": "https://github.com/jonschlinkert"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jonschlinkert/dashify.git"
+			},
+			"bugs": {
+				"url": "https://github.com/jonschlinkert/dashify/issues"
+			},
+			"license": "MIT",
+			"files": [
+				"index.js"
+			],
+			"main": "index.js",
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"devDependencies": {
+				"gulp-format-md": "^0.1.4",
+				"mocha": "*",
+				"should": "*"
+			},
+			"keywords": [
+				"dash",
+				"dashcase",
+				"dasherize",
+				"dashify",
+				"slug",
+				"slugify"
+			],
+			"verb": {
+				"related": {
+					"list": [
+						"pascalcase",
+						"romanize",
+						"word-wrap",
+						"wordcount"
+					],
+					"description": "Some other awesome string libs:"
+				},
+				"plugins": [
+					"gulp-format-md"
+				]
+			},
+			"gitHead": "178f1ee5ee8baeee41ad0d6836e49c7acbfbc93d",
+			"_id": "dashify@0.2.1",
+			"_shasum": "de735b0521b11044eadba965c1827f1f7faa5d74",
+			"_from": ".",
+			"_npmVersion": "3.3.12",
+			"_nodeVersion": "5.3.0",
+			"_npmUser": {
+				"name": "jonschlinkert",
+				"email": "github@sellside.com"
+			},
+			"maintainers": [
+				{
+					"name": "jonschlinkert",
+					"email": "github@sellside.com"
+				}
+			],
+			"dist": {
+				"shasum": "de735b0521b11044eadba965c1827f1f7faa5d74",
+				"tarball": "https://registry.npmjs.org/dashify/-/dashify-0.2.1.tgz"
+			},
+			"directories": {}
+		},
+		"0.2.2": {
+			"name": "dashify",
+			"description": "Convert a camelcase or space-separated string to a dash-separated string.",
+			"version": "0.2.2",
+			"homepage": "https://github.com/jonschlinkert/dashify",
+			"author": {
+				"name": "Jon Schlinkert",
+				"url": "https://github.com/jonschlinkert"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jonschlinkert/dashify.git"
+			},
+			"bugs": {
+				"url": "https://github.com/jonschlinkert/dashify/issues"
+			},
+			"license": "MIT",
+			"files": [
+				"index.js"
+			],
+			"main": "index.js",
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"devDependencies": {
+				"gulp-format-md": "^0.1.9",
+				"mocha": "^2.5.1"
+			},
+			"keywords": [
+				"dash",
+				"dashcase",
+				"dasherize",
+				"dashify",
+				"slug",
+				"slugify"
+			],
+			"verb": {
+				"related": {
+					"list": [
+						"pascalcase",
+						"romanize",
+						"word-wrap",
+						"wordcount"
+					],
+					"description": "Some other awesome string libs:"
+				},
+				"plugins": [
+					"gulp-format-md"
+				]
+			},
+			"gitHead": "625e91f6df57f03910003a92ea5d76c1fa70639f",
+			"_id": "dashify@0.2.2",
+			"_shasum": "6a07415a01c91faf4a32e38d9dfba71f61cb20fe",
+			"_from": ".",
+			"_npmVersion": "3.6.0",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "jonschlinkert",
+				"email": "github@sellside.com"
+			},
+			"maintainers": [
+				{
+					"name": "jonschlinkert",
+					"email": "github@sellside.com"
+				}
+			],
+			"dist": {
+				"shasum": "6a07415a01c91faf4a32e38d9dfba71f61cb20fe",
+				"tarball": "https://registry.npmjs.org/dashify/-/dashify-0.2.2.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/dashify-0.2.2.tgz_1464017189009_0.5138110853731632"
+			},
+			"directories": {}
+		},
+		"1.0.0": {
+			"name": "dashify",
+			"description": "Convert a camelcase or space-separated string to a dash-separated string. ~12 sloc, fast, supports diacritics.",
+			"version": "1.0.0",
+			"homepage": "https://github.com/jonschlinkert/dashify",
+			"author": {
+				"name": "Jon Schlinkert",
+				"url": "https://github.com/jonschlinkert"
+			},
+			"contributors": [
+				{
+					"name": "Jeffrey Priebe",
+					"url": "https://github.com/jeffreypriebe"
+				},
+				{
+					"name": "Jon Schlinkert",
+					"url": "http://twitter.com/jonschlinkert"
+				},
+				{
+					"name": "Ondrej Brinkel",
+					"url": "https://www.anzui.de"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jonschlinkert/dashify.git"
+			},
+			"bugs": {
+				"url": "https://github.com/jonschlinkert/dashify/issues"
+			},
+			"license": "MIT",
+			"files": [
+				"index.js"
+			],
+			"main": "index.js",
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"devDependencies": {
+				"gulp-format-md": "^1.0.0",
+				"mocha": "^3.5.3"
+			},
+			"keywords": [
+				"dash",
+				"dashcase",
+				"dasherize",
+				"dashify",
+				"slug",
+				"slugify"
+			],
+			"verb": {
+				"toc": false,
+				"layout": "default",
+				"tasks": [
+					"readme"
+				],
+				"plugins": [
+					"gulp-format-md"
+				],
+				"related": {
+					"description": "Other awesome string libs you might like:",
+					"list": [
+						"pascalcase",
+						"romanize",
+						"word-wrap",
+						"wordcount"
+					]
+				},
+				"lint": {
+					"reflinks": true
+				}
+			},
+			"gitHead": "11a0bd76fcbc935054e743877679aabe0709f233",
+			"_id": "dashify@1.0.0",
+			"_npmVersion": "5.5.1",
+			"_nodeVersion": "9.1.0",
+			"_npmUser": {
+				"name": "jonschlinkert",
+				"email": "github@sellside.com"
+			},
+			"dist": {
+				"integrity": "sha512-3uyC9AzRYm/9u2nqD8BpIBKsvHg/OfW3FLKS97mJPil2KzFNHgKta3yL2NfzMDY+0ArSLbKfgNXhgq0FyjOhoA==",
+				"shasum": "faa9365fbe72a688bcb5d6f2b270d370c96d575e",
+				"tarball": "https://registry.npmjs.org/dashify/-/dashify-1.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "jonschlinkert",
+					"email": "github@sellside.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/dashify-1.0.0.tgz_1512342703598_0.1538097003940493"
+			},
+			"directories": {}
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.0"
+	},
+	"time": {
+		"modified": "2018-01-19T06:41:16.036Z",
+		"created": "2015-02-13T02:55:42.579Z",
+		"0.1.0": "2015-02-13T02:55:42.579Z",
+		"0.2.0": "2015-09-24T11:51:59.091Z",
+		"0.2.1": "2016-01-03T07:28:43.362Z",
+		"0.2.2": "2016-05-23T15:26:31.422Z",
+		"1.0.0": "2017-12-03T23:11:44.561Z"
+	},
+	"_distfiles": {
+		"dashify-0.1.0.tgz": {
+			"url": "https://registry.npmjs.org/dashify/-/dashify-0.1.0.tgz",
+			"sha": "107daf9cca5e326e30a8b39ffa5048b6684922ea",
+			"registry": "npmjs"
+		},
+		"dashify-0.2.0.tgz": {
+			"url": "https://registry.npmjs.org/dashify/-/dashify-0.2.0.tgz",
+			"sha": "77e6c092e6ba97c0e2d5f67ed2ebe86413f2e9c0",
+			"registry": "npmjs"
+		},
+		"dashify-0.2.1.tgz": {
+			"url": "https://registry.npmjs.org/dashify/-/dashify-0.2.1.tgz",
+			"sha": "de735b0521b11044eadba965c1827f1f7faa5d74",
+			"registry": "npmjs"
+		},
+		"dashify-0.2.2.tgz": {
+			"url": "https://registry.npmjs.org/dashify/-/dashify-0.2.2.tgz",
+			"sha": "6a07415a01c91faf4a32e38d9dfba71f61cb20fe",
+			"registry": "npmjs"
+		},
+		"dashify-1.0.0.tgz": {
+			"url": "https://registry.npmjs.org/dashify/-/dashify-1.0.0.tgz",
+			"sha": "faa9365fbe72a688bcb5d6f2b270d370c96d575e",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "\"5a61930c-315d\"",
+			"fetched": 1519837508571
+		}
+	},
+	"_rev": "1-548da5004915d5c8",
+	"readme": "# dashify [![NPM version](https://img.shields.io/npm/v/dashify.svg?style=flat)](https://www.npmjs.com/package/dashify) [![NPM monthly downloads](https://img.shields.io/npm/dm/dashify.svg?style=flat)](https://npmjs.org/package/dashify) [![NPM total downloads](https://img.shields.io/npm/dt/dashify.svg?style=flat)](https://npmjs.org/package/dashify) [![Linux Build Status](https://img.shields.io/travis/jonschlinkert/dashify.svg?style=flat&label=Travis)](https://travis-ci.org/jonschlinkert/dashify)\n\n> Convert a camelcase or space-separated string to a dash-separated string. ~12 sloc, fast, supports diacritics.\n\nPlease consider following this project's author, [Jon Schlinkert](https://github.com/jonschlinkert), and consider starring the project to show your :heart: and support.\n\n## Install\n\nInstall with [npm](https://www.npmjs.com/):\n\n```sh\n$ npm install --save dashify\n```\n\n## Why another dashify lib?\n\nMost slugify libs cover way too many corner cases and are bloated and slow as a result. I made this as a fast and light alternative (it even supports diacritics in ~12 sloc).\n\n## Usage\n\n```js\nvar dashify = require('dashify');\n\nconsole.log(dashify('fooBar'));\n//=> 'foo-bar'\n\nconsole.log(dashify('fooBarBaz'));\n//=> 'foo-bar-baz'\n\nconsole.log(dashify('foo bar'));\n//=> 'foo-bar'\n\nconsole.log(dashify('foo barBaz'));\n//=> 'foo-bar-baz'\n\nconsole.log(dashify('foo barBaz quux'));\n//=> 'foo-bar-baz-quux'\n\nconsole.log(dashify('São Tomé and Príncipe'));\n//=> 'são-tomé-and-príncipe'\n```\n\n## options.condense\n\n**Type:** `boolean`\n\n**Default**: `undefined`\n\nCondense multiple consecutive dashes to one.\n\n```js\nconsole.log(dashify('Foo----Bar'));\n//=> 'foo----bar'\n\nconsole.log(dashify('Foo----Bar', {condense: true}));\n//=> 'foo-bar'\n```\n\n## About\n\n<details>\n<summary><strong>Contributing</strong></summary>\n\nPull requests and stars are always welcome. For bugs and feature requests, [please create an issue](../../issues/new).\n\n</details>\n\n<details>\n<summary><strong>Running Tests</strong></summary>\n\nRunning and reviewing unit tests is a great way to get familiarized with a library and its API. You can install dependencies and run tests with the following command:\n\n```sh\n$ npm install && npm test\n```\n\n</details>\n\n<details>\n<summary><strong>Building docs</strong></summary>\n\n_(This project's readme.md is generated by [verb](https://github.com/verbose/verb-generate-readme), please don't edit the readme directly. Any changes to the readme must be made in the [.verb.md](.verb.md) readme template.)_\n\nTo generate the readme, run the following command:\n\n```sh\n$ npm install -g verbose/verb#dev verb-generate-readme && verb\n```\n\n</details>\n\n### Related projects\n\nOther awesome string libs you might like:\n\n* [pascalcase](https://www.npmjs.com/package/pascalcase): Convert a string to pascal-case. | [homepage](https://github.com/jonschlinkert/pascalcase \"Convert a string to pascal-case.\")\n* [romanize](https://www.npmjs.com/package/romanize): Convert numbers to roman numerals (useful for books, outlines, documentation, slide decks, etc) | [homepage](https://github.com/jonschlinkert/romanize \"Convert numbers to roman numerals (useful for books, outlines, documentation, slide decks, etc)\")\n* [word-wrap](https://www.npmjs.com/package/word-wrap): Wrap words to a specified length. | [homepage](https://github.com/jonschlinkert/word-wrap \"Wrap words to a specified length.\")\n* [wordcount](https://www.npmjs.com/package/wordcount): Count the words in a string. Support for english, CJK and Cyrillic. | [homepage](https://github.com/jonschlinkert/wordcount \"Count the words in a string. Support for english, CJK and Cyrillic.\")\n\n### Contributors\n\n| **Commits** | **Contributor** | \n| --- | --- |\n| 17 | [jonschlinkert](https://github.com/jonschlinkert) |\n| 1 | [der-On](https://github.com/der-On) |\n| 1 | [jeffreypriebe](https://github.com/jeffreypriebe) |\n\n### Author\n\n**Jon Schlinkert**\n\n* [linkedin/in/jonschlinkert](https://linkedin.com/in/jonschlinkert)\n* [github/jonschlinkert](https://github.com/jonschlinkert)\n* [twitter/jonschlinkert](https://twitter.com/jonschlinkert)\n\n### License\n\nCopyright © 2017, [Jon Schlinkert](https://github.com/jonschlinkert).\nReleased under the [MIT License](LICENSE).\n\n***\n\n_This file was generated by [verb-generate-readme](https://github.com/verbose/verb-generate-readme), v0.6.0, on December 03, 2017._"
+}

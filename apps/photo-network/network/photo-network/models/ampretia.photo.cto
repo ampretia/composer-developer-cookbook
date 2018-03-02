@@ -1,0 +1,55 @@
+/**
+ * Write your model definitions here
+ */
+
+namespace ampretia.photo
+
+abstract participant Person {
+  o String firstName
+  o String lastName
+  o String email
+}
+
+participant UserAdmin identified by email extends Person {
+  
+}
+
+participant Photographer identified by email extends Person {
+  
+}
+
+/* ------------------------------------------------------------- */
+concept EXIF {
+  o String exposure
+  o String model
+  o String focus
+  o String iso
+}
+
+concept IPTC {
+  o String title
+  o String copyright
+  o String creator
+}
+
+concept pHash {
+  o String algorthm
+  o String hash
+}
+
+asset Image identified by uri {
+  o String uri
+  --> Photographer photographer
+  o EXIF  exifdata
+  o IPTC  iptcdata
+  o pHash  pHash
+}
+
+transaction addImage {
+  o String base64Img
+  o String uri
+  o EXIF  exifdata // instead of finding
+  o IPTC  iptcdata // instead of processing
+  o String hash    // instead of processing
+  --> Photographer photographer
+}

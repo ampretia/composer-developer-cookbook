@@ -1,0 +1,247 @@
+{
+	"name": "word-count",
+	"versions": {
+		"0.1.0": {
+			"name": "word-count",
+			"version": "0.1.0",
+			"description": "Word count in respect of CJK characters.",
+			"main": "index.js",
+			"scripts": {
+				"test": "make test"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/yuehu/word-count.git"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"keywords": [
+				"count",
+				"word-count"
+			],
+			"author": {
+				"name": "Hsiaoming Yang",
+				"email": "me@lepture.com"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/yuehu/word-count/issues"
+			},
+			"_id": "word-count@0.1.0",
+			"dist": {
+				"shasum": "fbfe90dc5017b7d5c6b6f5cf9f8a48f32b8a3e72",
+				"tarball": "https://registry.npmjs.org/word-count/-/word-count-0.1.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.8",
+			"_npmUser": {
+				"name": "lepture",
+				"email": "sopheryoung@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "lepture",
+					"email": "sopheryoung@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.2.0": {
+			"name": "word-count",
+			"version": "0.2.0",
+			"description": "Word count in respect of CJK characters.",
+			"main": "index.js",
+			"scripts": {
+				"test": "make test"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/yuehu/word-count.git"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"keywords": [
+				"count",
+				"word-count"
+			],
+			"author": {
+				"name": "Hsiaoming Yang",
+				"email": "me@lepture.com"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/yuehu/word-count/issues"
+			},
+			"gitHead": "39199db769e53e09e416dbb42c68ec85b946160c",
+			"homepage": "https://github.com/yuehu/word-count",
+			"_id": "word-count@0.2.0",
+			"_shasum": "4450c4ddbfdf8d9e1be45be31c001cbc881c39f3",
+			"_from": ".",
+			"_npmVersion": "2.11.2",
+			"_nodeVersion": "0.12.5",
+			"_npmUser": {
+				"name": "lepture",
+				"email": "me@lepture.com"
+			},
+			"maintainers": [
+				{
+					"name": "lepture",
+					"email": "sopheryoung@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "4450c4ddbfdf8d9e1be45be31c001cbc881c39f3",
+				"tarball": "https://registry.npmjs.org/word-count/-/word-count-0.2.0.tgz"
+			},
+			"directories": {}
+		},
+		"0.2.1": {
+			"name": "word-count",
+			"version": "0.2.1",
+			"description": "Word count in respect of CJK characters.",
+			"main": "index.js",
+			"scripts": {
+				"test": "make test"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/yuehu/word-count.git"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"keywords": [
+				"count",
+				"word-count"
+			],
+			"author": {
+				"name": "Hsiaoming Yang",
+				"email": "me@lepture.com"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/yuehu/word-count/issues"
+			},
+			"gitHead": "c3d543d1637bf578e55747e6fed0aa6136c013bd",
+			"homepage": "https://github.com/yuehu/word-count",
+			"_id": "word-count@0.2.1",
+			"_shasum": "bfbafb889a94da59f5ea63a504a360c04dd986dd",
+			"_from": ".",
+			"_npmVersion": "2.11.2",
+			"_nodeVersion": "0.12.5",
+			"_npmUser": {
+				"name": "lepture",
+				"email": "me@lepture.com"
+			},
+			"maintainers": [
+				{
+					"name": "lepture",
+					"email": "sopheryoung@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "bfbafb889a94da59f5ea63a504a360c04dd986dd",
+				"tarball": "https://registry.npmjs.org/word-count/-/word-count-0.2.1.tgz"
+			},
+			"directories": {}
+		},
+		"0.2.2": {
+			"name": "word-count",
+			"version": "0.2.2",
+			"description": "Word count in respect of CJK characters.",
+			"main": "index.js",
+			"scripts": {
+				"test": "make test"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/yuehu/word-count.git"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"keywords": [
+				"count",
+				"word-count"
+			],
+			"author": {
+				"name": "Hsiaoming Yang",
+				"email": "me@lepture.com"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/yuehu/word-count/issues"
+			},
+			"gitHead": "3ede366e08b285356857787d60ac8da766360520",
+			"homepage": "https://github.com/yuehu/word-count#readme",
+			"_id": "word-count@0.2.2",
+			"_shasum": "699192fca6829fe936d41cb0d95db9248c570451",
+			"_from": ".",
+			"_npmVersion": "2.14.12",
+			"_nodeVersion": "4.2.6",
+			"_npmUser": {
+				"name": "lepture",
+				"email": "sopheryoung@gmail.com"
+			},
+			"dist": {
+				"shasum": "699192fca6829fe936d41cb0d95db9248c570451",
+				"tarball": "https://registry.npmjs.org/word-count/-/word-count-0.2.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "lepture",
+					"email": "sopheryoung@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/word-count-0.2.2.tgz_1459260493075_0.29474044777452946"
+			},
+			"directories": {}
+		}
+	},
+	"dist-tags": {
+		"latest": "0.2.2"
+	},
+	"time": {
+		"modified": "2016-03-29T14:08:13.506Z",
+		"created": "2014-02-10T15:35:26.181Z",
+		"0.1.0": "2014-02-10T15:35:30.323Z",
+		"0.2.0": "2015-08-12T02:07:56.197Z",
+		"0.2.1": "2015-08-12T02:08:13.495Z",
+		"0.2.2": "2016-03-29T14:08:13.506Z"
+	},
+	"_distfiles": {
+		"word-count-0.1.0.tgz": {
+			"url": "https://registry.npmjs.org/word-count/-/word-count-0.1.0.tgz",
+			"sha": "fbfe90dc5017b7d5c6b6f5cf9f8a48f32b8a3e72",
+			"registry": "npmjs"
+		},
+		"word-count-0.2.0.tgz": {
+			"url": "https://registry.npmjs.org/word-count/-/word-count-0.2.0.tgz",
+			"sha": "4450c4ddbfdf8d9e1be45be31c001cbc881c39f3",
+			"registry": "npmjs"
+		},
+		"word-count-0.2.1.tgz": {
+			"url": "https://registry.npmjs.org/word-count/-/word-count-0.2.1.tgz",
+			"sha": "bfbafb889a94da59f5ea63a504a360c04dd986dd",
+			"registry": "npmjs"
+		},
+		"word-count-0.2.2.tgz": {
+			"url": "https://registry.npmjs.org/word-count/-/word-count-0.2.2.tgz",
+			"sha": "699192fca6829fe936d41cb0d95db9248c570451",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "\"56fa8c4d-13b0\"",
+			"fetched": 1519837514899
+		}
+	},
+	"_rev": "1-2b8459f2524dd14a",
+	"readme": "\n# word-count\n\nWord count in respect of CJK characters.\n\n[![Build Status](https://travis-ci.org/yuehu/word-count.png?branch=master)](https://travis-ci.org/yuehu/word-count)\n\n## Installation\n\nInstall with [component(1)](http://component.io):\n\n    $ component install yuehu/word-count\n\nAlso available as a node module:\n\n    $ npm install word-count\n\n## API\n\n```\nvar count = require('word-count')\ncount(string)\n```\n\n## License\n\nMIT\n"
+}

@@ -1,0 +1,139 @@
+{
+	"name": "isomorphic-form-data",
+	"versions": {
+		"0.0.1": {
+			"author": {
+				"name": "Dylan Piercey",
+				"email": "pierceydylan@gmail.com"
+			},
+			"name": "isomorphic-form-data",
+			"description": "A library to create readable \"multipart/form-data\" in node and the browser.",
+			"version": "0.0.1",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/form-data/isomorphic-form-data.git"
+			},
+			"main": "./lib/index",
+			"browser": "./lib/browser",
+			"scripts": {
+				"test": "./test/run.js"
+			},
+			"pre-commit": [
+				"test"
+			],
+			"dependencies": {
+				"form-data": "^1.0.0-rc3"
+			},
+			"license": "MIT",
+			"gitHead": "f48583d9a9a620d26c6fb38eb9b265e76512c4fd",
+			"bugs": {
+				"url": "https://github.com/form-data/isomorphic-form-data/issues"
+			},
+			"homepage": "https://github.com/form-data/isomorphic-form-data#readme",
+			"_id": "isomorphic-form-data@0.0.1",
+			"_shasum": "026f627e032b0cd8413ecc8755928b94a468b062",
+			"_from": ".",
+			"_npmVersion": "2.11.0",
+			"_nodeVersion": "2.2.1",
+			"_npmUser": {
+				"name": "dylanpiercey",
+				"email": "pierceydylan@gmail.com"
+			},
+			"dist": {
+				"shasum": "026f627e032b0cd8413ecc8755928b94a468b062",
+				"tarball": "https://registry.npmjs.org/isomorphic-form-data/-/isomorphic-form-data-0.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "dylanpiercey",
+					"email": "pierceydylan@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"1.0.0": {
+			"author": {
+				"name": "Dylan Piercey",
+				"email": "pierceydylan@gmail.com"
+			},
+			"name": "isomorphic-form-data",
+			"description": "A library to create readable \"multipart/form-data\" in node and the browser.",
+			"version": "1.0.0",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/form-data/isomorphic-form-data.git"
+			},
+			"main": "./lib/index",
+			"browser": "./lib/browser",
+			"scripts": {
+				"test": "./test/run.js"
+			},
+			"pre-commit": [
+				"test"
+			],
+			"dependencies": {
+				"form-data": "^1.0.0-rc3"
+			},
+			"license": "MIT",
+			"gitHead": "5f5fe25fabc4a46b8488c9d10d0a38a715b66ab5",
+			"bugs": {
+				"url": "https://github.com/form-data/isomorphic-form-data/issues"
+			},
+			"homepage": "https://github.com/form-data/isomorphic-form-data#readme",
+			"_id": "isomorphic-form-data@1.0.0",
+			"_shasum": "0447be7e0f6b86def3d393036cf7664a98919100",
+			"_from": ".",
+			"_npmVersion": "4.1.2",
+			"_nodeVersion": "7.6.0",
+			"_npmUser": {
+				"name": "dylanpiercey",
+				"email": "pierceydylan@gmail.com"
+			},
+			"dist": {
+				"shasum": "0447be7e0f6b86def3d393036cf7664a98919100",
+				"tarball": "https://registry.npmjs.org/isomorphic-form-data/-/isomorphic-form-data-1.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "dylanpiercey",
+					"email": "pierceydylan@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/isomorphic-form-data-1.0.0.tgz_1488941802971_0.6752180098555982"
+			},
+			"directories": {}
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.0"
+	},
+	"time": {
+		"modified": "2017-04-01T15:23:42.348Z",
+		"created": "2015-08-09T05:19:06.151Z",
+		"0.0.1": "2015-08-09T05:19:06.151Z",
+		"1.0.0": "2017-03-08T02:56:43.247Z"
+	},
+	"_distfiles": {
+		"isomorphic-form-data-0.0.1.tgz": {
+			"url": "https://registry.npmjs.org/isomorphic-form-data/-/isomorphic-form-data-0.0.1.tgz",
+			"sha": "026f627e032b0cd8413ecc8755928b94a468b062",
+			"registry": "npmjs"
+		},
+		"isomorphic-form-data-1.0.0.tgz": {
+			"url": "https://registry.npmjs.org/isomorphic-form-data/-/isomorphic-form-data-1.0.0.tgz",
+			"sha": "0447be7e0f6b86def3d393036cf7664a98919100",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "\"58dfc5fe-1155\"",
+			"fetched": 1519837515662
+		}
+	},
+	"_rev": "1-4f2597634cb5bc73",
+	"readme": "A library to create readable ```\"multipart/form-data\"``` isomorphically in node and the browser.\n\n[xhr2-fd]: http://dev.w3.org/2006/webapi/XMLHttpRequest-2/Overview.html#the-formdata-interface\n[streams2-thing]: http://nodejs.org/api/stream.html#stream_compatibility_with_older_node_versions\n\n## Install\n\n```\nnpm install isomorphic-form-data\n```\n\n## Usage\n\nIn this example we are constructing a form with 3 fields that contain a string,\na buffer and a file stream.\n\n``` javascript\nrequire('isomorphic-form-data');\nvar fs = require('fs');\n\nvar form = new FormData();\nform.append('my_field', 'my value');\nform.append('my_buffer', new Buffer(10));\nform.append('my_file', fs.createReadStream('/foo/bar.jpg'));\n```\n\n#### node-fetch\n\nYou can submit a form using [node-fetch](https://github.com/matthew-andrews/isomorphic-fetch):\n\n```javascript\nvar form = new FormData();\n\nform.append('a', 1);\n\nfetch('http://example.com', { method: 'POST', body: form })\n    .then(function(res) {\n        return res.json();\n    }).then(function(json) {\n        console.log(json);\n    });\n```\n\n## License\n\nForm-Data is licensed under the MIT license.\n"
+}

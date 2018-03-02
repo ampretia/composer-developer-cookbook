@@ -1,0 +1,706 @@
+{
+	"name": "find-replace",
+	"versions": {
+		"0.0.0": {
+			"name": "find-replace",
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"version": "0.0.0",
+			"description": "find-replace",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/find-replace.git"
+			},
+			"license": "MIT",
+			"main": "./lib/find-replace.js",
+			"bin": {
+				"find-replace": "bin/cli.js"
+			},
+			"keywords": [],
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "tape test/*.js",
+				"lint": "jshint lib/*.js bin/*.js test/*.js; echo",
+				"docs": "jsdoc2md -t jsdoc2md/README.hbs lib/*.js > README.md; echo"
+			},
+			"bugs": {
+				"url": "https://github.com/75lb/find-replace/issues"
+			},
+			"homepage": "https://github.com/75lb/find-replace#readme",
+			"_id": "find-replace@0.0.0",
+			"_shasum": "3d9bba2ef6220b0185702dad245e5ef09c3a0e98",
+			"_from": ".",
+			"_npmVersion": "2.12.0",
+			"_nodeVersion": "0.12.5",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "3d9bba2ef6220b0185702dad245e5ef09c3a0e98",
+				"tarball": "https://registry.npmjs.org/find-replace/-/find-replace-0.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.1.0": {
+			"name": "find-replace",
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"version": "0.1.0",
+			"description": "Find and replace items of an array",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/find-replace.git"
+			},
+			"license": "MIT",
+			"main": "./lib/find-replace.js",
+			"keywords": [
+				"find",
+				"replace",
+				"array"
+			],
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "tape test/*.js",
+				"docs": "jsdoc2md -t jsdoc2md/README.hbs lib/*.js > README.md; echo"
+			},
+			"devDependencies": {
+				"jsdoc-to-markdown": "^1.1.1",
+				"tape": "^4.0.0"
+			},
+			"dependencies": {
+				"array-back": "^1.0.1",
+				"typical": "^2.2.0"
+			},
+			"gitHead": "c2b48847c646ffe0941c99aff670c92273c79ec9",
+			"bugs": {
+				"url": "https://github.com/75lb/find-replace/issues"
+			},
+			"homepage": "https://github.com/75lb/find-replace#readme",
+			"_id": "find-replace@0.1.0",
+			"_shasum": "4db618a679a0d5c03c1855aa06044ef60eb875b4",
+			"_from": ".",
+			"_npmVersion": "2.12.0",
+			"_nodeVersion": "0.12.5",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "4db618a679a0d5c03c1855aa06044ef60eb875b4",
+				"tarball": "https://registry.npmjs.org/find-replace/-/find-replace-0.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.2.0": {
+			"name": "find-replace",
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"version": "0.2.0",
+			"description": "Find and replace items of an array",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/find-replace.git"
+			},
+			"license": "MIT",
+			"main": "./lib/find-replace.js",
+			"keywords": [
+				"find",
+				"replace",
+				"array"
+			],
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "tape test/*.js",
+				"docs": "jsdoc2md -t jsdoc2md/README.hbs lib/*.js > README.md; echo"
+			},
+			"devDependencies": {
+				"jsdoc-to-markdown": "^1.1.1",
+				"tape": "^4.0.0"
+			},
+			"dependencies": {
+				"array-back": "^1.0.1",
+				"typical": "^2.2.0"
+			},
+			"gitHead": "962307d6e9025ba23502166a68516fa3dde63ab0",
+			"bugs": {
+				"url": "https://github.com/75lb/find-replace/issues"
+			},
+			"homepage": "https://github.com/75lb/find-replace#readme",
+			"_id": "find-replace@0.2.0",
+			"_shasum": "47800f4e09b90e547d3197dae1a68a15226cea9a",
+			"_from": ".",
+			"_npmVersion": "2.12.0",
+			"_nodeVersion": "0.12.5",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "47800f4e09b90e547d3197dae1a68a15226cea9a",
+				"tarball": "https://registry.npmjs.org/find-replace/-/find-replace-0.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.2.1": {
+			"name": "find-replace",
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"version": "0.2.1",
+			"description": "Find and replace items of an array",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/find-replace.git"
+			},
+			"license": "MIT",
+			"main": "./lib/find-replace.js",
+			"keywords": [
+				"find",
+				"replace",
+				"array"
+			],
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "tape test/*.js",
+				"docs": "jsdoc2md -t jsdoc2md/README.hbs lib/*.js > README.md; echo"
+			},
+			"devDependencies": {
+				"jsdoc-to-markdown": "^1.1.1",
+				"tape": "^4.0.0"
+			},
+			"dependencies": {
+				"array-back": "^1.0.1",
+				"test-value": "^1.0.0",
+				"typical": "^2.2.0"
+			},
+			"gitHead": "155adce1f80cc12f69916d9a91766321eee5f821",
+			"bugs": {
+				"url": "https://github.com/75lb/find-replace/issues"
+			},
+			"homepage": "https://github.com/75lb/find-replace#readme",
+			"_id": "find-replace@0.2.1",
+			"_shasum": "de905b2f0556b714cf5b7cbfef0fe4862cac126c",
+			"_from": ".",
+			"_npmVersion": "2.12.0",
+			"_nodeVersion": "0.12.5",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "de905b2f0556b714cf5b7cbfef0fe4862cac126c",
+				"tarball": "https://registry.npmjs.org/find-replace/-/find-replace-0.2.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"1.0.0": {
+			"name": "find-replace",
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"version": "1.0.0",
+			"description": "Find and replace items of an array",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/find-replace.git"
+			},
+			"license": "MIT",
+			"main": "./lib/find-replace.js",
+			"keywords": [
+				"find",
+				"replace",
+				"array"
+			],
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "tape test/*.js",
+				"docs": "jsdoc2md -t jsdoc2md/README.hbs lib/*.js > README.md; echo"
+			},
+			"devDependencies": {
+				"jsdoc-to-markdown": "^1.1.1",
+				"tape": "^4.0.0"
+			},
+			"dependencies": {
+				"array-back": "^1.0.1",
+				"test-value": "^1.0.0",
+				"typical": "^2.2.0"
+			},
+			"gitHead": "3af3acc1d2814649d670b7764cd697207d1a726e",
+			"bugs": {
+				"url": "https://github.com/75lb/find-replace/issues"
+			},
+			"homepage": "https://github.com/75lb/find-replace#readme",
+			"_id": "find-replace@1.0.0",
+			"_shasum": "299a287d94817248855444351d05c898d5087a40",
+			"_from": ".",
+			"_npmVersion": "2.12.0",
+			"_nodeVersion": "0.12.5",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "299a287d94817248855444351d05c898d5087a40",
+				"tarball": "https://registry.npmjs.org/find-replace/-/find-replace-1.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"1.0.1": {
+			"name": "find-replace",
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"version": "1.0.1",
+			"description": "Find and replace items of an array",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/find-replace.git"
+			},
+			"license": "MIT",
+			"main": "./lib/find-replace.js",
+			"keywords": [
+				"find",
+				"replace",
+				"array"
+			],
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "tape test/*.js",
+				"docs": "jsdoc2md -t jsdoc2md/README.hbs lib/*.js > README.md; echo"
+			},
+			"devDependencies": {
+				"jsdoc-to-markdown": "^1.3.3",
+				"tape": "^4.4.0"
+			},
+			"dependencies": {
+				"array-back": "^1.0.2",
+				"test-value": "^1.0.1"
+			},
+			"gitHead": "59de0d9aab075e2f6911c2bede9ef17accae927b",
+			"bugs": {
+				"url": "https://github.com/75lb/find-replace/issues"
+			},
+			"homepage": "https://github.com/75lb/find-replace#readme",
+			"_id": "find-replace@1.0.1",
+			"_shasum": "704cd974c1c0a41f268e91b29786fe2b544ebcac",
+			"_from": ".",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "5.6.0",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "704cd974c1c0a41f268e91b29786fe2b544ebcac",
+				"tarball": "https://registry.npmjs.org/find-replace/-/find-replace-1.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-9-west.internal.npmjs.com",
+				"tmp": "tmp/find-replace-1.0.1.tgz_1455443706753_0.3175148796290159"
+			},
+			"directories": {}
+		},
+		"1.0.2": {
+			"name": "find-replace",
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"version": "1.0.2",
+			"description": "Find and either replace or remove items from an array",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/find-replace.git"
+			},
+			"license": "MIT",
+			"main": "./lib/find-replace.js",
+			"keywords": [
+				"find",
+				"replace",
+				"array",
+				"remove",
+				"splice"
+			],
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "tape test/*.js",
+				"docs": "jsdoc2md -t jsdoc2md/README.hbs lib/*.js > README.md; echo"
+			},
+			"devDependencies": {
+				"jsdoc-to-markdown": "^1.3.3",
+				"tape": "^4.5.1"
+			},
+			"dependencies": {
+				"array-back": "^1.0.2",
+				"test-value": "^2.0.0"
+			},
+			"gitHead": "39236e40b8d1e710d5ea7c7692f8884ce81dc3ac",
+			"bugs": {
+				"url": "https://github.com/75lb/find-replace/issues"
+			},
+			"homepage": "https://github.com/75lb/find-replace#readme",
+			"_id": "find-replace@1.0.2",
+			"_shasum": "a2d6ce740d15f0d92b1b26763e2ce9c0e361fd98",
+			"_from": ".",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.8.0",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "a2d6ce740d15f0d92b1b26763e2ce9c0e361fd98",
+				"tarball": "https://registry.npmjs.org/find-replace/-/find-replace-1.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-13-west.internal.npmjs.com",
+				"tmp": "tmp/find-replace-1.0.2.tgz_1458408771428_0.38012153864838183"
+			},
+			"directories": {}
+		},
+		"1.0.3": {
+			"name": "find-replace",
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"version": "1.0.3",
+			"description": "Find and either replace or remove items from an array",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/find-replace.git"
+			},
+			"license": "MIT",
+			"main": "./lib/find-replace.js",
+			"keywords": [
+				"find",
+				"replace",
+				"array",
+				"remove",
+				"splice"
+			],
+			"engines": {
+				"node": ">=4.0.0"
+			},
+			"scripts": {
+				"test": "test-runner test/*.js",
+				"docs": "jsdoc2md -t jsdoc2md/README.hbs lib/*.js > README.md; echo"
+			},
+			"devDependencies": {
+				"jsdoc-to-markdown": "^2.0.1",
+				"test-runner": "^0.3.0"
+			},
+			"dependencies": {
+				"array-back": "^1.0.4",
+				"test-value": "^2.1.0"
+			},
+			"gitHead": "a13af9d636641b2e8d5fae7132d112e392aa60bd",
+			"bugs": {
+				"url": "https://github.com/75lb/find-replace/issues"
+			},
+			"homepage": "https://github.com/75lb/find-replace#readme",
+			"_id": "find-replace@1.0.3",
+			"_shasum": "b88e7364d2d9c959559f388c66670d6130441fa0",
+			"_from": ".",
+			"_npmVersion": "4.0.5",
+			"_nodeVersion": "7.4.0",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "b88e7364d2d9c959559f388c66670d6130441fa0",
+				"tarball": "https://registry.npmjs.org/find-replace/-/find-replace-1.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/find-replace-1.0.3.tgz_1485512234669_0.6148916652891785"
+			},
+			"directories": {}
+		},
+		"2.0.0": {
+			"name": "find-replace",
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"version": "2.0.0",
+			"description": "Find and either replace or remove items from an array",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/find-replace.git"
+			},
+			"license": "MIT",
+			"main": "./lib/find-replace.js",
+			"keywords": [
+				"find",
+				"replace",
+				"array",
+				"remove",
+				"splice"
+			],
+			"engines": {
+				"node": ">=4.0.0"
+			},
+			"scripts": {
+				"test": "test-runner test/*.js",
+				"docs": "jsdoc2md -t jsdoc2md/README.hbs lib/*.js > README.md; echo"
+			},
+			"devDependencies": {
+				"jsdoc-to-markdown": "^3.0.2",
+				"test-runner": "^0.4.1"
+			},
+			"dependencies": {
+				"array-back": "^2.0.0",
+				"test-value": "^2.1.0"
+			},
+			"gitHead": "4469d7b839205f8b3f3c0e9fb55adf28a8e14cbb",
+			"bugs": {
+				"url": "https://github.com/75lb/find-replace/issues"
+			},
+			"homepage": "https://github.com/75lb/find-replace#readme",
+			"_id": "find-replace@2.0.0",
+			"_npmVersion": "5.5.1",
+			"_nodeVersion": "8.9.1",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"integrity": "sha512-YrTtCM8HCJezkZM2DUxTlFN4jYATdZKufqeUovLVxtm5TDimXC+0lxBq4lkj/gsvhsJhzqJP7eWfZBpIW7dmUQ==",
+				"shasum": "b4a15acfa8e4a0c2ff9b0b0c7e1d6e358ee2a014",
+				"tarball": "https://registry.npmjs.org/find-replace/-/find-replace-2.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/find-replace-2.0.0.tgz_1512515108212_0.4875211154576391"
+			},
+			"directories": {}
+		},
+		"2.0.1": {
+			"name": "find-replace",
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"version": "2.0.1",
+			"description": "Find and either replace or remove items from an array",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/find-replace.git"
+			},
+			"license": "MIT",
+			"main": "./lib/find-replace.js",
+			"keywords": [
+				"find",
+				"replace",
+				"array",
+				"remove",
+				"splice"
+			],
+			"engines": {
+				"node": ">=4.0.0"
+			},
+			"scripts": {
+				"test": "test-runner test/*.js",
+				"docs": "jsdoc2md -t jsdoc2md/README.hbs lib/*.js > README.md; echo"
+			},
+			"devDependencies": {
+				"jsdoc-to-markdown": "^3.0.2",
+				"test-runner": "^0.4.1"
+			},
+			"dependencies": {
+				"array-back": "^2.0.0",
+				"test-value": "^3.0.0"
+			},
+			"gitHead": "b4d09c7c0841792833a5835a9224e92b5c0c0d53",
+			"bugs": {
+				"url": "https://github.com/75lb/find-replace/issues"
+			},
+			"homepage": "https://github.com/75lb/find-replace#readme",
+			"_id": "find-replace@2.0.1",
+			"_npmVersion": "5.5.1",
+			"_nodeVersion": "8.9.1",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"integrity": "sha512-LzDo3Fpa30FLIBsh6DCDnMN1KW2g4QKkqKmejlImgWY67dDFPX/x9Kh/op/GK522DchQXEvDi/wD48HKW49XOQ==",
+				"shasum": "6d9683a7ca20f8f9aabeabad07e4e2580f528550",
+				"tarball": "https://registry.npmjs.org/find-replace/-/find-replace-2.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/find-replace-2.0.1.tgz_1512515730936_0.24133315565995872"
+			},
+			"directories": {}
+		}
+	},
+	"dist-tags": {
+		"latest": "2.0.1"
+	},
+	"time": {
+		"modified": "2017-12-05T23:15:31.777Z",
+		"created": "2015-07-01T09:02:01.508Z",
+		"0.0.0": "2015-07-01T09:02:01.508Z",
+		"0.1.0": "2015-07-01T22:26:23.395Z",
+		"0.2.0": "2015-07-02T12:10:50.366Z",
+		"0.2.1": "2015-07-10T22:06:43.695Z",
+		"1.0.0": "2015-07-10T22:18:06.606Z",
+		"1.0.1": "2016-02-14T09:55:10.644Z",
+		"1.0.2": "2016-03-19T17:32:53.942Z",
+		"1.0.3": "2017-01-27T10:17:15.348Z",
+		"2.0.0": "2017-12-05T23:05:09.191Z",
+		"2.0.1": "2017-12-05T23:15:31.777Z"
+	},
+	"_distfiles": {
+		"find-replace-0.0.0.tgz": {
+			"url": "https://registry.npmjs.org/find-replace/-/find-replace-0.0.0.tgz",
+			"sha": "3d9bba2ef6220b0185702dad245e5ef09c3a0e98",
+			"registry": "npmjs"
+		},
+		"find-replace-0.1.0.tgz": {
+			"url": "https://registry.npmjs.org/find-replace/-/find-replace-0.1.0.tgz",
+			"sha": "4db618a679a0d5c03c1855aa06044ef60eb875b4",
+			"registry": "npmjs"
+		},
+		"find-replace-0.2.0.tgz": {
+			"url": "https://registry.npmjs.org/find-replace/-/find-replace-0.2.0.tgz",
+			"sha": "47800f4e09b90e547d3197dae1a68a15226cea9a",
+			"registry": "npmjs"
+		},
+		"find-replace-0.2.1.tgz": {
+			"url": "https://registry.npmjs.org/find-replace/-/find-replace-0.2.1.tgz",
+			"sha": "de905b2f0556b714cf5b7cbfef0fe4862cac126c",
+			"registry": "npmjs"
+		},
+		"find-replace-1.0.0.tgz": {
+			"url": "https://registry.npmjs.org/find-replace/-/find-replace-1.0.0.tgz",
+			"sha": "299a287d94817248855444351d05c898d5087a40",
+			"registry": "npmjs"
+		},
+		"find-replace-1.0.1.tgz": {
+			"url": "https://registry.npmjs.org/find-replace/-/find-replace-1.0.1.tgz",
+			"sha": "704cd974c1c0a41f268e91b29786fe2b544ebcac",
+			"registry": "npmjs"
+		},
+		"find-replace-1.0.2.tgz": {
+			"url": "https://registry.npmjs.org/find-replace/-/find-replace-1.0.2.tgz",
+			"sha": "a2d6ce740d15f0d92b1b26763e2ce9c0e361fd98",
+			"registry": "npmjs"
+		},
+		"find-replace-1.0.3.tgz": {
+			"url": "https://registry.npmjs.org/find-replace/-/find-replace-1.0.3.tgz",
+			"sha": "b88e7364d2d9c959559f388c66670d6130441fa0",
+			"registry": "npmjs"
+		},
+		"find-replace-2.0.0.tgz": {
+			"url": "https://registry.npmjs.org/find-replace/-/find-replace-2.0.0.tgz",
+			"sha": "b4a15acfa8e4a0c2ff9b0b0c7e1d6e358ee2a014",
+			"registry": "npmjs"
+		},
+		"find-replace-2.0.1.tgz": {
+			"url": "https://registry.npmjs.org/find-replace/-/find-replace-2.0.1.tgz",
+			"sha": "6d9683a7ca20f8f9aabeabad07e4e2580f528550",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {
+		"find-replace-1.0.3.tgz": {
+			"shasum": "b88e7364d2d9c959559f388c66670d6130441fa0"
+		}
+	},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "\"5a272893-3c11\"",
+			"fetched": 1519912113502
+		}
+	},
+	"_rev": "7-33128c1830ff619e",
+	"readme": "[![view on npm](http://img.shields.io/npm/v/find-replace.svg)](https://www.npmjs.org/package/find-replace)\n[![npm module downloads](http://img.shields.io/npm/dt/find-replace.svg)](https://www.npmjs.org/package/find-replace)\n[![Build Status](https://travis-ci.org/75lb/find-replace.svg?branch=master)](https://travis-ci.org/75lb/find-replace)\n[![Dependency Status](https://david-dm.org/75lb/find-replace.svg)](https://david-dm.org/75lb/find-replace)\n[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](https://github.com/feross/standard)\n\n<a name=\"module_find-replace\"></a>\n\n## find-replace\nFind and either replace or remove items from an array.\n\n**Example**  \n```js\n> findReplace = require('find-replace')\n\n> findReplace([ 1, 2, 3], 2, 'two')\n[ 1, 'two', 3 ]\n\n> findReplace([ 1, 2, 3], 2, [ 'two', 'zwei' ])\n[ 1, [ 'two', 'zwei' ], 3 ]\n\n> findReplace([ 1, 2, 3], 2, 'two', 'zwei')\n[ 1, 'two', 'zwei', 3 ]\n\n> findReplace([ 1, 2, 3], 2) // no replacement, so remove\n[ 1, 3 ]\n```\n<a name=\"exp_module_find-replace--findReplace\"></a>\n\n### findReplace(array, valueTest, [...replaceWith]) ⇒ <code>array</code> ⏏\n**Kind**: Exported function  \n\n| Param | Type | Description |\n| --- | --- | --- |\n| array | <code>array</code> | the input array |\n| valueTest | <code>valueTest</code> | a [test-value](https://github.com/75lb/test-value) query to match the value you're looking for |\n| [...replaceWith] | <code>any</code> | If specified, found values will be replaced with these values, else  removed. |\n\n\n* * *\n\n&copy; 2015-18 Lloyd Brookes \\<75pound@gmail.com\\>. Documented by [jsdoc-to-markdown](https://github.com/jsdoc2md/jsdoc-to-markdown).\n"
+}

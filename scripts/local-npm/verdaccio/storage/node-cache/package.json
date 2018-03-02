@@ -1,0 +1,1952 @@
+{
+	"name": "node-cache",
+	"versions": {
+		"0.1.0": {
+			"name": "node-cache",
+			"description": "A simple node internal caching module",
+			"keywords": [
+				"cache",
+				"local",
+				"variable"
+			],
+			"version": "0.1.0",
+			"author": {
+				"name": "mpneuried",
+				"email": "mp@tcs.de"
+			},
+			"main": "./index.js",
+			"homepage": "https://github.com/tcs-de/nodecache",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/tcs-de/nodecache.git"
+			},
+			"engines": {
+				"node": ">= 0.4.6"
+			},
+			"dependencies": {
+				"underscore": ">= 1.1.7"
+			},
+			"_npmJsonOpts": {
+				"file": "/Users/mathiaspeter/.npm/node-cache/0.1.0/package/package.json",
+				"wscript": false,
+				"contributors": false,
+				"serverjs": false
+			},
+			"_id": "node-cache@0.1.0",
+			"devDependencies": {},
+			"_engineSupported": true,
+			"_npmVersion": "1.0.30",
+			"_nodeVersion": "v0.4.12",
+			"_defaultsLoaded": true,
+			"dist": {
+				"shasum": "4e5c85543a3930454741b21c6c04940017ebb077",
+				"tarball": "https://registry.npmjs.org/node-cache/-/node-cache-0.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "tcs-de",
+					"email": "github@tcs.de"
+				}
+			],
+			"directories": {}
+		},
+		"0.1.1": {
+			"name": "node-cache",
+			"description": "A simple node internal caching module",
+			"keywords": [
+				"cache",
+				"local",
+				"variable"
+			],
+			"version": "0.1.1",
+			"author": {
+				"name": "tcs-de",
+				"email": "github@tcs.de"
+			},
+			"main": "./index.js",
+			"homepage": "https://github.com/tcs-de/nodecache",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/tcs-de/nodecache.git"
+			},
+			"engines": {
+				"node": ">= 0.4.6"
+			},
+			"dependencies": {
+				"underscore": ">= 1.1.7"
+			},
+			"_npmJsonOpts": {
+				"file": "/Users/mathiaspeter/.npm/node-cache/0.1.1/package/package.json",
+				"wscript": false,
+				"contributors": false,
+				"serverjs": false
+			},
+			"_id": "node-cache@0.1.1",
+			"devDependencies": {},
+			"_engineSupported": true,
+			"_npmVersion": "1.0.30",
+			"_nodeVersion": "v0.4.12",
+			"_defaultsLoaded": true,
+			"dist": {
+				"shasum": "936a268b2709505a42570f3882b0e0ddb8842e54",
+				"tarball": "https://registry.npmjs.org/node-cache/-/node-cache-0.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "tcs-de",
+					"email": "github@tcs.de"
+				}
+			],
+			"directories": {}
+		},
+		"0.1.3": {
+			"name": "node-cache",
+			"description": "A simple node internal caching module with expiring values",
+			"keywords": [
+				"cache",
+				"local",
+				"variable",
+				"coffee",
+				"coffee-script",
+				"underscore"
+			],
+			"version": "0.1.3",
+			"author": {
+				"name": "tcs-de",
+				"email": "github@tcs.de"
+			},
+			"main": "./index.js",
+			"homepage": "https://github.com/tcs-de/nodecache",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/tcs-de/nodecache.git"
+			},
+			"engines": {
+				"node": ">= 0.4.6"
+			},
+			"dependencies": {
+				"underscore": ">= 1.1.7"
+			},
+			"_npmJsonOpts": {
+				"file": "/Users/mathiaspeter/.npm/node-cache/0.1.3/package/package.json",
+				"wscript": false,
+				"contributors": false,
+				"serverjs": false
+			},
+			"_id": "node-cache@0.1.3",
+			"devDependencies": {},
+			"_engineSupported": true,
+			"_npmVersion": "1.0.30",
+			"_nodeVersion": "v0.4.12",
+			"_defaultsLoaded": true,
+			"dist": {
+				"shasum": "982b9b04ae3e41ff880910ea2f2c3351b4f5622a",
+				"tarball": "https://registry.npmjs.org/node-cache/-/node-cache-0.1.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "tcs-de",
+					"email": "github@tcs.de"
+				}
+			],
+			"directories": {}
+		},
+		"0.2.0": {
+			"name": "node-cache",
+			"description": "Simple and fast NodeJS internal caching.",
+			"keywords": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"coffee",
+				"coffee-script",
+				"underscore",
+				"multi"
+			],
+			"version": "0.2.0",
+			"author": {
+				"name": "tcs-de",
+				"email": "github@tcs.de"
+			},
+			"main": "./index.js",
+			"homepage": "https://github.com/tcs-de/nodecache",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/tcs-de/nodecache.git"
+			},
+			"engines": {
+				"node": ">= 0.4.6"
+			},
+			"dependencies": {
+				"underscore": ">= 1.1.7"
+			},
+			"_npmJsonOpts": {
+				"file": "/Users/mathiaspeter/.npm/node-cache/0.2.0/package/package.json",
+				"wscript": false,
+				"contributors": false,
+				"serverjs": false
+			},
+			"_id": "node-cache@0.2.0",
+			"devDependencies": {},
+			"_engineSupported": true,
+			"_npmVersion": "1.0.30",
+			"_nodeVersion": "v0.4.12",
+			"_defaultsLoaded": true,
+			"dist": {
+				"shasum": "96d43eac26e569ec333bdfbfdb60adfaedb2283c",
+				"tarball": "https://registry.npmjs.org/node-cache/-/node-cache-0.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "tcs-de",
+					"email": "github@tcs.de"
+				}
+			],
+			"directories": {}
+		},
+		"0.3.0": {
+			"name": "node-cache",
+			"description": "Simple and fast NodeJS internal caching.",
+			"keywords": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"coffee",
+				"coffee-script",
+				"underscore",
+				"multi"
+			],
+			"version": "0.3.0",
+			"author": {
+				"name": "tcs-de",
+				"email": "github@tcs.de"
+			},
+			"main": "./index.js",
+			"homepage": "https://github.com/tcs-de/nodecache",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/tcs-de/nodecache.git"
+			},
+			"engines": {
+				"node": ">= 0.4.6"
+			},
+			"scripts": {
+				"test": "expresso test/node_cache-test.js"
+			},
+			"dependencies": {
+				"underscore": ">= 1.3.3"
+			},
+			"devDependencies": {
+				"expresso": "0.9.2"
+			},
+			"_npmUser": {
+				"name": "tcs-de",
+				"email": "github@tcs.de"
+			},
+			"_id": "node-cache@0.3.0",
+			"optionalDependencies": {},
+			"_engineSupported": true,
+			"_npmVersion": "1.1.19",
+			"_nodeVersion": "v0.6.16",
+			"_defaultsLoaded": true,
+			"dist": {
+				"shasum": "3d058ad502cd7e662ee8c4c2bb97413681f0f6f5",
+				"tarball": "https://registry.npmjs.org/node-cache/-/node-cache-0.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "tcs-de",
+					"email": "github@tcs.de"
+				}
+			],
+			"directories": {}
+		},
+		"0.3.1": {
+			"name": "node-cache",
+			"description": "Simple and fast NodeJS internal caching.",
+			"keywords": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"coffee",
+				"coffee-script",
+				"underscore",
+				"multi"
+			],
+			"tags": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"coffee",
+				"coffee-script",
+				"underscore",
+				"multi"
+			],
+			"version": "0.3.1",
+			"author": {
+				"name": "tcs-de",
+				"email": "github@tcs.de"
+			},
+			"main": "./index.js",
+			"homepage": "https://github.com/tcs-de/nodecache",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/tcs-de/nodecache.git"
+			},
+			"engines": {
+				"node": ">= 0.4.6"
+			},
+			"scripts": {
+				"test": "expresso test/node_cache-test.js"
+			},
+			"dependencies": {
+				"underscore": ">= 1.3.3"
+			},
+			"devDependencies": {
+				"expresso": "0.9.2"
+			},
+			"_npmUser": {
+				"name": "tcs-de",
+				"email": "github@tcs.de"
+			},
+			"_id": "node-cache@0.3.1",
+			"optionalDependencies": {},
+			"_engineSupported": true,
+			"_npmVersion": "1.1.19",
+			"_nodeVersion": "v0.6.16",
+			"_defaultsLoaded": true,
+			"dist": {
+				"shasum": "954ba098e1480e32c9e9c9461ffa640f8f2799b9",
+				"tarball": "https://registry.npmjs.org/node-cache/-/node-cache-0.3.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "tcs-de",
+					"email": "github@tcs.de"
+				}
+			],
+			"directories": {}
+		},
+		"0.3.2": {
+			"name": "node-cache",
+			"description": "Simple and fast NodeJS internal caching. Node internal in memory cache",
+			"keywords": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"coffee",
+				"coffee-script",
+				"underscore",
+				"multi",
+				"memory",
+				"internal",
+				"node"
+			],
+			"tags": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"coffee",
+				"coffee-script",
+				"underscore",
+				"multi",
+				"memory",
+				"internal",
+				"node"
+			],
+			"version": "0.3.2",
+			"author": {
+				"name": "tcs-de",
+				"email": "github@tcs.de"
+			},
+			"main": "./index.js",
+			"homepage": "https://github.com/tcs-de/nodecache",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/tcs-de/nodecache.git"
+			},
+			"engines": {
+				"node": ">= 0.4.6"
+			},
+			"scripts": {
+				"test": "expresso test/node_cache-test.js"
+			},
+			"dependencies": {
+				"underscore": ">= 1.3.3"
+			},
+			"devDependencies": {
+				"expresso": "0.9.2"
+			},
+			"_npmUser": {
+				"name": "tcs-de",
+				"email": "github@tcs.de"
+			},
+			"_id": "node-cache@0.3.2",
+			"optionalDependencies": {},
+			"_engineSupported": true,
+			"_npmVersion": "1.1.19",
+			"_nodeVersion": "v0.6.16",
+			"_defaultsLoaded": true,
+			"dist": {
+				"shasum": "3b4d84fa809934bcfd825282d95c76b9474c24a2",
+				"tarball": "https://registry.npmjs.org/node-cache/-/node-cache-0.3.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "tcs-de",
+					"email": "github@tcs.de"
+				}
+			],
+			"directories": {}
+		},
+		"0.4.0": {
+			"name": "node-cache",
+			"description": "Simple and fast NodeJS internal caching. Node internal in memory cache",
+			"keywords": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"coffee",
+				"coffee-script",
+				"underscore",
+				"multi",
+				"memory",
+				"internal",
+				"node"
+			],
+			"tags": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"coffee",
+				"coffee-script",
+				"underscore",
+				"multi",
+				"memory",
+				"internal",
+				"node"
+			],
+			"version": "0.4.0",
+			"author": {
+				"name": "tcs-de",
+				"email": "github@tcs.de"
+			},
+			"main": "./index.js",
+			"homepage": "https://github.com/tcs-de/nodecache",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/tcs-de/nodecache.git"
+			},
+			"engines": {
+				"node": ">= 0.4.6"
+			},
+			"scripts": {
+				"test": "expresso test/node_cache-test.js"
+			},
+			"dependencies": {
+				"underscore": "*"
+			},
+			"devDependencies": {
+				"expresso": "0.9.2"
+			},
+			"_id": "node-cache@0.4.0",
+			"dist": {
+				"shasum": "14cf5c39c0b2a1bcdfc39efeed905ee3a048eb66",
+				"tarball": "https://registry.npmjs.org/node-cache/-/node-cache-0.4.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.2.18",
+			"_npmUser": {
+				"name": "tcs-de",
+				"email": "github@tcs.de"
+			},
+			"maintainers": [
+				{
+					"name": "tcs-de",
+					"email": "github@tcs.de"
+				}
+			],
+			"directories": {}
+		},
+		"0.4.1": {
+			"name": "node-cache",
+			"description": "Simple and fast NodeJS internal caching. Node internal in memory cache",
+			"keywords": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"coffee",
+				"coffee-script",
+				"underscore",
+				"multi",
+				"memory",
+				"internal",
+				"node"
+			],
+			"tags": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"coffee",
+				"coffee-script",
+				"underscore",
+				"multi",
+				"memory",
+				"internal",
+				"node"
+			],
+			"version": "0.4.1",
+			"author": {
+				"name": "tcs-de",
+				"email": "github@tcs.de"
+			},
+			"main": "./index.js",
+			"homepage": "https://github.com/tcs-de/nodecache",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/tcs-de/nodecache.git"
+			},
+			"engines": {
+				"node": ">= 0.4.6"
+			},
+			"scripts": {
+				"test": "expresso test/node_cache-test.js"
+			},
+			"dependencies": {
+				"underscore": "*"
+			},
+			"devDependencies": {
+				"expresso": "0.9.2"
+			},
+			"bugs": {
+				"url": "https://github.com/tcs-de/nodecache/issues"
+			},
+			"_id": "node-cache@0.4.1",
+			"dist": {
+				"shasum": "cb4e2b164c437537c388547d7c1d36a4e28d00ff",
+				"tarball": "https://registry.npmjs.org/node-cache/-/node-cache-0.4.1.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.24",
+			"_npmUser": {
+				"name": "tcs-de",
+				"email": "github@tcs.de"
+			},
+			"maintainers": [
+				{
+					"name": "tcs-de",
+					"email": "github@tcs.de"
+				}
+			],
+			"directories": {}
+		},
+		"1.0.0": {
+			"name": "node-cache",
+			"description": "Simple and fast NodeJS internal caching. Node internal in memory cache",
+			"keywords": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"coffee",
+				"coffee-script",
+				"underscore",
+				"multi",
+				"memory",
+				"internal",
+				"node"
+			],
+			"tags": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"coffee",
+				"coffee-script",
+				"underscore",
+				"multi",
+				"memory",
+				"internal",
+				"node"
+			],
+			"version": "1.0.0",
+			"author": {
+				"name": "tcs-de",
+				"email": "github@tcs.de"
+			},
+			"main": "./index.js",
+			"homepage": "https://github.com/tcs-de/nodecache",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/tcs-de/nodecache.git"
+			},
+			"engines": {
+				"node": ">= 0.4.6"
+			},
+			"scripts": {
+				"test": "expresso test/node_cache-test.js"
+			},
+			"dependencies": {
+				"underscore": "*"
+			},
+			"devDependencies": {
+				"expresso": "0.9.2"
+			},
+			"bugs": {
+				"url": "https://github.com/tcs-de/nodecache/issues"
+			},
+			"_id": "node-cache@1.0.0",
+			"dist": {
+				"shasum": "8766a415d61060862f40a98b058933aed9585bc0",
+				"tarball": "https://registry.npmjs.org/node-cache/-/node-cache-1.0.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.24",
+			"_npmUser": {
+				"name": "tcs-de",
+				"email": "github@tcs.de"
+			},
+			"maintainers": [
+				{
+					"name": "tcs-de",
+					"email": "github@tcs.de"
+				}
+			],
+			"directories": {}
+		},
+		"1.0.2": {
+			"name": "node-cache",
+			"description": "Simple and fast NodeJS internal caching. Node internal in memory cache like memcached.",
+			"keywords": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"multi",
+				"memory",
+				"internal",
+				"node",
+				"memcached",
+				"object"
+			],
+			"tags": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"multi",
+				"memory",
+				"internal",
+				"node",
+				"memcached",
+				"object"
+			],
+			"version": "1.0.2",
+			"author": {
+				"name": "tcs-de",
+				"email": "github@tcs.de"
+			},
+			"main": "./index.js",
+			"homepage": "https://github.com/tcs-de/nodecache",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/tcs-de/nodecache.git"
+			},
+			"engines": {
+				"node": ">= 0.4.6"
+			},
+			"scripts": {
+				"test": "expresso test/node_cache-test.js"
+			},
+			"dependencies": {
+				"underscore": "*"
+			},
+			"devDependencies": {
+				"expresso": "0.9.2"
+			},
+			"bugs": {
+				"url": "https://github.com/tcs-de/nodecache/issues"
+			},
+			"_id": "node-cache@1.0.2",
+			"dist": {
+				"shasum": "7cca38371d2a8426a45966831fd3e81c0300346f",
+				"tarball": "https://registry.npmjs.org/node-cache/-/node-cache-1.0.2.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.24",
+			"_npmUser": {
+				"name": "tcs-de",
+				"email": "github@tcs.de"
+			},
+			"maintainers": [
+				{
+					"name": "tcs-de",
+					"email": "github@tcs.de"
+				}
+			],
+			"directories": {}
+		},
+		"1.0.3": {
+			"name": "node-cache",
+			"description": "Simple and fast NodeJS internal caching. Node internal in memory cache like memcached.",
+			"keywords": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"multi",
+				"memory",
+				"internal",
+				"node",
+				"memcached",
+				"object"
+			],
+			"tags": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"multi",
+				"memory",
+				"internal",
+				"node",
+				"memcached",
+				"object"
+			],
+			"version": "1.0.3",
+			"author": {
+				"name": "tcs-de",
+				"email": "github@tcs.de"
+			},
+			"main": "./index.js",
+			"homepage": "https://github.com/tcs-de/nodecache",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/tcs-de/nodecache.git"
+			},
+			"engines": {
+				"node": ">= 0.4.6"
+			},
+			"scripts": {
+				"test": "expresso test/node_cache-test.js"
+			},
+			"dependencies": {
+				"underscore": "*"
+			},
+			"devDependencies": {
+				"expresso": "0.9.2"
+			},
+			"bugs": {
+				"url": "https://github.com/tcs-de/nodecache/issues"
+			},
+			"_id": "node-cache@1.0.3",
+			"dist": {
+				"shasum": "62a9449e35e41b805cf4147ab5bd20bdd91e1445",
+				"tarball": "https://registry.npmjs.org/node-cache/-/node-cache-1.0.3.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.4.3",
+			"_npmUser": {
+				"name": "tcs-de",
+				"email": "github@tcs.de"
+			},
+			"maintainers": [
+				{
+					"name": "tcs-de",
+					"email": "github@tcs.de"
+				}
+			],
+			"directories": {}
+		},
+		"1.1.0": {
+			"name": "node-cache",
+			"description": "Simple and fast NodeJS internal caching. Node internal in memory cache like memcached.",
+			"keywords": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"multi",
+				"memory",
+				"internal",
+				"node",
+				"memcached",
+				"object"
+			],
+			"tags": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"multi",
+				"memory",
+				"internal",
+				"node",
+				"memcached",
+				"object"
+			],
+			"version": "1.1.0",
+			"author": {
+				"name": "tcs-de",
+				"email": "github@tcs.de"
+			},
+			"main": "./index.js",
+			"homepage": "https://github.com/tcs-de/nodecache",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/tcs-de/nodecache.git"
+			},
+			"engines": {
+				"node": ">= 0.4.6"
+			},
+			"scripts": {
+				"test": "expresso test/node_cache-test.js"
+			},
+			"dependencies": {
+				"underscore": "*"
+			},
+			"devDependencies": {
+				"expresso": "0.9.2"
+			},
+			"bugs": {
+				"url": "https://github.com/tcs-de/nodecache/issues"
+			},
+			"_id": "node-cache@1.1.0",
+			"dist": {
+				"shasum": "186365032d2395bdff73404178fb2bc8981ace70",
+				"tarball": "https://registry.npmjs.org/node-cache/-/node-cache-1.1.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.24",
+			"_npmUser": {
+				"name": "tcs-de",
+				"email": "github@tcs.de"
+			},
+			"maintainers": [
+				{
+					"name": "tcs-de",
+					"email": "github@tcs.de"
+				}
+			],
+			"directories": {}
+		},
+		"2.0.1": {
+			"name": "node-cache",
+			"description": "Simple and fast NodeJS internal caching. Node internal in memory cache like memcached.",
+			"keywords": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"multi",
+				"memory",
+				"internal",
+				"node",
+				"memcached",
+				"object"
+			],
+			"tags": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"multi",
+				"memory",
+				"internal",
+				"node",
+				"memcached",
+				"object"
+			],
+			"version": "2.0.1",
+			"author": {
+				"name": "tcs-de",
+				"email": "github@tcs.de"
+			},
+			"main": "./index.js",
+			"homepage": "https://github.com/tcs-de/nodecache",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/tcs-de/nodecache.git"
+			},
+			"engines": {
+				"node": ">= 0.4.6"
+			},
+			"scripts": {
+				"test": "expresso test/node_cache-test.js"
+			},
+			"dependencies": {
+				"lodash": "3.x || 2.x"
+			},
+			"devDependencies": {
+				"expresso": "0.9.2",
+				"grunt": "0.4.x",
+				"grunt-regarde": "0.1.x",
+				"grunt-contrib-coffee": "0.13.x",
+				"grunt-include-replace": "3.0.x",
+				"grunt-run": "0.3.x",
+				"grunt-contrib-clean": "0.6.x"
+			},
+			"gitHead": "0e74cbc205b96eca5799d7f4f872eab8ef28f042",
+			"bugs": {
+				"url": "https://github.com/tcs-de/nodecache/issues"
+			},
+			"_id": "node-cache@2.0.1",
+			"_shasum": "443c261c00e71f9767017ea148cc675c1521f885",
+			"_from": ".",
+			"_npmVersion": "2.7.5",
+			"_nodeVersion": "0.10.25",
+			"_npmUser": {
+				"name": "tcs-de",
+				"email": "mp@tcs.de"
+			},
+			"maintainers": [
+				{
+					"name": "tcs-de",
+					"email": "github@tcs.de"
+				}
+			],
+			"dist": {
+				"shasum": "443c261c00e71f9767017ea148cc675c1521f885",
+				"tarball": "https://registry.npmjs.org/node-cache/-/node-cache-2.0.1.tgz"
+			},
+			"directories": {}
+		},
+		"2.1.0": {
+			"name": "node-cache",
+			"description": "Simple and fast NodeJS internal caching. Node internal in memory cache like memcached.",
+			"keywords": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"multi",
+				"memory",
+				"internal",
+				"node",
+				"memcached",
+				"object"
+			],
+			"tags": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"multi",
+				"memory",
+				"internal",
+				"node",
+				"memcached",
+				"object"
+			],
+			"version": "2.1.0",
+			"author": {
+				"name": "tcs-de",
+				"email": "github@tcs.de"
+			},
+			"main": "./index.js",
+			"homepage": "https://github.com/tcs-de/nodecache",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/tcs-de/nodecache.git"
+			},
+			"engines": {
+				"node": ">= 0.4.6"
+			},
+			"scripts": {
+				"test": "expresso test/node_cache-test.js"
+			},
+			"dependencies": {
+				"lodash": "3.x || 2.x"
+			},
+			"devDependencies": {
+				"expresso": "0.9.2",
+				"grunt": "0.4.x",
+				"grunt-regarde": "0.1.x",
+				"grunt-contrib-coffee": "0.13.x",
+				"grunt-include-replace": "3.0.x",
+				"grunt-run": "0.3.x",
+				"grunt-contrib-clean": "0.6.x"
+			},
+			"gitHead": "d3124dac2867b4944f8eeab2d9ce7539170f9687",
+			"bugs": {
+				"url": "https://github.com/tcs-de/nodecache/issues"
+			},
+			"_id": "node-cache@2.1.0",
+			"_shasum": "a78c1bdcc81df3fe936be9dfa488fa06804aa54e",
+			"_from": ".",
+			"_npmVersion": "2.7.5",
+			"_nodeVersion": "0.10.25",
+			"_npmUser": {
+				"name": "tcs-de",
+				"email": "mp@tcs.de"
+			},
+			"maintainers": [
+				{
+					"name": "tcs-de",
+					"email": "github@tcs.de"
+				}
+			],
+			"dist": {
+				"shasum": "a78c1bdcc81df3fe936be9dfa488fa06804aa54e",
+				"tarball": "https://registry.npmjs.org/node-cache/-/node-cache-2.1.0.tgz"
+			},
+			"directories": {}
+		},
+		"2.1.1": {
+			"name": "node-cache",
+			"description": "Simple and fast NodeJS internal caching. Node internal in memory cache like memcached.",
+			"keywords": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"multi",
+				"memory",
+				"internal",
+				"node",
+				"memcached",
+				"object"
+			],
+			"tags": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"multi",
+				"memory",
+				"internal",
+				"node",
+				"memcached",
+				"object"
+			],
+			"version": "2.1.1",
+			"author": {
+				"name": "tcs-de",
+				"email": "github@tcs.de"
+			},
+			"main": "./index.js",
+			"homepage": "https://github.com/tcs-de/nodecache",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/tcs-de/nodecache.git"
+			},
+			"engines": {
+				"node": ">= 0.4.6"
+			},
+			"scripts": {
+				"test": "expresso test/node_cache-test.js"
+			},
+			"dependencies": {
+				"lodash": "3.x || 2.x"
+			},
+			"devDependencies": {
+				"expresso": "0.9.2",
+				"grunt": "0.4.x",
+				"grunt-regarde": "0.1.x",
+				"grunt-contrib-coffee": "0.13.x",
+				"grunt-include-replace": "3.0.x",
+				"grunt-run": "0.3.x",
+				"grunt-contrib-clean": "0.6.x"
+			},
+			"gitHead": "1333258c7bd8e8f27d4f36d4ec37e04af6885a80",
+			"bugs": {
+				"url": "https://github.com/tcs-de/nodecache/issues"
+			},
+			"_id": "node-cache@2.1.1",
+			"_shasum": "7dcd61a029a5b66c0329b3c1548282819187ce94",
+			"_from": ".",
+			"_npmVersion": "2.7.5",
+			"_nodeVersion": "0.10.25",
+			"_npmUser": {
+				"name": "tcs-de",
+				"email": "mp@tcs.de"
+			},
+			"maintainers": [
+				{
+					"name": "tcs-de",
+					"email": "github@tcs.de"
+				}
+			],
+			"dist": {
+				"shasum": "7dcd61a029a5b66c0329b3c1548282819187ce94",
+				"tarball": "https://registry.npmjs.org/node-cache/-/node-cache-2.1.1.tgz"
+			},
+			"directories": {}
+		},
+		"3.0.0": {
+			"name": "node-cache",
+			"description": "Simple and fast NodeJS internal caching. Node internal in memory cache like memcached.",
+			"keywords": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"multi",
+				"memory",
+				"internal",
+				"node",
+				"memcached",
+				"object"
+			],
+			"tags": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"multi",
+				"memory",
+				"internal",
+				"node",
+				"memcached",
+				"object"
+			],
+			"version": "3.0.0",
+			"author": {
+				"name": "tcs-de",
+				"email": "github@tcs.de"
+			},
+			"main": "./index.js",
+			"homepage": "https://github.com/tcs-de/nodecache",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/tcs-de/nodecache.git"
+			},
+			"license": "MIT",
+			"engines": {
+				"node": ">= 0.4.6"
+			},
+			"scripts": {
+				"test": "expresso test/node_cache-test.js"
+			},
+			"dependencies": {
+				"lodash": "3.x || 2.x",
+				"clone": "1.0.x"
+			},
+			"devDependencies": {
+				"expresso": "0.9.2",
+				"grunt": "0.4.x",
+				"grunt-regarde": "0.1.x",
+				"grunt-contrib-coffee": "0.13.x",
+				"grunt-include-replace": "3.0.x",
+				"grunt-run": "0.3.x",
+				"grunt-contrib-clean": "0.6.x"
+			},
+			"gitHead": "df3c5573161542e9ad435850cd191879cf7578c7",
+			"bugs": {
+				"url": "https://github.com/tcs-de/nodecache/issues"
+			},
+			"_id": "node-cache@3.0.0",
+			"_shasum": "e51e805df3913a01ae86e2d03bebe57bb41d3bc2",
+			"_from": ".",
+			"_npmVersion": "2.7.5",
+			"_nodeVersion": "0.10.25",
+			"_npmUser": {
+				"name": "tcs-de",
+				"email": "mp@tcs.de"
+			},
+			"maintainers": [
+				{
+					"name": "tcs-de",
+					"email": "github@tcs.de"
+				}
+			],
+			"dist": {
+				"shasum": "e51e805df3913a01ae86e2d03bebe57bb41d3bc2",
+				"tarball": "https://registry.npmjs.org/node-cache/-/node-cache-3.0.0.tgz"
+			},
+			"directories": {}
+		},
+		"3.0.1": {
+			"name": "node-cache",
+			"description": "Simple and fast NodeJS internal caching. Node internal in memory cache like memcached.",
+			"keywords": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"multi",
+				"memory",
+				"internal",
+				"node",
+				"memcached",
+				"object"
+			],
+			"tags": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"multi",
+				"memory",
+				"internal",
+				"node",
+				"memcached",
+				"object"
+			],
+			"version": "3.0.1",
+			"author": {
+				"name": "tcs-de",
+				"email": "github@tcs.de"
+			},
+			"main": "./index.js",
+			"homepage": "https://github.com/tcs-de/nodecache",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/tcs-de/nodecache.git"
+			},
+			"license": "MIT",
+			"engines": {
+				"node": ">= 0.4.6"
+			},
+			"scripts": {
+				"test": "expresso test/node_cache-test.js"
+			},
+			"dependencies": {
+				"lodash": "3.x || 2.x",
+				"clone": "1.0.x"
+			},
+			"devDependencies": {
+				"expresso": "0.9.2",
+				"grunt": "0.4.x",
+				"grunt-regarde": "0.1.x",
+				"grunt-contrib-coffee": "0.13.x",
+				"grunt-include-replace": "3.0.x",
+				"grunt-run": "0.3.x",
+				"grunt-contrib-clean": "0.6.x"
+			},
+			"gitHead": "fd711d053e105079b5ab37aecc22e6a485b0cb9c",
+			"bugs": {
+				"url": "https://github.com/tcs-de/nodecache/issues"
+			},
+			"_id": "node-cache@3.0.1",
+			"_shasum": "ad3f6c3394e16955e8c32b13c7789424b05f7af8",
+			"_from": ".",
+			"_npmVersion": "2.14.12",
+			"_nodeVersion": "4.2.4",
+			"_npmUser": {
+				"name": "tcs-de",
+				"email": "mp@tcs.de"
+			},
+			"maintainers": [
+				{
+					"name": "tcs-de",
+					"email": "github@tcs.de"
+				}
+			],
+			"dist": {
+				"shasum": "ad3f6c3394e16955e8c32b13c7789424b05f7af8",
+				"tarball": "https://registry.npmjs.org/node-cache/-/node-cache-3.0.1.tgz"
+			},
+			"directories": {}
+		},
+		"3.1.0": {
+			"name": "node-cache",
+			"description": "Simple and fast NodeJS internal caching. Node internal in memory cache like memcached.",
+			"keywords": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"multi",
+				"memory",
+				"internal",
+				"node",
+				"memcached",
+				"object"
+			],
+			"tags": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"multi",
+				"memory",
+				"internal",
+				"node",
+				"memcached",
+				"object"
+			],
+			"version": "3.1.0",
+			"author": {
+				"name": "tcs-de",
+				"email": "github@tcs.de"
+			},
+			"main": "./index.js",
+			"homepage": "https://github.com/tcs-de/nodecache",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/tcs-de/nodecache.git"
+			},
+			"license": "MIT",
+			"engines": {
+				"node": ">= 0.4.6"
+			},
+			"scripts": {
+				"test": "expresso test/node_cache-test.js"
+			},
+			"dependencies": {
+				"lodash": "3.x || 2.x",
+				"clone": "1.0.x"
+			},
+			"devDependencies": {
+				"expresso": "0.9.2",
+				"grunt": "0.4.x",
+				"grunt-regarde": "0.1.x",
+				"grunt-contrib-coffee": "0.13.x",
+				"grunt-include-replace": "3.0.x",
+				"grunt-run": "0.3.x",
+				"grunt-contrib-clean": "0.6.x"
+			},
+			"gitHead": "6dec6dc10d6926a251fd6b4e845e3545ce162582",
+			"bugs": {
+				"url": "https://github.com/tcs-de/nodecache/issues"
+			},
+			"_id": "node-cache@3.1.0",
+			"_shasum": "6b7728e576810e098b4aa31eb3c1718539b072a4",
+			"_from": ".",
+			"_npmVersion": "2.14.12",
+			"_nodeVersion": "4.2.6",
+			"_npmUser": {
+				"name": "tcs-de",
+				"email": "mp@tcs.de"
+			},
+			"maintainers": [
+				{
+					"name": "tcs-de",
+					"email": "github@tcs.de"
+				}
+			],
+			"dist": {
+				"shasum": "6b7728e576810e098b4aa31eb3c1718539b072a4",
+				"tarball": "https://registry.npmjs.org/node-cache/-/node-cache-3.1.0.tgz"
+			},
+			"directories": {}
+		},
+		"3.2.0": {
+			"name": "node-cache",
+			"description": "Simple and fast NodeJS internal caching. Node internal in memory cache like memcached.",
+			"keywords": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"multi",
+				"memory",
+				"internal",
+				"node",
+				"memcached",
+				"object"
+			],
+			"tags": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"multi",
+				"memory",
+				"internal",
+				"node",
+				"memcached",
+				"object"
+			],
+			"version": "3.2.0",
+			"author": {
+				"name": "tcs-de",
+				"email": "github@tcs.de"
+			},
+			"main": "./index.js",
+			"homepage": "https://github.com/tcs-de/nodecache",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/tcs-de/nodecache.git"
+			},
+			"license": "MIT",
+			"engines": {
+				"node": ">= 0.4.6"
+			},
+			"scripts": {
+				"test": "expresso test/node_cache-test.js"
+			},
+			"dependencies": {
+				"lodash": "3.x || 2.x",
+				"clone": "1.0.x"
+			},
+			"devDependencies": {
+				"expresso": "0.9.2",
+				"grunt": "0.4.x",
+				"grunt-regarde": "0.1.x",
+				"grunt-contrib-coffee": "0.13.x",
+				"grunt-include-replace": "3.0.x",
+				"grunt-run": "0.3.x",
+				"grunt-contrib-clean": "0.6.x"
+			},
+			"gitHead": "8c89829cd72a479a520d710066222c61ec366786",
+			"bugs": {
+				"url": "https://github.com/tcs-de/nodecache/issues"
+			},
+			"_id": "node-cache@3.2.0",
+			"_shasum": "c10d40ec05c157589844bd6510b6bdded504cbe6",
+			"_from": ".",
+			"_npmVersion": "2.14.12",
+			"_nodeVersion": "4.3.1",
+			"_npmUser": {
+				"name": "tcs-de",
+				"email": "mp@tcs.de"
+			},
+			"maintainers": [
+				{
+					"name": "tcs-de",
+					"email": "github@tcs.de"
+				}
+			],
+			"dist": {
+				"shasum": "c10d40ec05c157589844bd6510b6bdded504cbe6",
+				"tarball": "https://registry.npmjs.org/node-cache/-/node-cache-3.2.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-6-west.internal.npmjs.com",
+				"tmp": "tmp/node-cache-3.2.0.tgz_1456314268278_0.6945974645204842"
+			},
+			"directories": {}
+		},
+		"3.2.1": {
+			"name": "node-cache",
+			"description": "Simple and fast NodeJS internal caching. Node internal in memory cache like memcached.",
+			"keywords": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"multi",
+				"memory",
+				"internal",
+				"node",
+				"memcached",
+				"object"
+			],
+			"tags": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"multi",
+				"memory",
+				"internal",
+				"node",
+				"memcached",
+				"object"
+			],
+			"version": "3.2.1",
+			"author": {
+				"name": "tcs-de",
+				"email": "github@tcs.de"
+			},
+			"maintainers": [
+				{
+					"name": "tcs-de",
+					"email": "github@tcs.de"
+				}
+			],
+			"main": "./index.js",
+			"homepage": "https://github.com/tcs-de/nodecache",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/tcs-de/nodecache.git"
+			},
+			"license": "MIT",
+			"engines": {
+				"node": ">= 0.4.6"
+			},
+			"scripts": {
+				"test": "expresso test/node_cache-test.js"
+			},
+			"dependencies": {
+				"lodash": "4.x",
+				"clone": "1.0.x"
+			},
+			"devDependencies": {
+				"expresso": "0.9.2",
+				"grunt": "0.4.x",
+				"grunt-regarde": "0.1.x",
+				"grunt-contrib-coffee": "1.0.x",
+				"grunt-include-replace": "3.2.x",
+				"grunt-run": "0.5.x",
+				"grunt-contrib-clean": "1.0.x",
+				"grunt-banner": "0.6.x"
+			},
+			"gitHead": "bc49b373396cdbe4c1de612b866b4fece4c8471e",
+			"bugs": {
+				"url": "https://github.com/tcs-de/nodecache/issues"
+			},
+			"_id": "node-cache@3.2.1",
+			"_shasum": "a7958d32a8a42d9119ce25986567ea2c5f966773",
+			"_from": ".",
+			"_npmVersion": "2.14.20",
+			"_nodeVersion": "4.4.0",
+			"_npmUser": {
+				"name": "tcs-de",
+				"email": "mp@tcs.de"
+			},
+			"dist": {
+				"shasum": "a7958d32a8a42d9119ce25986567ea2c5f966773",
+				"tarball": "https://registry.npmjs.org/node-cache/-/node-cache-3.2.1.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-13-west.internal.npmjs.com",
+				"tmp": "tmp/node-cache-3.2.1.tgz_1458545885460_0.7256715400144458"
+			},
+			"directories": {}
+		},
+		"4.0.0": {
+			"name": "node-cache",
+			"description": "Simple and fast NodeJS internal caching. Node internal in memory cache like memcached.",
+			"keywords": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"multi",
+				"memory",
+				"internal",
+				"node",
+				"memcached",
+				"object"
+			],
+			"tags": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"multi",
+				"memory",
+				"internal",
+				"node",
+				"memcached",
+				"object"
+			],
+			"version": "4.0.0",
+			"author": {
+				"name": "mpneuried",
+				"email": "mp@tcs.de"
+			},
+			"maintainers": [
+				{
+					"name": "tcs-de",
+					"email": "github@tcs.de"
+				}
+			],
+			"main": "./index.js",
+			"homepage": "https://github.com/mpneuried/nodecache",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/mpneuried/nodecache.git"
+			},
+			"license": "MIT",
+			"engines": {
+				"node": ">= 0.4.6"
+			},
+			"scripts": {
+				"test": "mocha test/mocha_test.js"
+			},
+			"dependencies": {
+				"lodash": "4.x",
+				"clone": "1.0.x"
+			},
+			"devDependencies": {
+				"grunt": "0.4.x",
+				"grunt-banner": "0.6.x",
+				"grunt-contrib-clean": "1.0.x",
+				"grunt-contrib-coffee": "1.0.x",
+				"grunt-include-replace": "3.2.x",
+				"grunt-regarde": "0.1.x",
+				"grunt-run": "0.5.x",
+				"mocha": "^3.0.2",
+				"should": "^11.1.0"
+			},
+			"gitHead": "651fda48fbcb60b641a4da0f9c76cfd25279489c",
+			"bugs": {
+				"url": "https://github.com/mpneuried/nodecache/issues"
+			},
+			"_id": "node-cache@4.0.0",
+			"_shasum": "38a062026eebc86f11a7050c1944c18a3088f42a",
+			"_from": ".",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "4.4.7",
+			"_npmUser": {
+				"name": "tcs-de",
+				"email": "mp@tcs.de"
+			},
+			"dist": {
+				"shasum": "38a062026eebc86f11a7050c1944c18a3088f42a",
+				"tarball": "https://registry.npmjs.org/node-cache/-/node-cache-4.0.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/node-cache-4.0.0.tgz_1474366881382_0.9475911362096667"
+			},
+			"directories": {}
+		},
+		"4.1.0": {
+			"name": "node-cache",
+			"description": "Simple and fast NodeJS internal caching. Node internal in memory cache like memcached.",
+			"keywords": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"multi",
+				"memory",
+				"internal",
+				"node",
+				"memcached",
+				"object"
+			],
+			"tags": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"multi",
+				"memory",
+				"internal",
+				"node",
+				"memcached",
+				"object"
+			],
+			"version": "4.1.0",
+			"author": {
+				"name": "mpneuried",
+				"email": "mp@tcs.de"
+			},
+			"maintainers": [
+				{
+					"name": "tcs-de",
+					"email": "github@tcs.de"
+				}
+			],
+			"main": "./index.js",
+			"homepage": "https://github.com/mpneuried/nodecache",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/mpneuried/nodecache.git"
+			},
+			"license": "MIT",
+			"engines": {
+				"node": ">= 0.4.6"
+			},
+			"scripts": {
+				"test": "mocha test/mocha_test.js",
+				"build": "grunt build"
+			},
+			"dependencies": {
+				"lodash": "4.x",
+				"clone": "1.0.x"
+			},
+			"devDependencies": {
+				"grunt": "0.4.x",
+				"grunt-banner": "0.6.x",
+				"grunt-contrib-clean": "1.0.x",
+				"grunt-contrib-coffee": "1.0.x",
+				"grunt-contrib-watch": "^1.0.0",
+				"grunt-include-replace": "3.2.x",
+				"grunt-regarde": "0.1.x",
+				"grunt-run": "0.5.x",
+				"mocha": "^3.0.2",
+				"should": "^11.1.0"
+			},
+			"gitHead": "cf9b773cff44419235e5f5a60d34addd942e87a9",
+			"bugs": {
+				"url": "https://github.com/mpneuried/nodecache/issues"
+			},
+			"_id": "node-cache@4.1.0",
+			"_shasum": "2a6a66460bf063781138206988237ec02c135157",
+			"_from": ".",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "4.4.7",
+			"_npmUser": {
+				"name": "tcs-de",
+				"email": "mp@tcs.de"
+			},
+			"dist": {
+				"shasum": "2a6a66460bf063781138206988237ec02c135157",
+				"tarball": "https://registry.npmjs.org/node-cache/-/node-cache-4.1.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/node-cache-4.1.0.tgz_1474618207666_0.11245799716562033"
+			},
+			"directories": {}
+		},
+		"4.1.1": {
+			"name": "node-cache",
+			"description": "Simple and fast NodeJS internal caching. Node internal in memory cache like memcached.",
+			"keywords": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"multi",
+				"memory",
+				"internal",
+				"node",
+				"memcached",
+				"object"
+			],
+			"tags": [
+				"cache",
+				"caching",
+				"local",
+				"variable",
+				"multi",
+				"memory",
+				"internal",
+				"node",
+				"memcached",
+				"object"
+			],
+			"version": "4.1.1",
+			"author": {
+				"name": "mpneuried",
+				"email": "mp@tcs.de"
+			},
+			"maintainers": [
+				{
+					"name": "tcs-de",
+					"email": "github@tcs.de"
+				}
+			],
+			"main": "./index.js",
+			"homepage": "https://github.com/mpneuried/nodecache",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/mpneuried/nodecache.git"
+			},
+			"license": "MIT",
+			"engines": {
+				"node": ">= 0.4.6"
+			},
+			"scripts": {
+				"test": "COFFEECOV_INIT_ALL=false mocha --compilers coffee:coffee-script/register --require coffee-coverage/register-istanbul _src/test/mocha_test.coffee -R spec",
+				"test-docker": "SILIENT_MODE=1 mocha test/mocha_test.js -R min",
+				"build": "grunt build"
+			},
+			"dependencies": {
+				"clone": "2.x",
+				"lodash": "4.x"
+			},
+			"devDependencies": {
+				"coffee-coverage": "1.x",
+				"coffee-script": "1.x",
+				"coveralls": "2.x",
+				"grunt": "0.4.x",
+				"grunt-banner": "0.6.x",
+				"grunt-contrib-clean": "1.0.x",
+				"grunt-contrib-coffee": "1.0.x",
+				"grunt-contrib-watch": "1.x",
+				"grunt-include-replace": "3.2.x",
+				"grunt-mocha-cli": "2.x",
+				"grunt-regarde": "0.1.x",
+				"grunt-run": "0.5.x",
+				"istanbul": "0.x",
+				"mocha": "3.x",
+				"should": "11.x"
+			},
+			"gitHead": "37ac785c68716b60cdfdbd52bc51cb60fadf8c79",
+			"bugs": {
+				"url": "https://github.com/mpneuried/nodecache/issues"
+			},
+			"_id": "node-cache@4.1.1",
+			"_shasum": "08524645ee4039dedc3dcc1dd7c6b979e0619e44",
+			"_from": ".",
+			"_npmVersion": "3.10.9",
+			"_nodeVersion": "4.6.2",
+			"_npmUser": {
+				"name": "tcs-de",
+				"email": "mp@tcs.de"
+			},
+			"dist": {
+				"shasum": "08524645ee4039dedc3dcc1dd7c6b979e0619e44",
+				"tarball": "https://registry.npmjs.org/node-cache/-/node-cache-4.1.1.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/node-cache-4.1.1.tgz_1482319623018_0.19979252549819648"
+			},
+			"directories": {}
+		}
+	},
+	"dist-tags": {
+		"latest": "4.1.1"
+	},
+	"time": {
+		"modified": "2018-02-15T08:52:32.407Z",
+		"created": "2011-10-20T12:00:03.206Z",
+		"0.1.0": "2011-10-20T12:00:04.799Z",
+		"0.1.1": "2011-10-20T12:10:08.261Z",
+		"0.1.3": "2011-10-20T12:57:14.518Z",
+		"0.2.0": "2011-10-20T14:52:16.323Z",
+		"0.3.0": "2012-05-15T06:53:12.615Z",
+		"0.3.1": "2012-05-16T09:28:59.753Z",
+		"0.3.2": "2012-05-31T08:11:22.209Z",
+		"0.4.0": "2013-10-02T06:54:01.929Z",
+		"0.4.1": "2014-02-26T07:11:09.940Z",
+		"1.0.0": "2014-04-09T09:49:02.878Z",
+		"1.0.2": "2014-09-17T10:21:55.688Z",
+		"1.0.3": "2014-11-07T12:44:15.130Z",
+		"1.1.0": "2015-01-05T08:42:55.915Z",
+		"2.0.0": "2015-01-05T08:50:08.252Z",
+		"2.0.1": "2015-04-17T07:20:50.536Z",
+		"2.1.0": "2015-04-17T07:47:11.844Z",
+		"2.1.1": "2015-04-17T08:05:14.635Z",
+		"2.2.0": "2015-05-27T09:38:55.827Z",
+		"3.0.0": "2015-05-29T12:31:15.331Z",
+		"3.0.1": "2016-01-13T07:13:11.311Z",
+		"3.1.0": "2016-01-29T09:31:37.034Z",
+		"3.2.0": "2016-02-24T11:44:31.184Z",
+		"3.2.1": "2016-03-21T07:38:07.733Z",
+		"4.0.0": "2016-09-20T10:21:23.522Z",
+		"4.1.0": "2016-09-23T08:10:08.732Z",
+		"4.1.1": "2016-12-21T11:27:05.176Z"
+	},
+	"_distfiles": {
+		"node-cache-0.1.0.tgz": {
+			"url": "https://registry.npmjs.org/node-cache/-/node-cache-0.1.0.tgz",
+			"sha": "4e5c85543a3930454741b21c6c04940017ebb077",
+			"registry": "npmjs"
+		},
+		"node-cache-0.1.1.tgz": {
+			"url": "https://registry.npmjs.org/node-cache/-/node-cache-0.1.1.tgz",
+			"sha": "936a268b2709505a42570f3882b0e0ddb8842e54",
+			"registry": "npmjs"
+		},
+		"node-cache-0.1.3.tgz": {
+			"url": "https://registry.npmjs.org/node-cache/-/node-cache-0.1.3.tgz",
+			"sha": "982b9b04ae3e41ff880910ea2f2c3351b4f5622a",
+			"registry": "npmjs"
+		},
+		"node-cache-0.2.0.tgz": {
+			"url": "https://registry.npmjs.org/node-cache/-/node-cache-0.2.0.tgz",
+			"sha": "96d43eac26e569ec333bdfbfdb60adfaedb2283c",
+			"registry": "npmjs"
+		},
+		"node-cache-0.3.0.tgz": {
+			"url": "https://registry.npmjs.org/node-cache/-/node-cache-0.3.0.tgz",
+			"sha": "3d058ad502cd7e662ee8c4c2bb97413681f0f6f5",
+			"registry": "npmjs"
+		},
+		"node-cache-0.3.1.tgz": {
+			"url": "https://registry.npmjs.org/node-cache/-/node-cache-0.3.1.tgz",
+			"sha": "954ba098e1480e32c9e9c9461ffa640f8f2799b9",
+			"registry": "npmjs"
+		},
+		"node-cache-0.3.2.tgz": {
+			"url": "https://registry.npmjs.org/node-cache/-/node-cache-0.3.2.tgz",
+			"sha": "3b4d84fa809934bcfd825282d95c76b9474c24a2",
+			"registry": "npmjs"
+		},
+		"node-cache-0.4.0.tgz": {
+			"url": "https://registry.npmjs.org/node-cache/-/node-cache-0.4.0.tgz",
+			"sha": "14cf5c39c0b2a1bcdfc39efeed905ee3a048eb66",
+			"registry": "npmjs"
+		},
+		"node-cache-0.4.1.tgz": {
+			"url": "https://registry.npmjs.org/node-cache/-/node-cache-0.4.1.tgz",
+			"sha": "cb4e2b164c437537c388547d7c1d36a4e28d00ff",
+			"registry": "npmjs"
+		},
+		"node-cache-1.0.0.tgz": {
+			"url": "https://registry.npmjs.org/node-cache/-/node-cache-1.0.0.tgz",
+			"sha": "8766a415d61060862f40a98b058933aed9585bc0",
+			"registry": "npmjs"
+		},
+		"node-cache-1.0.2.tgz": {
+			"url": "https://registry.npmjs.org/node-cache/-/node-cache-1.0.2.tgz",
+			"sha": "7cca38371d2a8426a45966831fd3e81c0300346f",
+			"registry": "npmjs"
+		},
+		"node-cache-1.0.3.tgz": {
+			"url": "https://registry.npmjs.org/node-cache/-/node-cache-1.0.3.tgz",
+			"sha": "62a9449e35e41b805cf4147ab5bd20bdd91e1445",
+			"registry": "npmjs"
+		},
+		"node-cache-1.1.0.tgz": {
+			"url": "https://registry.npmjs.org/node-cache/-/node-cache-1.1.0.tgz",
+			"sha": "186365032d2395bdff73404178fb2bc8981ace70",
+			"registry": "npmjs"
+		},
+		"node-cache-2.0.1.tgz": {
+			"url": "https://registry.npmjs.org/node-cache/-/node-cache-2.0.1.tgz",
+			"sha": "443c261c00e71f9767017ea148cc675c1521f885",
+			"registry": "npmjs"
+		},
+		"node-cache-2.1.0.tgz": {
+			"url": "https://registry.npmjs.org/node-cache/-/node-cache-2.1.0.tgz",
+			"sha": "a78c1bdcc81df3fe936be9dfa488fa06804aa54e",
+			"registry": "npmjs"
+		},
+		"node-cache-2.1.1.tgz": {
+			"url": "https://registry.npmjs.org/node-cache/-/node-cache-2.1.1.tgz",
+			"sha": "7dcd61a029a5b66c0329b3c1548282819187ce94",
+			"registry": "npmjs"
+		},
+		"node-cache-3.0.0.tgz": {
+			"url": "https://registry.npmjs.org/node-cache/-/node-cache-3.0.0.tgz",
+			"sha": "e51e805df3913a01ae86e2d03bebe57bb41d3bc2",
+			"registry": "npmjs"
+		},
+		"node-cache-3.0.1.tgz": {
+			"url": "https://registry.npmjs.org/node-cache/-/node-cache-3.0.1.tgz",
+			"sha": "ad3f6c3394e16955e8c32b13c7789424b05f7af8",
+			"registry": "npmjs"
+		},
+		"node-cache-3.1.0.tgz": {
+			"url": "https://registry.npmjs.org/node-cache/-/node-cache-3.1.0.tgz",
+			"sha": "6b7728e576810e098b4aa31eb3c1718539b072a4",
+			"registry": "npmjs"
+		},
+		"node-cache-3.2.0.tgz": {
+			"url": "https://registry.npmjs.org/node-cache/-/node-cache-3.2.0.tgz",
+			"sha": "c10d40ec05c157589844bd6510b6bdded504cbe6",
+			"registry": "npmjs"
+		},
+		"node-cache-3.2.1.tgz": {
+			"url": "https://registry.npmjs.org/node-cache/-/node-cache-3.2.1.tgz",
+			"sha": "a7958d32a8a42d9119ce25986567ea2c5f966773",
+			"registry": "npmjs"
+		},
+		"node-cache-4.0.0.tgz": {
+			"url": "https://registry.npmjs.org/node-cache/-/node-cache-4.0.0.tgz",
+			"sha": "38a062026eebc86f11a7050c1944c18a3088f42a",
+			"registry": "npmjs"
+		},
+		"node-cache-4.1.0.tgz": {
+			"url": "https://registry.npmjs.org/node-cache/-/node-cache-4.1.0.tgz",
+			"sha": "2a6a66460bf063781138206988237ec02c135157",
+			"registry": "npmjs"
+		},
+		"node-cache-4.1.1.tgz": {
+			"url": "https://registry.npmjs.org/node-cache/-/node-cache-4.1.1.tgz",
+			"sha": "08524645ee4039dedc3dcc1dd7c6b979e0619e44",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "\"5a854a50-d3c6\"",
+			"fetched": 1519837519233
+		}
+	},
+	"_rev": "1-2c02494c3ce5831f",
+	"readme": "node-cache\n===========\n\n[![Build Status](https://secure.travis-ci.org/mpneuried/nodecache.svg?branch=master)](http://travis-ci.org/mpneuried/nodecache)\n[![Windows Tests](https://img.shields.io/appveyor/ci/mpneuried/nodecache.svg?label=Windows%20Test)](https://ci.appveyor.com/project/mpneuried/nodecache)\n[![Dependency Status](https://david-dm.org/mpneuried/nodecache.svg)](https://david-dm.org/mpneuried/nodecache)\n[![NPM version](https://badge.fury.io/js/node-cache.svg)](http://badge.fury.io/js/node-cache)\n[![Coveralls Coverage](https://img.shields.io/coveralls/mpneuried/nodecache.svg)](https://coveralls.io/github/mpneuried/nodecache)\n\n[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/tcs-de/nodecache?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)\n\n[![NPM](https://nodei.co/npm/node-cache.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/node-cache/)\n\n# Simple and fast NodeJS internal caching.\n\nA simple caching module that has `set`, `get` and `delete` methods and works a little bit like memcached.  \nKeys can have a timeout (`ttl`) after which they expire and are deleted from the cache.  \nAll keys are stored in a single object so the practical limit is at around 1m keys.\n\n**Since `4.1.0`**:\n*Key-validation*: The keys can be given as either `string` or `number`, but are casted to a `string` internally anyway.  \nAll other types will either throw an error or call the callback with an error.\n\n\n# Install\n\n```bash\n  npm install node-cache --save\n```\n\nOr just require the `node_cache.js` file to get the superclass\n\n# Examples:\n\n## Initialize (INIT):\n\n```js\nconst NodeCache = require( \"node-cache\" );\nconst myCache = new NodeCache();\n```\n\n### Options\n\n- `stdTTL`: *(default: `0`)* the standard ttl as number in seconds for every generated cache element.  \n`0` = unlimited\n- `checkperiod`: *(default: `600`)* The period in seconds, as a number, used for the automatic delete check interval.  \n`0` = no periodic check.\n- `errorOnMissing`: *(default: `false`)* en/disable throwing or passing an error to the callback if attempting to `.get` a missing or expired value.\n- `useClones`: *(default: `true`)* en/disable cloning of variables. If `true` you'll get a copy of the cached variable. If `false` you'll save and get just the reference.  \n**Note:** `true` is recommended, because it'll behave like a server-based caching. You should set `false` if you want to save mutable objects or other complex types with mutability involved and wanted.\n\n```js\nconst NodeCache = require( \"node-cache\" );\nconst myCache = new NodeCache( { stdTTL: 100, checkperiod: 120 } );\n```\n\n## Store a key (SET):\n\n`myCache.set( key, val, [ ttl ], [callback] )`\n\nSets a `key` `value` pair. It is possible to define a `ttl` (in seconds).  \nReturns `true` on success.\n\n```js\nobj = { my: \"Special\", variable: 42 };\nmyCache.set( \"myKey\", obj, function( err, success ){\n  if( !err && success ){\n    console.log( success );\n    // true\n    // ... do something ...\n  }\n});\n```\n\n> Note: If the key expires based on it's `ttl` it will be deleted entirely from the internal data object.\n\n**Since `1.0.0`**:  \nCallback is now optional. You can also use synchronous syntax.\n\n```js\nobj = { my: \"Special\", variable: 42 };\nsuccess = myCache.set( \"myKey\", obj, 10000 );\n// true\n```\n\n\n## Retrieve a key (GET):\n\n`myCache.get( key, [callback] )`\n\nGets a saved value from the cache.\nReturns a `undefined` if not found or expired.\nIf the value was found it returns an object with the `key` `value` pair.\n\n```js\nmyCache.get( \"myKey\", function( err, value ){\n  if( !err ){\n    if(value == undefined){\n      // key not found\n    }else{\n      console.log( value );\n      //{ my: \"Special\", variable: 42 }\n      // ... do something ...\n    }\n  }\n});\n```\n\n**Since `1.0.0`**:  \nCallback is now optional. You can also use synchronous syntax.\n\n```js\nvalue = myCache.get( \"myKey\" );\nif ( value == undefined ){\n  // handle miss!\n}\n// { my: \"Special\", variable: 42 }\n```\n\n**Since `2.0.0`**:  \n\nThe return format changed to a simple value and a `ENOTFOUND` error if not found *( as `callback( err )` or on sync call as result instance of `Error` )*.\n\n**Since `2.1.0`**:\n\nThe return format changed to a simple value, but a due to discussion in #11 a miss shouldn't return an error.\nSo after 2.1.0 a miss returns `undefined`.\n\n**Since `3.1.0`**\n`errorOnMissing` option added\n\n```js\ntry{\n    value = myCache.get( \"not-existing-key\", true );\n} catch( err ){\n    // ENOTFOUND: Key `not-existing-key` not found\n}\n```\n\n## Get multiple keys (MGET):\n\n`myCache.mget( [ key1, key2, ... ,keyn ], [callback] )`\n\nGets multiple saved values from the cache.\nReturns an empty object `{}` if not found or expired.\nIf the value was found it returns an object with the `key` `value` pair.\n\n```js\nmyCache.mget( [ \"myKeyA\", \"myKeyB\" ], function( err, value ){\n  if( !err ){\n    console.log( value );\n    /*\n      {\n        \"myKeyA\": { my: \"Special\", variable: 123 },\n        \"myKeyB\": { the: \"Glory\", answer: 42 }\n      }\n    */\n    // ... do something ...\n  }\n});\n```\n\n**Since `1.0.0`**:  \nCallback is now optional. You can also use synchronous syntax.\n\n```js\nvalue = myCache.mget( [ \"myKeyA\", \"myKeyB\" ] );\n/*\n  {\n    \"myKeyA\": { my: \"Special\", variable: 123 },\n    \"myKeyB\": { the: \"Glory\", answer: 42 }\n  }\n*/\n```\n\n**Since `2.0.0`**:  \n\nThe method for mget changed from `.get( [ \"a\", \"b\" ] )` to `.mget( [ \"a\", \"b\" ] )`\n\n## Delete a key (DEL):\n\n`myCache.del( key, [callback] )`\n\nDelete a key. Returns the number of deleted entries. A delete will never fail.\n\n```js\nmyCache.del( \"myKey\", function( err, count ){\n  if( !err ){\n    console.log( count ); // 1\n    // ... do something ...\n  }\n});\n```\n\n**Since `1.0.0`**:  \nCallback is now optional. You can also use synchronous syntax.\n\n```js\nvalue = myCache.del( \"A\" );\n// 1\n```\n\n## Delete multiple keys (MDEL):\n\n`myCache.del( [ key1, key2, ... ,keyn ], [callback] )`\n\nDelete multiple keys. Returns the number of deleted entries. A delete will never fail.\n\n```js\nmyCache.del( [ \"myKeyA\", \"myKeyB\" ], function( err, count ){\n  if( !err ){\n    console.log( count ); // 2\n    // ... do something ...\n  }\n});\n```\n\n**Since `1.0.0`**:  \nCallback is now optional. You can also use synchronous syntax.\n\n```js\nvalue = myCache.del( \"A\" );\n// 1\n\nvalue = myCache.del( [ \"B\", \"C\" ] );\n// 2\n\nvalue = myCache.del( [ \"A\", \"B\", \"C\", \"D\" ] );\n// 1 - because A, B and C not exists\n```\n\n## Change TTL (TTL):\n\n`myCache.ttl( key, ttl, [callback] )`\n\nRedefine the ttl of a key. Returns true if the key has been found and changed. Otherwise returns false.  \nIf the ttl-argument isn't passed the default-TTL will be used.\n\nThe key will be deleted when passing in a `ttl < 0`.\n\n```js\nmyCache = new NodeCache( { stdTTL: 100 } )\nmyCache.ttl( \"existendKey\", 100, function( err, changed ){\n  if( !err ){\n    console.log( changed ); // true\n    // ... do something ...\n  }\n});\n\nmyCache.ttl( \"missingKey\", 100, function( err, changed ){\n  if( !err ){\n    console.log( changed ); // false\n    // ... do something ...\n  }\n});\n\nmyCache.ttl( \"existendKey\", function( err, changed ){\n  if( !err ){\n    console.log( changed ); // true\n    // ... do something ...\n  }\n});\n```\n\n## Get TTL (getTTL):\n\n`myCache.getTtl( key, [callback] )`\n\nReceive the ttl of a key.\nYou will get:\n- `undefined` if the key does not exist\n- `0` if this key has no ttl\n- a timestamp in ms until the key expires\n\n```js\nmyCache = new NodeCache( { stdTTL: 100 } )\n\n// Date.now() = 1456000500000\nmyCache.set( \"ttlKey\", \"MyExpireData\" )\nmyCache.set( \"noTtlKey\", 0, \"NonExpireData\" )\n\nts = myCache.getTtl( \"ttlKey\" )\n// ts wil be approximately 1456000600000\n\nmyCache.getTtl( \"ttlKey\", function( err, ts ){\n  if( !err ){\n    // ts wil be approximately 1456000600000\n  }\n});\n// ts wil be approximately 1456000600000\n\nts = myCache.getTtl( \"noTtlKey\" )\n// ts = 0\n\nts = myCache.getTtl( \"unknownKey\" )\n// ts = undefined\n\n```\n\n## List keys (KEYS)\n\n`myCache.keys( [callback] )`\n\nReturns an array of all existing keys.  \n\n```js\n// async\nmyCache.keys( function( err, mykeys ){\n  if( !err ){\n    console.log( mykeys );\n   // [ \"all\", \"my\", \"keys\", \"foo\", \"bar\" ]\n  }\n});\n\n// sync\nmykeys = myCache.keys();\n\nconsole.log( mykeys );\n// [ \"all\", \"my\", \"keys\", \"foo\", \"bar\" ]\n\n```\n\n## Statistics (STATS):\n\n`myCache.getStats()`\n\nReturns the statistics.  \n\n```js\nmyCache.getStats();\n  /*\n    {\n      keys: 0,    // global key count\n      hits: 0,    // global hit count\n      misses: 0,  // global miss count\n      ksize: 0,   // global key size count\n      vsize: 0    // global value size count\n    }\n  */\n```\n\n## Flush all data (FLUSH):\n\n`myCache.flushAll()`\n\nFlush all data.  \n\n```js\nmyCache.flushAll();\nmyCache.getStats();\n  /*\n    {\n      keys: 0,    // global key count\n      hits: 0,    // global hit count\n      misses: 0,  // global miss count\n      ksize: 0,   // global key size count\n      vsize: 0    // global value size count\n    }\n  */\n```\n\n## Close the cache:\n\n`myCache.close()`\n\nThis will clear the interval timeout which is set on check period option.\n\n```js\nmyCache.close();\n```\n\n# Events\n\n## set\n\nFired when a key has been added or changed.\nYou will get the `key` and the `value` as callback argument.\n\n```js\nmyCache.on( \"set\", function( key, value ){\n  // ... do something ...  \n});\n```\n\n## del\n\nFired when a key has been removed manually or due to expiry.\nYou will get the `key` and the deleted `value` as callback arguments.\n\n```js\nmyCache.on( \"del\", function( key, value ){\n  // ... do something ...  \n});\n```\n\n## expired\n\nFired when a key expires.\nYou will get the `key` and `value` as callback argument.\n\n```js\nmyCache.on( \"expired\", function( key, value ){\n  // ... do something ...  \n});\n```\n\n## flush\n\nFired when the cache has been flushed.\n\n```js\nmyCache.on( \"flush\", function(){\n  // ... do something ...  \n});\n```\n\n\n## Breaking changes\n\n### version `2.x`\n\nDue to the [Issue #11](https://github.com/mpneuried/nodecache/issues/11) the return format of the `.get()` method has been changed!\n\nInstead of returning an object with the key `{ \"myKey\": \"myValue\" }` it returns the value itself `\"myValue\"`.\n\n### version `3.x`\n\nDue to the [Issue #30](https://github.com/mpneuried/nodecache/issues/30) and [Issue #27](https://github.com/mpneuried/nodecache/issues/27) variables will now be cloned.  \nThis chould break your code, because for some variable types ( e.g. Promise ) its not possible to clone them.  \nYou can disable the cloning by setting the option `useClones: false`. In this case it's compatible with version `2.x`.\n\n## Benchmarks\n\n### Version 1.1.x\n\nAfter adding io.js to the travis test here are the benchmark results for set and get of 100000 elements.\nBut be careful with this results, because it has been executed on travis machines, so it is not guaranteed, that it was executed on similar hardware.\n\n**node.js `0.10.36`**  \nSET: `324`ms ( `3.24`µs per item )  \nGET: `7956`ms ( `79.56`µs per item )   \n\n**node.js `0.12.0`**  \nSET: `432`ms ( `4.32`µs per item )  \nGET: `42767`ms ( `427.67`µs per item )   \n\n**io.js `v1.1.0`**  \nSET: `510`ms ( `5.1`µs per item )  \nGET: `1535`ms ( `15.35`µs per item )   \n\n### Version 2.0.x\n\nAgain the same benchmarks by travis with version 2.0\n\n**node.js `0.6.21`**  \nSET: `786`ms ( `7.86`µs per item )  \nGET: `56`ms ( `0.56`µs per item )   \n\n**node.js `0.10.36`**  \nSET: `353`ms ( `3.53`µs per item )\nGET: `41`ms ( `0.41`µs per item )   \n\n**node.js `0.12.2`**  \nSET: `327`ms ( `3.27`µs per item )  \nGET: `32`ms ( `0.32`µs per item )   \n\n**io.js `v1.7.1`**  \nSET: `238`ms ( `2.38`µs per item )  \nGET: `34`ms ( `0.34`µs per item )  \n\n> As you can see the version 2.x will increase the GET performance up to 200x in node 0.10.x.\nThis is possible because the memory allocation for the object returned by 1.x is very expensive.\n\n### Version 3.0.x\n\n*see [travis results](https://travis-ci.org/mpneuried/nodecache/builds/64560503)*\n\n**node.js `0.6.21`**  \nSET: `786`ms ( `7.24`µs per item )  \nGET: `56`ms ( `1.14`µs per item )   \n\n**node.js `0.10.38`**  \nSET: `353`ms ( `5.41`µs per item )\nGET: `41`ms ( `1.23`µs per item )   \n\n**node.js `0.12.4`**  \nSET: `327`ms ( `4.63`µs per item )  \nGET: `32`ms ( `0.60`µs per item )   \n\n**io.js `v2.1.0`**  \nSET: `238`ms ( `4.06`µs per item )  \nGET: `34`ms ( `0.67`µs per item )\n\n> until the version 3.0.x the object cloning is included, so we lost a little bit of the performance\n\n### Version 3.1.x\n\n**node.js `v0.10.41`**  \nSET: `305ms`  ( `3.05µs` per item )  \nGET: `104ms`  ( `1.04µs` per item )\n\n**node.js `v0.12.9`**  \nSET: `337ms`  ( `3.37µs` per item )  \nGET: `167ms`  ( `1.67µs` per item )\n\n**node.js `v4.2.6`**  \nSET: `356ms`  ( `3.56µs` per item )  \nGET: `83ms`  ( `0.83µs` per item )\n\n## Compatibility\n\nThis module should work well back until node `0.6.x`.\nBut it's only tested until version `0.10.x` because the build dependencies are not installable ;-) .\n\n## Release History\n|Version|Date|Description|\n|:--:|:--:|:--|\n|4.1.1|2016-12-21|fix internal check interval for node < 0.10.25, thats teh default node for ubuntu 14.04. Thanks to [Jimmy Hwang](https://github.com/JimmyHwang) for for the pull [#78](https://github.com/mpneuried/nodecache/pull/78); added more docker tests|\n|4.1.0|2016-09-23|Added tests for different key types; Added key validation (must be `string` or `number`); Fixed `.del` bug where trying to delete a `number` key resulted in no deletion at all.|\n|4.0.0|2016-09-20|Updated tests to mocha; Fixed `.ttl` bug to not delete key on `.ttl( key, 0 )`. This is also relevant if `stdTTL=0`. *This causes the breaking change to `4.0.0`.*|\n|3.2.1|2016-03-21|Updated lodash to 4.x.; optimized grunt |\n|3.2.0|2016-01-29|Added method `getTtl` to get the time when a key expires. See [#49](https://github.com/mpneuried/nodecache/issues/49)|\n|3.1.0|2016-01-29|Added option `errorOnMissing` to throw/callback an error o a miss during a `.get( \"key\" )`. Thanks to [David Godfrey](https://github.com/david-byng) for the pull [#45](https://github.com/mpneuried/nodecache/pull/45). Added docker files and a script to run test on different node versions locally|\n|3.0.1|2016-01-13|Added `.unref()` to the checkTimeout so until node `0.10` it's not necessary to call `.close()` when your script is done. Thanks to [Doug Moscrop](https://github.com/dougmoscrop) for the pull [#44](https://github.com/mpneuried/nodecache/pull/44).|\n|3.0.0|2015-05-29|Return a cloned version of the cached element and save a cloned version of a variable. This can be disabled by setting the option `useClones:false`. (Thanks for #27 to [cheshirecatalyst](https://github.com/cheshirecatalyst) and for #30 to [Matthieu Sieben](https://github.com/matthieusieben))|\n|~~2.2.0~~|~~2015-05-27~~|REVOKED VERSION, because of conficts. See [Issue #30](https://github.com/mpneuried/nodecache/issues/30). So `2.2.0` is now `3.0.0`|\n|2.1.1|2015-04-17|Passed old value to the `del` event. Thanks to [Qix](https://github.com/qix) for the pull.|\n|2.1.0|2015-04-17|Changed get miss to return `undefined` instead of an error. Thanks to all [#11](https://github.com/mpneuried/nodecache/issues/11) contributors |\n|2.0.1|2015-04-17|Added close function (Thanks to [ownagedj](https://github.com/ownagedj)). Changed the development environment to use grunt.|\n|2.0.0|2015-01-05|changed return format of `.get()` with a error return on a miss and added the `.mget()` method. *Side effect: Performance of .get() up to 330 times faster!*|\n|1.1.0|2015-01-05|added `.keys()` method to list all existing keys|\n|1.0.3|2014-11-07|fix for setting numeric values. Thanks to [kaspars](https://github.com/kaspars) + optimized key ckeck.|\n|1.0.2|2014-09-17|Small change for better ttl handling|\n|1.0.1|2014-05-22|Readme typos. Thanks to [mjschranz](https://github.com/mjschranz)|\n|1.0.0|2014-04-09|Made `callback`s optional. So it's now possible to use a syncron syntax. The old syntax should also work well. Push : Bugfix for the value `0`|\n|0.4.1|2013-10-02|Added the value to `expired` event|\n|0.4.0|2013-10-02|Added nodecache events|\n|0.3.2|2012-05-31|Added Travis tests|\n\n[![NPM](https://nodei.co/npm-dl/node-cache.png?months=6)](https://nodei.co/npm/node-cache/)\n\n## Other projects\n\n|Name|Description|\n|:--|:--|\n|[**rsmq**](https://github.com/smrchy/rsmq)|A really simple message queue based on redis|\n|[**redis-heartbeat**](https://github.com/mpneuried/redis-heartbeat)|Pulse a heartbeat to redis. This can be used to detach or attach servers to nginx or similar problems.|\n|[**systemhealth**](https://github.com/mpneuried/systemhealth)|Node module to run simple custom checks for your machine or it's connections. It will use [redis-heartbeat](https://github.com/mpneuried/redis-heartbeat) to send the current state to redis.|\n|[**rsmq-cli**](https://github.com/mpneuried/rsmq-cli)|a terminal client for rsmq|\n|[**rest-rsmq**](https://github.com/smrchy/rest-rsmq)|REST interface for.|\n|[**redis-sessions**](https://github.com/smrchy/redis-sessions)|An advanced session store for NodeJS and Redis|\n|[**connect-redis-sessions**](https://github.com/mpneuried/connect-redis-sessions)|A connect or express middleware to simply use the [redis sessions](https://github.com/smrchy/redis-sessions). With [redis sessions](https://github.com/smrchy/redis-sessions) you can handle multiple sessions per user_id.|\n|[**redis-notifications**](https://github.com/mpneuried/redis-notifications)|A redis based notification engine. It implements the rsmq-worker to safely create notifications and recurring reports.|\n|[**nsq-logger**](https://github.com/mpneuried/nsq-logger)|Nsq service to read messages from all topics listed within a list of nsqlookupd services.|\n|[**nsq-topics**](https://github.com/mpneuried/nsq-topics)|Nsq helper to poll a nsqlookupd service for all it's topics and mirror it locally.|\n|[**nsq-nodes**](https://github.com/mpneuried/nsq-nodes)|Nsq helper to poll a nsqlookupd service for all it's nodes and mirror it locally.|\n|[**nsq-watch**](https://github.com/mpneuried/nsq-watch)|Watch one or many topics for unprocessed messages.|\n|[**hyperrequest**](https://github.com/mpneuried/hyperrequest)|A wrapper around [hyperquest](https://github.com/substack/hyperquest) to handle the results|\n|[**task-queue-worker**](https://github.com/smrchy/task-queue-worker)|A powerful tool for background processing of tasks that are run by making standard http requests\n|[**soyer**](https://github.com/mpneuried/soyer)|Soyer is small lib for server side use of Google Closure Templates with node.js.|\n|[**grunt-soy-compile**](https://github.com/mpneuried/grunt-soy-compile)|Compile Goggle Closure Templates ( SOY ) templates including the handling of XLIFF language files.|\n|[**backlunr**](https://github.com/mpneuried/backlunr)|A solution to bring Backbone Collections together with the browser fulltext search engine Lunr.js|\n|[**domel**](https://github.com/mpneuried/domel)|A simple dom helper if you want to get rid of jQuery|\n|[**obj-schema**](https://github.com/mpneuried/obj-schema)|Simple module to validate an object by a predefined schema|\n\n# The MIT License (MIT)\n\nCopyright © 2013 Mathias Peter, http://www.tcs.de\n\nPermission is hereby granted, free of charge, to any person obtaining\na copy of this software and associated documentation files (the\n'Software'), to deal in the Software without restriction, including\nwithout limitation the rights to use, copy, modify, merge, publish,\ndistribute, sublicense, and/or sell copies of the Software, and to\npermit persons to whom the Software is furnished to do so, subject to\nthe following conditions:\n\nThe above copyright notice and this permission notice shall be\nincluded in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,\nEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.\nIN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY\nCLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,\nTORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE\nSOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n"
+}

@@ -1,0 +1,5163 @@
+{
+	"name": "command-line-args",
+	"versions": {
+		"0.0.0": {
+			"name": "command-line-args",
+			"version": "0.0.0",
+			"description": "Parse command line options",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args",
+			"scripts": {
+				"test": "tap test/*.js"
+			},
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"devDependencies": {
+				"tap": "^0.4.9"
+			},
+			"dependencies": {
+				"wodge": "~0.6.8"
+			},
+			"gitHead": "87ad4b914726f832ab895d9f786bd7f1367790e2",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args",
+			"_id": "command-line-args@0.0.0",
+			"_shasum": "b9f4d6c7f10911ca97e0f32155c0a1acbd8dd738",
+			"_from": ".",
+			"_npmVersion": "1.4.13",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "b9f4d6c7f10911ca97e0f32155c0a1acbd8dd738",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.0.0.tgz"
+			},
+			"directories": {}
+		},
+		"0.0.1": {
+			"name": "command-line-args",
+			"version": "0.0.1",
+			"description": "Parse command line options",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args",
+			"scripts": {
+				"test": "tap test/*.js"
+			},
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"devDependencies": {
+				"tap": "^0.4.9"
+			},
+			"dependencies": {
+				"wodge": "~0.6.8"
+			},
+			"gitHead": "90ae8c212bd28fc8a4e7c3134cef6362ca7756e1",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args",
+			"_id": "command-line-args@0.0.1",
+			"_shasum": "e84c1b8d2c1cde2bd2aeaf8c401f56d6c47893f3",
+			"_from": ".",
+			"_npmVersion": "1.4.13",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "e84c1b8d2c1cde2bd2aeaf8c401f56d6c47893f3",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.0.1.tgz"
+			},
+			"directories": {}
+		},
+		"0.0.2": {
+			"name": "command-line-args",
+			"version": "0.0.2",
+			"description": "Parse command line options",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args",
+			"scripts": {
+				"test": "tap test/*.js"
+			},
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"devDependencies": {
+				"tap": "^0.4.9"
+			},
+			"dependencies": {
+				"wodge": "~0.6.8"
+			},
+			"gitHead": "8af93bcee7d1463bd19c6e78faa349ba81465b8e",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args",
+			"_id": "command-line-args@0.0.2",
+			"_shasum": "2d45b310ffacd7f261f057cb8c7ddf09ca0d7e7a",
+			"_from": ".",
+			"_npmVersion": "1.4.13",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "2d45b310ffacd7f261f057cb8c7ddf09ca0d7e7a",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.0.2.tgz"
+			},
+			"directories": {}
+		},
+		"0.1.0": {
+			"name": "command-line-args",
+			"version": "0.1.0",
+			"description": "Parse command line options",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args",
+			"scripts": {
+				"test": "tap test/*.js"
+			},
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"devDependencies": {
+				"tap": "^0.4.9"
+			},
+			"dependencies": {
+				"wodge": "~0.6.8"
+			},
+			"gitHead": "f951ae23ea07c73784a3fdefd07722ee6a365b2e",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args",
+			"_id": "command-line-args@0.1.0",
+			"_shasum": "b9b1f08d5387ea4658591717c6c10530ca607cd5",
+			"_from": ".",
+			"_npmVersion": "1.4.13",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "b9b1f08d5387ea4658591717c6c10530ca607cd5",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.1.0.tgz"
+			},
+			"directories": {}
+		},
+		"0.2.0": {
+			"name": "command-line-args",
+			"version": "0.2.0",
+			"description": "Parse command line options",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args",
+			"scripts": {
+				"test": "tap test/*.js"
+			},
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"devDependencies": {
+				"tap": "^0.4.9"
+			},
+			"dependencies": {
+				"nature": "~0.5",
+				"wodge": "~0.7"
+			},
+			"gitHead": "69b01f33d8371155f166d884e8020a032bcaa359",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args",
+			"_id": "command-line-args@0.2.0",
+			"_shasum": "81b784e7bfb218b3f98aa80f1eb82eec055408c7",
+			"_from": ".",
+			"_npmVersion": "1.4.13",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "81b784e7bfb218b3f98aa80f1eb82eec055408c7",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.2.0.tgz"
+			},
+			"directories": {}
+		},
+		"0.2.1": {
+			"name": "command-line-args",
+			"version": "0.2.1",
+			"description": "Parse command line options",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args",
+			"scripts": {
+				"test": "tap test/*.js"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"parser",
+				"parsing",
+				"cli",
+				"command"
+			],
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"devDependencies": {
+				"tap": "^0.4.9"
+			},
+			"dependencies": {
+				"nature": "~0.5",
+				"wodge": "~0.7"
+			},
+			"gitHead": "b1436f672781cf9aa87a2f7ea2c19d6965efa9d1",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args",
+			"_id": "command-line-args@0.2.1",
+			"_shasum": "6ebb0a64366c832fbb88f1fdd1aeba3eeb96ebe3",
+			"_from": ".",
+			"_npmVersion": "1.4.13",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "6ebb0a64366c832fbb88f1fdd1aeba3eeb96ebe3",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.2.1.tgz"
+			},
+			"directories": {}
+		},
+		"0.2.2": {
+			"name": "command-line-args",
+			"version": "0.2.2",
+			"description": "Parse command line options",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args",
+			"scripts": {
+				"test": "tap test/*.js"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"parser",
+				"parsing",
+				"cli",
+				"command"
+			],
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"devDependencies": {
+				"tap": "^0.4.9"
+			},
+			"dependencies": {
+				"array-ting": "^0.2.0",
+				"nature": "~0.5",
+				"object-ting": "^0.1.1"
+			},
+			"gitHead": "8207847039a2f9c8be46a9855aa927e55ad887bf",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args",
+			"_id": "command-line-args@0.2.2",
+			"_shasum": "f77e67bbc17ba1af4c33fd8a490b54894b7fbf1c",
+			"_from": ".",
+			"_npmVersion": "1.4.13",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "f77e67bbc17ba1af4c33fd8a490b54894b7fbf1c",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.2.2.tgz"
+			},
+			"directories": {}
+		},
+		"0.2.3": {
+			"name": "command-line-args",
+			"version": "0.2.3",
+			"description": "Parse command line options",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args",
+			"scripts": {
+				"test": "tap test/*.js"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"parser",
+				"parsing",
+				"cli",
+				"command"
+			],
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"devDependencies": {
+				"tap": "^0.4.9"
+			},
+			"dependencies": {
+				"array-ting": "^1.0.0",
+				"nature": "~0.5",
+				"object-ting": "^1.0.0"
+			},
+			"gitHead": "36a419b460ca4ab6caae9f9375ec0ad5441195c5",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args",
+			"_id": "command-line-args@0.2.3",
+			"_shasum": "904d00d517e30e7c323571e037f93c9e4ae2bee2",
+			"_from": ".",
+			"_npmVersion": "1.4.14",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "904d00d517e30e7c323571e037f93c9e4ae2bee2",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.2.3.tgz"
+			},
+			"directories": {}
+		},
+		"0.2.4": {
+			"name": "command-line-args",
+			"version": "0.2.4",
+			"description": "Parse command line options",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args",
+			"scripts": {
+				"test": "tap test/*.js"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"parser",
+				"parsing",
+				"cli",
+				"command"
+			],
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"devDependencies": {
+				"tap": "^0.4.9"
+			},
+			"dependencies": {
+				"array-tools": "^1.0.0",
+				"nature": "~0.5",
+				"object-tools": "^1.0.0"
+			},
+			"gitHead": "652d5ce19cf038d08a2c85479b897533cb44ff9f",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args",
+			"_id": "command-line-args@0.2.4",
+			"_shasum": "b94092b8f379f0b76a872ad5b6a0ee33cdfbcf26",
+			"_from": ".",
+			"_npmVersion": "1.4.15",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "b94092b8f379f0b76a872ad5b6a0ee33cdfbcf26",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.2.4.tgz"
+			},
+			"directories": {}
+		},
+		"0.3.0": {
+			"name": "command-line-args",
+			"version": "0.3.0",
+			"description": "Command-line parser, usage text producer",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args",
+			"scripts": {
+				"test": "tap test/*.js"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"parser",
+				"parsing",
+				"cli",
+				"command"
+			],
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"devDependencies": {
+				"tap": "^0.4.9"
+			},
+			"dependencies": {
+				"array-tools": "^1.1.0",
+				"handlebars": "^2.0.0-alpha.4",
+				"handlebars-ansi": "0.0.2",
+				"nature": "~0.5",
+				"object-tools": "^1.0.0",
+				"string-tools": "^0.1.4"
+			},
+			"gitHead": "813d511248f43b4509e64c606348184d50e5318f",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args",
+			"_id": "command-line-args@0.3.0",
+			"_shasum": "0e1259c3a5f4b1c922853296b95a6528587c1b68",
+			"_from": ".",
+			"_npmVersion": "1.4.15",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "0e1259c3a5f4b1c922853296b95a6528587c1b68",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.3.0.tgz"
+			},
+			"directories": {}
+		},
+		"0.3.1": {
+			"name": "command-line-args",
+			"version": "0.3.1",
+			"description": "Command-line parser, usage text producer",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args",
+			"scripts": {
+				"test": "tap test/*.js"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"parser",
+				"parsing",
+				"cli",
+				"command"
+			],
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"devDependencies": {
+				"tap": "^0.4.9"
+			},
+			"dependencies": {
+				"array-tools": "^1.1.0",
+				"handlebars": "^2.0.0-alpha.4",
+				"handlebars-ansi": "0.0.2",
+				"nature": "~0.5",
+				"object-tools": "^1.0.0",
+				"string-tools": "^0.1.4"
+			},
+			"gitHead": "a9a97e20cd3193c86606d2fa252fbd242cec504f",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args",
+			"_id": "command-line-args@0.3.1",
+			"_shasum": "69b93fe0bf6c27dd6b54fb2fc4ec61be85931ab4",
+			"_from": ".",
+			"_npmVersion": "1.4.15",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "69b93fe0bf6c27dd6b54fb2fc4ec61be85931ab4",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.3.1.tgz"
+			},
+			"directories": {}
+		},
+		"0.4.0": {
+			"name": "command-line-args",
+			"version": "0.4.0",
+			"description": "Command-line parser, usage text producer",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args",
+			"scripts": {
+				"test": "tap test/*.js",
+				"docs": "jsdoc2md -t jsdoc2md/README.hbs lib/command-line-args.js > README.md"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"parser",
+				"parsing",
+				"cli",
+				"command"
+			],
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"devDependencies": {
+				"jsdoc-to-markdown": "^0.2.1",
+				"tap": "^0.4.9"
+			},
+			"dependencies": {
+				"array-tools": "^1.1.0",
+				"handlebars": "^2.0.0-alpha.4",
+				"handlebars-ansi": "0.0.2",
+				"nature": "~0.5",
+				"object-tools": "^1.0.0",
+				"string-tools": "^0.1.4"
+			},
+			"gitHead": "4d120d786662f2214eca447b0f4c20d8a52f3ad9",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args",
+			"_id": "command-line-args@0.4.0",
+			"_shasum": "fd5d67730aa4a3a745e9101289aa4cc1f9d82289",
+			"_from": ".",
+			"_npmVersion": "1.4.16",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "fd5d67730aa4a3a745e9101289aa4cc1f9d82289",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.4.0.tgz"
+			},
+			"directories": {}
+		},
+		"0.5.0": {
+			"name": "command-line-args",
+			"version": "0.5.0",
+			"description": "Command-line parser, usage text producer",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args",
+			"scripts": {
+				"test": "tap test/*.js",
+				"docs": "jsdoc2md --index -t jsdoc2md/README.hbs lib/command-line-args.js > README.md"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"parser",
+				"parsing",
+				"cli",
+				"command"
+			],
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"devDependencies": {
+				"jsdoc-to-markdown": "^0.2.1",
+				"tap": "^0.4.9"
+			},
+			"dependencies": {
+				"array-tools": "^1.1.0",
+				"handlebars": "^2.0.0-alpha.4",
+				"handlebars-ansi": "0.0.2",
+				"nature": "~0.5",
+				"object-tools": "^1.0.0",
+				"string-tools": "^0.1.4",
+				"typical": "^1.0.0"
+			},
+			"gitHead": "ed65b3320d7c18012d3f030dd2decaf0ecc7c185",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args",
+			"_id": "command-line-args@0.5.0",
+			"_shasum": "64d639ecda899d9ac939c66e20c7cd09eadd8c59",
+			"_from": ".",
+			"_npmVersion": "1.4.16",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "64d639ecda899d9ac939c66e20c7cd09eadd8c59",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.5.0.tgz"
+			},
+			"directories": {}
+		},
+		"0.5.1": {
+			"name": "command-line-args",
+			"version": "0.5.1",
+			"description": "Command-line parser, usage text producer",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args",
+			"scripts": {
+				"test": "tap test/*.js",
+				"docs": "jsdoc2md -t jsdoc2md/README.hbs lib/command-line-args.js > README.md; echo"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"parser",
+				"parsing",
+				"cli",
+				"command"
+			],
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"devDependencies": {
+				"jsdoc-to-markdown": "^0.5",
+				"tap": "^0.4.9"
+			},
+			"dependencies": {
+				"array-tools": "^1.1.0",
+				"handlebars": "^2.0.0-alpha.4",
+				"handlebars-ansi": "~0.1.0",
+				"nature": "~0.5",
+				"object-tools": "^1.0.0",
+				"string-tools": "^0.1.4",
+				"typical": "^1.0.0"
+			},
+			"gitHead": "31f063c9264f5ac9e943303b30333bb6d29fa9f0",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args",
+			"_id": "command-line-args@0.5.1",
+			"_shasum": "6439ce1732478acf9ef9d941b7d2ee04cdfc6757",
+			"_from": ".",
+			"_npmVersion": "2.0.0",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "6439ce1732478acf9ef9d941b7d2ee04cdfc6757",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.5.1.tgz"
+			},
+			"directories": {}
+		},
+		"0.5.2": {
+			"name": "command-line-args",
+			"version": "0.5.2",
+			"description": "Command-line parser, usage text producer",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args",
+			"scripts": {
+				"test": "tap test/*.js",
+				"docs": "jsdoc2md -t jsdoc2md/README.hbs lib/command-line-args.js > README.md; echo"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"parser",
+				"parsing",
+				"cli",
+				"command"
+			],
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"devDependencies": {
+				"jsdoc-to-markdown": "^0.5",
+				"tap": "^0.4.9"
+			},
+			"dependencies": {
+				"array-tools": "^1.1.0",
+				"handlebars": "^2.0.0-alpha.4",
+				"handlebars-ansi": "~0.1.0",
+				"nature": "~0.5",
+				"object-tools": "^1.2.0",
+				"string-tools": "^0.1.4",
+				"typical": "^1.0.0"
+			},
+			"gitHead": "6a13251a4a522cf6c5fb5310e626f7e719756133",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args",
+			"_id": "command-line-args@0.5.2",
+			"_shasum": "d484776ee4d01394ac6ff2a5330ae331a2bc2df8",
+			"_from": ".",
+			"_npmVersion": "2.1.1",
+			"_nodeVersion": "0.10.32",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "d484776ee4d01394ac6ff2a5330ae331a2bc2df8",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.5.2.tgz"
+			},
+			"directories": {}
+		},
+		"0.5.3": {
+			"name": "command-line-args",
+			"version": "0.5.3",
+			"description": "Command-line parser, usage text producer",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args",
+			"scripts": {
+				"test": "tap test/*.js",
+				"docs": "jsdoc2md -t jsdoc2md/README.hbs lib/command-line-args.js > README.md; echo"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"parser",
+				"parsing",
+				"cli",
+				"command"
+			],
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"devDependencies": {
+				"jsdoc-to-markdown": "^0.5",
+				"tap": "^0.4.9"
+			},
+			"dependencies": {
+				"array-tools": "^1.1.0",
+				"handlebars": "^2.0.0-alpha.4",
+				"handlebars-ansi": "~0.1.0",
+				"nature": "~0.5",
+				"object-tools": "^1.2.0",
+				"string-tools": "^0.1.4",
+				"typical": "^1.0.0"
+			},
+			"gitHead": "5c167029b9d67032328156ab2d8a59674f231395",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args",
+			"_id": "command-line-args@0.5.3",
+			"_shasum": "ef5232132b53e35e76dcceb1d5a126e82148ef5b",
+			"_from": ".",
+			"_npmVersion": "2.1.4",
+			"_nodeVersion": "0.10.32",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "ef5232132b53e35e76dcceb1d5a126e82148ef5b",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.5.3.tgz"
+			},
+			"directories": {}
+		},
+		"0.5.4": {
+			"name": "command-line-args",
+			"version": "0.5.4",
+			"description": "Command-line parser, usage text producer",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args",
+			"scripts": {
+				"test": "tap test/*.js",
+				"docs": "jsdoc2md -t jsdoc2md/README.hbs lib/command-line-args.js > README.md; echo"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"parser",
+				"parsing",
+				"cli",
+				"command"
+			],
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"devDependencies": {
+				"jsdoc-to-markdown": "^0.5",
+				"tap": "^0.4.9"
+			},
+			"dependencies": {
+				"array-tools": "^1.1.0",
+				"handlebars": "^2.0.0-alpha.4",
+				"handlebars-ansi": "~0.1.0",
+				"nature": "~0.5",
+				"object-tools": "^1.2.0",
+				"string-tools": "^0.1.4",
+				"typical": "^1.0.0"
+			},
+			"gitHead": "08789d90a32393c0c4cae142f1b4f780eb8dccd1",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args",
+			"_id": "command-line-args@0.5.4",
+			"_shasum": "579639894b5da2f81cba885b69564b96ccc407d2",
+			"_from": ".",
+			"_npmVersion": "2.3.0",
+			"_nodeVersion": "0.10.36",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "579639894b5da2f81cba885b69564b96ccc407d2",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.5.4.tgz"
+			},
+			"directories": {}
+		},
+		"0.5.5": {
+			"name": "command-line-args",
+			"version": "0.5.5",
+			"description": "Command-line parser, usage text producer",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args",
+			"scripts": {
+				"test": "tap test/*.js",
+				"docs": "jsdoc2md -t jsdoc2md/README.hbs lib/command-line-args.js > README.md; echo"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"parser",
+				"parsing",
+				"cli",
+				"command"
+			],
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"devDependencies": {
+				"jsdoc-to-markdown": "^0.5",
+				"tap": "^0.4.9"
+			},
+			"dependencies": {
+				"array-tools": "^1.1.0",
+				"handlebars": "^2.0.0-alpha.4",
+				"handlebars-ansi": "~0.1.0",
+				"nature": "~0.5",
+				"object-tools": "^1.2.0",
+				"string-tools": "^0.1.4",
+				"typical": "^1.0.0"
+			},
+			"gitHead": "2cd2a6b40327b806778355d37bcf496af86e37a4",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args",
+			"_id": "command-line-args@0.5.5",
+			"_shasum": "26400a50bbed81a4c0b0a563b1df2bd8c7d25b1a",
+			"_from": ".",
+			"_npmVersion": "2.3.0",
+			"_nodeVersion": "0.10.36",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "26400a50bbed81a4c0b0a563b1df2bd8c7d25b1a",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.5.5.tgz"
+			},
+			"directories": {}
+		},
+		"0.5.6": {
+			"name": "command-line-args",
+			"version": "0.5.6",
+			"description": "Command-line parser, usage text producer",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args",
+			"scripts": {
+				"test": "tape test/*.js",
+				"docs": "jsdoc2md -t jsdoc2md/README.hbs lib/command-line-args.js > README.md; echo"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"parser",
+				"parsing",
+				"cli",
+				"command"
+			],
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"tape": "^3.5.0"
+			},
+			"dependencies": {
+				"array-tools": "^1.1.0",
+				"handlebars": "^3",
+				"handlebars-ansi": "~0.2.0",
+				"nature": "~0.5",
+				"object-tools": "^1.2.0",
+				"string-tools": "^0.1.4",
+				"typical": "^1.0.0",
+				"word-wrap": "^1.0.2"
+			},
+			"gitHead": "3fcac45d4cbf2635b42cac1a9484eda7ce673fda",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args",
+			"_id": "command-line-args@0.5.6",
+			"_shasum": "a1b5c5d0013e5b665e480eb7885767b652484319",
+			"_from": ".",
+			"_npmVersion": "2.7.0",
+			"_nodeVersion": "0.12.0",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "a1b5c5d0013e5b665e480eb7885767b652484319",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.5.6.tgz"
+			},
+			"directories": {}
+		},
+		"0.5.7": {
+			"name": "command-line-args",
+			"version": "0.5.7",
+			"description": "Command-line parser, usage text producer",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args",
+			"scripts": {
+				"test": "tape test/*.js",
+				"docs": "jsdoc2md -t jsdoc2md/README.hbs lib/command-line-args.js > README.md; echo"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"parser",
+				"parsing",
+				"cli",
+				"command"
+			],
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"tape": "^3.5.0"
+			},
+			"dependencies": {
+				"array-tools": "^1.1.0",
+				"handlebars": "^3",
+				"handlebars-ansi": "~0.2.0",
+				"nature": "~0.5",
+				"object-tools": "^1.2.0",
+				"string-tools": "^0.1.4",
+				"typical": "^1.0.0",
+				"word-wrap": "^1.0.2"
+			},
+			"gitHead": "39c1cb810126b53a39d3737f6e48c5956ef47520",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args",
+			"_id": "command-line-args@0.5.7",
+			"_shasum": "2ca5e43e4eb6e59e7db2dcce5cdb1fcf2afe8952",
+			"_from": ".",
+			"_npmVersion": "2.7.0",
+			"_nodeVersion": "0.12.0",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "2ca5e43e4eb6e59e7db2dcce5cdb1fcf2afe8952",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.5.7.tgz"
+			},
+			"directories": {}
+		},
+		"0.5.8": {
+			"name": "command-line-args",
+			"version": "0.5.8",
+			"description": "Command-line parser, usage text producer",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args",
+			"scripts": {
+				"test": "tape test/*.js",
+				"docs": "jsdoc2md -t jsdoc2md/README.hbs lib/command-line-args.js > README.md; echo"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"parser",
+				"parsing",
+				"cli",
+				"command"
+			],
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"tape": "^3.5.0"
+			},
+			"dependencies": {
+				"array-tools": "^1.1.0",
+				"handlebars": "^3",
+				"handlebars-ansi": "~0.2.0",
+				"nature": "~0.5",
+				"object-tools": "^1.2.0",
+				"string-tools": "^0.1.4",
+				"typical": "^1.0.0",
+				"word-wrap": "^1.0.2"
+			},
+			"gitHead": "7d31c89afd9efb3fd5ab79a61b38aa512948d8d3",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args",
+			"_id": "command-line-args@0.5.8",
+			"_shasum": "dd6b57c864c5186420983cda1b52cd365a02a0f9",
+			"_from": ".",
+			"_npmVersion": "2.7.0",
+			"_nodeVersion": "0.12.0",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "dd6b57c864c5186420983cda1b52cd365a02a0f9",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.5.8.tgz"
+			},
+			"directories": {}
+		},
+		"0.5.9": {
+			"name": "command-line-args",
+			"version": "0.5.9",
+			"description": "Command-line parser, usage text producer",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args",
+			"scripts": {
+				"test": "tape test/*.js",
+				"docs": "jsdoc2md -t jsdoc2md/README.hbs lib/command-line-args.js > README.md; echo"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"parser",
+				"parsing",
+				"cli",
+				"command"
+			],
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"tape": "^3.5.0"
+			},
+			"dependencies": {
+				"array-tools": "^1.1.0",
+				"handlebars": "^3",
+				"handlebars-ansi": "~0.2.0",
+				"nature": "~0.5",
+				"object-tools": "^1.2.0",
+				"string-tools": "^0.1.4",
+				"typical": "^1.0.0",
+				"word-wrap": "^1.0.2"
+			},
+			"gitHead": "7d3137fb40d8861c1e6a39bfeaa3cd8d9890f984",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args",
+			"_id": "command-line-args@0.5.9",
+			"_shasum": "d441733ba9b11786433e53dcf1bde472bfe69b6c",
+			"_from": ".",
+			"_npmVersion": "2.7.0",
+			"_nodeVersion": "0.12.0",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "d441733ba9b11786433e53dcf1bde472bfe69b6c",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.5.9.tgz"
+			},
+			"directories": {}
+		},
+		"1.0.0-0": {
+			"name": "command-line-args",
+			"version": "1.0.0-0",
+			"description": "Command-line parser, usage text producer",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args",
+			"cla": "bin.cli.js",
+			"scripts": {
+				"test": "tape test/*.js",
+				"docs": "jsdoc2md -t jsdoc2md/README.hbs lib/command-line-args.js > README.md; echo"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"parser",
+				"parsing",
+				"cli",
+				"command"
+			],
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"jsdoc-to-markdown": "^1.1.1",
+				"tape": "^4"
+			},
+			"dependencies": {
+				"array-tools": "^2.0.0-5",
+				"command-line-usage": "^1.0.0-0",
+				"find-replace": "~0.2.0",
+				"object-tools": "^2",
+				"typical": "^2.3.0"
+			},
+			"gitHead": "8521665c659d1dc506b58cdcae8e40f4cc0065f8",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@1.0.0-0",
+			"_shasum": "197600ed0efd1b0489b1b2a0d2409bed264f936c",
+			"_from": ".",
+			"_npmVersion": "2.12.0",
+			"_nodeVersion": "0.12.5",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "197600ed0efd1b0489b1b2a0d2409bed264f936c",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-1.0.0-0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"1.0.0-1": {
+			"name": "command-line-args",
+			"version": "1.0.0-1",
+			"description": "Command-line parser, usage text producer",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args",
+			"cla": "bin.cli.js",
+			"scripts": {
+				"test": "tape test/*.js",
+				"docs": "jsdoc2md -t jsdoc2md/README.hbs lib/*.js > README.md; echo"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"parser",
+				"parsing",
+				"cli",
+				"command"
+			],
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"jsdoc-to-markdown": "^1.1.1",
+				"tape": "^4"
+			},
+			"dependencies": {
+				"array-tools": "^2.0.0-5",
+				"command-line-usage": "^1.0.0-0",
+				"find-replace": "~0.2.0",
+				"object-tools": "^2",
+				"typical": "^2.3.0"
+			},
+			"gitHead": "0c4ef035e9038ff911d64c58730ce0edeb67c902",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@1.0.0-1",
+			"_shasum": "6ef94753120206eae9b7b09af346a26e8feb8c15",
+			"_from": ".",
+			"_npmVersion": "2.12.0",
+			"_nodeVersion": "0.12.5",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "6ef94753120206eae9b7b09af346a26e8feb8c15",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-1.0.0-1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"1.0.0-2": {
+			"name": "command-line-args",
+			"version": "1.0.0-2",
+			"description": "Command-line parser, usage text producer",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args",
+			"cla": "bin.cli.js",
+			"scripts": {
+				"test": "tape test/*.js",
+				"docs": "jsdoc2md -t jsdoc2md/README.hbs lib/*.js > README.md; echo"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"parser",
+				"parsing",
+				"cli",
+				"command"
+			],
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"jsdoc-to-markdown": "^1.1.1",
+				"tape": "^4"
+			},
+			"dependencies": {
+				"array-tools": "^2.0.0-5",
+				"command-line-usage": "^1.0.0-0",
+				"find-replace": "~0.2.0",
+				"object-tools": "^2",
+				"typical": "^2.3.0"
+			},
+			"gitHead": "8bc6b8de30342413498dc05adf0efb889822a93a",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@1.0.0-2",
+			"_shasum": "3bd084beda70e38998e20ac93cf663f7a691c53c",
+			"_from": ".",
+			"_npmVersion": "2.12.0",
+			"_nodeVersion": "0.12.5",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "3bd084beda70e38998e20ac93cf663f7a691c53c",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-1.0.0-2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"1.0.0-3": {
+			"name": "command-line-args",
+			"version": "1.0.0-3",
+			"description": "Command-line parser, usage text producer",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args",
+			"cla": "bin.cli.js",
+			"scripts": {
+				"test": "tape test/*.js",
+				"docs": "jsdoc2md -t jsdoc2md/README.hbs lib/*.js > README.md; echo"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"parser",
+				"parsing",
+				"cli",
+				"command"
+			],
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"jsdoc-to-markdown": "^1.1.1",
+				"tape": "^4"
+			},
+			"dependencies": {
+				"array-tools": "^2",
+				"command-line-usage": "^1",
+				"find-replace": "^1",
+				"object-tools": "^2",
+				"typical": "^2.3.0"
+			},
+			"gitHead": "4f6cfdaf3f6c9c6b8eb039952a87b2d51fbc8cc5",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@1.0.0-3",
+			"_shasum": "d30936a13d073674d4334abb14b0b16ff50e9637",
+			"_from": ".",
+			"_npmVersion": "2.12.0",
+			"_nodeVersion": "0.12.5",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "d30936a13d073674d4334abb14b0b16ff50e9637",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-1.0.0-3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"1.1.0-0": {
+			"name": "command-line-args",
+			"version": "1.1.0-0",
+			"description": "A library to collect command-line args and generate a usage guide.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args",
+			"bin": {
+				"command-line-args": "bin/cli.js"
+			},
+			"scripts": {
+				"test": "tape test/*.js",
+				"docs": "jsdoc2md -t jsdoc2md/README.hbs lib/*.js node_modules/command-line-usage/lib/usage-options.js > README.md; echo"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"jsdoc-to-markdown": "^1.1.1",
+				"tape": "^4",
+				"test-value": "^1.0.0"
+			},
+			"dependencies": {
+				"ansi-escape-sequences": "^2.1.1",
+				"array-tools": "^2",
+				"command-line-usage": "^1",
+				"find-replace": "^1",
+				"object-tools": "^2",
+				"typical": "^2.3.0"
+			},
+			"gitHead": "babf8d906c98dc0564110f78c96a64a12fde9dae",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@1.1.0-0",
+			"_shasum": "e956368b4b4d2793cee766e29cc6add2ead910a9",
+			"_from": ".",
+			"_npmVersion": "2.13.3",
+			"_nodeVersion": "0.12.7",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "e956368b4b4d2793cee766e29cc6add2ead910a9",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-1.1.0-0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"1.1.0-1": {
+			"name": "command-line-args",
+			"version": "1.1.0-1",
+			"description": "A library to collect command-line args and generate a usage guide.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args",
+			"bin": {
+				"command-line-args": "bin/cli.js"
+			},
+			"scripts": {
+				"test": "tape test/*.js",
+				"docs": "jsdoc2md -l off -t jsdoc2md/README.hbs lib/*.js > README.md; echo"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"jsdoc-to-markdown": "^1.1.1",
+				"tape": "^4",
+				"test-value": "^1.0.0"
+			},
+			"dependencies": {
+				"ansi-escape-sequences": "^2.1.1",
+				"array-tools": "^2",
+				"command-line-usage": "^1",
+				"find-replace": "^1",
+				"object-tools": "^2",
+				"typical": "^2.3.0"
+			},
+			"gitHead": "144287335b9eff9f34756609aee70675780d4db0",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@1.1.0-1",
+			"_shasum": "8fbfb0ebdd8ca91f9aee03fec5845b52b6528e4b",
+			"_from": ".",
+			"_npmVersion": "2.13.3",
+			"_nodeVersion": "0.12.7",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "8fbfb0ebdd8ca91f9aee03fec5845b52b6528e4b",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-1.1.0-1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"1.0.0": {
+			"name": "command-line-args",
+			"version": "1.0.0",
+			"description": "A library to collect command-line args and generate a usage guide.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args",
+			"bin": {
+				"command-line-args": "bin/cli.js"
+			},
+			"scripts": {
+				"test": "tape test/*.js",
+				"docs": "jsdoc2md -l off -t jsdoc2md/README.hbs lib/*.js > README.md; echo"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"jsdoc-to-markdown": "^1.1.1",
+				"tape": "^4",
+				"test-value": "^1.0.0"
+			},
+			"dependencies": {
+				"ansi-escape-sequences": "^2.1.1",
+				"array-tools": "^2",
+				"command-line-usage": "^1",
+				"find-replace": "^1",
+				"object-tools": "^2",
+				"typical": "^2.3.0"
+			},
+			"gitHead": "2159ea693c509d643f17ed79d4762a545baa0f57",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@1.0.0",
+			"_shasum": "4c693a3e198b288ce1bdf4f4b72dc9d5a60955c0",
+			"_from": ".",
+			"_npmVersion": "2.13.3",
+			"_nodeVersion": "0.12.7",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "4c693a3e198b288ce1bdf4f4b72dc9d5a60955c0",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-1.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"1.0.1": {
+			"name": "command-line-args",
+			"version": "1.0.1",
+			"description": "A library to collect command-line args and generate a usage guide.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args",
+			"bin": {
+				"command-line-args": "bin/cli.js"
+			},
+			"scripts": {
+				"test": "tape test/*.js",
+				"docs": "jsdoc2md -l off -t jsdoc2md/README.hbs lib/*.js > README.md; echo"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"jsdoc-to-markdown": "^1.1.1",
+				"tape": "^4",
+				"test-value": "^1.0.0"
+			},
+			"dependencies": {
+				"ansi-escape-sequences": "^2.1.1",
+				"array-tools": "^2",
+				"command-line-usage": "^1",
+				"find-replace": "^1",
+				"object-tools": "^2",
+				"typical": "^2.3.0"
+			},
+			"gitHead": "4cc1304b03c8b178d7851cf0650fed14bb5ed7c8",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@1.0.1",
+			"_shasum": "0f8c80282edc1c57b70b832ea8dfc79738b7d7f5",
+			"_from": ".",
+			"_npmVersion": "3.3.4",
+			"_nodeVersion": "4.1.0",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "0f8c80282edc1c57b70b832ea8dfc79738b7d7f5",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-1.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"1.0.2": {
+			"name": "command-line-args",
+			"version": "1.0.2",
+			"description": "A library to collect command-line args and generate a usage guide.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args",
+			"bin": {
+				"command-line-args": "bin/cli.js"
+			},
+			"scripts": {
+				"test": "standard && tape test/*.js",
+				"docs": "jsdoc2md -l off -t jsdoc2md/README.hbs lib/*.js > README.md; echo",
+				"cover": "istanbul cover ./node_modules/.bin/tape test/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls && rm -rf coverage; echo"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"coveralls": "^2.11.4",
+				"istanbul": "^0.3.21",
+				"jsdoc-to-markdown": "^1.1.1",
+				"standard": "^5.3.1",
+				"tape": "^4",
+				"test-value": "^1.0.0"
+			},
+			"dependencies": {
+				"ansi-escape-sequences": "^2.1.1",
+				"array-tools": "^2",
+				"command-line-usage": "^1",
+				"find-replace": "^1",
+				"object-tools": "^2",
+				"typical": "^2.3.0"
+			},
+			"gitHead": "48395c4d343124244953a529970465b8de7e59b1",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@1.0.2",
+			"_shasum": "eb355962a1e4a98d998a1b8cf94e4c54002a5b76",
+			"_from": ".",
+			"_npmVersion": "3.3.5",
+			"_nodeVersion": "4.1.1",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "eb355962a1e4a98d998a1b8cf94e4c54002a5b76",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-1.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"2.0.0": {
+			"name": "command-line-args",
+			"version": "2.0.0",
+			"description": "A library to collect command-line args and generate a usage guide.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "index",
+			"bin": {
+				"command-line-args": "bin/cli.js"
+			},
+			"scripts": {
+				"test": "tape test/*.js",
+				"docs": "jsdoc2md -l off -t jsdoc2md/README.hbs lib/*.js > README.md; echo",
+				"cover": "istanbul cover ./node_modules/.bin/tape test/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls && rm -rf coverage; echo",
+				"es5": "babel --no-comments lib --out-dir es5"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"babel": "^5.8.23",
+				"coveralls": "^2.11.4",
+				"istanbul": "^0.3.21",
+				"jsdoc-to-markdown": "^1.1.1",
+				"standard": "^5.3.1",
+				"tape": "^4",
+				"test-value": "^1.0.0"
+			},
+			"dependencies": {
+				"ansi-escape-sequences": "^2.1.1",
+				"array-back": "^1.0.2",
+				"command-line-usage": "^1",
+				"feature-detect-es6": "~0.2",
+				"find-replace": "^1",
+				"object-tools": "^2",
+				"typical": "^2.3.0"
+			},
+			"standard": {
+				"ignore": [
+					"es5"
+				]
+			},
+			"gitHead": "71b6664af3ad07ad78829963e59821306ca1f1cb",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@2.0.0",
+			"_shasum": "429de5d4bc70513f61b3f28355958bf534f24ff3",
+			"_from": ".",
+			"_npmVersion": "3.3.7",
+			"_nodeVersion": "4.1.2",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "429de5d4bc70513f61b3f28355958bf534f24ff3",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-2.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"2.0.1": {
+			"name": "command-line-args",
+			"version": "2.0.1",
+			"description": "A library to collect command-line args and generate a usage guide.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "index",
+			"bin": {
+				"command-line-args": "bin/cli.js"
+			},
+			"scripts": {
+				"test": "tape test/*.js",
+				"docs": "jsdoc2md -l off -t jsdoc2md/README.hbs lib/*.js > README.md; echo",
+				"cover": "istanbul cover ./node_modules/.bin/tape test/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls && rm -rf coverage; echo",
+				"es5": "babel --no-comments lib --out-dir es5"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"coveralls": "^2.11.4",
+				"istanbul": "^0.3.21",
+				"jsdoc-to-markdown": "^1.1.1",
+				"standard": "^5.3.1",
+				"tape": "^4",
+				"test-value": "^1.0.0"
+			},
+			"dependencies": {
+				"ansi-escape-sequences": "^2.1.1",
+				"array-back": "^1.0.2",
+				"command-line-usage": "^1",
+				"feature-detect-es6": "~0.2",
+				"find-replace": "^1",
+				"object-tools": "^2",
+				"typical": "^2.3.0",
+				"babel": "^5.8.23"
+			},
+			"standard": {
+				"ignore": [
+					"es5"
+				]
+			},
+			"gitHead": "e032aaceb5d42a3521c68867bb196ca720d7627d",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@2.0.1",
+			"_shasum": "fe7912e2e64c49de9c93908b0969a0e6a59c15a9",
+			"_from": ".",
+			"_npmVersion": "3.3.7",
+			"_nodeVersion": "4.1.2",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "fe7912e2e64c49de9c93908b0969a0e6a59c15a9",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-2.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"2.0.2": {
+			"name": "command-line-args",
+			"version": "2.0.2",
+			"description": "A library to collect command-line args and generate a usage guide.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "index",
+			"bin": {
+				"command-line-args": "bin/cli.js"
+			},
+			"scripts": {
+				"test": "tape test/*.js",
+				"docs": "jsdoc2md -l off -t jsdoc2md/README.hbs lib/*.js > README.md; echo",
+				"cover": "istanbul cover ./node_modules/.bin/tape test/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls && rm -rf coverage; echo",
+				"es5": "babel --no-comments lib --out-dir es5"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"coveralls": "^2.11.4",
+				"istanbul": "^0.3.21",
+				"jsdoc-to-markdown": "^1.1.1",
+				"standard": "^5.3.1",
+				"tape": "^4",
+				"test-value": "^1.0.0",
+				"babel": "^5.8.23"
+			},
+			"dependencies": {
+				"ansi-escape-sequences": "^2.1.1",
+				"array-back": "^1.0.2",
+				"command-line-usage": "^1",
+				"core-js": "^1.2.1",
+				"feature-detect-es6": "^1",
+				"find-replace": "^1",
+				"object-tools": "^2",
+				"typical": "^2.3.0"
+			},
+			"standard": {
+				"ignore": [
+					"es5"
+				]
+			},
+			"gitHead": "3c6a29ecccc3e0ff97b288361a2d5667bd481412",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@2.0.2",
+			"_shasum": "f0011d10722444225601c4319700093176429032",
+			"_from": ".",
+			"_npmVersion": "2.14.4",
+			"_nodeVersion": "0.12.7",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "f0011d10722444225601c4319700093176429032",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-2.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"2.0.3": {
+			"name": "command-line-args",
+			"version": "2.0.3",
+			"description": "A library to collect command-line args and generate a usage guide.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "index",
+			"bin": {
+				"command-line-args": "bin/cli.js"
+			},
+			"scripts": {
+				"test": "tape test/*.js",
+				"docs": "jsdoc2md -l off -t jsdoc2md/README.hbs lib/*.js > README.md; echo",
+				"cover": "istanbul cover ./node_modules/.bin/tape test/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls && rm -rf coverage; echo",
+				"es5": "babel --no-comments lib --out-dir es5"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"babel": "^5.8.23",
+				"coveralls": "^2.11.4",
+				"istanbul": "^0.3.21",
+				"jsdoc-to-markdown": "^1.1.1",
+				"tape": "^4",
+				"test-value": "^1.0.0"
+			},
+			"dependencies": {
+				"ansi-escape-sequences": "^2.1.1",
+				"array-back": "^1.0.2",
+				"command-line-usage": "^1",
+				"core-js": "^1.2.1",
+				"feature-detect-es6": "^1",
+				"find-replace": "^1",
+				"object-tools": "^2",
+				"typical": "^2.3.0"
+			},
+			"standard": {
+				"ignore": [
+					"es5"
+				]
+			},
+			"gitHead": "a1a7f17c0c6c9118f1c77b389e0dd4bd0b840e7f",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@2.0.3",
+			"_shasum": "a893950e628863d89551f7fb56822ecc152e3f82",
+			"_from": ".",
+			"_npmVersion": "3.3.10",
+			"_nodeVersion": "4.2.1",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "a893950e628863d89551f7fb56822ecc152e3f82",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-2.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"2.0.4": {
+			"name": "command-line-args",
+			"version": "2.0.4",
+			"description": "A library to collect command-line args and generate a usage guide.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "index",
+			"bin": {
+				"command-line-args": "bin/cli.js"
+			},
+			"scripts": {
+				"test": "tape test/*.js",
+				"docs": "jsdoc2md -l off -t jsdoc2md/README.hbs lib/*.js > README.md; echo",
+				"cover": "istanbul cover ./node_modules/.bin/tape test/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls && rm -rf coverage; echo",
+				"es5": "babel --no-comments lib --out-dir es5"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"coveralls": "^2.11.4",
+				"istanbul": "^0.3.21",
+				"jsdoc-to-markdown": "^1.1.1",
+				"tape": "^4",
+				"test-value": "^1.0.0"
+			},
+			"dependencies": {
+				"ansi-escape-sequences": "^2.1.1",
+				"array-back": "^1.0.2",
+				"command-line-usage": "^1",
+				"core-js": "^1.2.1",
+				"feature-detect-es6": "^1",
+				"find-replace": "^1",
+				"object-tools": "^2",
+				"typical": "^2.3.0"
+			},
+			"standard": {
+				"ignore": [
+					"es5"
+				]
+			},
+			"gitHead": "5325672703be89b353b813aee9da86a413084957",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@2.0.4",
+			"_shasum": "5b0c93b3c91c2e6277bcd61eb66aa24643c7249e",
+			"_from": ".",
+			"_npmVersion": "3.3.10",
+			"_nodeVersion": "4.2.1",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "5b0c93b3c91c2e6277bcd61eb66aa24643c7249e",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-2.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"2.1.0": {
+			"name": "command-line-args",
+			"version": "2.1.0",
+			"description": "A library to collect command-line args and generate a usage guide.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "index",
+			"bin": {
+				"command-line-args": "bin/cli.js"
+			},
+			"scripts": {
+				"test": "tape test/*.js",
+				"docs": "jsdoc2md -l off -t jsdoc2md/README.hbs lib/*.js > README.md; echo",
+				"cover": "istanbul cover ./node_modules/.bin/tape test/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls && rm -rf coverage; echo",
+				"es5": "babel --no-comments lib --out-dir es5"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"coveralls": "^2.11.4",
+				"jsdoc-to-markdown": "^1.1.1",
+				"tape": "^4",
+				"test-value": "^1.0.0"
+			},
+			"dependencies": {
+				"ansi-escape-sequences": "^2.1.1",
+				"array-back": "^1.0.2",
+				"command-line-usage": "^2",
+				"core-js": "^1.2.1",
+				"feature-detect-es6": "^1",
+				"find-replace": "^1",
+				"object-tools": "^2",
+				"typical": "^2.3.0"
+			},
+			"standard": {
+				"ignore": [
+					"es5"
+				]
+			},
+			"gitHead": "00c6d488b180e16ba518067931acb8556e678120",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@2.1.0",
+			"_shasum": "295309b0501df9bf1ab3b0871b6983742c9c39ad",
+			"_from": ".",
+			"_npmVersion": "3.3.12",
+			"_nodeVersion": "5.0.0",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "295309b0501df9bf1ab3b0871b6983742c9c39ad",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-2.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"2.1.1": {
+			"name": "command-line-args",
+			"version": "2.1.1",
+			"description": "A library to collect command-line args and generate a usage guide.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "index",
+			"bin": {
+				"command-line-args": "bin/cli.js"
+			},
+			"scripts": {
+				"test": "tape test/*.js",
+				"docs": "jsdoc2md -l off -t jsdoc2md/README.hbs lib/*.js > README.md; echo",
+				"cover": "istanbul cover ./node_modules/.bin/tape test/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls && rm -rf coverage; echo",
+				"es5": "babel --no-comments lib --out-dir es5"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"babel": "^5.8.29",
+				"coveralls": "^2.11.4",
+				"jsdoc-to-markdown": "^1.1.1",
+				"tape": "^4",
+				"test-value": "^1.0.0"
+			},
+			"dependencies": {
+				"ansi-escape-sequences": "^2.1.1",
+				"array-back": "^1.0.2",
+				"command-line-usage": "^2",
+				"core-js": "^1.2.1",
+				"feature-detect-es6": "^1",
+				"find-replace": "^1",
+				"object-tools": "^2",
+				"typical": "^2.3.0"
+			},
+			"standard": {
+				"ignore": [
+					"es5"
+				]
+			},
+			"gitHead": "5c0890beadb688ac734701b9e7dc1584c4331688",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@2.1.1",
+			"_shasum": "74750c8294a39283756d233dc886a3599fc4d15c",
+			"_from": ".",
+			"_npmVersion": "2.11.3",
+			"_nodeVersion": "0.12.7",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "74750c8294a39283756d233dc886a3599fc4d15c",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-2.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"2.1.2": {
+			"name": "command-line-args",
+			"version": "2.1.2",
+			"description": "A library to collect command-line args and generate a usage guide.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "index",
+			"bin": {
+				"command-line-args": "bin/cli.js"
+			},
+			"scripts": {
+				"test": "tape test/*.js",
+				"docs": "jsdoc2md -l off -t jsdoc2md/README.hbs lib/*.js > README.md; echo",
+				"cover": "istanbul cover ./node_modules/.bin/tape test/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls && rm -rf coverage; echo",
+				"es5": "babel --no-comments lib --out-dir es5"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"babel": "^5.8.29",
+				"coveralls": "^2.11.4",
+				"jsdoc-to-markdown": "^1.1.1",
+				"tape": "^4",
+				"test-value": "^1.0.0"
+			},
+			"dependencies": {
+				"ansi-escape-sequences": "^2.1.1",
+				"array-back": "^1.0.2",
+				"command-line-usage": "^2",
+				"core-js": "^1.2.1",
+				"feature-detect-es6": "^1",
+				"find-replace": "^1",
+				"object-tools": "^2",
+				"typical": "^2.3.0"
+			},
+			"standard": {
+				"ignore": [
+					"es5"
+				]
+			},
+			"gitHead": "c7359db730a4346f5b5a29eb20e376284e10e435",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@2.1.2",
+			"_shasum": "6059513291ea5095905e9b3d797c13a8d3b38b3d",
+			"_from": ".",
+			"_npmVersion": "3.5.1",
+			"_nodeVersion": "5.1.0",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "6059513291ea5095905e9b3d797c13a8d3b38b3d",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-2.1.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"2.1.3": {
+			"name": "command-line-args",
+			"version": "2.1.3",
+			"description": "A library to collect command-line args and generate a usage guide.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "index",
+			"bin": {
+				"command-line-args": "bin/cli.js"
+			},
+			"scripts": {
+				"test": "tape test/*.js",
+				"docs": "jsdoc2md -l off -t jsdoc2md/README.hbs lib/*.js > README.md; echo",
+				"cover": "istanbul cover ./node_modules/.bin/tape test/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls && rm -rf coverage; echo",
+				"es5": "babel --no-comments lib --out-dir es5"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"babel": "^5.8.29",
+				"coveralls": "^2.11.4",
+				"jsdoc-to-markdown": "^1.1.1",
+				"tape": "^4",
+				"test-value": "^1.0.0"
+			},
+			"dependencies": {
+				"ansi-escape-sequences": "^2.1.1",
+				"array-back": "^1.0.2",
+				"command-line-usage": "^2",
+				"core-js": "^1.2.1",
+				"feature-detect-es6": "^1",
+				"find-replace": "^1",
+				"object-tools": "^2",
+				"typical": "^2.3.0"
+			},
+			"standard": {
+				"ignore": [
+					"es5"
+				]
+			},
+			"gitHead": "d13a3b2e96e5440f33b1ad63b9dc1b7aa5f1211a",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@2.1.3",
+			"_shasum": "a77471e922c5a0eea4db222cc67c5cb05428ebbb",
+			"_from": ".",
+			"_npmVersion": "3.5.1",
+			"_nodeVersion": "5.1.0",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "a77471e922c5a0eea4db222cc67c5cb05428ebbb",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-2.1.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"2.1.4": {
+			"name": "command-line-args",
+			"version": "2.1.4",
+			"description": "A library to collect command-line args and generate a usage guide.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "index",
+			"bin": {
+				"command-line-args": "bin/cli.js"
+			},
+			"scripts": {
+				"test": "tape test/*.js",
+				"docs": "jsdoc2md -l off -t jsdoc2md/README.hbs lib/*.js > README.md; echo",
+				"cover": "istanbul cover ./node_modules/.bin/tape test/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls && rm -rf coverage; echo",
+				"es5": "babel --no-comments lib --out-dir es5"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"options",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"babel": "^5.8.29",
+				"coveralls": "^2.11.4",
+				"jsdoc-to-markdown": "^1.1.1",
+				"tape": "^4",
+				"test-value": "^1.0.0"
+			},
+			"dependencies": {
+				"ansi-escape-sequences": "^2.1.1",
+				"array-back": "^1.0.2",
+				"command-line-usage": "^2",
+				"core-js": "^2.0.1",
+				"feature-detect-es6": "^1.2.0",
+				"find-replace": "^1",
+				"object-tools": "^2",
+				"typical": "^2.3.0"
+			},
+			"standard": {
+				"ignore": [
+					"es5"
+				]
+			},
+			"gitHead": "4eaee255effacc07de40ad16fb7c09700a0d9a77",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@2.1.4",
+			"_shasum": "14bec0c5ec0027656172dc6c080fa73e31b01705",
+			"_from": ".",
+			"_npmVersion": "3.5.3",
+			"_nodeVersion": "5.3.0",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "14bec0c5ec0027656172dc6c080fa73e31b01705",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-2.1.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"2.1.5": {
+			"name": "command-line-args",
+			"version": "2.1.5",
+			"description": "A library to collect command-line args and generate a usage guide.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "index",
+			"bin": {
+				"command-line-args": "bin/cli.js"
+			},
+			"scripts": {
+				"test": "tape test/*.js",
+				"docs": "jsdoc2md -l off -t jsdoc2md/README.hbs lib/*.js > README.md; echo",
+				"cover": "istanbul cover ./node_modules/.bin/tape test/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls && rm -rf coverage; echo",
+				"es5": "babel --presets babel-preset-es2015 --no-comments lib --out-dir es5"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"options",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"babel-preset-es2015": "^6.5.0",
+				"coveralls": "^2.11.4",
+				"jsdoc-to-markdown": "^1.1.1",
+				"tape": "^4",
+				"test-value": "^1.0.0"
+			},
+			"dependencies": {
+				"array-back": "^1.0.2",
+				"command-line-usage": "^2",
+				"core-js": "^2.0.1",
+				"feature-detect-es6": "^1.2.0",
+				"find-replace": "^1",
+				"typical": "^2.3.0"
+			},
+			"standard": {
+				"ignore": [
+					"es5"
+				]
+			},
+			"gitHead": "59cd4a96e33dcb1e7c0f8cc61534c5a9855bb0d3",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@2.1.5",
+			"_shasum": "f1e1359251197854891357da7886d33a07bb72d8",
+			"_from": ".",
+			"_npmVersion": "3.7.3",
+			"_nodeVersion": "5.6.0",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "f1e1359251197854891357da7886d33a07bb72d8",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-2.1.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-6-west.internal.npmjs.com",
+				"tmp": "tmp/command-line-args-2.1.5.tgz_1455553749509_0.6497024565469474"
+			},
+			"directories": {}
+		},
+		"2.1.6": {
+			"name": "command-line-args",
+			"version": "2.1.6",
+			"description": "A library to collect command-line args and generate a usage guide.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "index",
+			"bin": {
+				"command-line-args": "bin/cli.js"
+			},
+			"scripts": {
+				"test": "tape test/*.js",
+				"docs": "jsdoc2md -l off -t jsdoc2md/README.hbs lib/*.js > README.md; echo",
+				"cover": "istanbul cover ./node_modules/.bin/tape test/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls && rm -rf coverage; echo",
+				"es5": "babel --presets babel-preset-es2015 --no-comments lib --out-dir es5"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"options",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"babel-preset-es2015": "^6.5.0",
+				"coveralls": "^2.11.4",
+				"jsdoc-to-markdown": "^1.1.1",
+				"tape": "^4",
+				"test-value": "^1.0.0"
+			},
+			"dependencies": {
+				"array-back": "^1.0.2",
+				"command-line-usage": "^2",
+				"core-js": "^2.0.1",
+				"feature-detect-es6": "^1.2.0",
+				"find-replace": "^1",
+				"typical": "^2.3.0"
+			},
+			"standard": {
+				"ignore": [
+					"es5"
+				]
+			},
+			"gitHead": "ac382199d08be52dec0ee001eb31c9e30955a95f",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@2.1.6",
+			"_shasum": "f197d6eaff34c9085577484b2864375b294f5697",
+			"_from": ".",
+			"_npmVersion": "3.7.3",
+			"_nodeVersion": "5.6.0",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "f197d6eaff34c9085577484b2864375b294f5697",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-2.1.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-9-west.internal.npmjs.com",
+				"tmp": "tmp/command-line-args-2.1.6.tgz_1455555078786_0.08584873145446181"
+			},
+			"directories": {}
+		},
+		"3.0.0": {
+			"name": "command-line-args",
+			"version": "3.0.0",
+			"description": "A library to parse command-line options.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "index",
+			"bin": {
+				"command-line-args": "bin/cli.js"
+			},
+			"scripts": {
+				"test": "tape test/*.js",
+				"docs": "jsdoc2md -l off -t jsdoc2md/README.hbs lib/*.js > README.md; echo",
+				"cover": "istanbul cover ./node_modules/.bin/tape test/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls && rm -rf coverage; echo",
+				"es5": "babel --presets babel-preset-es2015 --no-comments lib --out-dir es5"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"options",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"babel-preset-es2015": "^6.9.0",
+				"coveralls": "^2.11.9",
+				"jsdoc-to-markdown": "^1.3.6",
+				"tape": "^4.5.1",
+				"test-value": "^2.0.0"
+			},
+			"dependencies": {
+				"array-back": "^1.0.3",
+				"core-js": "^2.4.0",
+				"feature-detect-es6": "^1.3.0",
+				"find-replace": "^1.0.2",
+				"typical": "^2.4.2"
+			},
+			"standard": {
+				"ignore": [
+					"es5"
+				]
+			},
+			"gitHead": "8365b2d94447f3dd0e1993c8bb251ff8becde444",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@3.0.0",
+			"_shasum": "2822a48080e851970ab59252afcfba45a21f6fd3",
+			"_from": ".",
+			"_npmVersion": "3.8.9",
+			"_nodeVersion": "6.2.0",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "2822a48080e851970ab59252afcfba45a21f6fd3",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-3.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/command-line-args-3.0.0.tgz_1464527985253_0.9873968930914998"
+			},
+			"directories": {}
+		},
+		"3.0.1": {
+			"name": "command-line-args",
+			"version": "3.0.1",
+			"description": "A library to parse command-line options.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "index",
+			"bin": {
+				"command-line-args": "bin/cli.js"
+			},
+			"scripts": {
+				"test": "test-runner test/*.js",
+				"docs": "jsdoc2md -l off -t jsdoc2md/README.hbs lib/*.js > README.md; echo",
+				"cover": "istanbul cover ./node_modules/.bin/test-runner test/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls && rm -rf coverage; echo",
+				"es5": "babel --presets babel-preset-es2015 --no-comments lib --out-dir es5"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"options",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"babel-preset-es2015": "^6.9.0",
+				"core-assert": "~0.2.0",
+				"coveralls": "^2.11.12",
+				"jsdoc-to-markdown": "^1.3.6",
+				"test-runner": "~0.1.6",
+				"test-value": "^2.0.0"
+			},
+			"dependencies": {
+				"array-back": "^1.0.3",
+				"core-js": "^2.4.1",
+				"feature-detect-es6": "^1.3.1",
+				"find-replace": "^1.0.2",
+				"typical": "^2.5.0"
+			},
+			"standard": {
+				"ignore": [
+					"es5"
+				]
+			},
+			"gitHead": "142ca6d53bc4f81c4b0a1895f5a3374566db6a91",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@3.0.1",
+			"_shasum": "617bac0a15d34ae848eda2aa513ed76efdc48af5",
+			"_from": ".",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.1",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "617bac0a15d34ae848eda2aa513ed76efdc48af5",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-3.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/command-line-args-3.0.1.tgz_1469969962541_0.3953639464452863"
+			},
+			"directories": {}
+		},
+		"3.0.2": {
+			"name": "command-line-args",
+			"version": "3.0.2",
+			"description": "A library to parse command-line options.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "index",
+			"bin": {
+				"command-line-args": "bin/cli.js"
+			},
+			"scripts": {
+				"test": "test-runner test/*.js",
+				"docs": "jsdoc2md -l off -t jsdoc2md/README.hbs lib/*.js > README.md; echo",
+				"cover": "istanbul cover ./node_modules/.bin/test-runner test/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls && rm -rf coverage; echo",
+				"es5": "babel --presets babel-preset-es2015 --no-comments lib --out-dir es5"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"options",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"babel-preset-es2015": "^6.18.0",
+				"core-assert": "^0.2.1",
+				"coveralls": "^2.11.14",
+				"jsdoc-to-markdown": "^2.0.1",
+				"test-runner": "^0.2.5",
+				"test-value": "^2.1.0"
+			},
+			"dependencies": {
+				"array-back": "^1.0.3",
+				"core-js": "^2.4.1",
+				"feature-detect-es6": "^1.3.1",
+				"find-replace": "^1.0.2",
+				"typical": "^2.6.0"
+			},
+			"standard": {
+				"ignore": [
+					"es5"
+				]
+			},
+			"gitHead": "5942f45eadb353c22a33824f08fa467cea749e9b",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@3.0.2",
+			"_shasum": "eb4e203f936c10a20b5143667bdeaf08c933638f",
+			"_from": ".",
+			"_npmVersion": "3.10.8",
+			"_nodeVersion": "7.0.0",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "eb4e203f936c10a20b5143667bdeaf08c933638f",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-3.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/command-line-args-3.0.2.tgz_1477914486759_0.10848598275333643"
+			},
+			"directories": {}
+		},
+		"3.0.3-0": {
+			"name": "command-line-args",
+			"version": "3.0.3-0",
+			"description": "A library to parse command-line options.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "index",
+			"bin": {
+				"command-line-args": "bin/cli.js"
+			},
+			"scripts": {
+				"test": "test-runner test/*.js",
+				"docs": "jsdoc2md -l off -t jsdoc2md/README.hbs lib/*.js > README.md; echo",
+				"cover": "istanbul cover ./node_modules/.bin/test-runner test/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls && rm -rf coverage; echo",
+				"es5": "babel --presets babel-preset-es2015 --no-comments lib --out-dir es5"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"options",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"babel-preset-es2015": "^6.18.0",
+				"core-assert": "^0.2.1",
+				"coveralls": "^2.11.14",
+				"jsdoc-to-markdown": "^2.0.1",
+				"test-runner": "^0.2.5",
+				"test-value": "^2.1.0"
+			},
+			"dependencies": {
+				"array-back": "^1.0.3",
+				"core-js": "^2.4.1",
+				"feature-detect-es6": "^1.3.1",
+				"find-replace": "^1.0.2",
+				"typical": "^2.6.0"
+			},
+			"standard": {
+				"ignore": [
+					"es5"
+				]
+			},
+			"gitHead": "5581a6ebe0d8c95727347675bcb7673d6bdd97b2",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@3.0.3-0",
+			"_shasum": "09cbb4dea4ad1f3710856cc1c898b5c0f47774ef",
+			"_from": ".",
+			"_npmVersion": "3.10.8",
+			"_nodeVersion": "7.0.0",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "09cbb4dea4ad1f3710856cc1c898b5c0f47774ef",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-3.0.3-0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/command-line-args-3.0.3-0.tgz_1478603377494_0.035342806950211525"
+			},
+			"directories": {}
+		},
+		"3.0.3": {
+			"name": "command-line-args",
+			"version": "3.0.3",
+			"description": "A library to parse command-line options.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "index",
+			"bin": {
+				"command-line-args": "bin/cli.js"
+			},
+			"scripts": {
+				"test": "test-runner test/*.js",
+				"docs": "jsdoc2md -l off -t jsdoc2md/README.hbs lib/*.js > README.md; echo",
+				"cover": "istanbul cover ./node_modules/.bin/test-runner test/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls && rm -rf coverage; echo",
+				"es5": "babel --presets babel-preset-es2015 --no-comments lib --out-dir es5"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"options",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"babel-preset-es2015": "^6.18.0",
+				"core-assert": "^0.2.1",
+				"coveralls": "^2.11.14",
+				"jsdoc-to-markdown": "^2.0.1",
+				"test-runner": "^0.2.5",
+				"test-value": "^2.1.0"
+			},
+			"dependencies": {
+				"array-back": "^1.0.3",
+				"core-js": "^2.4.1",
+				"feature-detect-es6": "^1.3.1",
+				"find-replace": "^1.0.2",
+				"typical": "^2.6.0"
+			},
+			"standard": {
+				"ignore": [
+					"es5"
+				]
+			},
+			"gitHead": "47ae586fa2e598a5c0b15ec3bbfc972732fd2975",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@3.0.3",
+			"_shasum": "87b3b2df449c71ec14e43f462a269931207a2f33",
+			"_from": ".",
+			"_npmVersion": "3.10.8",
+			"_nodeVersion": "7.0.0",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "87b3b2df449c71ec14e43f462a269931207a2f33",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-3.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/command-line-args-3.0.3.tgz_1478633716424_0.5898909126408398"
+			},
+			"directories": {}
+		},
+		"3.0.4": {
+			"name": "command-line-args",
+			"version": "3.0.4",
+			"description": "A library to parse command-line options.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "index",
+			"bin": {
+				"command-line-args": "bin.js"
+			},
+			"scripts": {
+				"test": "node test.js",
+				"docs": "jsdoc2md -l off -t jsdoc2md/README.hbs src/lib/*.js > README.md; echo",
+				"cover": "istanbul cover ./node_modules/.bin/test-runner src/test/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls && rm -rf coverage; echo",
+				"es5": "rm -rf es5 && babel --presets babel-preset-es2015 --no-comments src --out-dir es5"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"options",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"babel-preset-es2015": "^6.18.0",
+				"core-assert": "^0.2.1",
+				"coveralls": "^2.11.15",
+				"jsdoc-to-markdown": "^2.0.1",
+				"test-runner": "^0.3.0",
+				"test-value": "^2.1.0"
+			},
+			"dependencies": {
+				"array-back": "^1.0.3",
+				"core-js": "^2.4.1",
+				"feature-detect-es6": "^1.3.1",
+				"find-replace": "^1.0.2",
+				"typical": "^2.6.0"
+			},
+			"standard": {
+				"ignore": [
+					"es5"
+				]
+			},
+			"gitHead": "536b5993b39b3682b72912cba003aba5a7b8e8dd",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@3.0.4",
+			"_shasum": "06124399c79b055b24003425f4eb823227b83e95",
+			"_from": ".",
+			"_npmVersion": "3.10.9",
+			"_nodeVersion": "7.2.0",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "06124399c79b055b24003425f4eb823227b83e95",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-3.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/command-line-args-3.0.4.tgz_1480767502926_0.023396615171805024"
+			},
+			"directories": {}
+		},
+		"3.0.5": {
+			"name": "command-line-args",
+			"version": "3.0.5",
+			"description": "A library to parse command-line options.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "index",
+			"bin": {
+				"command-line-args": "bin.js"
+			},
+			"scripts": {
+				"test": "node test.js",
+				"docs": "jsdoc2md -l off -t jsdoc2md/README.hbs src/lib/*.js > README.md; echo",
+				"cover": "istanbul cover ./node_modules/.bin/test-runner src/test/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls && rm -rf coverage; echo",
+				"es5": "rm -rf es5 && babel --presets babel-preset-es2015 --no-comments src --out-dir es5"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"options",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"babel-preset-es2015": "^6.18.0",
+				"core-assert": "^0.2.1",
+				"coveralls": "^2.11.15",
+				"jsdoc-to-markdown": "^2.0.1",
+				"test-runner": "^0.3.0",
+				"test-value": "^2.1.0"
+			},
+			"dependencies": {
+				"array-back": "^1.0.4",
+				"feature-detect-es6": "^1.3.1",
+				"find-replace": "^1.0.2",
+				"typical": "^2.6.0"
+			},
+			"standard": {
+				"ignore": [
+					"es5"
+				]
+			},
+			"gitHead": "f58626dcdc1f8f4e2a6c3d9824a9d60113b5b53c",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@3.0.5",
+			"_shasum": "5bd4ad45e7983e5c1344918e40280ee2693c5ac0",
+			"_from": ".",
+			"_npmVersion": "3.10.10",
+			"_nodeVersion": "7.3.0",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "5bd4ad45e7983e5c1344918e40280ee2693c5ac0",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-3.0.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/command-line-args-3.0.5.tgz_1482625638240_0.17563810269348323"
+			},
+			"directories": {}
+		},
+		"4.0.0-0": {
+			"name": "command-line-args",
+			"version": "4.0.0-0",
+			"description": "A library to parse command-line options.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args.js",
+			"bin": {
+				"command-line-args": "bin/cli.js"
+			},
+			"scripts": {
+				"test": "test-runner test/*.js",
+				"docs": "jsdoc2md -l off -t jsdoc2md/README.hbs lib/*.js > README.md; echo",
+				"cover": "istanbul cover ./node_modules/.bin/test-runner test/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls && rm -rf coverage; echo"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"options",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"coveralls": "^2.11.15",
+				"jsdoc-to-markdown": "^2.0.1",
+				"test-runner": "^0.3.0",
+				"test-value": "^2.1.0"
+			},
+			"dependencies": {
+				"array-back": "^1.0.4",
+				"find-replace": "^1.0.3",
+				"typical": "^2.6.0"
+			},
+			"gitHead": "1808f755541b8adb10262b7893c931fe3cb69c48",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@4.0.0-0",
+			"_shasum": "f20e3fa71e98cf8233e6519d376c6af3ed74b32e",
+			"_from": ".",
+			"_npmVersion": "4.0.5",
+			"_nodeVersion": "7.4.0",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "f20e3fa71e98cf8233e6519d376c6af3ed74b32e",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-4.0.0-0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/command-line-args-4.0.0-0.tgz_1485640524446_0.9171399041078985"
+			},
+			"directories": {}
+		},
+		"4.0.0-1": {
+			"name": "command-line-args",
+			"version": "4.0.0-1",
+			"description": "A mature, feature-complete library to parse command-line options.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args.js",
+			"bin": {
+				"command-line-args": "bin/cli.js"
+			},
+			"scripts": {
+				"test": "test-runner test/*.js",
+				"docs": "jsdoc2md -l off -t jsdoc2md/README.hbs lib/*.js > README.md; echo",
+				"cover": "istanbul cover ./node_modules/.bin/test-runner test/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls && rm -rf coverage; echo"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"options",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"coveralls": "^2.11.15",
+				"jsdoc-to-markdown": "^2.0.1",
+				"test-runner": "^0.3.0"
+			},
+			"dependencies": {
+				"array-back": "^1.0.4",
+				"find-replace": "^1.0.3",
+				"typical": "^2.6.0"
+			},
+			"gitHead": "266098b6735ce20659fa5fa570be2673759c5281",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@4.0.0-1",
+			"_shasum": "129a152bd950501fe2cd64d05e2d930158c97b23",
+			"_from": ".",
+			"_npmVersion": "4.0.5",
+			"_nodeVersion": "7.4.0",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "129a152bd950501fe2cd64d05e2d930158c97b23",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-4.0.0-1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/command-line-args-4.0.0-1.tgz_1485896757557_0.6624029083177447"
+			},
+			"directories": {}
+		},
+		"4.0.0": {
+			"name": "command-line-args",
+			"version": "4.0.0",
+			"description": "A mature, feature-complete library to parse command-line options.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args.js",
+			"bin": {
+				"command-line-args": "bin/cli.js"
+			},
+			"scripts": {
+				"test": "test-runner test/*.js",
+				"docs": "jsdoc2md -l off -t jsdoc2md/README.hbs lib/*.js > README.md; echo",
+				"cover": "istanbul cover ./node_modules/.bin/test-runner test/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls && rm -rf coverage; echo"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"options",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"coveralls": "^2.11.15",
+				"jsdoc-to-markdown": "^2.0.1",
+				"test-runner": "^0.3.0"
+			},
+			"dependencies": {
+				"array-back": "^1.0.4",
+				"find-replace": "^1.0.3",
+				"typical": "^2.6.0"
+			},
+			"gitHead": "4e400410f39a33191a577800a890bb7bee68f3e4",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@4.0.0",
+			"_shasum": "7abf04e91d4e656bcb87abf0a3dbcab70611563a",
+			"_from": ".",
+			"_npmVersion": "4.0.5",
+			"_nodeVersion": "7.4.0",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "7abf04e91d4e656bcb87abf0a3dbcab70611563a",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-4.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/command-line-args-4.0.0.tgz_1485899350994_0.6971073381137103"
+			},
+			"directories": {}
+		},
+		"4.0.1": {
+			"name": "command-line-args",
+			"version": "4.0.1",
+			"description": "A mature, feature-complete library to parse command-line options.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args.js",
+			"bin": {
+				"command-line-args": "bin/cli.js"
+			},
+			"scripts": {
+				"test": "test-runner test/*.js",
+				"docs": "jsdoc2md -l off -t jsdoc2md/README.hbs lib/*.js > README.md; echo",
+				"cover": "istanbul cover ./node_modules/.bin/test-runner test/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls && rm -rf coverage; echo"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"options",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"coveralls": "^2.11.15",
+				"jsdoc-to-markdown": "^2.0.1",
+				"test-runner": "^0.3.0"
+			},
+			"dependencies": {
+				"array-back": "^1.0.4",
+				"find-replace": "^1.0.3",
+				"typical": "^2.6.0"
+			},
+			"gitHead": "f9509e448ca1150022557d65f6a35efe9d89f091",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@4.0.1",
+			"_shasum": "b429a56e7c7d4912fbc4a6e453702a52d596f749",
+			"_from": ".",
+			"_npmVersion": "4.0.5",
+			"_nodeVersion": "7.4.0",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "b429a56e7c7d4912fbc4a6e453702a52d596f749",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-4.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/command-line-args-4.0.1.tgz_1485944719841_0.4181985165923834"
+			},
+			"directories": {}
+		},
+		"4.0.2": {
+			"name": "command-line-args",
+			"version": "4.0.2",
+			"description": "A mature, feature-complete library to parse command-line options.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args.js",
+			"bin": {
+				"command-line-args": "bin/cli.js"
+			},
+			"scripts": {
+				"test": "test-runner test/*.js",
+				"docs": "jsdoc2md -l off -t jsdoc2md/README.hbs lib/*.js > README.md; echo",
+				"cover": "istanbul cover ./node_modules/.bin/test-runner test/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls && rm -rf coverage; echo"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"options",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"coveralls": "^2.11.15",
+				"jsdoc-to-markdown": "^2.0.1",
+				"test-runner": "^0.3.0"
+			},
+			"dependencies": {
+				"array-back": "^1.0.4",
+				"find-replace": "^1.0.3",
+				"typical": "^2.6.0"
+			},
+			"gitHead": "3ccb02809c295d1fb31996c05dedfa85ebbdcc88",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@4.0.2",
+			"_shasum": "a99c2f28ceabcf26ac56d38e78b600ea3b57e650",
+			"_from": ".",
+			"_npmVersion": "4.1.2",
+			"_nodeVersion": "7.7.1",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "a99c2f28ceabcf26ac56d38e78b600ea3b57e650",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-4.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/command-line-args-4.0.2.tgz_1488836882126_0.9698306529317051"
+			},
+			"directories": {}
+		},
+		"4.0.3": {
+			"name": "command-line-args",
+			"version": "4.0.3",
+			"description": "A mature, feature-complete library to parse command-line options.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args.js",
+			"bin": {
+				"command-line-args": "bin/cli.js"
+			},
+			"scripts": {
+				"test": "test-runner test/*.js",
+				"docs": "jsdoc2md -l off -t jsdoc2md/README.hbs lib/*.js > README.md; echo",
+				"cover": "istanbul cover ./node_modules/.bin/test-runner test/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls && rm -rf coverage; echo"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"options",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"coveralls": "^2.13.0",
+				"jsdoc-to-markdown": "^3.0.0",
+				"test-runner": "^0.3.0"
+			},
+			"dependencies": {
+				"array-back": "^1.0.4",
+				"find-replace": "^1.0.3",
+				"typical": "^2.6.0"
+			},
+			"gitHead": "f2c3d06ab7b782c6656e8dba827b0455f8f5f1ca",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@4.0.3",
+			"_shasum": "aefb061f107f0fd8d72b3c5e0ba042b319891bae",
+			"_from": ".",
+			"_npmVersion": "4.2.0",
+			"_nodeVersion": "7.9.0",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "aefb061f107f0fd8d72b3c5e0ba042b319891bae",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-4.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/command-line-args-4.0.3.tgz_1492859039748_0.18838135851547122"
+			},
+			"directories": {}
+		},
+		"4.0.4": {
+			"name": "command-line-args",
+			"version": "4.0.4",
+			"description": "A mature, feature-complete library to parse command-line options.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args.js",
+			"bin": {
+				"command-line-args": "bin/cli.js"
+			},
+			"scripts": {
+				"test": "test-runner test/*.js",
+				"docs": "jsdoc2md -l off -t jsdoc2md/README.hbs lib/*.js > README.md; echo",
+				"cover": "istanbul cover ./node_modules/.bin/test-runner test/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls && rm -rf coverage; echo"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"options",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"coveralls": "^2.13.0",
+				"jsdoc-to-markdown": "^3.0.0",
+				"test-runner": "^0.3.0"
+			},
+			"dependencies": {
+				"array-back": "^1.0.4",
+				"find-replace": "^1.0.3",
+				"typical": "^2.6.0"
+			},
+			"gitHead": "b2d07e59be51de7c0609e618a44bcdad13ca77e8",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@4.0.4",
+			"_shasum": "6b9ab497cfe82d2c1ce1e47d6c18a85382f5d9fe",
+			"_from": ".",
+			"_npmVersion": "4.2.0",
+			"_nodeVersion": "7.9.0",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "6b9ab497cfe82d2c1ce1e47d6c18a85382f5d9fe",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-4.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/command-line-args-4.0.4.tgz_1493763183361_0.003942657727748156"
+			},
+			"directories": {}
+		},
+		"4.0.5": {
+			"name": "command-line-args",
+			"version": "4.0.5",
+			"description": "A mature, feature-complete library to parse command-line options.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args.js",
+			"bin": {
+				"command-line-args": "bin/cli.js"
+			},
+			"scripts": {
+				"test": "test-runner test/*.js",
+				"docs": "jsdoc2md -l off -t jsdoc2md/README.hbs lib/*.js > README.md; echo",
+				"cover": "istanbul cover ./node_modules/.bin/test-runner test/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls && rm -rf coverage; echo"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"options",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"coveralls": "^2.13.1",
+				"jsdoc-to-markdown": "^3.0.0",
+				"test-runner": "^0.3.0"
+			},
+			"dependencies": {
+				"array-back": "^1.0.4",
+				"find-replace": "^1.0.3",
+				"typical": "^2.6.1"
+			},
+			"gitHead": "c6ae334869baee7281bc1edc9a2d733ec9136871",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@4.0.5",
+			"_shasum": "c7beccd6641f525ed6f292e17084ab3231b301be",
+			"_from": ".",
+			"_npmVersion": "4.2.0",
+			"_nodeVersion": "7.10.0",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "c7beccd6641f525ed6f292e17084ab3231b301be",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-4.0.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/command-line-args-4.0.5.tgz_1495559563807_0.8540686636697501"
+			},
+			"directories": {}
+		},
+		"4.0.6": {
+			"name": "command-line-args",
+			"version": "4.0.6",
+			"description": "A mature, feature-complete library to parse command-line options.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args.js",
+			"bin": {
+				"command-line-args": "bin/cli.js"
+			},
+			"scripts": {
+				"test": "test-runner test/*.js",
+				"docs": "jsdoc2md -l off -t jsdoc2md/README.hbs lib/*.js > README.md; echo",
+				"cover": "istanbul cover ./node_modules/.bin/test-runner test/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls && rm -rf coverage; echo"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"options",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"coveralls": "^2.13.1",
+				"jsdoc-to-markdown": "^3.0.0",
+				"test-runner": "^0.3.0"
+			},
+			"dependencies": {
+				"array-back": "^1.0.4",
+				"find-replace": "^1.0.3",
+				"typical": "^2.6.1"
+			},
+			"gitHead": "10c2314d64906b724be61f6afeaa34b2f60ed167",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@4.0.6",
+			"_shasum": "0ff87a1dd159890dcaeb2a005abdae71e55059fc",
+			"_from": ".",
+			"_npmVersion": "4.2.0",
+			"_nodeVersion": "7.10.0",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"shasum": "0ff87a1dd159890dcaeb2a005abdae71e55059fc",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-4.0.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/command-line-args-4.0.6.tgz_1496168756298_0.8621100878808647"
+			},
+			"directories": {}
+		},
+		"4.0.7": {
+			"name": "command-line-args",
+			"version": "4.0.7",
+			"description": "A mature, feature-complete library to parse command-line options.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"main": "lib/command-line-args.js",
+			"bin": {
+				"command-line-args": "bin/cli.js"
+			},
+			"scripts": {
+				"test": "test-runner test/*.js",
+				"docs": "jsdoc2md -l off -t jsdoc2md/README.hbs lib/*.js > README.md; echo",
+				"cover": "istanbul cover ./node_modules/.bin/test-runner test/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls && rm -rf coverage; echo"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"options",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"coveralls": "^2.13.1",
+				"jsdoc-to-markdown": "^3.0.0",
+				"test-runner": "^0.4.1"
+			},
+			"dependencies": {
+				"array-back": "^2.0.0",
+				"find-replace": "^1.0.3",
+				"typical": "^2.6.1"
+			},
+			"gitHead": "144804e3e2ac1f099c7015db5f94de35c28a6078",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@4.0.7",
+			"_npmVersion": "5.3.0",
+			"_nodeVersion": "8.2.1",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"integrity": "sha512-aUdPvQRAyBvQd2n7jXcsMDz68ckBJELXNzBybCHOibUWEg0mWTnaYCSRU8h9R+aNRSvDihJtssSRCiDRpLaezA==",
+				"shasum": "f8d1916ecb90e9e121eda6428e41300bfb64cc46",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-4.0.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/command-line-args-4.0.7.tgz_1502318903673_0.8981017954647541"
+			},
+			"directories": {}
+		},
+		"5.0.0-alpha.0": {
+			"name": "command-line-args",
+			"version": "5.0.0-alpha.0",
+			"description": "A mature, feature-complete library to parse command-line options.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"scripts": {
+				"test": "test-runner test/*.js test/internals/*.js",
+				"docs": "jsdoc2md index.js > doc/API.md && jsdoc2md lib/definition.js > doc/option-definition.md",
+				"cover": "istanbul cover ./node_modules/.bin/test-runner test/internal/*.js test/external/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls #&& rm -rf coverage; echo"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"options",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"license": "MIT",
+			"engines": {
+				"node": ">=4.0.0"
+			},
+			"devDependencies": {
+				"coveralls": "^3.0.0",
+				"jsdoc-to-markdown": "^3.0.3",
+				"test-runner": "^0.5.0-1"
+			},
+			"dependencies": {
+				"array-back": "^2.0.0",
+				"find-replace": "^2.0.1",
+				"lodash.camelcase": "^4.3.0",
+				"typical": "^2.6.1"
+			},
+			"gitHead": "b4c97aba493ab14e472996a296f477b8de44e8b2",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@5.0.0-alpha.0",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "9.4.0",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"integrity": "sha512-V5Aq+KRWjtjfvM+3nelZqOfzBQnRxOGTEmcqj74xBrWe79EkisKyUK1UbrPy0evxsWwQVAKsq5joWjGV+diXcA==",
+				"shasum": "db31492a6e8b72d5d9d660976661620bf6d06442",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-5.0.0-alpha.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/command-line-args-5.0.0-alpha.0.tgz_1516057325796_0.039195797173306346"
+			},
+			"directories": {}
+		},
+		"5.0.0-alpha.1": {
+			"name": "command-line-args",
+			"version": "5.0.0-alpha.1",
+			"description": "A mature, feature-complete library to parse command-line options.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"scripts": {
+				"test": "test-runner test/*.js test/internals/*.js",
+				"docs": "jsdoc2md index.js > doc/API.md && jsdoc2md lib/option-definition.js > doc/option-definition.md",
+				"cover": "istanbul cover ./node_modules/.bin/test-runner test/*.js test/internals/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls #&& rm -rf coverage; echo"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"options",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"license": "MIT",
+			"engines": {
+				"node": ">=4.0.0"
+			},
+			"devDependencies": {
+				"coveralls": "^3.0.0",
+				"jsdoc-to-markdown": "^3.0.3",
+				"test-runner": "^0.5.0-1"
+			},
+			"dependencies": {
+				"array-back": "^2.0.0",
+				"find-replace": "^2.0.1",
+				"lodash.camelcase": "^4.3.0",
+				"typical": "^2.6.1"
+			},
+			"gitHead": "ea310dad58020cf056ff378cf0120a83120613e2",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@5.0.0-alpha.1",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "9.4.0",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"integrity": "sha512-fDDJ0FhEVZgqAeWy/sMjSfrILrAk1d9/aJHFkAjpsknwfuctSa2XGNGeW3OnQQgfM9wFwzWEFJO+X41/Mg1dnQ==",
+				"shasum": "92c7ff334088e761ee69031995c4fdc9845b11ab",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-5.0.0-alpha.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/command-line-args-5.0.0-alpha.1.tgz_1516140206444_0.014661315828561783"
+			},
+			"directories": {}
+		},
+		"5.0.0-alpha.2": {
+			"name": "command-line-args",
+			"version": "5.0.0-alpha.2",
+			"description": "A mature, feature-complete library to parse command-line options.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"scripts": {
+				"test": "test-runner test/*.js test/internals/*.js",
+				"docs": "jsdoc2md index.js > doc/API.md && jsdoc2md lib/option-definition.js > doc/option-definition.md",
+				"cover": "istanbul cover ./node_modules/.bin/test-runner test/*.js test/internals/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls #&& rm -rf coverage; echo"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"options",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"license": "MIT",
+			"engines": {
+				"node": ">=4.0.0"
+			},
+			"devDependencies": {
+				"coveralls": "^3.0.0",
+				"jsdoc-to-markdown": "^3.0.3",
+				"test-runner": "^0.5.0-1"
+			},
+			"dependencies": {
+				"argv-tools": "^0.1.1",
+				"array-back": "^2.0.0",
+				"find-replace": "^2.0.1",
+				"lodash.camelcase": "^4.3.0",
+				"typical": "^2.6.1"
+			},
+			"gitHead": "19f69b95b4f85f182a56a3dbf8d48d254a4a9303",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@5.0.0-alpha.2",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "9.4.0",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"integrity": "sha512-QfYxh1h3epESLTGp6q88qSfkzbyv8lueMgV1x+4qSSsWBzUvzAxFo7itS8e+Vumc+YVy6quw0XYG93x6vRHK1Q==",
+				"shasum": "2b32ebaab558eff01f8d716f07201dada69ab504",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-5.0.0-alpha.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/command-line-args-5.0.0-alpha.2.tgz_1516203083260_0.8424812590237707"
+			},
+			"directories": {}
+		},
+		"5.0.0": {
+			"name": "command-line-args",
+			"version": "5.0.0",
+			"description": "A mature, feature-complete library to parse command-line options.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"scripts": {
+				"test": "test-runner test/*.js test/internals/*.js",
+				"docs": "jsdoc2md index.js > doc/API.md && jsdoc2md lib/option-definition.js > doc/option-definition.md",
+				"cover": "istanbul cover ./node_modules/.bin/test-runner test/*.js test/internals/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls #&& rm -rf coverage; echo"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"options",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"license": "MIT",
+			"engines": {
+				"node": ">=4.0.0"
+			},
+			"devDependencies": {
+				"coveralls": "^3.0.0",
+				"jsdoc-to-markdown": "^3.0.4",
+				"test-runner": "^0.5.0-1"
+			},
+			"dependencies": {
+				"argv-tools": "^0.1.1",
+				"array-back": "^2.0.0",
+				"find-replace": "^2.0.1",
+				"lodash.camelcase": "^4.3.0",
+				"typical": "^2.6.1"
+			},
+			"gitHead": "c3c597a971691597dfdcb3b925f4f5ae17c45fb5",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@5.0.0",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "9.4.0",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"integrity": "sha512-jp5PY9xA7pff6TaLS5y10zRqD5Xwsk/kODoIZy+FIKyHwcKFBsMAL3OMwL88VfrpAN706WFWZaPEjDaY5u2/xA==",
+				"shasum": "37303af21589f1bbe93ee5d63d7088dd30f1957e",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-5.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/command-line-args-5.0.0.tgz_1516208484620_0.5909647182561457"
+			},
+			"directories": {}
+		},
+		"5.0.1": {
+			"name": "command-line-args",
+			"version": "5.0.1",
+			"description": "A mature, feature-complete library to parse command-line options.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"scripts": {
+				"test": "test-runner test/*.js test/internals/*.js",
+				"docs": "jsdoc2md index.js > doc/API.md && jsdoc2md lib/option-definition.js > doc/option-definition.md",
+				"cover": "istanbul cover ./node_modules/.bin/test-runner test/*.js test/internals/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls #&& rm -rf coverage; echo"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"options",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"license": "MIT",
+			"engines": {
+				"node": ">=4.0.0"
+			},
+			"devDependencies": {
+				"coveralls": "^3.0.0",
+				"jsdoc-to-markdown": "^4.0.1",
+				"test-runner": "^0.5.0"
+			},
+			"dependencies": {
+				"argv-tools": "^0.1.1",
+				"array-back": "^2.0.0",
+				"find-replace": "^2.0.1",
+				"lodash.camelcase": "^4.3.0",
+				"typical": "^2.6.1"
+			},
+			"gitHead": "69a63ffe0be3608b8ee7857d08219da60ee3b5da",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@5.0.1",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "9.4.0",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"integrity": "sha512-gRJDcIjFSzMcmG/GrJlgL0wWoAxr11mVzCq32bjka0endupm9meLwvoJUKc4HDeFiEIB2X3GvNrhF5cKO4Bd4A==",
+				"shasum": "1610ba1a30b566081ce3f51268c1888c058587bd",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-5.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/command-line-args-5.0.1.tgz_1516365699669_0.42679243511520326"
+			},
+			"directories": {}
+		},
+		"5.0.2": {
+			"name": "command-line-args",
+			"version": "5.0.2",
+			"description": "A mature, feature-complete library to parse command-line options.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/75lb/command-line-args.git"
+			},
+			"scripts": {
+				"test": "test-runner test/*.js test/internals/*.js",
+				"docs": "jsdoc2md index.js > doc/API.md && jsdoc2md lib/option-definition.js > doc/option-definition.md",
+				"cover": "istanbul cover ./node_modules/.bin/test-runner test/*.js test/internals/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls #&& rm -rf coverage; echo"
+			},
+			"keywords": [
+				"argv",
+				"parse",
+				"argument",
+				"args",
+				"option",
+				"options",
+				"parser",
+				"parsing",
+				"cli",
+				"command",
+				"line"
+			],
+			"author": {
+				"name": "Lloyd Brookes",
+				"email": "75pound@gmail.com"
+			},
+			"license": "MIT",
+			"engines": {
+				"node": ">=4.0.0"
+			},
+			"devDependencies": {
+				"coveralls": "^3.0.0",
+				"jsdoc-to-markdown": "^4.0.1",
+				"test-runner": "^0.5.0"
+			},
+			"dependencies": {
+				"argv-tools": "^0.1.1",
+				"array-back": "^2.0.0",
+				"find-replace": "^2.0.1",
+				"lodash.camelcase": "^4.3.0",
+				"typical": "^2.6.1"
+			},
+			"gitHead": "1b5f13998ea37e6dc2102de1e11695307c557637",
+			"bugs": {
+				"url": "https://github.com/75lb/command-line-args/issues"
+			},
+			"homepage": "https://github.com/75lb/command-line-args#readme",
+			"_id": "command-line-args@5.0.2",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "9.5.0",
+			"_npmUser": {
+				"name": "75lb",
+				"email": "75pound@gmail.com"
+			},
+			"dist": {
+				"integrity": "sha512-/qPcbL8zpqg53x4rAaqMFlRV4opN3pbla7I7k9x8kyOBMQoGT6WltjN6sXZuxOXw6DgdK7Ad+ijYS5gjcr7vlA==",
+				"shasum": "c4e56b016636af1323cf485aa25c3cb203dfbbe4",
+				"tarball": "https://registry.npmjs.org/command-line-args/-/command-line-args-5.0.2.tgz",
+				"fileCount": 43,
+				"unpackedSize": 110725
+			},
+			"maintainers": [
+				{
+					"name": "75lb",
+					"email": "75pound@gmail.com"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/command-line-args_5.0.2_1517999662842_0.9067549476781016"
+			}
+		}
+	},
+	"dist-tags": {
+		"latest": "5.0.2"
+	},
+	"time": {
+		"modified": "2018-02-25T20:06:38.026Z",
+		"created": "2014-05-26T22:36:17.244Z",
+		"0.0.0": "2014-05-26T22:36:17.244Z",
+		"0.0.1": "2014-05-26T22:43:54.633Z",
+		"0.0.2": "2014-05-27T22:03:34.882Z",
+		"0.1.0": "2014-05-30T10:00:09.518Z",
+		"0.2.0": "2014-06-01T14:14:55.568Z",
+		"0.2.1": "2014-06-05T14:13:13.802Z",
+		"0.2.2": "2014-06-08T18:03:33.439Z",
+		"0.2.3": "2014-06-09T16:08:16.471Z",
+		"0.2.4": "2014-06-13T20:56:32.383Z",
+		"0.3.0": "2014-06-16T22:53:42.011Z",
+		"0.3.1": "2014-06-16T23:41:00.799Z",
+		"0.4.0": "2014-06-25T13:30:46.834Z",
+		"0.5.0": "2014-07-15T10:13:05.255Z",
+		"0.5.1": "2014-09-18T14:49:07.815Z",
+		"0.5.2": "2014-10-09T16:23:20.772Z",
+		"0.5.3": "2014-11-05T15:33:01.539Z",
+		"0.5.4": "2015-02-01T12:44:08.951Z",
+		"0.5.5": "2015-02-01T12:47:27.357Z",
+		"0.5.6": "2015-03-14T13:24:45.816Z",
+		"0.5.7": "2015-03-14T13:28:31.389Z",
+		"0.5.8": "2015-03-17T23:09:31.530Z",
+		"0.5.9": "2015-03-18T23:07:07.073Z",
+		"1.0.0-0": "2015-07-06T08:56:44.906Z",
+		"1.0.0-1": "2015-07-09T08:12:49.990Z",
+		"1.0.0-2": "2015-07-09T20:15:06.854Z",
+		"1.0.0-3": "2015-07-10T22:35:22.447Z",
+		"1.0.0-4": "2015-08-05T22:42:21.470Z",
+		"1.1.0-0": "2015-08-05T22:51:18.425Z",
+		"1.1.0-1": "2015-08-09T18:57:14.048Z",
+		"1.0.0": "2015-08-13T22:22:24.712Z",
+		"1.0.1": "2015-09-21T14:56:25.609Z",
+		"1.0.2": "2015-09-28T20:33:51.213Z",
+		"2.0.0": "2015-10-12T15:30:22.904Z",
+		"2.0.1": "2015-10-12T18:55:17.694Z",
+		"2.0.2": "2015-10-12T19:05:23.777Z",
+		"2.0.3": "2015-10-28T17:49:11.018Z",
+		"2.0.4": "2015-10-28T20:31:01.553Z",
+		"2.1.0": "2015-11-04T21:44:47.265Z",
+		"2.1.1": "2015-11-11T22:09:19.783Z",
+		"2.1.2": "2015-11-28T11:34:11.062Z",
+		"2.1.3": "2015-11-29T12:03:43.376Z",
+		"2.1.4": "2016-01-01T09:55:10.707Z",
+		"2.1.5": "2016-02-15T16:29:14.127Z",
+		"2.1.6": "2016-02-15T16:51:23.071Z",
+		"3.0.0": "2016-05-29T13:19:47.307Z",
+		"3.0.1": "2016-07-31T12:59:25.637Z",
+		"3.0.2": "2016-10-31T11:48:07.373Z",
+		"3.0.3-0": "2016-11-08T11:09:39.564Z",
+		"3.0.3": "2016-11-08T19:35:18.601Z",
+		"3.0.4": "2016-12-03T12:18:24.700Z",
+		"3.0.5": "2016-12-25T00:27:20.366Z",
+		"4.0.0-0": "2017-01-28T21:55:26.656Z",
+		"4.0.0-1": "2017-01-31T21:05:58.185Z",
+		"4.0.0": "2017-01-31T21:49:13.121Z",
+		"4.0.1": "2017-02-01T10:25:21.949Z",
+		"4.0.2": "2017-03-06T21:48:02.832Z",
+		"4.0.3": "2017-04-22T11:04:01.926Z",
+		"4.0.4": "2017-05-02T22:13:05.187Z",
+		"4.0.5": "2017-05-23T17:12:44.898Z",
+		"4.0.6": "2017-05-30T18:25:57.630Z",
+		"4.0.7": "2017-08-09T22:48:24.685Z",
+		"5.0.0-alpha.0": "2018-01-15T23:02:06.900Z",
+		"5.0.0-alpha.1": "2018-01-16T22:03:27.796Z",
+		"5.0.0-alpha.2": "2018-01-17T15:31:24.225Z",
+		"5.0.0": "2018-01-17T17:01:24.970Z",
+		"5.0.1": "2018-01-19T12:41:39.861Z",
+		"5.0.2": "2018-02-07T10:34:23.795Z"
+	},
+	"_distfiles": {
+		"command-line-args-0.0.0.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.0.0.tgz",
+			"sha": "b9f4d6c7f10911ca97e0f32155c0a1acbd8dd738",
+			"registry": "npmjs"
+		},
+		"command-line-args-0.0.1.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.0.1.tgz",
+			"sha": "e84c1b8d2c1cde2bd2aeaf8c401f56d6c47893f3",
+			"registry": "npmjs"
+		},
+		"command-line-args-0.0.2.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.0.2.tgz",
+			"sha": "2d45b310ffacd7f261f057cb8c7ddf09ca0d7e7a",
+			"registry": "npmjs"
+		},
+		"command-line-args-0.1.0.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.1.0.tgz",
+			"sha": "b9b1f08d5387ea4658591717c6c10530ca607cd5",
+			"registry": "npmjs"
+		},
+		"command-line-args-0.2.0.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.2.0.tgz",
+			"sha": "81b784e7bfb218b3f98aa80f1eb82eec055408c7",
+			"registry": "npmjs"
+		},
+		"command-line-args-0.2.1.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.2.1.tgz",
+			"sha": "6ebb0a64366c832fbb88f1fdd1aeba3eeb96ebe3",
+			"registry": "npmjs"
+		},
+		"command-line-args-0.2.2.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.2.2.tgz",
+			"sha": "f77e67bbc17ba1af4c33fd8a490b54894b7fbf1c",
+			"registry": "npmjs"
+		},
+		"command-line-args-0.2.3.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.2.3.tgz",
+			"sha": "904d00d517e30e7c323571e037f93c9e4ae2bee2",
+			"registry": "npmjs"
+		},
+		"command-line-args-0.2.4.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.2.4.tgz",
+			"sha": "b94092b8f379f0b76a872ad5b6a0ee33cdfbcf26",
+			"registry": "npmjs"
+		},
+		"command-line-args-0.3.0.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.3.0.tgz",
+			"sha": "0e1259c3a5f4b1c922853296b95a6528587c1b68",
+			"registry": "npmjs"
+		},
+		"command-line-args-0.3.1.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.3.1.tgz",
+			"sha": "69b93fe0bf6c27dd6b54fb2fc4ec61be85931ab4",
+			"registry": "npmjs"
+		},
+		"command-line-args-0.4.0.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.4.0.tgz",
+			"sha": "fd5d67730aa4a3a745e9101289aa4cc1f9d82289",
+			"registry": "npmjs"
+		},
+		"command-line-args-0.5.0.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.5.0.tgz",
+			"sha": "64d639ecda899d9ac939c66e20c7cd09eadd8c59",
+			"registry": "npmjs"
+		},
+		"command-line-args-0.5.1.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.5.1.tgz",
+			"sha": "6439ce1732478acf9ef9d941b7d2ee04cdfc6757",
+			"registry": "npmjs"
+		},
+		"command-line-args-0.5.2.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.5.2.tgz",
+			"sha": "d484776ee4d01394ac6ff2a5330ae331a2bc2df8",
+			"registry": "npmjs"
+		},
+		"command-line-args-0.5.3.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.5.3.tgz",
+			"sha": "ef5232132b53e35e76dcceb1d5a126e82148ef5b",
+			"registry": "npmjs"
+		},
+		"command-line-args-0.5.4.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.5.4.tgz",
+			"sha": "579639894b5da2f81cba885b69564b96ccc407d2",
+			"registry": "npmjs"
+		},
+		"command-line-args-0.5.5.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.5.5.tgz",
+			"sha": "26400a50bbed81a4c0b0a563b1df2bd8c7d25b1a",
+			"registry": "npmjs"
+		},
+		"command-line-args-0.5.6.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.5.6.tgz",
+			"sha": "a1b5c5d0013e5b665e480eb7885767b652484319",
+			"registry": "npmjs"
+		},
+		"command-line-args-0.5.7.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.5.7.tgz",
+			"sha": "2ca5e43e4eb6e59e7db2dcce5cdb1fcf2afe8952",
+			"registry": "npmjs"
+		},
+		"command-line-args-0.5.8.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.5.8.tgz",
+			"sha": "dd6b57c864c5186420983cda1b52cd365a02a0f9",
+			"registry": "npmjs"
+		},
+		"command-line-args-0.5.9.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-0.5.9.tgz",
+			"sha": "d441733ba9b11786433e53dcf1bde472bfe69b6c",
+			"registry": "npmjs"
+		},
+		"command-line-args-1.0.0-0.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-1.0.0-0.tgz",
+			"sha": "197600ed0efd1b0489b1b2a0d2409bed264f936c",
+			"registry": "npmjs"
+		},
+		"command-line-args-1.0.0-1.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-1.0.0-1.tgz",
+			"sha": "6ef94753120206eae9b7b09af346a26e8feb8c15",
+			"registry": "npmjs"
+		},
+		"command-line-args-1.0.0-2.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-1.0.0-2.tgz",
+			"sha": "3bd084beda70e38998e20ac93cf663f7a691c53c",
+			"registry": "npmjs"
+		},
+		"command-line-args-1.0.0-3.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-1.0.0-3.tgz",
+			"sha": "d30936a13d073674d4334abb14b0b16ff50e9637",
+			"registry": "npmjs"
+		},
+		"command-line-args-1.1.0-0.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-1.1.0-0.tgz",
+			"sha": "e956368b4b4d2793cee766e29cc6add2ead910a9",
+			"registry": "npmjs"
+		},
+		"command-line-args-1.1.0-1.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-1.1.0-1.tgz",
+			"sha": "8fbfb0ebdd8ca91f9aee03fec5845b52b6528e4b",
+			"registry": "npmjs"
+		},
+		"command-line-args-1.0.0.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-1.0.0.tgz",
+			"sha": "4c693a3e198b288ce1bdf4f4b72dc9d5a60955c0",
+			"registry": "npmjs"
+		},
+		"command-line-args-1.0.1.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-1.0.1.tgz",
+			"sha": "0f8c80282edc1c57b70b832ea8dfc79738b7d7f5",
+			"registry": "npmjs"
+		},
+		"command-line-args-1.0.2.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-1.0.2.tgz",
+			"sha": "eb355962a1e4a98d998a1b8cf94e4c54002a5b76",
+			"registry": "npmjs"
+		},
+		"command-line-args-2.0.0.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-2.0.0.tgz",
+			"sha": "429de5d4bc70513f61b3f28355958bf534f24ff3",
+			"registry": "npmjs"
+		},
+		"command-line-args-2.0.1.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-2.0.1.tgz",
+			"sha": "fe7912e2e64c49de9c93908b0969a0e6a59c15a9",
+			"registry": "npmjs"
+		},
+		"command-line-args-2.0.2.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-2.0.2.tgz",
+			"sha": "f0011d10722444225601c4319700093176429032",
+			"registry": "npmjs"
+		},
+		"command-line-args-2.0.3.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-2.0.3.tgz",
+			"sha": "a893950e628863d89551f7fb56822ecc152e3f82",
+			"registry": "npmjs"
+		},
+		"command-line-args-2.0.4.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-2.0.4.tgz",
+			"sha": "5b0c93b3c91c2e6277bcd61eb66aa24643c7249e",
+			"registry": "npmjs"
+		},
+		"command-line-args-2.1.0.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-2.1.0.tgz",
+			"sha": "295309b0501df9bf1ab3b0871b6983742c9c39ad",
+			"registry": "npmjs"
+		},
+		"command-line-args-2.1.1.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-2.1.1.tgz",
+			"sha": "74750c8294a39283756d233dc886a3599fc4d15c",
+			"registry": "npmjs"
+		},
+		"command-line-args-2.1.2.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-2.1.2.tgz",
+			"sha": "6059513291ea5095905e9b3d797c13a8d3b38b3d",
+			"registry": "npmjs"
+		},
+		"command-line-args-2.1.3.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-2.1.3.tgz",
+			"sha": "a77471e922c5a0eea4db222cc67c5cb05428ebbb",
+			"registry": "npmjs"
+		},
+		"command-line-args-2.1.4.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-2.1.4.tgz",
+			"sha": "14bec0c5ec0027656172dc6c080fa73e31b01705",
+			"registry": "npmjs"
+		},
+		"command-line-args-2.1.5.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-2.1.5.tgz",
+			"sha": "f1e1359251197854891357da7886d33a07bb72d8",
+			"registry": "npmjs"
+		},
+		"command-line-args-2.1.6.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-2.1.6.tgz",
+			"sha": "f197d6eaff34c9085577484b2864375b294f5697",
+			"registry": "npmjs"
+		},
+		"command-line-args-3.0.0.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-3.0.0.tgz",
+			"sha": "2822a48080e851970ab59252afcfba45a21f6fd3",
+			"registry": "npmjs"
+		},
+		"command-line-args-3.0.1.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-3.0.1.tgz",
+			"sha": "617bac0a15d34ae848eda2aa513ed76efdc48af5",
+			"registry": "npmjs"
+		},
+		"command-line-args-3.0.2.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-3.0.2.tgz",
+			"sha": "eb4e203f936c10a20b5143667bdeaf08c933638f",
+			"registry": "npmjs"
+		},
+		"command-line-args-3.0.3-0.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-3.0.3-0.tgz",
+			"sha": "09cbb4dea4ad1f3710856cc1c898b5c0f47774ef",
+			"registry": "npmjs"
+		},
+		"command-line-args-3.0.3.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-3.0.3.tgz",
+			"sha": "87b3b2df449c71ec14e43f462a269931207a2f33",
+			"registry": "npmjs"
+		},
+		"command-line-args-3.0.4.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-3.0.4.tgz",
+			"sha": "06124399c79b055b24003425f4eb823227b83e95",
+			"registry": "npmjs"
+		},
+		"command-line-args-3.0.5.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-3.0.5.tgz",
+			"sha": "5bd4ad45e7983e5c1344918e40280ee2693c5ac0",
+			"registry": "npmjs"
+		},
+		"command-line-args-4.0.0-0.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-4.0.0-0.tgz",
+			"sha": "f20e3fa71e98cf8233e6519d376c6af3ed74b32e",
+			"registry": "npmjs"
+		},
+		"command-line-args-4.0.0-1.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-4.0.0-1.tgz",
+			"sha": "129a152bd950501fe2cd64d05e2d930158c97b23",
+			"registry": "npmjs"
+		},
+		"command-line-args-4.0.0.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-4.0.0.tgz",
+			"sha": "7abf04e91d4e656bcb87abf0a3dbcab70611563a",
+			"registry": "npmjs"
+		},
+		"command-line-args-4.0.1.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-4.0.1.tgz",
+			"sha": "b429a56e7c7d4912fbc4a6e453702a52d596f749",
+			"registry": "npmjs"
+		},
+		"command-line-args-4.0.2.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-4.0.2.tgz",
+			"sha": "a99c2f28ceabcf26ac56d38e78b600ea3b57e650",
+			"registry": "npmjs"
+		},
+		"command-line-args-4.0.3.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-4.0.3.tgz",
+			"sha": "aefb061f107f0fd8d72b3c5e0ba042b319891bae",
+			"registry": "npmjs"
+		},
+		"command-line-args-4.0.4.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-4.0.4.tgz",
+			"sha": "6b9ab497cfe82d2c1ce1e47d6c18a85382f5d9fe",
+			"registry": "npmjs"
+		},
+		"command-line-args-4.0.5.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-4.0.5.tgz",
+			"sha": "c7beccd6641f525ed6f292e17084ab3231b301be",
+			"registry": "npmjs"
+		},
+		"command-line-args-4.0.6.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-4.0.6.tgz",
+			"sha": "0ff87a1dd159890dcaeb2a005abdae71e55059fc",
+			"registry": "npmjs"
+		},
+		"command-line-args-4.0.7.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-4.0.7.tgz",
+			"sha": "f8d1916ecb90e9e121eda6428e41300bfb64cc46",
+			"registry": "npmjs"
+		},
+		"command-line-args-5.0.0-alpha.0.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-5.0.0-alpha.0.tgz",
+			"sha": "db31492a6e8b72d5d9d660976661620bf6d06442",
+			"registry": "npmjs"
+		},
+		"command-line-args-5.0.0-alpha.1.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-5.0.0-alpha.1.tgz",
+			"sha": "92c7ff334088e761ee69031995c4fdc9845b11ab",
+			"registry": "npmjs"
+		},
+		"command-line-args-5.0.0-alpha.2.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-5.0.0-alpha.2.tgz",
+			"sha": "2b32ebaab558eff01f8d716f07201dada69ab504",
+			"registry": "npmjs"
+		},
+		"command-line-args-5.0.0.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-5.0.0.tgz",
+			"sha": "37303af21589f1bbe93ee5d63d7088dd30f1957e",
+			"registry": "npmjs"
+		},
+		"command-line-args-5.0.1.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-5.0.1.tgz",
+			"sha": "1610ba1a30b566081ce3f51268c1888c058587bd",
+			"registry": "npmjs"
+		},
+		"command-line-args-5.0.2.tgz": {
+			"url": "https://registry.npmjs.org/command-line-args/-/command-line-args-5.0.2.tgz",
+			"sha": "c4e56b016636af1323cf485aa25c3cb203dfbbe4",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {
+		"command-line-args-4.0.7.tgz": {
+			"shasum": "f8d1916ecb90e9e121eda6428e41300bfb64cc46"
+		}
+	},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "\"5a93174e-1a536\"",
+			"fetched": 1519912112278
+		}
+	},
+	"_rev": "7-ba5f8b8c75dab0f7",
+	"readme": "[![view on npm](https://img.shields.io/npm/v/command-line-args.svg)](https://www.npmjs.org/package/command-line-args)\n[![npm module downloads](https://img.shields.io/npm/dt/command-line-args.svg)](https://www.npmjs.org/package/command-line-args)\n[![Build Status](https://travis-ci.org/75lb/command-line-args.svg?branch=master)](https://travis-ci.org/75lb/command-line-args)\n[![Coverage Status](https://coveralls.io/repos/github/75lb/command-line-args/badge.svg?branch=master)](https://coveralls.io/github/75lb/command-line-args?branch=master)\n[![Dependency Status](https://david-dm.org/75lb/command-line-args.svg)](https://david-dm.org/75lb/command-line-args)\n[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](https://github.com/feross/standard)\n[![Join the chat at https://gitter.im/75lb/command-line-args](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/75lb/command-line-args?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)\n\n***Upgraders, please read the [release notes](https://github.com/75lb/command-line-args/releases)***\n\n# command-line-args\nA mature, feature-complete library to parse command-line options.\n\n## Synopsis\nYou can set options using the main notation standards ([learn more](https://github.com/75lb/command-line-args/wiki/Notation-rules)). These commands are all equivalent, setting the same values:\n```\n$ example --verbose --timeout=1000 --src one.js --src two.js\n$ example --verbose --timeout 1000 --src one.js two.js\n$ example -vt 1000 --src one.js two.js\n$ example -vt 1000 one.js two.js\n```\n\nTo access the values, first create a list of [option definitions](https://github.com/75lb/command-line-args/blob/master/doc/option-definition.md) describing the options your application accepts. The [`type`](https://github.com/75lb/command-line-args/blob/master/doc/option-definition.md#optiontype--function) property is a setter function (the value supplied is passed through this), giving you full control over the value received.\n\n```js\nconst optionDefinitions = [\n  { name: 'verbose', alias: 'v', type: Boolean },\n  { name: 'src', type: String, multiple: true, defaultOption: true },\n  { name: 'timeout', alias: 't', type: Number }\n]\n```\n\nNext, parse the options using [commandLineArgs()](https://github.com/75lb/command-line-args/blob/master/doc/API.md#commandlineargsoptiondefinitions-options--object-):\n```js\nconst commandLineArgs = require('command-line-args')\nconst options = commandLineArgs(optionDefinitions)\n```\n\n`options` now looks like this:\n```js\n{\n  src: [\n    'one.js',\n    'two.js'\n  ],\n  verbose: true,\n  timeout: 1000\n}\n```\n\n### Advanced usage\n\nBeside the above typical usage, you can configure command-line-args to accept more advanced syntax forms.\n\n* [Command-based syntax](https://github.com/75lb/command-line-args/wiki/Implement-command-parsing-(git-style)) (git style) in the form:\n\n  ```\n  $ executable <command> [options]\n  ```\n\n  For example.\n\n  ```\n  $ git commit --squash -m \"This is my commit message\"\n  ```\n\n* [Command and sub-command syntax](https://github.com/75lb/command-line-args/wiki/Implement-multiple-command-parsing-(docker-style)) (docker style) in the form:\n\n  ```\n  $ executable <command> [options] <sub-command> [options]\n  ```\n\n  For example.\n\n  ```\n  $ docker run --detached --image centos bash -c yum install -y httpd\n  ```\n\n## Usage guide generation\n\nA usage guide (typically printed when `--help` is set) can be generated using [command-line-usage](https://github.com/75lb/command-line-usage). See the examples below and [read the documentation](https://github.com/75lb/command-line-usage) for instructions how to create them.\n\nA typical usage guide example.\n\n![usage](https://raw.githubusercontent.com/75lb/command-line-usage/master/example/screens/footer.png)\n\nThe [polymer-cli](https://github.com/Polymer/polymer-cli/) usage guide is a good real-life example.\n\n![usage](https://raw.githubusercontent.com/75lb/command-line-usage/master/example/screens/polymer.png)\n\n## Further Reading\n\nThere is plenty more to learn, please see [the wiki](https://github.com/75lb/command-line-args/wiki) for examples and documentation.\n\n## Install\n\n```sh\n$ npm install command-line-args --save\n```\n\n* * *\n\n&copy; 2014-18 Lloyd Brookes \\<75pound@gmail.com\\>. Documented by [jsdoc-to-markdown](https://github.com/75lb/jsdoc-to-markdown).\n"
+}

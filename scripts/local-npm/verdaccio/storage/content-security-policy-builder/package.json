@@ -1,0 +1,364 @@
+{
+	"name": "content-security-policy-builder",
+	"versions": {
+		"0.1.0": {
+			"name": "content-security-policy-builder",
+			"author": {
+				"name": "Evan Hahn",
+				"email": "me@evanhahn.com",
+				"url": "http://evanhahn.com"
+			},
+			"description": "Build Content Security Policy directives.",
+			"version": "0.1.0",
+			"keywords": [
+				"security",
+				"content",
+				"security",
+				"policy",
+				"csp",
+				"builder"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/content-security-policy-builder.git"
+			},
+			"bugs": {
+				"url": "https://github.com/helmetjs/content-security-policy-builder/issues"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"devDependencies": {
+				"mocha": "^2.3.0"
+			},
+			"dependencies": {
+				"dashify": "^0.1.0"
+			},
+			"gitHead": "0a2a4240f433c6cae46677ae9031fe48eb335464",
+			"homepage": "https://github.com/helmetjs/content-security-policy-builder#readme",
+			"_id": "content-security-policy-builder@0.1.0",
+			"_shasum": "41bf4e45287d385195ef12fa577d21063a7ab1f6",
+			"_from": ".",
+			"_npmVersion": "2.14.2",
+			"_nodeVersion": "0.12.7",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "41bf4e45287d385195ef12fa577d21063a7ab1f6",
+				"tarball": "https://registry.npmjs.org/content-security-policy-builder/-/content-security-policy-builder-0.1.0.tgz"
+			},
+			"directories": {}
+		},
+		"0.2.0": {
+			"name": "content-security-policy-builder",
+			"author": {
+				"name": "Evan Hahn",
+				"email": "me@evanhahn.com",
+				"url": "http://evanhahn.com"
+			},
+			"description": "Build Content Security Policy directives.",
+			"version": "0.2.0",
+			"license": "MIT",
+			"keywords": [
+				"security",
+				"content",
+				"security",
+				"policy",
+				"csp",
+				"builder"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/content-security-policy-builder.git"
+			},
+			"bugs": {
+				"url": "https://github.com/helmetjs/content-security-policy-builder/issues"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"devDependencies": {
+				"mocha": "^2.3.0"
+			},
+			"dependencies": {
+				"dashify": "^0.1.0"
+			},
+			"gitHead": "4228cd1fd9b606642016b2be2a236139161b8cfa",
+			"homepage": "https://github.com/helmetjs/content-security-policy-builder#readme",
+			"_id": "content-security-policy-builder@0.2.0",
+			"_shasum": "65a0688014708e701ea9ca35738215f4273f4055",
+			"_from": ".",
+			"_npmVersion": "2.14.3",
+			"_nodeVersion": "4.1.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"dist": {
+				"shasum": "65a0688014708e701ea9ca35738215f4273f4055",
+				"tarball": "https://registry.npmjs.org/content-security-policy-builder/-/content-security-policy-builder-0.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"directories": {}
+		},
+		"1.0.0": {
+			"name": "content-security-policy-builder",
+			"author": {
+				"name": "Evan Hahn",
+				"email": "me@evanhahn.com",
+				"url": "http://evanhahn.com"
+			},
+			"description": "Build Content Security Policy directives.",
+			"version": "1.0.0",
+			"license": "MIT",
+			"keywords": [
+				"security",
+				"content",
+				"security",
+				"policy",
+				"csp",
+				"builder"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/content-security-policy-builder.git"
+			},
+			"bugs": {
+				"url": "https://github.com/helmetjs/content-security-policy-builder/issues"
+			},
+			"scripts": {
+				"test": "standard && mocha"
+			},
+			"devDependencies": {
+				"mocha": "^2.3.4",
+				"standard": "^5.4.1"
+			},
+			"dependencies": {
+				"dashify": "^0.2.0"
+			},
+			"standard": {
+				"globals": [
+					"describe",
+					"it"
+				]
+			},
+			"gitHead": "24391a00abc20be71e3a27c8e56d4589652794f2",
+			"homepage": "https://github.com/helmetjs/content-security-policy-builder#readme",
+			"_id": "content-security-policy-builder@1.0.0",
+			"_shasum": "11fd40c5cc298a6c725a35f9acf71e82ab5d3243",
+			"_from": ".",
+			"_npmVersion": "3.5.3",
+			"_nodeVersion": "5.3.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "11fd40c5cc298a6c725a35f9acf71e82ab5d3243",
+				"tarball": "https://registry.npmjs.org/content-security-policy-builder/-/content-security-policy-builder-1.0.0.tgz"
+			},
+			"directories": {}
+		},
+		"1.1.0": {
+			"name": "content-security-policy-builder",
+			"author": {
+				"name": "Evan Hahn",
+				"email": "me@evanhahn.com",
+				"url": "http://evanhahn.com"
+			},
+			"description": "Build Content Security Policy directives.",
+			"version": "1.1.0",
+			"license": "MIT",
+			"keywords": [
+				"security",
+				"content",
+				"security",
+				"policy",
+				"csp",
+				"builder"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/content-security-policy-builder.git"
+			},
+			"bugs": {
+				"url": "https://github.com/helmetjs/content-security-policy-builder/issues"
+			},
+			"scripts": {
+				"pretest": "standard",
+				"test": "mocha"
+			},
+			"devDependencies": {
+				"mocha": "^2.5.3",
+				"standard": "^7.1.2"
+			},
+			"dependencies": {
+				"dashify": "^0.2.0"
+			},
+			"standard": {
+				"globals": [
+					"describe",
+					"it"
+				]
+			},
+			"gitHead": "e21300ea451088159a276bf843da9b4bd2e0b792",
+			"homepage": "https://github.com/helmetjs/content-security-policy-builder#readme",
+			"_id": "content-security-policy-builder@1.1.0",
+			"_shasum": "d91f1b076236c119850c7dee9924bf55e05772b3",
+			"_from": ".",
+			"_npmVersion": "3.10.6",
+			"_nodeVersion": "6.3.1",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "d91f1b076236c119850c7dee9924bf55e05772b3",
+				"tarball": "https://registry.npmjs.org/content-security-policy-builder/-/content-security-policy-builder-1.1.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/content-security-policy-builder-1.1.0.tgz_1469997177462_0.008100698702037334"
+			},
+			"directories": {}
+		},
+		"2.0.0": {
+			"name": "content-security-policy-builder",
+			"author": {
+				"name": "Evan Hahn",
+				"email": "me@evanhahn.com",
+				"url": "https://evanhahn.com"
+			},
+			"description": "Build Content Security Policy directives.",
+			"version": "2.0.0",
+			"license": "MIT",
+			"keywords": [
+				"security",
+				"content",
+				"security",
+				"policy",
+				"csp",
+				"builder"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/content-security-policy-builder.git"
+			},
+			"bugs": {
+				"url": "https://github.com/helmetjs/content-security-policy-builder/issues"
+			},
+			"scripts": {
+				"pretest": "standard --fix",
+				"test": "mocha"
+			},
+			"devDependencies": {
+				"mocha": "^5.0.0",
+				"standard": "^10.0.3"
+			},
+			"standard": {
+				"globals": [
+					"describe",
+					"it"
+				]
+			},
+			"gitHead": "df00a1af0afda5f6bed57bb7a35af0bd72c12181",
+			"homepage": "https://github.com/helmetjs/content-security-policy-builder#readme",
+			"_id": "content-security-policy-builder@2.0.0",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "9.4.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"dist": {
+				"integrity": "sha512-j+Nhmj1yfZAikJLImCvPJFE29x/UuBi+/MWqggGGc515JKaZrjuei2RhULJmy0MsstW3E3htl002bwmBNMKr7w==",
+				"shasum": "8749a1d542fcbe82237281ea9f716ce68b394dd2",
+				"tarball": "https://registry.npmjs.org/content-security-policy-builder/-/content-security-policy-builder-2.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/content-security-policy-builder-2.0.0.tgz_1516725108001_0.698990891687572"
+			},
+			"directories": {}
+		}
+	},
+	"dist-tags": {
+		"latest": "2.0.0"
+	},
+	"time": {
+		"modified": "2018-01-23T16:31:49.095Z",
+		"created": "2015-09-10T17:49:57.708Z",
+		"0.1.0": "2015-09-10T17:49:57.708Z",
+		"0.2.0": "2015-09-18T22:27:21.821Z",
+		"1.0.0": "2015-12-18T19:23:24.880Z",
+		"1.1.0": "2016-07-31T20:32:57.698Z",
+		"2.0.0": "2018-01-23T16:31:49.095Z"
+	},
+	"_distfiles": {
+		"content-security-policy-builder-0.1.0.tgz": {
+			"url": "https://registry.npmjs.org/content-security-policy-builder/-/content-security-policy-builder-0.1.0.tgz",
+			"sha": "41bf4e45287d385195ef12fa577d21063a7ab1f6",
+			"registry": "npmjs"
+		},
+		"content-security-policy-builder-0.2.0.tgz": {
+			"url": "https://registry.npmjs.org/content-security-policy-builder/-/content-security-policy-builder-0.2.0.tgz",
+			"sha": "65a0688014708e701ea9ca35738215f4273f4055",
+			"registry": "npmjs"
+		},
+		"content-security-policy-builder-1.0.0.tgz": {
+			"url": "https://registry.npmjs.org/content-security-policy-builder/-/content-security-policy-builder-1.0.0.tgz",
+			"sha": "11fd40c5cc298a6c725a35f9acf71e82ab5d3243",
+			"registry": "npmjs"
+		},
+		"content-security-policy-builder-1.1.0.tgz": {
+			"url": "https://registry.npmjs.org/content-security-policy-builder/-/content-security-policy-builder-1.1.0.tgz",
+			"sha": "d91f1b076236c119850c7dee9924bf55e05772b3",
+			"registry": "npmjs"
+		},
+		"content-security-policy-builder-2.0.0.tgz": {
+			"url": "https://registry.npmjs.org/content-security-policy-builder/-/content-security-policy-builder-2.0.0.tgz",
+			"sha": "8749a1d542fcbe82237281ea9f716ce68b394dd2",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "\"5a676375-2137\"",
+			"fetched": 1519837508315
+		}
+	},
+	"_rev": "1-b7f3e5bf992e34d8",
+	"readme": "Content Security Policy builder\n===============================\n[![Build Status](https://travis-ci.org/helmetjs/content-security-policy-builder.svg?branch=master)](https://travis-ci.org/helmetjs/content-security-policy-builder)\n[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)\n\nTake an object and turn it into a Content Security Policy string. Useful for building Content Security Policy libraries.\n\nIt can handle a lot of things you can you throw at it; `camelCased` or `dash-separated` directives, arrays or strings, et cetera.\n\nUsage:\n\n```javascript\nvar builder = require(\"content-security-policy-builder\")\n\n// default-src 'self' default.com; script-src scripts.com; whatever-src something; object-src\nbuilder({\n  directives: {\n    defaultSrc: [\"'self'\", \"default.com\"],\n    scriptSrc: \"scripts.com\",\n    \"whatever-src\": \"something\",\n    objectSrc: true\n  }\n})\n```\n"
+}

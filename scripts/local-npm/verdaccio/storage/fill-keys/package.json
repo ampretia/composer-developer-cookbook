@@ -1,0 +1,250 @@
+{
+	"name": "fill-keys",
+	"versions": {
+		"1.0.0": {
+			"name": "fill-keys",
+			"main": "./release",
+			"version": "1.0.0",
+			"description": "Fill keys in a destination that are defined on the source",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/bendrucker/fill-keys"
+			},
+			"author": {
+				"name": "Ben Drucker",
+				"email": "bvdrucker@gmail.com",
+				"url": "bendrucker.me"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "standard && babel-tape-runner test/*.js"
+			},
+			"keywords": [
+				"keys",
+				"object",
+				"copy"
+			],
+			"dependencies": {
+				"is-object": "^1.0.1",
+				"merge-descriptors": "^1.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.0.0",
+				"babel-tape-runner": "*",
+				"tape": "^4.0.0",
+				"standard": "git+https://github.com/bendrucker/standard#babel",
+				"publicist": "~4.0.0",
+				"publicist-es5": "~1.0.0"
+			},
+			"publicist": {
+				"builds": {
+					"es5": {
+						"dest": "./release"
+					}
+				}
+			},
+			"standard": {
+				"ignore": [
+					"release/",
+					"lib/"
+				]
+			},
+			"gitHead": "5944070ba87701ce56c89d671888f824c370ebd0",
+			"bugs": {
+				"url": "https://github.com/bendrucker/fill-keys/issues"
+			},
+			"homepage": "https://github.com/bendrucker/fill-keys",
+			"_id": "fill-keys@1.0.0",
+			"_shasum": "055e352c73919d9851eeed6740bd33acd1ea3e7c",
+			"_from": ".",
+			"_npmVersion": "2.7.6",
+			"_nodeVersion": "1.7.1",
+			"_npmUser": {
+				"name": "bendrucker",
+				"email": "bvdrucker@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bendrucker",
+					"email": "bvdrucker@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "055e352c73919d9851eeed6740bd33acd1ea3e7c",
+				"tarball": "https://registry.npmjs.org/fill-keys/-/fill-keys-1.0.0.tgz"
+			},
+			"directories": {}
+		},
+		"1.0.1": {
+			"name": "fill-keys",
+			"main": "index.js",
+			"version": "1.0.1",
+			"description": "Fill keys in a destination that are defined on the source",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/bendrucker/fill-keys.git"
+			},
+			"author": {
+				"name": "Ben Drucker",
+				"email": "bvdrucker@gmail.com",
+				"url": "bendrucker.me"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "standard && tape test.js"
+			},
+			"keywords": [
+				"keys",
+				"object",
+				"copy"
+			],
+			"dependencies": {
+				"is-object": "~1.0.1",
+				"merge-descriptors": "~1.0.0"
+			},
+			"devDependencies": {
+				"tape": "^4.0.0",
+				"standard": "^4.0.0"
+			},
+			"files": [
+				"index.js",
+				"readme.md"
+			],
+			"gitHead": "2e3216fa387e4a8f1f4e4c6af808827e7051dad9",
+			"bugs": {
+				"url": "https://github.com/bendrucker/fill-keys/issues"
+			},
+			"homepage": "https://github.com/bendrucker/fill-keys#readme",
+			"_id": "fill-keys@1.0.1",
+			"_shasum": "77064318875c40c53101d6a83f6a4825b2b70ef5",
+			"_from": ".",
+			"_npmVersion": "2.11.0",
+			"_nodeVersion": "2.2.1",
+			"_npmUser": {
+				"name": "bendrucker",
+				"email": "bvdrucker@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bendrucker",
+					"email": "bvdrucker@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "77064318875c40c53101d6a83f6a4825b2b70ef5",
+				"tarball": "https://registry.npmjs.org/fill-keys/-/fill-keys-1.0.1.tgz"
+			},
+			"directories": {}
+		},
+		"1.0.2": {
+			"name": "fill-keys",
+			"main": "index.js",
+			"version": "1.0.2",
+			"description": "Fill keys in a destination that are defined on the source",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/bendrucker/fill-keys.git"
+			},
+			"author": {
+				"name": "Ben Drucker",
+				"email": "bvdrucker@gmail.com",
+				"url": "bendrucker.me"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "standard && tape test.js"
+			},
+			"keywords": [
+				"keys",
+				"object",
+				"copy"
+			],
+			"dependencies": {
+				"is-object": "~1.0.1",
+				"merge-descriptors": "~1.0.0"
+			},
+			"devDependencies": {
+				"tape": "^4.0.0",
+				"standard": "^4.0.0"
+			},
+			"files": [
+				"index.js",
+				"readme.md"
+			],
+			"gitHead": "b2a12c4bbbcc1dfea2a9603ba8d1ea979503dbb1",
+			"bugs": {
+				"url": "https://github.com/bendrucker/fill-keys/issues"
+			},
+			"homepage": "https://github.com/bendrucker/fill-keys#readme",
+			"_id": "fill-keys@1.0.2",
+			"_shasum": "9a8fa36f4e8ad634e3bf6b4f3c8882551452eb20",
+			"_from": ".",
+			"_npmVersion": "3.3.3",
+			"_nodeVersion": "2.2.1",
+			"_npmUser": {
+				"name": "bendrucker",
+				"email": "bvdrucker@gmail.com"
+			},
+			"dist": {
+				"shasum": "9a8fa36f4e8ad634e3bf6b4f3c8882551452eb20",
+				"tarball": "https://registry.npmjs.org/fill-keys/-/fill-keys-1.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "bendrucker",
+					"email": "bvdrucker@gmail.com"
+				}
+			],
+			"directories": {}
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.2"
+	},
+	"time": {
+		"modified": "2015-10-05T14:35:04.025Z",
+		"created": "2015-05-19T10:52:21.555Z",
+		"1.0.0": "2015-05-19T10:52:21.555Z",
+		"1.0.1": "2015-06-02T19:52:55.927Z",
+		"1.0.2": "2015-10-05T14:35:04.025Z"
+	},
+	"_distfiles": {
+		"fill-keys-1.0.0.tgz": {
+			"url": "https://registry.npmjs.org/fill-keys/-/fill-keys-1.0.0.tgz",
+			"sha": "055e352c73919d9851eeed6740bd33acd1ea3e7c",
+			"registry": "npmjs"
+		},
+		"fill-keys-1.0.1.tgz": {
+			"url": "https://registry.npmjs.org/fill-keys/-/fill-keys-1.0.1.tgz",
+			"sha": "77064318875c40c53101d6a83f6a4825b2b70ef5",
+			"registry": "npmjs"
+		},
+		"fill-keys-1.0.2.tgz": {
+			"url": "https://registry.npmjs.org/fill-keys/-/fill-keys-1.0.2.tgz",
+			"sha": "9a8fa36f4e8ad634e3bf6b4f3c8882551452eb20",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {
+		"fill-keys-1.0.2.tgz": {
+			"shasum": "9a8fa36f4e8ad634e3bf6b4f3c8882551452eb20"
+		}
+	},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "\"56128a98-1694\"",
+			"fetched": 1519912117702
+		}
+	},
+	"_rev": "7-6bfde866af8649ed",
+	"readme": "# fill-keys [![Build Status](https://travis-ci.org/bendrucker/fill-keys.svg?branch=master)](https://travis-ci.org/bendrucker/fill-keys)\n\n> Fill keys in a destination that are defined on the source. Copies descriptors so properties like `enumerable` will persist. \n\n\n## Install\n\n```\n$ npm install --save fill-keys\n```\n\n\n## Usage\n\n```js\nvar fillKeys = require('fill-keys');\n\nfillKeys(destination, source);\n//=> missing destination keys in source are copied\n```\n\nfill-keys will copy descriptors. It will also copy the `source.prototype` properties onto `destination.prototype` if both `destination` and `source` are functions. \n\n## API\n\n#### `fillKeys(destination, source)` -> `destination`\n\n#### `destination`\n\n*Required*  \nType: `any`\n\nThe destination object where keys from `source` will be added.\n\n#### source\n\n*Required*  \nType: `any`\n\nThe source object from which to copy properties.\n\n#### `fillKeys.es3(destination, source)` -> `destination`\n\nAn ES3-compatible version of `fillKeys`. Behavior is identical but simple assignment is used instead of `Object.defineProperty`.\n\n\n## License\n\nMIT © [Ben Drucker](http://bendrucker.me)\n"
+}

@@ -1,0 +1,6500 @@
+{
+	"name": "helmet",
+	"versions": {
+		"0.0.1": {
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"name": "helmet",
+			"description": "Security header middleware collection for express",
+			"version": "0.0.1",
+			"repository": {
+				"url": "git://github.com/andyet/helmet.git"
+			},
+			"engines": {
+				"node": "~0.6.6"
+			},
+			"dependencies": {},
+			"devDependencies": {},
+			"main": "lib/index",
+			"_npmUser": {
+				"name": "adam_baldwin",
+				"email": "baldwin@andyet.net"
+			},
+			"_id": "helmet@0.0.1",
+			"optionalDependencies": {},
+			"_engineSupported": true,
+			"_npmVersion": "1.1.0-3",
+			"_nodeVersion": "v0.6.9",
+			"_defaultsLoaded": true,
+			"dist": {
+				"shasum": "728eef09f455304ead18d91f1e835d0ce52ff3ff",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				}
+			],
+			"directories": {}
+		},
+		"0.0.2": {
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"name": "helmet",
+			"description": "Security header middleware collection for express",
+			"version": "0.0.2",
+			"repository": {
+				"url": "git://github.com/andyet/helmet.git"
+			},
+			"engines": {
+				"node": "~0.6.6"
+			},
+			"dependencies": {},
+			"devDependencies": {},
+			"main": "lib/index",
+			"_npmUser": {
+				"name": "adam_baldwin",
+				"email": "baldwin@andyet.net"
+			},
+			"_id": "helmet@0.0.2",
+			"optionalDependencies": {},
+			"_engineSupported": true,
+			"_npmVersion": "1.1.0-3",
+			"_nodeVersion": "v0.6.9",
+			"_defaultsLoaded": true,
+			"dist": {
+				"shasum": "a3ec5d98b044c7c8f90d3c7e823291ac08712b96",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				}
+			],
+			"directories": {}
+		},
+		"0.0.3": {
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"name": "helmet",
+			"description": "Security header middleware collection for express",
+			"version": "0.0.3",
+			"repository": {
+				"url": "git://github.com/andyet/helmet.git"
+			},
+			"engines": {
+				"node": "~0.6.6"
+			},
+			"dependencies": {},
+			"devDependencies": {},
+			"main": "lib/index",
+			"_npmUser": {
+				"name": "adam_baldwin",
+				"email": "baldwin@andyet.net"
+			},
+			"_id": "helmet@0.0.3",
+			"optionalDependencies": {},
+			"_engineSupported": true,
+			"_npmVersion": "1.1.0-3",
+			"_nodeVersion": "v0.6.9",
+			"_defaultsLoaded": true,
+			"dist": {
+				"shasum": "54e758d2bad4d347a551c3bfb4591a601ac3d6f3",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				}
+			],
+			"directories": {}
+		},
+		"0.0.4": {
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"name": "helmet",
+			"description": "Security header middleware collection for express",
+			"version": "0.0.4",
+			"repository": {
+				"url": "git://github.com/andyet/helmet.git"
+			},
+			"engines": {
+				"node": "~0.6.6"
+			},
+			"dependencies": {},
+			"devDependencies": {},
+			"main": "lib/index",
+			"_npmUser": {
+				"name": "adam_baldwin",
+				"email": "baldwin@andyet.net"
+			},
+			"_id": "helmet@0.0.4",
+			"optionalDependencies": {},
+			"_engineSupported": true,
+			"_npmVersion": "1.1.21",
+			"_nodeVersion": "v0.6.18",
+			"_defaultsLoaded": true,
+			"dist": {
+				"shasum": "533ff43d6ee7e451927e48fc298022c89330dc96",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				}
+			],
+			"directories": {}
+		},
+		"0.0.5": {
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"name": "helmet",
+			"description": "Security header middleware collection for express",
+			"version": "0.0.5",
+			"repository": {
+				"url": "git://github.com/andyet/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.6.6"
+			},
+			"dependencies": {},
+			"devDependencies": {},
+			"main": "lib/index",
+			"_npmUser": {
+				"name": "adam_baldwin",
+				"email": "baldwin@andyet.net"
+			},
+			"_id": "helmet@0.0.5",
+			"optionalDependencies": {},
+			"_engineSupported": true,
+			"_npmVersion": "1.1.21",
+			"_nodeVersion": "v0.6.18",
+			"_defaultsLoaded": true,
+			"dist": {
+				"shasum": "27012e4bc79bd13d9c4b20758f84d165862b7839",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.0.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				}
+			],
+			"directories": {}
+		},
+		"0.0.6": {
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"name": "helmet",
+			"description": "Security header middleware collection for express",
+			"version": "0.0.6",
+			"repository": {
+				"url": "git://github.com/andyet/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.6.6"
+			},
+			"dependencies": {},
+			"devDependencies": {},
+			"main": "lib/index",
+			"_npmUser": {
+				"name": "adam_baldwin",
+				"email": "baldwin@andyet.net"
+			},
+			"_id": "helmet@0.0.6",
+			"optionalDependencies": {},
+			"_engineSupported": true,
+			"_npmVersion": "1.1.24",
+			"_nodeVersion": "v0.6.19",
+			"_defaultsLoaded": true,
+			"dist": {
+				"shasum": "bc5df862e40c7d2aacd12fde05bfdab29298a8da",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.0.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				}
+			],
+			"directories": {}
+		},
+		"0.0.7": {
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"name": "helmet",
+			"description": "Security header middleware collection for express",
+			"version": "0.0.7",
+			"repository": {
+				"url": "git://github.com/andyet/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.6.6"
+			},
+			"dependencies": {},
+			"devDependencies": {},
+			"main": "lib/index",
+			"_id": "helmet@0.0.7",
+			"dist": {
+				"shasum": "a98652df6256785515ad2be86aa573a273cbcfe4",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.0.7.tgz"
+			},
+			"_npmVersion": "1.1.62",
+			"_npmUser": {
+				"name": "adam_baldwin",
+				"email": "baldwin@andyet.net"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				}
+			],
+			"directories": {}
+		},
+		"0.0.8": {
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"name": "helmet",
+			"description": "Security header middleware collection for express",
+			"version": "0.0.8",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"x-frame-options",
+				"csp"
+			],
+			"repository": {
+				"url": "git://github.com/evilpacket/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.6.6"
+			},
+			"dependencies": {},
+			"devDependencies": {},
+			"main": "lib/index",
+			"_id": "helmet@0.0.8",
+			"dist": {
+				"shasum": "e1de1c372e3814de657777067487abbf8b775441",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.0.8.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.2.11",
+			"_npmUser": {
+				"name": "adam_baldwin",
+				"email": "baldwin@andyet.net"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				}
+			],
+			"directories": {}
+		},
+		"0.0.9": {
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"name": "helmet",
+			"description": "Security header middleware collection for express",
+			"version": "0.0.9",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"x-frame-options",
+				"csp"
+			],
+			"repository": {
+				"url": "git://github.com/evilpacket/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.6.6"
+			},
+			"dependencies": {},
+			"devDependencies": {},
+			"main": "lib/index",
+			"_id": "helmet@0.0.9",
+			"dist": {
+				"shasum": "4356c5763dc2073631654c8b89011f7ecab9f60a",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.0.9.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.2.11",
+			"_npmUser": {
+				"name": "adam_baldwin",
+				"email": "baldwin@andyet.net"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				}
+			],
+			"directories": {}
+		},
+		"0.0.10": {
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"name": "helmet",
+			"description": "Security header middleware collection for express",
+			"version": "0.0.10",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"x-frame-options",
+				"csp",
+				"hsts"
+			],
+			"repository": {
+				"url": "git://github.com/evilpacket/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.6.6"
+			},
+			"dependencies": {},
+			"devDependencies": {},
+			"main": "lib/index",
+			"bugs": {
+				"url": "https://github.com/evilpacket/helmet/issues"
+			},
+			"_id": "helmet@0.0.10",
+			"dist": {
+				"shasum": "c07c37f6aad5db6dfb1b249bfcd4a182123a4b37",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.0.10.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.2.32",
+			"_npmUser": {
+				"name": "adam_baldwin",
+				"email": "baldwin@andyet.net"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				}
+			],
+			"directories": {}
+		},
+		"0.0.11": {
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"name": "helmet",
+			"description": "Security header middleware collection for express",
+			"version": "0.0.11",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"x-frame-options",
+				"csp",
+				"hsts"
+			],
+			"repository": {
+				"url": "git://github.com/evilpacket/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.6.6"
+			},
+			"dependencies": {},
+			"devDependencies": {},
+			"main": "lib/index",
+			"bugs": {
+				"url": "https://github.com/evilpacket/helmet/issues"
+			},
+			"_id": "helmet@0.0.11",
+			"dist": {
+				"shasum": "5f433ffac95b2efb9c98d3511fe4df74f36c532c",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.0.11.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.2",
+			"_npmUser": {
+				"name": "adam_baldwin",
+				"email": "baldwin@andyet.net"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				}
+			],
+			"directories": {}
+		},
+		"0.1.0": {
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"name": "helmet",
+			"description": "Security header middleware collection for express",
+			"version": "0.1.0",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"x-frame-options",
+				"csp",
+				"hsts"
+			],
+			"repository": {
+				"url": "git://github.com/evilpacket/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.6.6"
+			},
+			"dependencies": {},
+			"devDependencies": {},
+			"main": "lib/index",
+			"bugs": {
+				"url": "https://github.com/evilpacket/helmet/issues"
+			},
+			"_id": "helmet@0.1.0",
+			"dist": {
+				"shasum": "ce316dfe9a439811c1a40b1e1cd6d5f4db67c82e",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.1.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.2",
+			"_npmUser": {
+				"name": "adam_baldwin",
+				"email": "baldwin@andyet.net"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				}
+			],
+			"directories": {}
+		},
+		"0.1.1": {
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"name": "helmet",
+			"description": "Security header middleware collection for express",
+			"version": "0.1.1",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"x-frame-options",
+				"csp",
+				"hsts"
+			],
+			"repository": {
+				"url": "git://github.com/evilpacket/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.6.6"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"sinon": "*"
+			},
+			"scripts": {
+				"test": "./node_modules/.bin/mocha"
+			},
+			"main": "lib/index",
+			"bugs": {
+				"url": "https://github.com/evilpacket/helmet/issues"
+			},
+			"_id": "helmet@0.1.1",
+			"dist": {
+				"shasum": "c85ad1a6be3743f8b576ae0366612a231046716a",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.1.1.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.11",
+			"_npmUser": {
+				"name": "adam_baldwin",
+				"email": "baldwin@andyet.net"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				}
+			],
+			"directories": {}
+		},
+		"0.1.2": {
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"name": "helmet",
+			"description": "Security header middleware collection for express",
+			"version": "0.1.2",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"x-frame-options",
+				"csp",
+				"hsts"
+			],
+			"repository": {
+				"url": "git://github.com/evilpacket/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.6.6"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"sinon": "*"
+			},
+			"scripts": {
+				"test": "./node_modules/.bin/mocha"
+			},
+			"main": "lib/index",
+			"bugs": {
+				"url": "https://github.com/evilpacket/helmet/issues"
+			},
+			"_id": "helmet@0.1.2",
+			"dist": {
+				"shasum": "fe6e1c3df0b6f860c5d8c4798a8d06bd18dce4b6",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.1.2.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.11",
+			"_npmUser": {
+				"name": "adam_baldwin",
+				"email": "baldwin@andyet.net"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				}
+			],
+			"directories": {}
+		},
+		"0.1.3": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"description": "Security header middleware collection for express",
+			"version": "0.1.3",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"x-frame-options",
+				"csp",
+				"hsts"
+			],
+			"repository": {
+				"url": "git://github.com/evilpacket/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.6.6"
+			},
+			"dependencies": {
+				"platform": "1.0.x"
+			},
+			"devDependencies": {
+				"connect": "2.11.x",
+				"mocha": "1.14.x",
+				"supertest": "0.8.x"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"main": "lib/index",
+			"bugs": {
+				"url": "https://github.com/evilpacket/helmet/issues"
+			},
+			"homepage": "https://github.com/evilpacket/helmet",
+			"_id": "helmet@0.1.3",
+			"dist": {
+				"shasum": "0e443f4e11015084d172bff0d5162e70c2ab32a9",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.1.3.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.4.3",
+			"_npmUser": {
+				"name": "adam_baldwin",
+				"email": "baldwin@andyet.net"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				}
+			],
+			"directories": {}
+		},
+		"0.2.0": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "Security header middleware collection for express",
+			"version": "0.2.0",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"x-frame-options",
+				"csp",
+				"hsts"
+			],
+			"repository": {
+				"url": "git://github.com/evilpacket/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.6.6"
+			},
+			"dependencies": {
+				"platform": "1.0.x",
+				"underscore": "1.6.x"
+			},
+			"devDependencies": {
+				"connect": "2.11.x",
+				"mocha": "1.14.x",
+				"supertest": "0.8.x"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"main": "lib/index",
+			"bugs": {
+				"url": "https://github.com/evilpacket/helmet/issues"
+			},
+			"_id": "helmet@0.2.0",
+			"dist": {
+				"shasum": "6fea8afb2a2132316343a4ac5f213245b7651300",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.2.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.11",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.2.1": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "Security header middleware collection for Express/Connect",
+			"version": "0.2.1",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"x-frame-options",
+				"csp",
+				"hsts"
+			],
+			"repository": {
+				"url": "git://github.com/evilpacket/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.6.6"
+			},
+			"dependencies": {
+				"platform": "1.0.x",
+				"underscore": "1.6.x"
+			},
+			"devDependencies": {
+				"connect": "2.11.x",
+				"mocha": "1.14.x",
+				"supertest": "0.8.x"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"main": "lib/index",
+			"bugs": {
+				"url": "https://github.com/evilpacket/helmet/issues"
+			},
+			"homepage": "https://github.com/evilpacket/helmet",
+			"_id": "helmet@0.2.1",
+			"dist": {
+				"shasum": "5e5e6d4d7761e199368fc63426cec9bea39b10d3",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.2.1.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.4.3",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.2.2": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "Security header middleware collection for Express/Connect",
+			"version": "0.2.2",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"x-frame-options",
+				"csp",
+				"hsts",
+				"crossdomain.xml"
+			],
+			"repository": {
+				"url": "git://github.com/evilpacket/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.6.6"
+			},
+			"dependencies": {
+				"platform": "1.1.x",
+				"underscore": "1.6.x"
+			},
+			"devDependencies": {
+				"connect": "2.18.x",
+				"mocha": "1.20.x",
+				"supertest": "0.13.x"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"main": "lib/index",
+			"bugs": {
+				"url": "https://github.com/evilpacket/helmet/issues"
+			},
+			"homepage": "https://github.com/evilpacket/helmet",
+			"_id": "helmet@0.2.2",
+			"dist": {
+				"shasum": "037411b970d911707670a2252bb61b9ce26289bd",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.2.2.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.4.3",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.2.3": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "Security middleware collection for Express/Connect",
+			"version": "0.2.3",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"x-frame-options",
+				"csp",
+				"hsts",
+				"crossdomain.xml"
+			],
+			"repository": {
+				"url": "git://github.com/evilpacket/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.6.6"
+			},
+			"dependencies": {
+				"platform": "1.1.x",
+				"underscore": "1.6.x"
+			},
+			"devDependencies": {
+				"connect": "2.18.x",
+				"mocha": "1.20.x",
+				"supertest": "0.13.x"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"main": "lib/index",
+			"bugs": {
+				"url": "https://github.com/evilpacket/helmet/issues"
+			},
+			"_id": "helmet@0.2.3",
+			"dist": {
+				"shasum": "81e9ec750ac5826b3c762ef2259ad9268144c86e",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.2.3.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.11",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.2.4": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "Security middleware collection for Express/Connect",
+			"version": "0.2.4",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"x-frame-options",
+				"csp",
+				"hsts",
+				"crossdomain.xml"
+			],
+			"repository": {
+				"url": "git://github.com/evilpacket/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.6.6"
+			},
+			"dependencies": {
+				"platform": "1.1.x",
+				"underscore": "1.6.x"
+			},
+			"devDependencies": {
+				"connect": "2.19.x",
+				"mocha": "1.20.x",
+				"supertest": "0.13.x"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"main": "lib/index",
+			"bugs": {
+				"url": "https://github.com/evilpacket/helmet/issues"
+			},
+			"homepage": "https://github.com/evilpacket/helmet",
+			"_id": "helmet@0.2.4",
+			"dist": {
+				"shasum": "6a4962d4ed607e6dcb5afefb6a8c14ce08584e12",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.2.4.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.4.3",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.3.0": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "Security middleware collection for Express/Connect",
+			"version": "0.3.0",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"crossdomain.xml"
+			],
+			"bugs": {
+				"url": "https://github.com/evilpacket/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/evilpacket/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.6.6"
+			},
+			"dependencies": {
+				"camelize": "0.1.x",
+				"connect": "3.0.x",
+				"platform": "1.2.x",
+				"underscore": "1.6.x"
+			},
+			"devDependencies": {
+				"jshint": "2.5.x",
+				"mocha": "1.20.x",
+				"sinon": "1.10.x",
+				"supertest": "0.13.x"
+			},
+			"scripts": {
+				"test": "mocha",
+				"hint": "jshint ."
+			},
+			"main": "lib/index",
+			"gitHead": "d0352449003030bfc3ffb0a92fe33937e20746f5",
+			"homepage": "https://github.com/evilpacket/helmet",
+			"_id": "helmet@0.3.0",
+			"_shasum": "8d4853fb24c37b4327dc9ba180de8c786c59953c",
+			"_from": ".",
+			"_npmVersion": "1.4.14",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "8d4853fb24c37b4327dc9ba180de8c786c59953c",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.3.0.tgz"
+			},
+			"directories": {}
+		},
+		"0.3.1": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "Security middleware collection for Express/Connect",
+			"version": "0.3.1",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"crossdomain.xml",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/evilpacket/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/evilpacket/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.6.6"
+			},
+			"dependencies": {
+				"camelize": "0.1.x",
+				"connect": "3.0.x",
+				"platform": "1.2.x",
+				"underscore": "1.6.x"
+			},
+			"devDependencies": {
+				"jshint": "2.5.x",
+				"mocha": "1.20.x",
+				"sinon": "1.10.x",
+				"supertest": "0.13.x"
+			},
+			"scripts": {
+				"test": "mocha",
+				"hint": "jshint ."
+			},
+			"main": "lib/index",
+			"gitHead": "8ac99ff75a13b6b689550eb1bf6a19662a08d8fc",
+			"homepage": "https://github.com/evilpacket/helmet",
+			"_id": "helmet@0.3.1",
+			"_shasum": "1b652950e4ec9e65c9549af31983ae995d0f9044",
+			"_from": ".",
+			"_npmVersion": "1.4.14",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "1b652950e4ec9e65c9549af31983ae995d0f9044",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.3.1.tgz"
+			},
+			"directories": {}
+		},
+		"0.3.2": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "Security middleware collection for Express/Connect",
+			"version": "0.3.2",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"crossdomain.xml",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/evilpacket/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/evilpacket/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.6.6"
+			},
+			"dependencies": {
+				"camelize": "0.1.x",
+				"connect": "3.0.x",
+				"platform": "1.2.x",
+				"underscore": "1.6.x"
+			},
+			"devDependencies": {
+				"jshint": "2.5.x",
+				"mocha": "1.20.x",
+				"sinon": "1.10.x",
+				"supertest": "0.13.x"
+			},
+			"scripts": {
+				"test": "mocha",
+				"hint": "jshint ."
+			},
+			"main": "lib/index",
+			"gitHead": "4442a1c2667f91674420862cd65153327f3672f0",
+			"homepage": "https://github.com/evilpacket/helmet",
+			"_id": "helmet@0.3.2",
+			"_shasum": "7e828dbf0658f28717bee3c190f0e39a080ab052",
+			"_from": ".",
+			"_npmVersion": "1.4.14",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "7e828dbf0658f28717bee3c190f0e39a080ab052",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.3.2.tgz"
+			},
+			"directories": {}
+		},
+		"0.4.0": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "Security middleware collection for Express/Connect",
+			"version": "0.4.0",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"crossdomain.xml",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/evilpacket/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/evilpacket/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.6.6"
+			},
+			"dependencies": {
+				"camelize": "1.0.x",
+				"connect": "3.0.x",
+				"platform": "1.2.x",
+				"underscore": "1.6.x"
+			},
+			"devDependencies": {
+				"jshint": "2.5.x",
+				"mocha": "1.20.x",
+				"sinon": "1.10.x",
+				"supertest": "0.13.x"
+			},
+			"scripts": {
+				"test": "mocha",
+				"hint": "jshint ."
+			},
+			"main": "lib/index",
+			"gitHead": "c7b995e4a5332a319b8baa6d91b6bdc29776ec2c",
+			"homepage": "https://github.com/evilpacket/helmet",
+			"_id": "helmet@0.4.0",
+			"_shasum": "851ff16e70700d66194fe05c7b27fb02b0f05ca4",
+			"_from": ".",
+			"_npmVersion": "1.4.14",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "851ff16e70700d66194fe05c7b27fb02b0f05ca4",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.4.0.tgz"
+			},
+			"directories": {}
+		},
+		"0.4.1": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "Security middleware collection for Express/Connect",
+			"version": "0.4.1",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"crossdomain.xml",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/evilpacket/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/evilpacket/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.6.6"
+			},
+			"dependencies": {
+				"camelize": "1.0.x",
+				"connect": "3.0.x",
+				"helmet-crossdomain": "^0.1.0",
+				"platform": "1.2.x",
+				"underscore": "1.6.x"
+			},
+			"devDependencies": {
+				"jshint": "2.5.x",
+				"mocha": "1.20.x",
+				"sinon": "1.10.x",
+				"supertest": "0.13.x"
+			},
+			"scripts": {
+				"test": "mocha",
+				"hint": "jshint ."
+			},
+			"main": "lib/index",
+			"gitHead": "cbfcceee41f688a8e1f4cd0f59fd708b0f5c1218",
+			"homepage": "https://github.com/evilpacket/helmet",
+			"_id": "helmet@0.4.1",
+			"_shasum": "5f2fe259ba3352f0c00c18f48555612d851cc783",
+			"_from": ".",
+			"_npmVersion": "1.4.21",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "5f2fe259ba3352f0c00c18f48555612d851cc783",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.4.1.tgz"
+			},
+			"directories": {}
+		},
+		"0.4.2": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "Security middleware collection for Express/Connect",
+			"version": "0.4.2",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"crossdomain.xml",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/evilpacket/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/evilpacket/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.6.6"
+			},
+			"dependencies": {
+				"camelize": "1.0.x",
+				"connect": "3.0.x",
+				"helmet-crossdomain": "^0.1.0",
+				"platform": "1.2.x",
+				"underscore": "1.6.x"
+			},
+			"devDependencies": {
+				"jshint": "2.5.x",
+				"mocha": "1.20.x",
+				"sinon": "1.10.x",
+				"supertest": "0.13.x"
+			},
+			"scripts": {
+				"test": "mocha",
+				"hint": "jshint ."
+			},
+			"main": "lib/index",
+			"gitHead": "e457f731d6b9c66d975b9c53b05ecdbe6add1244",
+			"homepage": "https://github.com/evilpacket/helmet",
+			"_id": "helmet@0.4.2",
+			"_shasum": "b65596af821dd3318d612ed55f2b678a4b678962",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "b65596af821dd3318d612ed55f2b678a4b678962",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.4.2.tgz"
+			},
+			"directories": {}
+		},
+		"0.5.0": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "Security middleware collection for Express/Connect",
+			"version": "0.5.0",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"crossdomain.xml",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/evilpacket/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/evilpacket/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.3.1",
+				"dont-sniff-mimetype": "0.1.0",
+				"frameguard": "0.2.0",
+				"helmet-crossdomain": "0.1.0",
+				"helmet-csp": "0.1.0",
+				"hide-powered-by": "0.1.0",
+				"hsts": "0.1.0",
+				"ienoopen": "0.1.0",
+				"nocache": "0.1.0",
+				"x-xss-protection": "0.1.0"
+			},
+			"devDependencies": {
+				"mocha": "^2.0.1",
+				"sinon": "^1.11.1"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"main": "index",
+			"gitHead": "db7a4b2a4517a8c1a02c9478e842326eeacb1c4a",
+			"homepage": "https://github.com/evilpacket/helmet",
+			"_id": "helmet@0.5.0",
+			"_shasum": "71f83cd9b0ea3bdce89b37d52aca380a6fd12d35",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "71f83cd9b0ea3bdce89b37d52aca380a6fd12d35",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.5.0.tgz"
+			},
+			"directories": {}
+		},
+		"0.5.1": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "Security middleware collection for Express/Connect",
+			"version": "0.5.1",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"crossdomain.xml",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.3.1",
+				"dont-sniff-mimetype": "0.1.0",
+				"frameguard": "0.2.0",
+				"helmet-crossdomain": "0.1.0",
+				"helmet-csp": "0.1.1",
+				"hide-powered-by": "0.1.0",
+				"hsts": "0.1.0",
+				"ienoopen": "0.1.0",
+				"nocache": "0.1.0",
+				"x-xss-protection": "0.1.0"
+			},
+			"devDependencies": {
+				"mocha": "^2.0.1",
+				"sinon": "^1.11.1"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"main": "index",
+			"gitHead": "36fd45cf0fb541bf7509fa3f13ac966320133bc3",
+			"homepage": "https://github.com/helmetjs/helmet",
+			"_id": "helmet@0.5.1",
+			"_shasum": "bfef39984923ee68919e64451acf841f98577ff0",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "bfef39984923ee68919e64451acf841f98577ff0",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.5.1.tgz"
+			},
+			"directories": {}
+		},
+		"0.5.2": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "Security middleware collection for Express/Connect",
+			"version": "0.5.2",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"crossdomain.xml",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.3.3",
+				"dont-sniff-mimetype": "0.1.0",
+				"frameguard": "0.2.0",
+				"helmet-crossdomain": "0.1.0",
+				"helmet-csp": "0.1.2",
+				"hide-powered-by": "0.1.0",
+				"hsts": "0.1.0",
+				"ienoopen": "0.1.0",
+				"nocache": "0.1.0",
+				"x-xss-protection": "0.1.0"
+			},
+			"devDependencies": {
+				"mocha": "^2.0.1",
+				"sinon": "^1.12.1"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"main": "index",
+			"gitHead": "8ae88fc2f8335150e02016f6b32b38e61d7ffe2e",
+			"homepage": "https://github.com/helmetjs/helmet",
+			"_id": "helmet@0.5.2",
+			"_shasum": "f60a9e2246f78dbdf3565ed6c333004de5a44fa1",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "f60a9e2246f78dbdf3565ed6c333004de5a44fa1",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.5.2.tgz"
+			},
+			"directories": {}
+		},
+		"0.5.3": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "Security middleware collection for Express/Connect",
+			"version": "0.5.3",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"crossdomain.xml",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.3.3",
+				"dont-sniff-mimetype": "0.1.0",
+				"frameguard": "0.2.0",
+				"helmet-crossdomain": "0.1.0",
+				"helmet-csp": "0.1.2",
+				"hide-powered-by": "0.1.0",
+				"hsts": "0.1.0",
+				"ienoopen": "0.1.0",
+				"nocache": "0.1.0",
+				"x-xss-protection": "0.1.1"
+			},
+			"devDependencies": {
+				"mocha": "^2.0.1",
+				"sinon": "^1.12.1"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"main": "index",
+			"gitHead": "7e15a20e59f4a49b637588c72086362e2d58d6ac",
+			"homepage": "https://github.com/helmetjs/helmet",
+			"_id": "helmet@0.5.3",
+			"_shasum": "31b9f2cf8e322a30da4a64babb1a08ca2e5f57ce",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "31b9f2cf8e322a30da4a64babb1a08ca2e5f57ce",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.5.3.tgz"
+			},
+			"directories": {}
+		},
+		"0.5.4": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "Security middleware collection for Express/Connect",
+			"version": "0.5.4",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"crossdomain.xml",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.3.3",
+				"dont-sniff-mimetype": "0.1.0",
+				"frameguard": "0.2.0",
+				"helmet-crossdomain": "0.1.0",
+				"helmet-csp": "0.1.2",
+				"hide-powered-by": "0.1.0",
+				"hsts": "0.1.0",
+				"ienoopen": "0.1.0",
+				"nocache": "0.2.0",
+				"x-xss-protection": "0.1.1"
+			},
+			"devDependencies": {
+				"mocha": "^2.0.1",
+				"sinon": "^1.12.1"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"main": "index",
+			"gitHead": "fd4fda598252c85546e2725ddbe702b91c257d0c",
+			"homepage": "https://github.com/helmetjs/helmet",
+			"_id": "helmet@0.5.4",
+			"_shasum": "59b84a7dce1bf3366ef0a1cbb1f5aecc5eac89d3",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "59b84a7dce1bf3366ef0a1cbb1f5aecc5eac89d3",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.5.4.tgz"
+			},
+			"directories": {}
+		},
+		"0.6.0": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "Security middleware collection for Express/Connect",
+			"version": "0.6.0",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"crossdomain.xml",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.3.4",
+				"dont-sniff-mimetype": "0.1.0",
+				"frameguard": "0.2.0",
+				"helmet-crossdomain": "0.1.0",
+				"helmet-csp": "0.2.0",
+				"hide-powered-by": "0.1.0",
+				"hsts": "0.1.0",
+				"ienoopen": "0.1.0",
+				"nocache": "0.2.0",
+				"x-xss-protection": "0.1.1"
+			},
+			"devDependencies": {
+				"mocha": "^2.1.0",
+				"sinon": "^1.12.2"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"main": "index",
+			"gitHead": "84d5cc73e98828383c5d3a13c60d78964f3db432",
+			"homepage": "https://github.com/helmetjs/helmet",
+			"_id": "helmet@0.6.0",
+			"_shasum": "81bfd3565e2e5c886b9144d0a77d1d3624b1005b",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "81bfd3565e2e5c886b9144d0a77d1d3624b1005b",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.6.0.tgz"
+			},
+			"directories": {}
+		},
+		"0.6.1": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "Security middleware collection for Express/Connect",
+			"version": "0.6.1",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"crossdomain.xml",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.3.4",
+				"dont-sniff-mimetype": "0.1.0",
+				"frameguard": "0.2.0",
+				"helmet-crossdomain": "0.1.0",
+				"helmet-csp": "0.2.0",
+				"hide-powered-by": "0.1.0",
+				"hsts": "0.1.0",
+				"ienoopen": "0.1.0",
+				"nocache": "0.2.0",
+				"x-xss-protection": "0.1.1"
+			},
+			"devDependencies": {
+				"mocha": "^2.1.0",
+				"sinon": "^1.12.2"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"main": "index",
+			"gitHead": "32eb649c3838d84b691947267e04709a796c2ded",
+			"homepage": "https://github.com/helmetjs/helmet",
+			"_id": "helmet@0.6.1",
+			"_shasum": "f1e10be09ca197dc99f73b6ed43e9e19327c4c84",
+			"_from": ".",
+			"_npmVersion": "2.5.1",
+			"_nodeVersion": "0.12.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "f1e10be09ca197dc99f73b6ed43e9e19327c4c84",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.6.1.tgz"
+			},
+			"directories": {}
+		},
+		"0.6.2": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "Security middleware collection for Express/Connect",
+			"version": "0.6.2",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"crossdomain.xml",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.3.4",
+				"dont-sniff-mimetype": "0.1.0",
+				"frameguard": "0.2.1",
+				"helmet-crossdomain": "0.1.0",
+				"helmet-csp": "0.2.1",
+				"hide-powered-by": "0.1.0",
+				"hsts": "0.1.0",
+				"ienoopen": "0.1.0",
+				"nocache": "0.2.0",
+				"x-xss-protection": "0.1.2"
+			},
+			"devDependencies": {
+				"mocha": "^2.1.0",
+				"sinon": "^1.12.2"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"main": "index",
+			"gitHead": "779816425abe1c599bcbc22eda94f69ec64ab10e",
+			"homepage": "https://github.com/helmetjs/helmet",
+			"_id": "helmet@0.6.2",
+			"_shasum": "88eddd3504c2acd237bfa54a41f54ed7fd218957",
+			"_from": ".",
+			"_npmVersion": "2.5.1",
+			"_nodeVersion": "0.12.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "88eddd3504c2acd237bfa54a41f54ed7fd218957",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.6.2.tgz"
+			},
+			"directories": {}
+		},
+		"0.7.0": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "Security middleware collection for Express/Connect",
+			"version": "0.7.0",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"crossdomain.xml",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.3.4",
+				"dont-sniff-mimetype": "0.1.0",
+				"frameguard": "0.2.1",
+				"helmet-crossdomain": "0.1.0",
+				"helmet-csp": "0.2.1",
+				"hide-powered-by": "0.1.0",
+				"hpkp": "0.1.0",
+				"hsts": "0.1.0",
+				"ienoopen": "0.1.0",
+				"nocache": "0.2.0",
+				"x-xss-protection": "0.1.2"
+			},
+			"devDependencies": {
+				"mocha": "^2.1.0",
+				"sinon": "^1.12.2"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"main": "index",
+			"gitHead": "64f8cd807061f752da641bd8f3e3a3f2754715ea",
+			"homepage": "https://github.com/helmetjs/helmet",
+			"_id": "helmet@0.7.0",
+			"_shasum": "30995f76d0dab12d4e50c6dc4a021e87476e12c1",
+			"_from": ".",
+			"_npmVersion": "2.5.1",
+			"_nodeVersion": "0.12.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "30995f76d0dab12d4e50c6dc4a021e87476e12c1",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.7.0.tgz"
+			},
+			"directories": {}
+		},
+		"0.7.1": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "Security middleware collection for Express/Connect",
+			"version": "0.7.1",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"crossdomain.xml",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.3.5",
+				"dont-sniff-mimetype": "0.1.0",
+				"frameguard": "0.2.1",
+				"helmet-crossdomain": "0.1.0",
+				"helmet-csp": "0.2.2",
+				"hide-powered-by": "0.1.0",
+				"hpkp": "0.1.0",
+				"hsts": "0.1.1",
+				"ienoopen": "0.1.0",
+				"nocache": "0.2.0",
+				"x-xss-protection": "0.1.2"
+			},
+			"devDependencies": {
+				"mocha": "^2.2.1",
+				"sinon": "^1.14.1"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"main": "index",
+			"gitHead": "013a135d475c547e7ddfab9d75a6423aa45b9ead",
+			"homepage": "https://github.com/helmetjs/helmet",
+			"_id": "helmet@0.7.1",
+			"_shasum": "83c503175dce0c17a6056764695728b07b0d901d",
+			"_from": ".",
+			"_npmVersion": "2.5.1",
+			"_nodeVersion": "0.12.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "83c503175dce0c17a6056764695728b07b0d901d",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.7.1.tgz"
+			},
+			"directories": {}
+		},
+		"0.8.0": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "Security middleware collection for Express/Connect",
+			"version": "0.8.0",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.3.5",
+				"depd": "1.0.1",
+				"dont-sniff-mimetype": "0.1.0",
+				"frameguard": "0.2.2",
+				"helmet-crossdomain": "0.1.0",
+				"helmet-csp": "0.2.3",
+				"hide-powered-by": "0.1.0",
+				"hpkp": "0.1.0",
+				"hsts": "0.1.2",
+				"ienoopen": "0.1.0",
+				"nocache": "0.2.0",
+				"x-xss-protection": "0.1.2"
+			},
+			"devDependencies": {
+				"mocha": "^2.2.1",
+				"proxyquire": "^1.4.0",
+				"sinon": "^1.14.1"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"main": "index",
+			"gitHead": "e99bcb86e73a319463281e8aac9a914181900083",
+			"homepage": "https://github.com/helmetjs/helmet",
+			"_id": "helmet@0.8.0",
+			"_shasum": "a6c12e9e6f80611329a3b4af34fd075ebdaea7fe",
+			"_from": ".",
+			"_npmVersion": "2.7.4",
+			"_nodeVersion": "0.12.2",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "a6c12e9e6f80611329a3b4af34fd075ebdaea7fe",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.8.0.tgz"
+			},
+			"directories": {}
+		},
+		"0.9.0": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "0.9.0",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.3.5",
+				"depd": "1.0.1",
+				"dont-sniff-mimetype": "0.1.0",
+				"frameguard": "0.2.2",
+				"helmet-crossdomain": "0.1.0",
+				"helmet-csp": "0.2.3",
+				"hide-powered-by": "0.1.0",
+				"hpkp": "0.1.0",
+				"hsts": "0.1.2",
+				"ienoopen": "0.1.0",
+				"nocache": "0.3.0",
+				"x-xss-protection": "0.1.2"
+			},
+			"devDependencies": {
+				"mocha": "^2.2.1",
+				"proxyquire": "^1.4.0",
+				"sinon": "^1.14.1"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"main": "index",
+			"gitHead": "57f9cc548d0db5d4389536b70f73fc86ae239c8c",
+			"homepage": "https://github.com/helmetjs/helmet",
+			"_id": "helmet@0.9.0",
+			"_shasum": "40f278d7b249f79fee60c427dbabbd425aaf58b9",
+			"_from": ".",
+			"_npmVersion": "2.7.6",
+			"_nodeVersion": "0.12.2",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "40f278d7b249f79fee60c427dbabbd425aaf58b9",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.9.0.tgz"
+			},
+			"directories": {}
+		},
+		"0.9.1": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "0.9.1",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.3.5",
+				"depd": "1.0.1",
+				"dont-sniff-mimetype": "0.1.0",
+				"frameguard": "0.2.2",
+				"helmet-crossdomain": "0.1.0",
+				"helmet-csp": "0.2.3",
+				"hide-powered-by": "0.1.0",
+				"hpkp": "0.1.0",
+				"hsts": "0.1.3",
+				"ienoopen": "0.1.0",
+				"nocache": "0.3.0",
+				"x-xss-protection": "0.1.2"
+			},
+			"devDependencies": {
+				"mocha": "^2.2.1",
+				"proxyquire": "^1.4.0",
+				"sinon": "^1.14.1"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"main": "index",
+			"gitHead": "ba60bc2fb936ffdc2d3241b7128b78b4ec5e7b1f",
+			"homepage": "https://github.com/helmetjs/helmet#readme",
+			"_id": "helmet@0.9.1",
+			"_shasum": "99512e3b21d7170d65679279adfb681810569707",
+			"_from": ".",
+			"_npmVersion": "2.11.0",
+			"_nodeVersion": "0.12.4",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "99512e3b21d7170d65679279adfb681810569707",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.9.1.tgz"
+			},
+			"directories": {}
+		},
+		"0.10.0": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "0.10.0",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.3.5",
+				"depd": "1.0.1",
+				"dont-sniff-mimetype": "0.1.0",
+				"frameguard": "0.2.2",
+				"helmet-crossdomain": "0.1.0",
+				"helmet-csp": "0.2.3",
+				"hide-powered-by": "0.1.0",
+				"hpkp": "0.2.0",
+				"hsts": "0.1.3",
+				"ienoopen": "0.1.0",
+				"nocache": "0.3.0",
+				"x-xss-protection": "0.1.2"
+			},
+			"devDependencies": {
+				"mocha": "^2.2.1",
+				"proxyquire": "^1.4.0",
+				"sinon": "^1.14.1"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"main": "index",
+			"gitHead": "4fd31da7bd7f010de34ede3db56eecac4b39c300",
+			"homepage": "https://github.com/helmetjs/helmet#readme",
+			"_id": "helmet@0.10.0",
+			"_shasum": "0ac5a3f6887a565403f903feb7df790398285753",
+			"_from": ".",
+			"_npmVersion": "2.12.1",
+			"_nodeVersion": "0.12.6",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "0ac5a3f6887a565403f903feb7df790398285753",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.10.0.tgz"
+			},
+			"directories": {}
+		},
+		"0.11.0": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "0.11.0",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.4.0",
+				"depd": "1.1.0",
+				"dont-sniff-mimetype": "0.1.0",
+				"frameguard": "0.2.2",
+				"helmet-crossdomain": "0.1.0",
+				"helmet-csp": "0.3.0",
+				"hide-powered-by": "0.1.0",
+				"hpkp": "0.2.0",
+				"hsts": "0.1.3",
+				"ienoopen": "0.1.0",
+				"nocache": "0.3.0",
+				"x-xss-protection": "0.1.2"
+			},
+			"devDependencies": {
+				"mocha": "^2.2.1",
+				"proxyquire": "^1.4.0",
+				"sinon": "^1.14.1"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"main": "index",
+			"gitHead": "5e2110b06c69e201290179fa78422d7baa314e9c",
+			"homepage": "https://github.com/helmetjs/helmet#readme",
+			"_id": "helmet@0.11.0",
+			"_shasum": "1fbbc8debb7ea579183f01c23a25cd0f4719f98c",
+			"_from": ".",
+			"_npmVersion": "2.14.3",
+			"_nodeVersion": "4.1.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"dist": {
+				"shasum": "1fbbc8debb7ea579183f01c23a25cd0f4719f98c",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.11.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.12.0": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "0.12.0",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.4.0",
+				"depd": "1.1.0",
+				"dont-sniff-mimetype": "0.1.0",
+				"frameguard": "0.2.2",
+				"helmet-crossdomain": "0.1.0",
+				"helmet-csp": "0.3.0",
+				"hide-powered-by": "0.1.0",
+				"hpkp": "0.2.0",
+				"hsts": "0.2.0",
+				"ienoopen": "0.1.0",
+				"nocache": "0.3.0",
+				"x-xss-protection": "0.1.2"
+			},
+			"devDependencies": {
+				"mocha": "^2.2.1",
+				"proxyquire": "^1.4.0",
+				"sinon": "^1.14.1"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"main": "index",
+			"gitHead": "6158182ab76a85a808a29a597edbed9b4bb795fc",
+			"homepage": "https://github.com/helmetjs/helmet#readme",
+			"_id": "helmet@0.12.0",
+			"_shasum": "efe9054513386f5665bab0877bd36cc6eff3a00c",
+			"_from": ".",
+			"_npmVersion": "2.14.3",
+			"_nodeVersion": "4.1.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"dist": {
+				"shasum": "efe9054513386f5665bab0877bd36cc6eff3a00c",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.12.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.13.0": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "0.13.0",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.4.0",
+				"depd": "1.1.0",
+				"dont-sniff-mimetype": "0.1.0",
+				"frameguard": "0.2.2",
+				"helmet-crossdomain": "0.1.0",
+				"helmet-csp": "0.3.0",
+				"hide-powered-by": "0.1.0",
+				"hpkp": "0.2.0",
+				"hsts": "0.2.0",
+				"ienoopen": "0.1.0",
+				"nocache": "0.3.0",
+				"x-xss-protection": "0.2.0"
+			},
+			"devDependencies": {
+				"mocha": "^2.2.1",
+				"proxyquire": "^1.4.0",
+				"sinon": "^1.14.1"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"main": "index",
+			"gitHead": "0802c5a6db34eb6e882332526252d5e42cc562ed",
+			"homepage": "https://github.com/helmetjs/helmet#readme",
+			"_id": "helmet@0.13.0",
+			"_shasum": "77fbaa37da57977f00af4e9d5fe4a1691e3e87bc",
+			"_from": ".",
+			"_npmVersion": "2.14.7",
+			"_nodeVersion": "4.2.1",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"dist": {
+				"shasum": "77fbaa37da57977f00af4e9d5fe4a1691e3e87bc",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.13.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.14.0": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "0.14.0",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.4.0",
+				"depd": "1.1.0",
+				"dont-sniff-mimetype": "0.1.0",
+				"frameguard": "0.2.2",
+				"helmet-crossdomain": "0.1.0",
+				"helmet-csp": "0.3.0",
+				"hide-powered-by": "0.1.0",
+				"hpkp": "0.2.0",
+				"hsts": "0.2.0",
+				"ienoopen": "0.1.0",
+				"nocache": "0.4.0",
+				"x-xss-protection": "0.2.0"
+			},
+			"devDependencies": {
+				"mocha": "^2.2.1",
+				"proxyquire": "^1.4.0",
+				"sinon": "^1.14.1"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"main": "index",
+			"gitHead": "22ba881f14255e0ec23dbbaaa15905ef9506bf7c",
+			"homepage": "https://github.com/helmetjs/helmet#readme",
+			"_id": "helmet@0.14.0",
+			"_shasum": "1f3432d056e0398b5987a8af9aef05713fe8f1b7",
+			"_from": ".",
+			"_npmVersion": "3.3.10",
+			"_nodeVersion": "4.2.1",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "1f3432d056e0398b5987a8af9aef05713fe8f1b7",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.14.0.tgz"
+			},
+			"directories": {}
+		},
+		"0.15.0": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "0.15.0",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.4.0",
+				"depd": "1.1.0",
+				"dont-sniff-mimetype": "0.1.0",
+				"frameguard": "0.2.2",
+				"helmet-crossdomain": "0.1.0",
+				"helmet-csp": "0.3.0",
+				"hide-powered-by": "0.1.0",
+				"hpkp": "0.3.0",
+				"hsts": "0.2.0",
+				"ienoopen": "0.1.0",
+				"nocache": "0.4.0",
+				"x-xss-protection": "0.2.0"
+			},
+			"devDependencies": {
+				"mocha": "^2.2.1",
+				"proxyquire": "^1.4.0",
+				"sinon": "^1.14.1"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"main": "index",
+			"gitHead": "364700593b03880446987ac3a79b601e2b907b7d",
+			"homepage": "https://github.com/helmetjs/helmet#readme",
+			"_id": "helmet@0.15.0",
+			"_shasum": "05178a6ca779b98244706c810d0eb6e701ce099d",
+			"_from": ".",
+			"_npmVersion": "3.3.12",
+			"_nodeVersion": "5.1.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "05178a6ca779b98244706c810d0eb6e701ce099d",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-0.15.0.tgz"
+			},
+			"directories": {}
+		},
+		"1.0.0": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "1.0.0",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.4.0",
+				"dont-sniff-mimetype": "1.0.0",
+				"frameguard": "1.0.0",
+				"helmet-csp": "1.0.0",
+				"hide-powered-by": "1.0.0",
+				"hpkp": "1.0.0",
+				"hsts": "1.0.0",
+				"ienoopen": "1.0.0",
+				"nocache": "1.0.0",
+				"x-xss-protection": "1.0.0"
+			},
+			"devDependencies": {
+				"mocha": "^2.2.1",
+				"sinon": "^1.14.1",
+				"standard": "^5.4.1"
+			},
+			"scripts": {
+				"test": "standard && mocha"
+			},
+			"license": "MIT",
+			"main": "index",
+			"standard": {
+				"globals": [
+					"describe",
+					"it"
+				]
+			},
+			"gitHead": "141ffc091a3b8a568fd80fb1250b0476dc19466f",
+			"homepage": "https://github.com/helmetjs/helmet#readme",
+			"_id": "helmet@1.0.0",
+			"_shasum": "240ff4cd559c340ac1f2802cb819b2ef5db30e4a",
+			"_from": ".",
+			"_npmVersion": "3.5.3",
+			"_nodeVersion": "5.3.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "240ff4cd559c340ac1f2802cb819b2ef5db30e4a",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-1.0.0.tgz"
+			},
+			"directories": {}
+		},
+		"1.0.1": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "1.0.1",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.4.0",
+				"dont-sniff-mimetype": "1.0.0",
+				"frameguard": "1.0.0",
+				"helmet-csp": "1.0.1",
+				"hide-powered-by": "1.0.0",
+				"hpkp": "1.0.0",
+				"hsts": "1.0.0",
+				"ienoopen": "1.0.0",
+				"nocache": "1.0.0",
+				"x-xss-protection": "1.0.0"
+			},
+			"devDependencies": {
+				"mocha": "^2.2.1",
+				"sinon": "^1.14.1",
+				"standard": "^5.4.1"
+			},
+			"scripts": {
+				"test": "standard && mocha"
+			},
+			"license": "MIT",
+			"main": "index",
+			"standard": {
+				"globals": [
+					"describe",
+					"it"
+				]
+			},
+			"gitHead": "6974d2ce05ec9eb576b194a026fd146a1106c5b9",
+			"homepage": "https://github.com/helmetjs/helmet#readme",
+			"_id": "helmet@1.0.1",
+			"_shasum": "2b89584d6ecc6e2efb494ee003af5ed0eabb4a59",
+			"_from": ".",
+			"_npmVersion": "3.5.3",
+			"_nodeVersion": "5.2.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "2b89584d6ecc6e2efb494ee003af5ed0eabb4a59",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-1.0.1.tgz"
+			},
+			"directories": {}
+		},
+		"1.0.2": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "1.0.2",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.4.0",
+				"dont-sniff-mimetype": "1.0.0",
+				"frameguard": "1.0.0",
+				"helmet-csp": "1.0.3",
+				"hide-powered-by": "1.0.0",
+				"hpkp": "1.0.0",
+				"hsts": "1.0.0",
+				"ienoopen": "1.0.0",
+				"nocache": "1.0.0",
+				"x-xss-protection": "1.0.0"
+			},
+			"devDependencies": {
+				"mocha": "^2.2.1",
+				"sinon": "^1.14.1",
+				"standard": "^5.4.1"
+			},
+			"scripts": {
+				"test": "standard && mocha"
+			},
+			"license": "MIT",
+			"main": "index",
+			"standard": {
+				"globals": [
+					"describe",
+					"it"
+				]
+			},
+			"gitHead": "4c53767515a9495e1d4c1cb5f5b65b8fdaf365b4",
+			"homepage": "https://github.com/helmetjs/helmet#readme",
+			"_id": "helmet@1.0.2",
+			"_shasum": "45ef94709ccc4221c86dfe3966b64835f399ae69",
+			"_from": ".",
+			"_npmVersion": "3.5.3",
+			"_nodeVersion": "5.3.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "45ef94709ccc4221c86dfe3966b64835f399ae69",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-1.0.2.tgz"
+			},
+			"directories": {}
+		},
+		"1.1.0": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "1.1.0",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.4.0",
+				"dns-prefetch-control": "0.1.0",
+				"dont-sniff-mimetype": "1.0.0",
+				"frameguard": "1.0.0",
+				"helmet-csp": "1.0.3",
+				"hide-powered-by": "1.0.0",
+				"hpkp": "1.0.0",
+				"hsts": "1.0.0",
+				"ienoopen": "1.0.0",
+				"nocache": "1.0.0",
+				"x-xss-protection": "1.0.0"
+			},
+			"devDependencies": {
+				"mocha": "^2.2.1",
+				"sinon": "^1.14.1",
+				"standard": "^5.4.1"
+			},
+			"scripts": {
+				"test": "standard && mocha"
+			},
+			"license": "MIT",
+			"main": "index",
+			"standard": {
+				"globals": [
+					"describe",
+					"it"
+				]
+			},
+			"gitHead": "837ba110b536cdb3f85598ba805e64368ce52fc1",
+			"homepage": "https://github.com/helmetjs/helmet#readme",
+			"_id": "helmet@1.1.0",
+			"_shasum": "1dd59e6b4568fdbe4abbdb60cb4174eb033829a6",
+			"_from": ".",
+			"_npmVersion": "3.5.3",
+			"_nodeVersion": "5.3.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "1dd59e6b4568fdbe4abbdb60cb4174eb033829a6",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-1.1.0.tgz"
+			},
+			"directories": {}
+		},
+		"1.2.0": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "1.2.0",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.4.1",
+				"dns-prefetch-control": "0.1.0",
+				"dont-sniff-mimetype": "1.0.0",
+				"frameguard": "1.1.0",
+				"helmet-csp": "1.1.0",
+				"hide-powered-by": "1.0.0",
+				"hpkp": "1.0.0",
+				"hsts": "1.0.0",
+				"ienoopen": "1.0.0",
+				"nocache": "1.0.0",
+				"x-xss-protection": "1.0.0"
+			},
+			"devDependencies": {
+				"mocha": "^2.4.5",
+				"sinon": "^1.17.3",
+				"standard": "^6.0.7"
+			},
+			"scripts": {
+				"test": "standard && mocha"
+			},
+			"license": "MIT",
+			"main": "index",
+			"standard": {
+				"globals": [
+					"describe",
+					"it"
+				]
+			},
+			"gitHead": "263de4902cf917d01491f562563754d46bc0053d",
+			"homepage": "https://github.com/helmetjs/helmet#readme",
+			"_id": "helmet@1.2.0",
+			"_shasum": "af66ea539d34bc148b336af2bf485eff09389edf",
+			"_from": ".",
+			"_npmVersion": "3.7.5",
+			"_nodeVersion": "5.7.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "af66ea539d34bc148b336af2bf485eff09389edf",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-1.2.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-5-east.internal.npmjs.com",
+				"tmp": "tmp/helmet-1.2.0.tgz_1456758561869_0.0049660042859613895"
+			},
+			"directories": {}
+		},
+		"1.3.0": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "1.3.0",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.4.1",
+				"dns-prefetch-control": "0.1.0",
+				"dont-sniff-mimetype": "1.0.0",
+				"frameguard": "1.1.0",
+				"helmet-csp": "1.1.0",
+				"hide-powered-by": "1.0.0",
+				"hpkp": "1.1.0",
+				"hsts": "1.0.0",
+				"ienoopen": "1.0.0",
+				"nocache": "1.0.0",
+				"x-xss-protection": "1.0.0"
+			},
+			"devDependencies": {
+				"mocha": "^2.4.5",
+				"sinon": "^1.17.3",
+				"standard": "^6.0.7"
+			},
+			"scripts": {
+				"test": "standard && mocha"
+			},
+			"license": "MIT",
+			"main": "index",
+			"standard": {
+				"globals": [
+					"describe",
+					"it"
+				]
+			},
+			"gitHead": "aaf9130997ece10ec5cf03b4d6a60f730c016bc2",
+			"homepage": "https://github.com/helmetjs/helmet#readme",
+			"_id": "helmet@1.3.0",
+			"_shasum": "e1b59c5484f7ac081a48cc7634139b4ec38cf8b5",
+			"_from": ".",
+			"_npmVersion": "3.7.5",
+			"_nodeVersion": "5.7.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "e1b59c5484f7ac081a48cc7634139b4ec38cf8b5",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-1.3.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-11-east.internal.npmjs.com",
+				"tmp": "tmp/helmet-1.3.0.tgz_1456881859978_0.06553985876962543"
+			},
+			"directories": {}
+		},
+		"2.0.0": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "2.0.0",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.4.1",
+				"dns-prefetch-control": "0.1.0",
+				"dont-sniff-mimetype": "1.0.0",
+				"frameguard": "2.0.0",
+				"helmet-csp": "1.1.0",
+				"hide-powered-by": "1.0.0",
+				"hpkp": "1.1.0",
+				"hsts": "1.0.0",
+				"ienoopen": "1.0.0",
+				"nocache": "1.0.0",
+				"x-xss-protection": "1.0.0"
+			},
+			"devDependencies": {
+				"mocha": "^2.4.5",
+				"sinon": "^1.17.3",
+				"standard": "^6.0.7"
+			},
+			"scripts": {
+				"pretest": "standard",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"main": "index",
+			"standard": {
+				"globals": [
+					"describe",
+					"it",
+					"beforeEach",
+					"afterEach"
+				]
+			},
+			"gitHead": "9c8f0473872c3d1caef218ae947a16974d23b8fb",
+			"homepage": "https://github.com/helmetjs/helmet#readme",
+			"_id": "helmet@2.0.0",
+			"_shasum": "5c63e6133bd5297a879cb03d0347631d3af72722",
+			"_from": ".",
+			"_npmVersion": "3.8.8",
+			"_nodeVersion": "6.0.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "5c63e6133bd5297a879cb03d0347631d3af72722",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-2.0.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/helmet-2.0.0.tgz_1461954215046_0.3089020897168666"
+			},
+			"directories": {}
+		},
+		"2.1.0": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "2.1.0",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.4.1",
+				"dns-prefetch-control": "0.1.0",
+				"dont-sniff-mimetype": "1.0.0",
+				"frameguard": "2.0.0",
+				"helmet-csp": "1.2.0",
+				"hide-powered-by": "1.0.0",
+				"hpkp": "1.1.0",
+				"hsts": "1.0.0",
+				"ienoopen": "1.0.0",
+				"nocache": "1.0.0",
+				"x-xss-protection": "1.0.0"
+			},
+			"devDependencies": {
+				"mocha": "^2.4.5",
+				"sinon": "^1.17.3",
+				"standard": "^7.1.0"
+			},
+			"scripts": {
+				"pretest": "standard",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"main": "index",
+			"standard": {
+				"globals": [
+					"describe",
+					"it",
+					"beforeEach",
+					"afterEach"
+				]
+			},
+			"gitHead": "c840e440d075e82fee279cab353d8ba15a42bce2",
+			"homepage": "https://github.com/helmetjs/helmet#readme",
+			"_id": "helmet@2.1.0",
+			"_shasum": "03504494611d2c5f5585c491aa398254ee9ffae4",
+			"_from": ".",
+			"_npmVersion": "3.9.2",
+			"_nodeVersion": "6.2.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "03504494611d2c5f5585c491aa398254ee9ffae4",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-2.1.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/helmet-2.1.0.tgz_1463615882283_0.1518576426897198"
+			},
+			"directories": {}
+		},
+		"2.1.1": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "2.1.1",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.4.1",
+				"dns-prefetch-control": "0.1.0",
+				"dont-sniff-mimetype": "1.0.0",
+				"frameguard": "2.0.0",
+				"helmet-csp": "1.2.1",
+				"hide-powered-by": "1.0.0",
+				"hpkp": "1.1.0",
+				"hsts": "1.0.0",
+				"ienoopen": "1.0.0",
+				"nocache": "1.0.0",
+				"x-xss-protection": "1.0.0"
+			},
+			"devDependencies": {
+				"mocha": "^2.4.5",
+				"sinon": "^1.17.3",
+				"standard": "^7.1.0"
+			},
+			"scripts": {
+				"pretest": "standard",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"main": "index",
+			"standard": {
+				"globals": [
+					"describe",
+					"it",
+					"beforeEach",
+					"afterEach"
+				]
+			},
+			"gitHead": "b6d6c32f20a52457a8946755e77d0b712c474751",
+			"homepage": "https://github.com/helmetjs/helmet#readme",
+			"_id": "helmet@2.1.1",
+			"_shasum": "b2cae8b0f9975124970e7a542f1eaddce0db34c8",
+			"_from": ".",
+			"_npmVersion": "3.9.6",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "b2cae8b0f9975124970e7a542f1eaddce0db34c8",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-2.1.1.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/helmet-2.1.1.tgz_1465592161808_0.7241842993535101"
+			},
+			"directories": {}
+		},
+		"2.1.2": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "2.1.2",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.4.1",
+				"dns-prefetch-control": "0.1.0",
+				"dont-sniff-mimetype": "1.0.0",
+				"frameguard": "2.0.0",
+				"helmet-csp": "1.2.2",
+				"hide-powered-by": "1.0.0",
+				"hpkp": "1.1.0",
+				"hsts": "1.0.0",
+				"ienoopen": "1.0.0",
+				"nocache": "1.0.1",
+				"x-xss-protection": "1.0.0"
+			},
+			"devDependencies": {
+				"mocha": "^2.4.5",
+				"sinon": "^1.17.3",
+				"standard": "^7.1.0"
+			},
+			"scripts": {
+				"pretest": "standard",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"main": "index",
+			"standard": {
+				"globals": [
+					"describe",
+					"it",
+					"beforeEach",
+					"afterEach"
+				]
+			},
+			"gitHead": "df23283e465de52e1a38ee3b2acc5a46d8ba0e8b",
+			"homepage": "https://github.com/helmetjs/helmet#readme",
+			"_id": "helmet@2.1.2",
+			"_shasum": "c9e213e8cbe3ed7d9ed816581de0dc2e7469a9cd",
+			"_from": ".",
+			"_npmVersion": "3.10.6",
+			"_nodeVersion": "6.3.1",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "c9e213e8cbe3ed7d9ed816581de0dc2e7469a9cd",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-2.1.2.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/helmet-2.1.2.tgz_1469644494525_0.8797276350669563"
+			},
+			"directories": {}
+		},
+		"2.1.3": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "2.1.3",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.4.1",
+				"dns-prefetch-control": "0.1.0",
+				"dont-sniff-mimetype": "1.0.0",
+				"frameguard": "2.0.0",
+				"helmet-csp": "1.2.2",
+				"hide-powered-by": "1.0.0",
+				"hpkp": "1.1.0",
+				"hsts": "1.0.0",
+				"ienoopen": "1.0.0",
+				"nocache": "1.0.1",
+				"x-xss-protection": "1.0.0"
+			},
+			"devDependencies": {
+				"mocha": "^2.4.5",
+				"sinon": "^1.17.3",
+				"standard": "^7.1.0"
+			},
+			"scripts": {
+				"pretest": "standard",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"main": "index",
+			"standard": {
+				"globals": [
+					"describe",
+					"it",
+					"beforeEach",
+					"afterEach"
+				]
+			},
+			"gitHead": "07809492edb53309535f673d22e4b4bffbf01a92",
+			"homepage": "https://github.com/helmetjs/helmet#readme",
+			"_id": "helmet@2.1.3",
+			"_shasum": "2e51be8497bee3bbcff29d09d48592ba8cd20994",
+			"_from": ".",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.4.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"dist": {
+				"shasum": "2e51be8497bee3bbcff29d09d48592ba8cd20994",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-2.1.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/helmet-2.1.3.tgz_1473260025059_0.4917513767722994"
+			},
+			"directories": {}
+		},
+		"2.2.0": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "2.2.0",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.4.1",
+				"dns-prefetch-control": "0.1.0",
+				"dont-sniff-mimetype": "1.0.0",
+				"frameguard": "2.0.0",
+				"helmet-csp": "1.2.2",
+				"hide-powered-by": "1.0.0",
+				"hpkp": "1.1.0",
+				"hsts": "1.0.0",
+				"ienoopen": "1.0.0",
+				"nocache": "1.0.1",
+				"referrer-policy": "1.0.0",
+				"x-xss-protection": "1.0.0"
+			},
+			"devDependencies": {
+				"mocha": "^2.4.5",
+				"sinon": "^1.17.3",
+				"standard": "^7.1.0"
+			},
+			"scripts": {
+				"pretest": "standard",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"main": "index",
+			"standard": {
+				"globals": [
+					"describe",
+					"it",
+					"beforeEach",
+					"afterEach"
+				]
+			},
+			"gitHead": "54597f55ebd2f05a1bff3b4fb8d8a55e7f0d54ca",
+			"homepage": "https://github.com/helmetjs/helmet#readme",
+			"_id": "helmet@2.2.0",
+			"_shasum": "fa0737d113fba4bd29d1b39650ac679ad673b948",
+			"_from": ".",
+			"_npmVersion": "3.10.7",
+			"_nodeVersion": "6.5.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "fa0737d113fba4bd29d1b39650ac679ad673b948",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-2.2.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/helmet-2.2.0.tgz_1474055762981_0.22089014295488596"
+			},
+			"directories": {}
+		},
+		"2.3.0": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "2.3.0",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.4.1",
+				"dns-prefetch-control": "0.1.0",
+				"dont-sniff-mimetype": "1.0.0",
+				"frameguard": "2.0.0",
+				"helmet-csp": "1.2.2",
+				"hide-powered-by": "1.0.0",
+				"hpkp": "1.2.0",
+				"hsts": "1.0.0",
+				"ienoopen": "1.0.0",
+				"nocache": "1.0.1",
+				"referrer-policy": "1.0.0",
+				"x-xss-protection": "1.0.0"
+			},
+			"devDependencies": {
+				"mocha": "^2.4.5",
+				"sinon": "^1.17.3",
+				"standard": "^7.1.0"
+			},
+			"scripts": {
+				"pretest": "standard",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"main": "index",
+			"standard": {
+				"globals": [
+					"describe",
+					"it",
+					"beforeEach",
+					"afterEach"
+				]
+			},
+			"gitHead": "f694279774150bce7fe2d39b08dae786fdd91adc",
+			"homepage": "https://github.com/helmetjs/helmet#readme",
+			"_id": "helmet@2.3.0",
+			"_shasum": "d655c85b55b0a3bf722a4c2c66e48b78b4161b91",
+			"_from": ".",
+			"_npmVersion": "3.10.8",
+			"_nodeVersion": "6.7.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "d655c85b55b0a3bf722a4c2c66e48b78b4161b91",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-2.3.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/helmet-2.3.0.tgz_1475275979265_0.7096879319287837"
+			},
+			"directories": {}
+		},
+		"3.0.0": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "3.0.0",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.4.1",
+				"dns-prefetch-control": "0.1.0",
+				"dont-sniff-mimetype": "1.0.0",
+				"frameguard": "3.0.0",
+				"helmet-csp": "2.0.0",
+				"hide-powered-by": "1.0.0",
+				"hpkp": "2.0.0",
+				"hsts": "2.0.0",
+				"ienoopen": "1.0.0",
+				"nocache": "2.0.0",
+				"referrer-policy": "1.0.0",
+				"x-xss-protection": "1.0.0"
+			},
+			"devDependencies": {
+				"mocha": "^2.4.5",
+				"sinon": "^1.17.3",
+				"standard": "^7.1.0"
+			},
+			"scripts": {
+				"pretest": "standard",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"main": "index",
+			"standard": {
+				"globals": [
+					"describe",
+					"it",
+					"beforeEach",
+					"afterEach"
+				]
+			},
+			"gitHead": "4620816723ce9f3403c8f8fae3929cd7544e8e0b",
+			"homepage": "https://github.com/helmetjs/helmet#readme",
+			"_id": "helmet@3.0.0",
+			"_shasum": "8f7753987493ac210fd0d9177f0ed6d91bce6a5d",
+			"_from": ".",
+			"_npmVersion": "4.0.1",
+			"_nodeVersion": "7.0.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "8f7753987493ac210fd0d9177f0ed6d91bce6a5d",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-3.0.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/helmet-3.0.0.tgz_1477688635709_0.4980172235518694"
+			},
+			"directories": {}
+		},
+		"3.1.0": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "3.1.0",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"homepage": "https://helmetjs.github.io/",
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.4.1",
+				"dns-prefetch-control": "0.1.0",
+				"dont-sniff-mimetype": "1.0.0",
+				"frameguard": "3.0.0",
+				"helmet-csp": "2.1.0",
+				"hide-powered-by": "1.0.0",
+				"hpkp": "2.0.0",
+				"hsts": "2.0.0",
+				"ienoopen": "1.0.0",
+				"nocache": "2.0.0",
+				"referrer-policy": "1.0.0",
+				"x-xss-protection": "1.0.0"
+			},
+			"devDependencies": {
+				"mocha": "^2.4.5",
+				"sinon": "^1.17.3",
+				"standard": "^7.1.0"
+			},
+			"scripts": {
+				"pretest": "standard",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"main": "index",
+			"standard": {
+				"globals": [
+					"describe",
+					"it",
+					"beforeEach",
+					"afterEach"
+				]
+			},
+			"gitHead": "6d81663e1fd885a8073681d9cb3113ff32014874",
+			"_id": "helmet@3.1.0",
+			"_shasum": "64449547398e51b063fe1c75e7cb0274a557ea09",
+			"_from": ".",
+			"_npmVersion": "4.0.1",
+			"_nodeVersion": "7.0.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "64449547398e51b063fe1c75e7cb0274a557ea09",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-3.1.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/helmet-3.1.0.tgz_1478207483553_0.017537688370794058"
+			},
+			"directories": {}
+		},
+		"3.2.0": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "3.2.0",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"homepage": "https://helmetjs.github.io/",
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.4.1",
+				"dns-prefetch-control": "0.1.0",
+				"dont-sniff-mimetype": "1.0.0",
+				"frameguard": "3.0.0",
+				"helmet-csp": "2.2.0",
+				"hide-powered-by": "1.0.0",
+				"hpkp": "2.0.0",
+				"hsts": "2.0.0",
+				"ienoopen": "1.0.0",
+				"nocache": "2.0.0",
+				"referrer-policy": "1.0.0",
+				"x-xss-protection": "1.0.0"
+			},
+			"devDependencies": {
+				"mocha": "^2.4.5",
+				"sinon": "^1.17.3",
+				"standard": "^7.1.0"
+			},
+			"scripts": {
+				"pretest": "standard",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"main": "index",
+			"standard": {
+				"globals": [
+					"describe",
+					"it",
+					"beforeEach",
+					"afterEach"
+				]
+			},
+			"gitHead": "de3cae2029495659885075d2a46c6ba44a623897",
+			"_id": "helmet@3.2.0",
+			"_shasum": "7ca9172c91c01ca792eee2ed350a030b1d1ea0ce",
+			"_from": ".",
+			"_npmVersion": "4.1.1",
+			"_nodeVersion": "7.3.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "7ca9172c91c01ca792eee2ed350a030b1d1ea0ce",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-3.2.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/helmet-3.2.0.tgz_1482431130521_0.01673686201684177"
+			},
+			"directories": {}
+		},
+		"3.3.0": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "3.3.0",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"homepage": "https://helmetjs.github.io/",
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.5.0",
+				"dns-prefetch-control": "0.1.0",
+				"dont-sniff-mimetype": "1.0.0",
+				"frameguard": "3.0.0",
+				"helmet-csp": "2.2.0",
+				"hide-powered-by": "1.0.0",
+				"hpkp": "2.0.0",
+				"hsts": "2.0.0",
+				"ienoopen": "1.0.0",
+				"nocache": "2.0.0",
+				"referrer-policy": "1.1.0",
+				"x-xss-protection": "1.0.0"
+			},
+			"devDependencies": {
+				"mocha": "^2.4.5",
+				"sinon": "^1.17.3",
+				"standard": "^8.6.0"
+			},
+			"scripts": {
+				"pretest": "standard",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"main": "index",
+			"standard": {
+				"globals": [
+					"describe",
+					"it",
+					"beforeEach",
+					"afterEach"
+				]
+			},
+			"gitHead": "5e6f31fa190f775f202fbca356a03861eb1cff2d",
+			"_id": "helmet@3.3.0",
+			"_shasum": "8eec02d8191ba97a6bdeccbf35f38326285136fd",
+			"_from": ".",
+			"_npmVersion": "3.10.9",
+			"_nodeVersion": "6.9.2",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"dist": {
+				"shasum": "8eec02d8191ba97a6bdeccbf35f38326285136fd",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-3.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/helmet-3.3.0.tgz_1483222151331_0.7482182041276246"
+			},
+			"directories": {}
+		},
+		"3.4.0": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "3.4.0",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"homepage": "https://helmetjs.github.io/",
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.5.0",
+				"dns-prefetch-control": "0.1.0",
+				"dont-sniff-mimetype": "1.0.0",
+				"frameguard": "3.0.0",
+				"helmet-csp": "2.3.0",
+				"hide-powered-by": "1.0.0",
+				"hpkp": "2.0.0",
+				"hsts": "2.0.0",
+				"ienoopen": "1.0.0",
+				"nocache": "2.0.0",
+				"referrer-policy": "1.1.0",
+				"x-xss-protection": "1.0.0"
+			},
+			"devDependencies": {
+				"mocha": "^3.2.0",
+				"sinon": "^1.17.7",
+				"standard": "^8.6.0"
+			},
+			"scripts": {
+				"pretest": "standard",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"main": "index",
+			"standard": {
+				"globals": [
+					"describe",
+					"it",
+					"beforeEach",
+					"afterEach"
+				]
+			},
+			"gitHead": "5160ad235eb3f7395e396a5a08cd5381d16c004a",
+			"_id": "helmet@3.4.0",
+			"_shasum": "05a9437486b05ca219ed8d21dc5e3b6ec0c18118",
+			"_from": ".",
+			"_npmVersion": "4.1.1",
+			"_nodeVersion": "7.4.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "05a9437486b05ca219ed8d21dc5e3b6ec0c18118",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-3.4.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/helmet-3.4.0.tgz_1484351878027_0.7850308339111507"
+			},
+			"directories": {}
+		},
+		"3.4.1": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "3.4.1",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"homepage": "https://helmetjs.github.io/",
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.6.0",
+				"dns-prefetch-control": "0.1.0",
+				"dont-sniff-mimetype": "1.0.0",
+				"frameguard": "3.0.0",
+				"helmet-csp": "2.3.0",
+				"hide-powered-by": "1.0.0",
+				"hpkp": "2.0.0",
+				"hsts": "2.0.0",
+				"ienoopen": "1.0.0",
+				"nocache": "2.0.0",
+				"referrer-policy": "1.1.0",
+				"x-xss-protection": "1.0.0"
+			},
+			"devDependencies": {
+				"mocha": "^3.2.0",
+				"sinon": "^1.17.7",
+				"standard": "^8.6.0"
+			},
+			"scripts": {
+				"pretest": "standard",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"main": "index",
+			"standard": {
+				"globals": [
+					"describe",
+					"it",
+					"beforeEach",
+					"afterEach"
+				]
+			},
+			"gitHead": "c18c03cc90bd7ad6c961e8473dbb021ea74af7ca",
+			"_id": "helmet@3.4.1",
+			"_shasum": "27d37629227f25a110f2a128bfe1b1028648a397",
+			"_from": ".",
+			"_npmVersion": "4.3.0",
+			"_nodeVersion": "7.6.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "27d37629227f25a110f2a128bfe1b1028648a397",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-3.4.1.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/helmet-3.4.1.tgz_1487983836091_0.9630669991020113"
+			},
+			"directories": {}
+		},
+		"3.5.0": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "3.5.0",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"homepage": "https://helmetjs.github.io/",
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.6.0",
+				"dns-prefetch-control": "0.1.0",
+				"dont-sniff-mimetype": "1.0.0",
+				"frameguard": "3.0.0",
+				"helmet-csp": "2.4.0",
+				"hide-powered-by": "1.0.0",
+				"hpkp": "2.0.0",
+				"hsts": "2.0.0",
+				"ienoopen": "1.0.0",
+				"nocache": "2.0.0",
+				"referrer-policy": "1.1.0",
+				"x-xss-protection": "1.0.0"
+			},
+			"devDependencies": {
+				"mocha": "^3.2.0",
+				"sinon": "^1.17.7",
+				"standard": "^9.0.1"
+			},
+			"scripts": {
+				"pretest": "standard",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"main": "index",
+			"standard": {
+				"globals": [
+					"describe",
+					"it",
+					"beforeEach",
+					"afterEach"
+				]
+			},
+			"gitHead": "ebd0d35495470708be42750204060a7f96bbd01d",
+			"_id": "helmet@3.5.0",
+			"_shasum": "e1d6de27d2e3317d3182e00d672df3d0e1e12539",
+			"_from": ".",
+			"_npmVersion": "4.4.0",
+			"_nodeVersion": "7.7.1",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "e1d6de27d2e3317d3182e00d672df3d0e1e12539",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-3.5.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/helmet-3.5.0.tgz_1489081709227_0.882290153298527"
+			},
+			"directories": {}
+		},
+		"3.6.0": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "https://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "3.6.0",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"homepage": "https://helmetjs.github.io/",
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.6.0",
+				"dns-prefetch-control": "0.1.0",
+				"dont-sniff-mimetype": "1.0.0",
+				"expect-ct": "0.1.0",
+				"frameguard": "3.0.0",
+				"helmet-csp": "2.4.0",
+				"hide-powered-by": "1.0.0",
+				"hpkp": "2.0.0",
+				"hsts": "2.0.0",
+				"ienoopen": "1.0.0",
+				"nocache": "2.0.0",
+				"referrer-policy": "1.1.0",
+				"x-xss-protection": "1.0.0"
+			},
+			"devDependencies": {
+				"mocha": "^3.2.0",
+				"sinon": "^1.17.7",
+				"standard": "^9.0.1"
+			},
+			"scripts": {
+				"pretest": "standard",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"main": "index",
+			"standard": {
+				"globals": [
+					"describe",
+					"it",
+					"beforeEach",
+					"afterEach"
+				]
+			},
+			"gitHead": "3d76e64724c4933f005aace744f7225823656cc4",
+			"_id": "helmet@3.6.0",
+			"_shasum": "cf391ecdba9c8a8ee7aec66cff4f147797e204d3",
+			"_from": ".",
+			"_npmVersion": "4.5.0",
+			"_nodeVersion": "7.9.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "cf391ecdba9c8a8ee7aec66cff4f147797e204d3",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-3.6.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/helmet-3.6.0.tgz_1493938133460_0.7470406317152083"
+			},
+			"directories": {}
+		},
+		"3.6.1": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "https://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "3.6.1",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"homepage": "https://helmetjs.github.io/",
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.6.2",
+				"dns-prefetch-control": "0.1.0",
+				"dont-sniff-mimetype": "1.0.0",
+				"expect-ct": "0.1.0",
+				"frameguard": "3.0.0",
+				"helmet-csp": "2.4.0",
+				"hide-powered-by": "1.0.0",
+				"hpkp": "2.0.0",
+				"hsts": "2.0.0",
+				"ienoopen": "1.0.0",
+				"nocache": "2.0.0",
+				"referrer-policy": "1.1.0",
+				"x-xss-protection": "1.0.0"
+			},
+			"devDependencies": {
+				"mocha": "^3.2.0",
+				"sinon": "^1.17.7",
+				"standard": "^9.0.1"
+			},
+			"scripts": {
+				"pretest": "standard",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"main": "index",
+			"standard": {
+				"globals": [
+					"describe",
+					"it",
+					"beforeEach",
+					"afterEach"
+				]
+			},
+			"gitHead": "60db9c568708fede85b8140cb9cde3f8e7c5e41c",
+			"_id": "helmet@3.6.1",
+			"_shasum": "91f3aa7fa4c94671595fb568dfd8c28489a388be",
+			"_from": ".",
+			"_npmVersion": "4.6.1",
+			"_nodeVersion": "7.10.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"dist": {
+				"shasum": "91f3aa7fa4c94671595fb568dfd8c28489a388be",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-3.6.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/helmet-3.6.1.tgz_1495405342070_0.26339506451040506"
+			},
+			"directories": {}
+		},
+		"3.7.0": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "https://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "3.7.0",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"homepage": "https://helmetjs.github.io/",
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.6.2",
+				"dns-prefetch-control": "0.1.0",
+				"dont-sniff-mimetype": "1.0.0",
+				"expect-ct": "0.1.0",
+				"frameguard": "3.0.0",
+				"helmet-csp": "2.5.0",
+				"hide-powered-by": "1.0.0",
+				"hpkp": "2.0.0",
+				"hsts": "2.0.0",
+				"ienoopen": "1.0.0",
+				"nocache": "2.0.0",
+				"referrer-policy": "1.1.0",
+				"x-xss-protection": "1.0.0"
+			},
+			"devDependencies": {
+				"mocha": "^3.2.0",
+				"sinon": "^2.2.0",
+				"standard": "^10.0.2"
+			},
+			"scripts": {
+				"pretest": "standard --fix",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"main": "index",
+			"standard": {
+				"globals": [
+					"describe",
+					"it",
+					"beforeEach",
+					"afterEach"
+				]
+			},
+			"gitHead": "146594fa67e1ab958fe5d405c9b497aae7341ff7",
+			"_id": "helmet@3.7.0",
+			"_npmVersion": "5.3.0",
+			"_nodeVersion": "8.2.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"dist": {
+				"integrity": "sha512-UxDqio4BEgqcl4HtuFQFKLw70573qDiX03/89lHr8JOs/U5c0EJergK0eePAVZfyuLLeEqUNqjW8SYKWkOYxrg==",
+				"shasum": "8a90d47ee47f8f6c7d267152bb8429e5ad4de809",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-3.7.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/helmet-3.7.0.tgz_1500653872674_0.604413230670616"
+			},
+			"directories": {}
+		},
+		"3.8.0": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "https://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "3.8.0",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"homepage": "https://helmetjs.github.io/",
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.6.2",
+				"dns-prefetch-control": "0.1.0",
+				"dont-sniff-mimetype": "1.0.0",
+				"expect-ct": "0.1.0",
+				"frameguard": "3.0.0",
+				"helmet-csp": "2.5.0",
+				"hide-powered-by": "1.0.0",
+				"hpkp": "2.0.0",
+				"hsts": "2.1.0",
+				"ienoopen": "1.0.0",
+				"nocache": "2.0.0",
+				"referrer-policy": "1.1.0",
+				"x-xss-protection": "1.0.0"
+			},
+			"devDependencies": {
+				"mocha": "^3.2.0",
+				"sinon": "^2.2.0",
+				"standard": "^10.0.2"
+			},
+			"scripts": {
+				"pretest": "standard --fix",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"main": "index",
+			"standard": {
+				"globals": [
+					"describe",
+					"it",
+					"beforeEach",
+					"afterEach"
+				]
+			},
+			"gitHead": "3ca899155e80d73b62b350225f42119e0e86d612",
+			"_id": "helmet@3.8.0",
+			"_npmVersion": "5.3.0",
+			"_nodeVersion": "8.2.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"dist": {
+				"integrity": "sha512-66RfO0koYNDIX94d8iXc0Fg+EfuQ2fvDr104bTiCno3RyD+igovNOFSe9F/X3ROrcCceLYQgxRSFD5P7fSveuA==",
+				"shasum": "bba0bfeebe4832967188e4cd233a3d444903e1a7",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-3.8.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/helmet-3.8.0.tgz_1500668697399_0.7737908675335348"
+			},
+			"directories": {}
+		},
+		"3.8.1": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "https://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "3.8.1",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"homepage": "https://helmetjs.github.io/",
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.6.2",
+				"dns-prefetch-control": "0.1.0",
+				"dont-sniff-mimetype": "1.0.0",
+				"expect-ct": "0.1.0",
+				"frameguard": "3.0.0",
+				"helmet-csp": "2.5.1",
+				"hide-powered-by": "1.0.0",
+				"hpkp": "2.0.0",
+				"hsts": "2.1.0",
+				"ienoopen": "1.0.0",
+				"nocache": "2.0.0",
+				"referrer-policy": "1.1.0",
+				"x-xss-protection": "1.0.0"
+			},
+			"devDependencies": {
+				"mocha": "^3.2.0",
+				"sinon": "^2.2.0",
+				"standard": "^10.0.2"
+			},
+			"scripts": {
+				"pretest": "standard --fix",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"main": "index",
+			"standard": {
+				"globals": [
+					"describe",
+					"it",
+					"beforeEach",
+					"afterEach"
+				]
+			},
+			"gitHead": "5587ecc927cd53392c366457a8d856c421b1cba7",
+			"_id": "helmet@3.8.1",
+			"_npmVersion": "5.3.0",
+			"_nodeVersion": "8.2.1",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"dist": {
+				"integrity": "sha512-HzcpQ74kE1gNFvTd8fI/Nz2N0b0Aa/38dSiSVt/ijkwjc50tUp5siXTE9lTBibQ4JlRzp/35Qf+j2bZgHYwg1g==",
+				"shasum": "bef2b68ffbaa19759e858c19cca7db213bb58b2d",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-3.8.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/helmet-3.8.1.tgz_1501262889653_0.11929011764004827"
+			},
+			"directories": {}
+		},
+		"3.8.2": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "https://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "3.8.2",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"homepage": "https://helmetjs.github.io/",
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"connect": "3.6.5",
+				"dns-prefetch-control": "0.1.0",
+				"dont-sniff-mimetype": "1.0.0",
+				"expect-ct": "0.1.0",
+				"frameguard": "3.0.0",
+				"helmet-csp": "2.5.1",
+				"hide-powered-by": "1.0.0",
+				"hpkp": "2.0.0",
+				"hsts": "2.1.0",
+				"ienoopen": "1.0.0",
+				"nocache": "2.0.0",
+				"referrer-policy": "1.1.0",
+				"x-xss-protection": "1.0.0"
+			},
+			"devDependencies": {
+				"mocha": "^3.2.0",
+				"sinon": "^2.2.0",
+				"standard": "^10.0.2"
+			},
+			"scripts": {
+				"pretest": "standard --fix",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"main": "index",
+			"standard": {
+				"globals": [
+					"describe",
+					"it",
+					"beforeEach",
+					"afterEach"
+				]
+			},
+			"gitHead": "c2d0810cd84305c990316c8b0d7f08aa590256ca",
+			"_id": "helmet@3.8.2",
+			"_npmVersion": "5.4.2",
+			"_nodeVersion": "8.5.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"dist": {
+				"integrity": "sha512-JMxSuCPSYgzOIlb19clar2XFuoGR0hv6VGgMEY2oyP9ZuHCZYPPBCbVGFA8holYQOshf7tAETRi5bsGQPYFb1g==",
+				"shasum": "64f988b8e9d8773ad201da455b8b6a754c229aaa",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-3.8.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/helmet-3.8.2.tgz_1506521438664_0.7718416952993721"
+			},
+			"directories": {}
+		},
+		"3.9.0": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "https://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "3.9.0",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"homepage": "https://helmetjs.github.io/",
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"dns-prefetch-control": "0.1.0",
+				"dont-sniff-mimetype": "1.0.0",
+				"expect-ct": "0.1.0",
+				"frameguard": "3.0.0",
+				"helmet-csp": "2.6.0",
+				"hide-powered-by": "1.0.0",
+				"hpkp": "2.0.0",
+				"hsts": "2.1.0",
+				"ienoopen": "1.0.0",
+				"nocache": "2.0.0",
+				"referrer-policy": "1.1.0",
+				"x-xss-protection": "1.0.0"
+			},
+			"devDependencies": {
+				"connect": "^3.6.5",
+				"mocha": "^3.2.0",
+				"sinon": "^2.2.0",
+				"standard": "^10.0.2",
+				"supertest": "^3.0.0"
+			},
+			"scripts": {
+				"pretest": "standard --fix",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"main": "index",
+			"standard": {
+				"globals": [
+					"describe",
+					"it",
+					"beforeEach",
+					"afterEach"
+				]
+			},
+			"gitHead": "27029cd46a43bf526c66c62b3f2bd49e5fb4cff7",
+			"_id": "helmet@3.9.0",
+			"_npmVersion": "5.5.1",
+			"_nodeVersion": "8.6.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"dist": {
+				"integrity": "sha512-czCyS77TyanWlfVSoGlb9GBJV2Q2zJayKxU5uBw0N1TzDTs/qVNh1SL8Q688KU0i0Sb7lQ/oLtnaEqXzl2yWvA==",
+				"shasum": "7b2cf015a2d109bca83ede7924420799c0e67dee",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-3.9.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/helmet-3.9.0.tgz_1507909395806_0.3425999120809138"
+			},
+			"directories": {}
+		},
+		"3.10.0": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "https://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "3.10.0",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"homepage": "https://helmetjs.github.io/",
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"dns-prefetch-control": "0.1.0",
+				"dont-sniff-mimetype": "1.0.0",
+				"expect-ct": "0.1.0",
+				"frameguard": "3.0.0",
+				"helmet-csp": "2.7.0",
+				"hide-powered-by": "1.0.0",
+				"hpkp": "2.0.0",
+				"hsts": "2.1.0",
+				"ienoopen": "1.0.0",
+				"nocache": "2.0.0",
+				"referrer-policy": "1.1.0",
+				"x-xss-protection": "1.0.0"
+			},
+			"devDependencies": {
+				"connect": "^3.6.5",
+				"mocha": "^5.0.0",
+				"sinon": "^4.2.0",
+				"standard": "^10.0.3",
+				"supertest": "^3.0.0"
+			},
+			"scripts": {
+				"pretest": "standard --fix",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"main": "index",
+			"standard": {
+				"globals": [
+					"describe",
+					"it",
+					"beforeEach",
+					"afterEach"
+				]
+			},
+			"gitHead": "1369653b2af831841e3261ca63e1540455ae9d34",
+			"_id": "helmet@3.10.0",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "9.4.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"dist": {
+				"integrity": "sha512-wVu5jSeImztLqNQPc4hqGr1DG0Ki2UJVmQ1KTugIrtl1f4Zw5SqVqh6QPyw5b6/Jo/iAnyTt+pcehB0RdEJsbw==",
+				"shasum": "96a2a9fec53c26009d3d6265c6cfdada38ddfa7f",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-3.10.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/helmet-3.10.0.tgz_1516726937784_0.9514134072232991"
+			},
+			"directories": {}
+		},
+		"3.11.0": {
+			"name": "helmet",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "https://evanhahn.com"
+				}
+			],
+			"description": "help secure Express/Connect apps with various HTTP headers",
+			"version": "3.11.0",
+			"keywords": [
+				"security",
+				"headers",
+				"express",
+				"connect",
+				"x-frame-options",
+				"x-powered-by",
+				"csp",
+				"hsts",
+				"clickjack"
+			],
+			"homepage": "https://helmetjs.github.io/",
+			"bugs": {
+				"url": "https://github.com/helmetjs/helmet/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/helmet.git"
+			},
+			"engines": {
+				"node": ">= 0.10.0"
+			},
+			"dependencies": {
+				"dns-prefetch-control": "0.1.0",
+				"dont-sniff-mimetype": "1.0.0",
+				"expect-ct": "0.1.0",
+				"frameguard": "3.0.0",
+				"helmet-csp": "2.7.0",
+				"hide-powered-by": "1.0.0",
+				"hpkp": "2.0.0",
+				"hsts": "2.1.0",
+				"ienoopen": "1.0.0",
+				"nocache": "2.0.0",
+				"referrer-policy": "1.1.0",
+				"x-xss-protection": "1.0.0"
+			},
+			"devDependencies": {
+				"connect": "^3.6.5",
+				"mocha": "^5.0.0",
+				"sinon": "^4.2.0",
+				"standard": "^10.0.3",
+				"supertest": "^3.0.0"
+			},
+			"scripts": {
+				"pretest": "standard --fix",
+				"test": "mocha"
+			},
+			"license": "MIT",
+			"main": "index",
+			"standard": {
+				"globals": [
+					"describe",
+					"it",
+					"beforeEach",
+					"afterEach"
+				]
+			},
+			"gitHead": "2db13e90fdc146db0f72dbc105e8595405932687",
+			"_id": "helmet@3.11.0",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "9.5.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"dist": {
+				"integrity": "sha512-Xqf6VXmjpZoyH4reGyeBCO5nHH0NVeRQnx23LFj6AK9ocPRgZJfSH6zZ8SvNO2tB+fKhsqy1RSjIjWHVvH1X+w==",
+				"shasum": "5eacccc0b5b61d786e29aa3fc5650abf73e1824f",
+				"tarball": "https://registry.npmjs.org/helmet/-/helmet-3.11.0.tgz",
+				"fileCount": 7,
+				"unpackedSize": 19001
+			},
+			"maintainers": [
+				{
+					"name": "adam_baldwin",
+					"email": "baldwin@andyet.net"
+				},
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/helmet_3.11.0_1518189647590_0.008028129604281897"
+			}
+		}
+	},
+	"dist-tags": {
+		"latest": "3.11.0"
+	},
+	"time": {
+		"modified": "2018-02-26T12:50:25.892Z",
+		"created": "2012-02-02T18:58:33.918Z",
+		"0.0.1": "2012-02-02T18:58:35.661Z",
+		"0.0.2": "2012-02-03T17:21:41.732Z",
+		"0.0.3": "2012-02-04T17:22:42.384Z",
+		"0.0.4": "2012-06-01T04:02:53.099Z",
+		"0.0.5": "2012-06-06T00:17:14.270Z",
+		"0.0.6": "2012-06-12T07:02:54.870Z",
+		"0.0.7": "2012-09-26T16:09:19.337Z",
+		"0.0.8": "2013-03-13T14:57:11.756Z",
+		"0.0.9": "2013-03-14T01:33:29.242Z",
+		"0.0.10": "2013-07-11T21:50:44.408Z",
+		"0.0.11": "2013-07-23T17:38:06.412Z",
+		"0.1.0": "2013-07-23T23:42:31.421Z",
+		"0.1.1": "2013-10-22T18:31:10.612Z",
+		"0.1.2": "2013-11-03T00:31:07.927Z",
+		"0.1.3": "2014-03-27T23:40:11.812Z",
+		"0.2.0": "2014-03-31T16:13:30.603Z",
+		"0.2.1": "2014-04-13T16:35:18.010Z",
+		"0.2.2": "2014-06-01T22:27:54.018Z",
+		"0.2.3": "2014-06-02T05:28:05.090Z",
+		"0.2.4": "2014-06-04T19:21:42.976Z",
+		"0.3.0": "2014-06-27T06:46:36.181Z",
+		"0.3.1": "2014-06-27T06:56:13.348Z",
+		"0.3.2": "2014-06-30T17:38:03.035Z",
+		"0.4.0": "2014-07-18T00:31:00.023Z",
+		"0.4.1": "2014-08-24T15:39:41.095Z",
+		"0.4.2": "2014-10-16T23:36:41.410Z",
+		"0.5.0": "2014-10-28T17:22:30.063Z",
+		"0.5.1": "2014-11-09T15:52:21.409Z",
+		"0.5.2": "2014-11-16T20:46:33.421Z",
+		"0.5.3": "2014-12-08T13:23:26.640Z",
+		"0.5.4": "2014-12-21T20:37:52.045Z",
+		"0.6.0": "2015-01-22T06:08:02.846Z",
+		"0.6.1": "2015-02-13T17:07:25.633Z",
+		"0.6.2": "2015-03-02T23:21:30.512Z",
+		"0.7.0": "2015-03-05T22:37:13.744Z",
+		"0.7.1": "2015-03-23T15:57:21.291Z",
+		"0.8.0": "2015-04-22T01:12:45.441Z",
+		"0.9.0": "2015-04-24T21:38:39.806Z",
+		"0.9.1": "2015-06-02T21:53:59.592Z",
+		"0.10.0": "2015-07-09T01:11:39.457Z",
+		"0.11.0": "2015-09-18T23:30:50.327Z",
+		"0.12.0": "2015-09-22T19:12:02.820Z",
+		"0.13.0": "2015-10-23T17:34:10.404Z",
+		"0.14.0": "2015-11-01T15:50:55.084Z",
+		"0.15.0": "2015-11-26T18:43:37.588Z",
+		"1.0.0": "2015-12-19T02:01:27.693Z",
+		"1.0.1": "2015-12-19T15:59:03.005Z",
+		"1.0.2": "2016-01-08T18:51:15.454Z",
+		"1.1.0": "2016-01-13T05:44:04.992Z",
+		"1.2.0": "2016-02-29T15:09:24.401Z",
+		"1.3.0": "2016-03-02T01:24:22.026Z",
+		"2.0.0": "2016-04-29T18:23:37.346Z",
+		"2.1.0": "2016-05-18T23:58:04.739Z",
+		"2.1.1": "2016-06-10T20:56:04.553Z",
+		"2.1.2": "2016-07-27T18:34:58.260Z",
+		"2.1.3": "2016-09-07T14:53:45.311Z",
+		"2.2.0": "2016-09-16T19:56:03.224Z",
+		"2.3.0": "2016-09-30T22:52:59.511Z",
+		"3.0.0": "2016-10-28T21:03:55.938Z",
+		"3.1.0": "2016-11-03T21:11:24.110Z",
+		"3.2.0": "2016-12-22T18:25:32.665Z",
+		"3.3.0": "2016-12-31T22:09:11.580Z",
+		"3.4.0": "2017-01-13T23:58:00.056Z",
+		"3.4.1": "2017-02-25T00:50:37.913Z",
+		"3.5.0": "2017-03-09T17:48:31.110Z",
+		"3.6.0": "2017-05-04T22:48:55.451Z",
+		"3.6.1": "2017-05-21T22:22:22.236Z",
+		"3.7.0": "2017-07-21T16:17:52.806Z",
+		"3.8.0": "2017-07-21T20:24:57.548Z",
+		"3.8.1": "2017-07-28T17:28:09.803Z",
+		"3.8.2": "2017-09-27T14:10:38.745Z",
+		"3.9.0": "2017-10-13T15:43:16.851Z",
+		"3.10.0": "2018-01-23T17:02:19.624Z",
+		"3.11.0": "2018-02-09T15:20:48.548Z"
+	},
+	"_distfiles": {
+		"helmet-0.0.1.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.0.1.tgz",
+			"sha": "728eef09f455304ead18d91f1e835d0ce52ff3ff",
+			"registry": "npmjs"
+		},
+		"helmet-0.0.2.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.0.2.tgz",
+			"sha": "a3ec5d98b044c7c8f90d3c7e823291ac08712b96",
+			"registry": "npmjs"
+		},
+		"helmet-0.0.3.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.0.3.tgz",
+			"sha": "54e758d2bad4d347a551c3bfb4591a601ac3d6f3",
+			"registry": "npmjs"
+		},
+		"helmet-0.0.4.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.0.4.tgz",
+			"sha": "533ff43d6ee7e451927e48fc298022c89330dc96",
+			"registry": "npmjs"
+		},
+		"helmet-0.0.5.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.0.5.tgz",
+			"sha": "27012e4bc79bd13d9c4b20758f84d165862b7839",
+			"registry": "npmjs"
+		},
+		"helmet-0.0.6.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.0.6.tgz",
+			"sha": "bc5df862e40c7d2aacd12fde05bfdab29298a8da",
+			"registry": "npmjs"
+		},
+		"helmet-0.0.7.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.0.7.tgz",
+			"sha": "a98652df6256785515ad2be86aa573a273cbcfe4",
+			"registry": "npmjs"
+		},
+		"helmet-0.0.8.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.0.8.tgz",
+			"sha": "e1de1c372e3814de657777067487abbf8b775441",
+			"registry": "npmjs"
+		},
+		"helmet-0.0.9.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.0.9.tgz",
+			"sha": "4356c5763dc2073631654c8b89011f7ecab9f60a",
+			"registry": "npmjs"
+		},
+		"helmet-0.0.10.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.0.10.tgz",
+			"sha": "c07c37f6aad5db6dfb1b249bfcd4a182123a4b37",
+			"registry": "npmjs"
+		},
+		"helmet-0.0.11.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.0.11.tgz",
+			"sha": "5f433ffac95b2efb9c98d3511fe4df74f36c532c",
+			"registry": "npmjs"
+		},
+		"helmet-0.1.0.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.1.0.tgz",
+			"sha": "ce316dfe9a439811c1a40b1e1cd6d5f4db67c82e",
+			"registry": "npmjs"
+		},
+		"helmet-0.1.1.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.1.1.tgz",
+			"sha": "c85ad1a6be3743f8b576ae0366612a231046716a",
+			"registry": "npmjs"
+		},
+		"helmet-0.1.2.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.1.2.tgz",
+			"sha": "fe6e1c3df0b6f860c5d8c4798a8d06bd18dce4b6",
+			"registry": "npmjs"
+		},
+		"helmet-0.1.3.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.1.3.tgz",
+			"sha": "0e443f4e11015084d172bff0d5162e70c2ab32a9",
+			"registry": "npmjs"
+		},
+		"helmet-0.2.0.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.2.0.tgz",
+			"sha": "6fea8afb2a2132316343a4ac5f213245b7651300",
+			"registry": "npmjs"
+		},
+		"helmet-0.2.1.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.2.1.tgz",
+			"sha": "5e5e6d4d7761e199368fc63426cec9bea39b10d3",
+			"registry": "npmjs"
+		},
+		"helmet-0.2.2.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.2.2.tgz",
+			"sha": "037411b970d911707670a2252bb61b9ce26289bd",
+			"registry": "npmjs"
+		},
+		"helmet-0.2.3.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.2.3.tgz",
+			"sha": "81e9ec750ac5826b3c762ef2259ad9268144c86e",
+			"registry": "npmjs"
+		},
+		"helmet-0.2.4.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.2.4.tgz",
+			"sha": "6a4962d4ed607e6dcb5afefb6a8c14ce08584e12",
+			"registry": "npmjs"
+		},
+		"helmet-0.3.0.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.3.0.tgz",
+			"sha": "8d4853fb24c37b4327dc9ba180de8c786c59953c",
+			"registry": "npmjs"
+		},
+		"helmet-0.3.1.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.3.1.tgz",
+			"sha": "1b652950e4ec9e65c9549af31983ae995d0f9044",
+			"registry": "npmjs"
+		},
+		"helmet-0.3.2.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.3.2.tgz",
+			"sha": "7e828dbf0658f28717bee3c190f0e39a080ab052",
+			"registry": "npmjs"
+		},
+		"helmet-0.4.0.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.4.0.tgz",
+			"sha": "851ff16e70700d66194fe05c7b27fb02b0f05ca4",
+			"registry": "npmjs"
+		},
+		"helmet-0.4.1.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.4.1.tgz",
+			"sha": "5f2fe259ba3352f0c00c18f48555612d851cc783",
+			"registry": "npmjs"
+		},
+		"helmet-0.4.2.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.4.2.tgz",
+			"sha": "b65596af821dd3318d612ed55f2b678a4b678962",
+			"registry": "npmjs"
+		},
+		"helmet-0.5.0.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.5.0.tgz",
+			"sha": "71f83cd9b0ea3bdce89b37d52aca380a6fd12d35",
+			"registry": "npmjs"
+		},
+		"helmet-0.5.1.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.5.1.tgz",
+			"sha": "bfef39984923ee68919e64451acf841f98577ff0",
+			"registry": "npmjs"
+		},
+		"helmet-0.5.2.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.5.2.tgz",
+			"sha": "f60a9e2246f78dbdf3565ed6c333004de5a44fa1",
+			"registry": "npmjs"
+		},
+		"helmet-0.5.3.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.5.3.tgz",
+			"sha": "31b9f2cf8e322a30da4a64babb1a08ca2e5f57ce",
+			"registry": "npmjs"
+		},
+		"helmet-0.5.4.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.5.4.tgz",
+			"sha": "59b84a7dce1bf3366ef0a1cbb1f5aecc5eac89d3",
+			"registry": "npmjs"
+		},
+		"helmet-0.6.0.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.6.0.tgz",
+			"sha": "81bfd3565e2e5c886b9144d0a77d1d3624b1005b",
+			"registry": "npmjs"
+		},
+		"helmet-0.6.1.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.6.1.tgz",
+			"sha": "f1e10be09ca197dc99f73b6ed43e9e19327c4c84",
+			"registry": "npmjs"
+		},
+		"helmet-0.6.2.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.6.2.tgz",
+			"sha": "88eddd3504c2acd237bfa54a41f54ed7fd218957",
+			"registry": "npmjs"
+		},
+		"helmet-0.7.0.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.7.0.tgz",
+			"sha": "30995f76d0dab12d4e50c6dc4a021e87476e12c1",
+			"registry": "npmjs"
+		},
+		"helmet-0.7.1.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.7.1.tgz",
+			"sha": "83c503175dce0c17a6056764695728b07b0d901d",
+			"registry": "npmjs"
+		},
+		"helmet-0.8.0.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.8.0.tgz",
+			"sha": "a6c12e9e6f80611329a3b4af34fd075ebdaea7fe",
+			"registry": "npmjs"
+		},
+		"helmet-0.9.0.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.9.0.tgz",
+			"sha": "40f278d7b249f79fee60c427dbabbd425aaf58b9",
+			"registry": "npmjs"
+		},
+		"helmet-0.9.1.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.9.1.tgz",
+			"sha": "99512e3b21d7170d65679279adfb681810569707",
+			"registry": "npmjs"
+		},
+		"helmet-0.10.0.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.10.0.tgz",
+			"sha": "0ac5a3f6887a565403f903feb7df790398285753",
+			"registry": "npmjs"
+		},
+		"helmet-0.11.0.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.11.0.tgz",
+			"sha": "1fbbc8debb7ea579183f01c23a25cd0f4719f98c",
+			"registry": "npmjs"
+		},
+		"helmet-0.12.0.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.12.0.tgz",
+			"sha": "efe9054513386f5665bab0877bd36cc6eff3a00c",
+			"registry": "npmjs"
+		},
+		"helmet-0.13.0.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.13.0.tgz",
+			"sha": "77fbaa37da57977f00af4e9d5fe4a1691e3e87bc",
+			"registry": "npmjs"
+		},
+		"helmet-0.14.0.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.14.0.tgz",
+			"sha": "1f3432d056e0398b5987a8af9aef05713fe8f1b7",
+			"registry": "npmjs"
+		},
+		"helmet-0.15.0.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-0.15.0.tgz",
+			"sha": "05178a6ca779b98244706c810d0eb6e701ce099d",
+			"registry": "npmjs"
+		},
+		"helmet-1.0.0.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-1.0.0.tgz",
+			"sha": "240ff4cd559c340ac1f2802cb819b2ef5db30e4a",
+			"registry": "npmjs"
+		},
+		"helmet-1.0.1.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-1.0.1.tgz",
+			"sha": "2b89584d6ecc6e2efb494ee003af5ed0eabb4a59",
+			"registry": "npmjs"
+		},
+		"helmet-1.0.2.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-1.0.2.tgz",
+			"sha": "45ef94709ccc4221c86dfe3966b64835f399ae69",
+			"registry": "npmjs"
+		},
+		"helmet-1.1.0.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-1.1.0.tgz",
+			"sha": "1dd59e6b4568fdbe4abbdb60cb4174eb033829a6",
+			"registry": "npmjs"
+		},
+		"helmet-1.2.0.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-1.2.0.tgz",
+			"sha": "af66ea539d34bc148b336af2bf485eff09389edf",
+			"registry": "npmjs"
+		},
+		"helmet-1.3.0.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-1.3.0.tgz",
+			"sha": "e1b59c5484f7ac081a48cc7634139b4ec38cf8b5",
+			"registry": "npmjs"
+		},
+		"helmet-2.0.0.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-2.0.0.tgz",
+			"sha": "5c63e6133bd5297a879cb03d0347631d3af72722",
+			"registry": "npmjs"
+		},
+		"helmet-2.1.0.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-2.1.0.tgz",
+			"sha": "03504494611d2c5f5585c491aa398254ee9ffae4",
+			"registry": "npmjs"
+		},
+		"helmet-2.1.1.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-2.1.1.tgz",
+			"sha": "b2cae8b0f9975124970e7a542f1eaddce0db34c8",
+			"registry": "npmjs"
+		},
+		"helmet-2.1.2.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-2.1.2.tgz",
+			"sha": "c9e213e8cbe3ed7d9ed816581de0dc2e7469a9cd",
+			"registry": "npmjs"
+		},
+		"helmet-2.1.3.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-2.1.3.tgz",
+			"sha": "2e51be8497bee3bbcff29d09d48592ba8cd20994",
+			"registry": "npmjs"
+		},
+		"helmet-2.2.0.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-2.2.0.tgz",
+			"sha": "fa0737d113fba4bd29d1b39650ac679ad673b948",
+			"registry": "npmjs"
+		},
+		"helmet-2.3.0.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-2.3.0.tgz",
+			"sha": "d655c85b55b0a3bf722a4c2c66e48b78b4161b91",
+			"registry": "npmjs"
+		},
+		"helmet-3.0.0.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-3.0.0.tgz",
+			"sha": "8f7753987493ac210fd0d9177f0ed6d91bce6a5d",
+			"registry": "npmjs"
+		},
+		"helmet-3.1.0.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-3.1.0.tgz",
+			"sha": "64449547398e51b063fe1c75e7cb0274a557ea09",
+			"registry": "npmjs"
+		},
+		"helmet-3.2.0.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-3.2.0.tgz",
+			"sha": "7ca9172c91c01ca792eee2ed350a030b1d1ea0ce",
+			"registry": "npmjs"
+		},
+		"helmet-3.3.0.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-3.3.0.tgz",
+			"sha": "8eec02d8191ba97a6bdeccbf35f38326285136fd",
+			"registry": "npmjs"
+		},
+		"helmet-3.4.0.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-3.4.0.tgz",
+			"sha": "05a9437486b05ca219ed8d21dc5e3b6ec0c18118",
+			"registry": "npmjs"
+		},
+		"helmet-3.4.1.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-3.4.1.tgz",
+			"sha": "27d37629227f25a110f2a128bfe1b1028648a397",
+			"registry": "npmjs"
+		},
+		"helmet-3.5.0.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-3.5.0.tgz",
+			"sha": "e1d6de27d2e3317d3182e00d672df3d0e1e12539",
+			"registry": "npmjs"
+		},
+		"helmet-3.6.0.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-3.6.0.tgz",
+			"sha": "cf391ecdba9c8a8ee7aec66cff4f147797e204d3",
+			"registry": "npmjs"
+		},
+		"helmet-3.6.1.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-3.6.1.tgz",
+			"sha": "91f3aa7fa4c94671595fb568dfd8c28489a388be",
+			"registry": "npmjs"
+		},
+		"helmet-3.7.0.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-3.7.0.tgz",
+			"sha": "8a90d47ee47f8f6c7d267152bb8429e5ad4de809",
+			"registry": "npmjs"
+		},
+		"helmet-3.8.0.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-3.8.0.tgz",
+			"sha": "bba0bfeebe4832967188e4cd233a3d444903e1a7",
+			"registry": "npmjs"
+		},
+		"helmet-3.8.1.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-3.8.1.tgz",
+			"sha": "bef2b68ffbaa19759e858c19cca7db213bb58b2d",
+			"registry": "npmjs"
+		},
+		"helmet-3.8.2.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-3.8.2.tgz",
+			"sha": "64f988b8e9d8773ad201da455b8b6a754c229aaa",
+			"registry": "npmjs"
+		},
+		"helmet-3.9.0.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-3.9.0.tgz",
+			"sha": "7b2cf015a2d109bca83ede7924420799c0e67dee",
+			"registry": "npmjs"
+		},
+		"helmet-3.10.0.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-3.10.0.tgz",
+			"sha": "96a2a9fec53c26009d3d6265c6cfdada38ddfa7f",
+			"registry": "npmjs"
+		},
+		"helmet-3.11.0.tgz": {
+			"url": "https://registry.npmjs.org/helmet/-/helmet-3.11.0.tgz",
+			"sha": "5eacccc0b5b61d786e29aa3fc5650abf73e1824f",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "\"5a940291-1c9ab\"",
+			"fetched": 1519837505982
+		}
+	},
+	"_rev": "1-cf290799a8b2fce3",
+	"readme": "Helmet\n======\n[![npm version](https://badge.fury.io/js/helmet.svg)](http://badge.fury.io/js/helmet)\n[![npm dependency status](https://david-dm.org/helmetjs/helmet.svg)](https://david-dm.org/helmetjs/helmet)\n[![Build Status](https://travis-ci.org/helmetjs/helmet.svg?branch=master)](https://travis-ci.org/helmetjs/helmet)\n[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)\n[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fhelmetjs%2Fhelmet.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fhelmetjs%2Fhelmet?ref=badge_shield)\n\nHelmet helps you secure your Express apps by setting various HTTP headers. *It's not a silver bullet*, but it can help!\n\n[Looking for a version of Helmet that supports the Koa framework?](https://github.com/venables/koa-helmet)\n\nQuick start\n-----------\n\nFirst, run `npm install helmet --save` for your app. Then, in an Express (or Connect) app:\n\n```js\nvar express = require('express')\nvar helmet = require('helmet')\n\nvar app = express()\n\napp.use(helmet())\n\n// ...\n```\n\nIt's best to `use` Helmet early in your middleware stack so that its headers are sure to be set.\n\nYou can also use its pieces individually:\n\n```js\napp.use(helmet.noCache())\napp.use(helmet.frameguard())\n```\n\nYou can disable a middleware that's normally enabled by default. This will disable `frameguard` but include the other defaults.\n\n```js\napp.use(helmet({\n  frameguard: false\n}))\n```\n\nYou can also set options for a middleware. Setting options like this will *always* include the middleware, whether or not it's a default.\n\n```js\napp.use(helmet({\n  frameguard: {\n    action: 'deny'\n  }\n}))\n```\n\n*If you're using Express 3, make sure these middlewares are listed before `app.router`.*\n\nHow it works\n------------\n\nHelmet is a collection of 12 smaller middleware functions that set HTTP headers. Running `app.use(helmet())` will not include all of these middleware functions by default.\n\n| Module | Default? |\n|---|---|\n| [contentSecurityPolicy](https://helmetjs.github.io/docs/csp/) for setting Content Security Policy |  |\n| [expectCt](https://helmetjs.github.io/docs/expect-ct/) for handling Certificate Transparency |  |\n| [dnsPrefetchControl](https://helmetjs.github.io/docs/dns-prefetch-control) controls browser DNS prefetching | ✓ |\n| [frameguard](https://helmetjs.github.io/docs/frameguard/) to prevent clickjacking | ✓ |\n| [hidePoweredBy](https://helmetjs.github.io/docs/hide-powered-by) to remove the X-Powered-By header | ✓ |\n| [hpkp](https://helmetjs.github.io/docs/hpkp/) for HTTP Public Key Pinning |  |\n| [hsts](https://helmetjs.github.io/docs/hsts/) for HTTP Strict Transport Security | ✓ |\n| [ieNoOpen](https://helmetjs.github.io/docs/ienoopen) sets X-Download-Options for IE8+ | ✓ |\n| [noCache](https://helmetjs.github.io/docs/nocache/) to disable client-side caching |  |\n| [noSniff](https://helmetjs.github.io/docs/dont-sniff-mimetype) to keep clients from sniffing the MIME type | ✓ |\n| [referrerPolicy](https://helmetjs.github.io/docs/referrer-policy) to hide the Referer header |  |\n| [xssFilter](https://helmetjs.github.io/docs/xss-filter) adds some small XSS protections | ✓ |\n\nYou can see more in [the documentation](https://helmetjs.github.io/docs/).\n"
+}

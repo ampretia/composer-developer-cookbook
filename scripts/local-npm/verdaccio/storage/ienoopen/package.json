@@ -1,0 +1,167 @@
+{
+	"name": "ienoopen",
+	"versions": {
+		"0.1.0": {
+			"name": "ienoopen",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "Middleware for IE security. Set X-Download-Options to noopen.",
+			"version": "0.1.0",
+			"keywords": [
+				"helmet",
+				"security",
+				"express",
+				"connect",
+				"noopen",
+				"x-download-options"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/ienoopen.git"
+			},
+			"bugs": {
+				"url": "https://github.com/helmetjs/ienoopen/issues"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"devDependencies": {
+				"connect": "^3.3.1",
+				"mocha": "^2.0.1",
+				"supertest": "^0.14.0"
+			},
+			"gitHead": "29f61aa6e6bd4d31944038413e13e7e0c8cf6adc",
+			"homepage": "https://github.com/helmetjs/ienoopen",
+			"_id": "ienoopen@0.1.0",
+			"_shasum": "7821de8b7dd3d0d117361e951d0bc29767cc9445",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "7821de8b7dd3d0d117361e951d0bc29767cc9445",
+				"tarball": "https://registry.npmjs.org/ienoopen/-/ienoopen-0.1.0.tgz"
+			},
+			"directories": {}
+		},
+		"1.0.0": {
+			"name": "ienoopen",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "Middleware for IE security. Set X-Download-Options to noopen.",
+			"version": "1.0.0",
+			"license": "MIT",
+			"keywords": [
+				"helmet",
+				"security",
+				"express",
+				"connect",
+				"noopen",
+				"x-download-options"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/ienoopen.git"
+			},
+			"bugs": {
+				"url": "https://github.com/helmetjs/ienoopen/issues"
+			},
+			"scripts": {
+				"test": "standard && mocha"
+			},
+			"devDependencies": {
+				"connect": "^3.4.0",
+				"mocha": "^2.3.4",
+				"standard": "^5.4.1",
+				"supertest": "^1.1.0"
+			},
+			"standard": {
+				"global": [
+					"beforeEach",
+					"describe",
+					"it"
+				]
+			},
+			"gitHead": "b40f380bf07bf3f1a38122297aeee3c3811c6cc4",
+			"homepage": "https://github.com/helmetjs/ienoopen#readme",
+			"_id": "ienoopen@1.0.0",
+			"_shasum": "346a428f474aac8f50cf3784ea2d0f16f62bda6b",
+			"_from": ".",
+			"_npmVersion": "3.5.3",
+			"_nodeVersion": "5.3.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "346a428f474aac8f50cf3784ea2d0f16f62bda6b",
+				"tarball": "https://registry.npmjs.org/ienoopen/-/ienoopen-1.0.0.tgz"
+			},
+			"directories": {}
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.0"
+	},
+	"time": {
+		"modified": "2017-10-15T20:05:46.374Z",
+		"created": "2014-10-28T14:28:38.096Z",
+		"0.1.0": "2014-10-28T14:28:38.096Z",
+		"1.0.0": "2015-12-18T18:44:06.433Z"
+	},
+	"_distfiles": {
+		"ienoopen-0.1.0.tgz": {
+			"url": "https://registry.npmjs.org/ienoopen/-/ienoopen-0.1.0.tgz",
+			"sha": "7821de8b7dd3d0d117361e951d0bc29767cc9445",
+			"registry": "npmjs"
+		},
+		"ienoopen-1.0.0.tgz": {
+			"url": "https://registry.npmjs.org/ienoopen/-/ienoopen-1.0.0.tgz",
+			"sha": "346a428f474aac8f50cf3784ea2d0f16f62bda6b",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "\"59e3bf9a-1168\"",
+			"fetched": 1519837507875
+		}
+	},
+	"_rev": "1-32b721574b19a561",
+	"readme": "Internet Explorer, restrict untrusted HTML\n==========================================\n[![Build Status](https://travis-ci.org/helmetjs/ienoopen.svg?branch=master)](https://travis-ci.org/helmetjs/ienoopen)\n[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)\n\nThis middleware sets the `X-Download-Options` header to `noopen` to prevent Internet Explorer users from executing downloads in your site's context.\n\n```javascript\nvar ienoopen = require('ienoopen');\napp.use(ienoopen());\n```\n\nSome web applications will serve untrusted HTML for download. By default, some versions of IE will allow you to open those HTML files *in the context of your site*, which means that an untrusted HTML page could start doing bad things in the context of your pages. For more, see [this MSDN blog post](http://blogs.msdn.com/b/ie/archive/2008/07/02/ie8-security-part-v-comprehensive-protection.aspx).\n\nThis is pretty obscure, fixing a small bug on IE only. No real drawbacks other than performance/bandwidth of setting the headers, though.\n"
+}

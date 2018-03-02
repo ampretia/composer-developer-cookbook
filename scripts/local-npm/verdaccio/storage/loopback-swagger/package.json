@@ -1,0 +1,5244 @@
+{
+	"name": "loopback-swagger",
+	"versions": {
+		"1.0.0-beta1": {
+			"name": "loopback-swagger",
+			"version": "1.0.0-beta1",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "~1.9.1",
+				"mocha": "~1.21.4"
+			},
+			"license": {
+				"name": "Dual MIT/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-swagger/blob/master/LICENSE"
+			},
+			"dependencies": {
+				"async": "~0.9.0",
+				"debug": "^1.0.4",
+				"ejs": "^1.0.0",
+				"lodash": "^2.4.1",
+				"underscore.string": "~2.3.3"
+			},
+			"gitHead": "78f8d1fe56984a2e1903cb30bdabe72185b4c2ce",
+			"homepage": "https://github.com/strongloop/loopback-swagger",
+			"_id": "loopback-swagger@1.0.0-beta1",
+			"_shasum": "29b42a2b639895dee9328ce95c2f96eda41f20e8",
+			"_from": ".",
+			"_npmVersion": "1.4.21",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "29b42a2b639895dee9328ce95c2f96eda41f20e8",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-1.0.0-beta1.tgz"
+			},
+			"directories": {}
+		},
+		"1.0.0-beta2": {
+			"name": "loopback-swagger",
+			"version": "1.0.0-beta2",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "~1.9.1",
+				"mocha": "~1.21.4"
+			},
+			"license": {
+				"name": "Dual MIT/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-swagger/blob/master/LICENSE"
+			},
+			"dependencies": {
+				"async": "~0.9.0",
+				"debug": "^1.0.4",
+				"ejs": "^1.0.0",
+				"lodash": "^2.4.1",
+				"underscore.string": "~2.3.3"
+			},
+			"gitHead": "ecfe33320ea00dc27b3171038c52a03e10d38d3b",
+			"homepage": "https://github.com/strongloop/loopback-swagger",
+			"_id": "loopback-swagger@1.0.0-beta2",
+			"_shasum": "d1284f443120fb0198422695babc39cb443f9320",
+			"_from": ".",
+			"_npmVersion": "1.4.21",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				}
+			],
+			"dist": {
+				"shasum": "d1284f443120fb0198422695babc39cb443f9320",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-1.0.0-beta2.tgz"
+			},
+			"directories": {}
+		},
+		"1.0.0-beta3": {
+			"name": "loopback-swagger",
+			"version": "1.0.0-beta3",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "~1.9.1",
+				"mocha": "~1.21.4"
+			},
+			"license": {
+				"name": "Dual MIT/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-swagger/blob/master/LICENSE"
+			},
+			"dependencies": {
+				"async": "~0.9.0",
+				"debug": "^1.0.4",
+				"ejs": "^1.0.0",
+				"lodash": "^2.4.1",
+				"underscore.string": "~2.3.3"
+			},
+			"gitHead": "834ad1ba0ffe0e631c0adfae8bbe09a06606c09c",
+			"homepage": "https://github.com/strongloop/loopback-swagger",
+			"_id": "loopback-swagger@1.0.0-beta3",
+			"_shasum": "bbdf682f4cf11ec03a85f08b108b76a4836df2f2",
+			"_from": ".",
+			"_npmVersion": "1.4.21",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "bbdf682f4cf11ec03a85f08b108b76a4836df2f2",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-1.0.0-beta3.tgz"
+			},
+			"directories": {}
+		},
+		"1.0.0": {
+			"name": "loopback-swagger",
+			"version": "1.0.0",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "~1.9.1",
+				"mocha": "~1.21.4"
+			},
+			"license": {
+				"name": "Dual MIT/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-swagger/blob/master/LICENSE"
+			},
+			"dependencies": {
+				"async": "~0.9.0",
+				"debug": "^1.0.4",
+				"ejs": "^1.0.0",
+				"lodash": "^2.4.1",
+				"underscore.string": "~2.3.3"
+			},
+			"gitHead": "bc2baf75e517ba5dd14bfc89732a591ac728bec7",
+			"homepage": "https://github.com/strongloop/loopback-swagger",
+			"_id": "loopback-swagger@1.0.0",
+			"_shasum": "c4ab6e2b79be5114cc3696d6d85a449525d23aac",
+			"_from": ".",
+			"_npmVersion": "1.4.21",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "c4ab6e2b79be5114cc3696d6d85a449525d23aac",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-1.0.0.tgz"
+			},
+			"directories": {}
+		},
+		"1.0.1": {
+			"name": "loopback-swagger",
+			"version": "1.0.1",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "~1.9.1",
+				"mocha": "~1.21.4"
+			},
+			"license": {
+				"name": "Dual MIT/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-swagger/blob/master/LICENSE"
+			},
+			"dependencies": {
+				"async": "~0.9.0",
+				"debug": "^1.0.4",
+				"ejs": "^1.0.0",
+				"lodash": "^2.4.1",
+				"underscore.string": "~2.3.3"
+			},
+			"gitHead": "b267be864676473d1ee77cc4509d9d971ff704c3",
+			"homepage": "https://github.com/strongloop/loopback-swagger",
+			"_id": "loopback-swagger@1.0.1",
+			"_shasum": "3588273289aa23ec56ddfc51fc1172078ae94fa6",
+			"_from": ".",
+			"_npmVersion": "1.4.21",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "3588273289aa23ec56ddfc51fc1172078ae94fa6",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-1.0.1.tgz"
+			},
+			"directories": {}
+		},
+		"2.0.0": {
+			"name": "loopback-swagger",
+			"version": "2.0.0",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "~1.9.1",
+				"mocha": "~1.21.4"
+			},
+			"license": {
+				"name": "Dual MIT/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-swagger/blob/master/LICENSE"
+			},
+			"dependencies": {
+				"async": "~0.9.0",
+				"debug": "^1.0.4",
+				"ejs": "^1.0.0",
+				"lodash": "^2.4.1",
+				"underscore.string": "~2.3.3"
+			},
+			"gitHead": "65814c01e6110707820f06ccbe773edf194cbdc1",
+			"homepage": "https://github.com/strongloop/loopback-swagger",
+			"_id": "loopback-swagger@2.0.0",
+			"_shasum": "5ba4671d3873f62edd234c4f3a0bebf475314453",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "5ba4671d3873f62edd234c4f3a0bebf475314453",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.0.0.tgz"
+			},
+			"directories": {}
+		},
+		"2.1.0": {
+			"name": "loopback-swagger",
+			"version": "2.1.0",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"loopback": "^2.21.0",
+				"loopback-datasource-juggler": "^2.39.0",
+				"mocha": "^2.3.0"
+			},
+			"license": {
+				"name": "Dual MIT/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-swagger/blob/master/LICENSE"
+			},
+			"dependencies": {
+				"async": "^1.4.2",
+				"debug": "^2.2.0",
+				"ejs": "^1.0.0",
+				"lodash": "^3.10.1",
+				"underscore.string": "~2.3.3"
+			},
+			"gitHead": "fcd6724668bd8326d6c8626cc948a259a06b0424",
+			"homepage": "https://github.com/strongloop/loopback-swagger#readme",
+			"_id": "loopback-swagger@2.1.0",
+			"_shasum": "ea56a18f305f9cadbeddb96bd84ce8c629cba375",
+			"_from": ".",
+			"_npmVersion": "2.13.2",
+			"_nodeVersion": "2.5.0",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "miro.bajtos@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "ea56a18f305f9cadbeddb96bd84ce8c629cba375",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.1.0.tgz"
+			},
+			"directories": {}
+		},
+		"2.1.1": {
+			"name": "loopback-swagger",
+			"version": "2.1.1",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"loopback": "^2.21.0",
+				"loopback-datasource-juggler": "^2.39.0",
+				"mocha": "^2.3.0"
+			},
+			"license": {
+				"name": "Dual MIT/StrongLoop",
+				"url": "https://github.com/strongloop/loopback-swagger/blob/master/LICENSE"
+			},
+			"dependencies": {
+				"async": "^1.4.2",
+				"debug": "^2.2.0",
+				"ejs": "^1.0.0",
+				"lodash": "^3.10.1",
+				"underscore.string": "~2.3.3"
+			},
+			"gitHead": "8eb73acbaae2cd600d03a95dcf55aee6f7560980",
+			"homepage": "https://github.com/strongloop/loopback-swagger#readme",
+			"_id": "loopback-swagger@2.1.1",
+			"_shasum": "9c153070bc1b70837dccf26891d939452968609a",
+			"_from": ".",
+			"_npmVersion": "2.13.2",
+			"_nodeVersion": "2.5.0",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "miro.bajtos@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "9c153070bc1b70837dccf26891d939452968609a",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.1.1.tgz"
+			},
+			"directories": {}
+		},
+		"2.1.2": {
+			"name": "loopback-swagger",
+			"version": "2.1.2",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"loopback": "^2.21.0",
+				"loopback-datasource-juggler": "^2.39.0",
+				"mocha": "^2.3.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^1.4.2",
+				"debug": "^2.2.0",
+				"ejs": "^1.0.0",
+				"lodash": "^3.10.1",
+				"underscore.string": "~2.3.3"
+			},
+			"gitHead": "3404688c145e080716e13abc615e8050c0a35b4a",
+			"homepage": "https://github.com/strongloop/loopback-swagger#readme",
+			"_id": "loopback-swagger@2.1.2",
+			"_shasum": "ad638b3e8598788807db6dd8f4e2b05f6a8a27cd",
+			"_from": ".",
+			"_npmVersion": "2.14.4",
+			"_nodeVersion": "4.1.1",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "ad638b3e8598788807db6dd8f4e2b05f6a8a27cd",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.1.2.tgz"
+			},
+			"directories": {}
+		},
+		"2.2.0": {
+			"name": "loopback-swagger",
+			"version": "2.2.0",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"loopback": "^2.21.0",
+				"loopback-datasource-juggler": "^2.39.0",
+				"mocha": "^2.3.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^1.4.2",
+				"debug": "^2.2.0",
+				"ejs": "^1.0.0",
+				"lodash": "^3.10.1",
+				"underscore.string": "~2.3.3"
+			},
+			"gitHead": "5f4d8cb8c72f980a97e30b7805421f21f653e93f",
+			"homepage": "https://github.com/strongloop/loopback-swagger",
+			"_id": "loopback-swagger@2.2.0",
+			"_shasum": "cf3ae3fda1298b2f3ac4cfb0ac21c824c5d36ee1",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "cf3ae3fda1298b2f3ac4cfb0ac21c824c5d36ee1",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.2.0.tgz"
+			},
+			"directories": {}
+		},
+		"2.2.1": {
+			"name": "loopback-swagger",
+			"version": "2.2.1",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"loopback": "^2.21.0",
+				"loopback-datasource-juggler": "^2.39.0",
+				"mocha": "^2.3.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^1.4.2",
+				"debug": "^2.2.0",
+				"ejs": "^1.0.0",
+				"lodash": "^3.10.1",
+				"underscore.string": "~2.3.3"
+			},
+			"gitHead": "0af04ed1e53b241c1517a9b86e91106f97909c16",
+			"homepage": "https://github.com/strongloop/loopback-swagger#readme",
+			"_id": "loopback-swagger@2.2.1",
+			"_shasum": "ac0a5fca74dd108c20a1214e9129037594f4b237",
+			"_from": ".",
+			"_npmVersion": "2.14.7",
+			"_nodeVersion": "4.2.1",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "miro.bajtos@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "ac0a5fca74dd108c20a1214e9129037594f4b237",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.2.1.tgz"
+			},
+			"directories": {}
+		},
+		"2.2.2": {
+			"name": "loopback-swagger",
+			"version": "2.2.2",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"loopback": "^2.21.0",
+				"loopback-datasource-juggler": "^2.39.0",
+				"mocha": "^2.3.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^1.4.2",
+				"debug": "^2.2.0",
+				"ejs": "^1.0.0",
+				"lodash": "^3.10.1",
+				"underscore.string": "~2.3.3"
+			},
+			"gitHead": "bc0d5b279cf59d27bb3b95644000bac7acd73e34",
+			"homepage": "https://github.com/strongloop/loopback-swagger#readme",
+			"_id": "loopback-swagger@2.2.2",
+			"_shasum": "8f14261f3d53284226b490d47a4bc8a81ed86e68",
+			"_from": ".",
+			"_npmVersion": "2.14.7",
+			"_nodeVersion": "4.2.1",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "miro.bajtos@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "8f14261f3d53284226b490d47a4bc8a81ed86e68",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.2.2.tgz"
+			},
+			"directories": {}
+		},
+		"2.2.3": {
+			"name": "loopback-swagger",
+			"version": "2.2.3",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"loopback": "^2.21.0",
+				"loopback-datasource-juggler": "^2.39.0",
+				"mocha": "^2.3.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^1.4.2",
+				"debug": "^2.2.0",
+				"ejs": "^1.0.0",
+				"lodash": "^3.10.1",
+				"underscore.string": "~2.3.3"
+			},
+			"gitHead": "9a30a143a47445f321c1d349c5b808517e248686",
+			"homepage": "https://github.com/strongloop/loopback-swagger#readme",
+			"_id": "loopback-swagger@2.2.3",
+			"_shasum": "3d4f5af52dff774d6d944491e4d87a638914aaee",
+			"_from": ".",
+			"_npmVersion": "2.14.7",
+			"_nodeVersion": "4.2.1",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "miro.bajtos@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "3d4f5af52dff774d6d944491e4d87a638914aaee",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.2.3.tgz"
+			},
+			"directories": {}
+		},
+		"2.3.0": {
+			"name": "loopback-swagger",
+			"version": "2.3.0",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"loopback": "^2.21.0",
+				"loopback-datasource-juggler": "^2.39.0",
+				"mocha": "^2.3.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^1.4.2",
+				"debug": "^2.2.0",
+				"ejs": "^1.0.0",
+				"lodash": "^3.10.1",
+				"underscore.string": "~2.3.3"
+			},
+			"gitHead": "cc10105fdc7780e05bca37b9070b48aa99a7cb3a",
+			"homepage": "https://github.com/strongloop/loopback-swagger#readme",
+			"_id": "loopback-swagger@2.3.0",
+			"_shasum": "f2a8765f2176ac1e7aca4ca8580ef5705fc8d84c",
+			"_from": ".",
+			"_npmVersion": "2.14.12",
+			"_nodeVersion": "4.2.6",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "mbajtoss@gmail.com"
+			},
+			"dist": {
+				"shasum": "f2a8765f2176ac1e7aca4ca8580ef5705fc8d84c",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-6-west.internal.npmjs.com",
+				"tmp": "tmp/loopback-swagger-2.3.0.tgz_1455019436921_0.5247320989146829"
+			},
+			"directories": {}
+		},
+		"2.3.1": {
+			"name": "loopback-swagger",
+			"version": "2.3.1",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"loopback": "^2.21.0",
+				"loopback-datasource-juggler": "^2.39.0",
+				"mocha": "^2.3.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^1.4.2",
+				"debug": "^2.2.0",
+				"ejs": "^1.0.0",
+				"lodash": "^3.10.1",
+				"underscore.string": "~2.3.3"
+			},
+			"gitHead": "4b07be8ad411e6c957c9d7687919d4b84148cc2c",
+			"homepage": "https://github.com/strongloop/loopback-swagger#readme",
+			"_id": "loopback-swagger@2.3.1",
+			"_shasum": "3ef04de0f6c756654d831a61f300a7422e219de6",
+			"_from": ".",
+			"_npmVersion": "3.6.0",
+			"_nodeVersion": "5.7.1",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "callback@strongloop.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "miro.bajtos@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "3ef04de0f6c756654d831a61f300a7422e219de6",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.3.1.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/loopback-swagger-2.3.1.tgz_1457050673699_0.026173870777711272"
+			},
+			"directories": {}
+		},
+		"2.3.2": {
+			"name": "loopback-swagger",
+			"version": "2.3.2",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"loopback": "^2.21.0",
+				"loopback-datasource-juggler": "^2.39.0",
+				"mocha": "^2.3.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^1.4.2",
+				"debug": "^2.2.0",
+				"ejs": "^1.0.0",
+				"lodash": "^3.10.1",
+				"underscore.string": "~2.3.3"
+			},
+			"gitHead": "faa8d4f227a10042cc6b579298c0985ecadeea8f",
+			"homepage": "https://github.com/strongloop/loopback-swagger#readme",
+			"_id": "loopback-swagger@2.3.2",
+			"_shasum": "663a7dd3b71e4bcac3b55ab6bfc1d50d8ad95cf2",
+			"_from": ".",
+			"_npmVersion": "3.8.0",
+			"_nodeVersion": "5.7.1",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@strongloop.com"
+				},
+				{
+					"name": "octet",
+					"email": "sam@strongloop.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				}
+			],
+			"dist": {
+				"shasum": "663a7dd3b71e4bcac3b55ab6bfc1d50d8ad95cf2",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.3.2.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-13-west.internal.npmjs.com",
+				"tmp": "tmp/loopback-swagger-2.3.2.tgz_1458424172080_0.15280347946099937"
+			},
+			"directories": {}
+		},
+		"2.4.0": {
+			"name": "loopback-swagger",
+			"version": "2.4.0",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"loopback": "^2.21.0",
+				"loopback-datasource-juggler": "^2.39.0",
+				"mocha": "^2.3.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^1.4.2",
+				"debug": "^2.2.0",
+				"ejs": "^1.0.0",
+				"lodash": "^3.10.1",
+				"underscore.string": "~2.3.3"
+			},
+			"gitHead": "e4a84617a92e9838cc031980fd08dbc3efde9f53",
+			"homepage": "https://github.com/strongloop/loopback-swagger#readme",
+			"_id": "loopback-swagger@2.4.0",
+			"_shasum": "9fb8cb9c15ad39000d06de2ee5f6ec469849efe1",
+			"_from": ".",
+			"_npmVersion": "2.14.12",
+			"_nodeVersion": "4.3.0",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "mbajtoss@gmail.com"
+			},
+			"dist": {
+				"shasum": "9fb8cb9c15ad39000d06de2ee5f6ec469849efe1",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.4.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@strongloop.com"
+				},
+				{
+					"name": "octet",
+					"email": "sam@strongloop.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/loopback-swagger-2.4.0.tgz_1460021768741_0.004712292458862066"
+			},
+			"directories": {}
+		},
+		"2.4.1": {
+			"name": "loopback-swagger",
+			"version": "2.4.1",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"loopback": "^2.21.0",
+				"loopback-datasource-juggler": "^2.39.0",
+				"mocha": "^2.3.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^1.4.2",
+				"debug": "^2.2.0",
+				"ejs": "^1.0.0",
+				"lodash": "^3.10.1",
+				"underscore.string": "~2.3.3"
+			},
+			"gitHead": "0c124e9fd90ed83793d57d59dc981dfd87bff345",
+			"homepage": "https://github.com/strongloop/loopback-swagger#readme",
+			"_id": "loopback-swagger@2.4.1",
+			"_shasum": "910ddf43be26ea0315489444bfbbda3088281a25",
+			"_from": ".",
+			"_npmVersion": "3.8.5",
+			"_nodeVersion": "5.10.1",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@strongloop.com"
+				},
+				{
+					"name": "octet",
+					"email": "sam@strongloop.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				}
+			],
+			"dist": {
+				"shasum": "910ddf43be26ea0315489444bfbbda3088281a25",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.4.1.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/loopback-swagger-2.4.1.tgz_1460081874175_0.582892477279529"
+			},
+			"directories": {}
+		},
+		"2.4.2": {
+			"name": "loopback-swagger",
+			"version": "2.4.2",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha",
+				"lint": "eslint .",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"eslint": "^2.7.0",
+				"eslint-config-loopback": "^1.0.0",
+				"loopback": "^2.21.0",
+				"loopback-datasource-juggler": "^2.39.0",
+				"mocha": "^2.3.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^1.4.2",
+				"debug": "^2.2.0",
+				"ejs": "^1.0.0",
+				"lodash": "^3.10.1",
+				"underscore.string": "~2.3.3"
+			},
+			"gitHead": "4b2cf3a7e642331b55cb85bbd34ca5e60292a939",
+			"homepage": "https://github.com/strongloop/loopback-swagger#readme",
+			"_id": "loopback-swagger@2.4.2",
+			"_shasum": "43c37f70cee10faa2afae44b15a933e2786464c1",
+			"_from": ".",
+			"_npmVersion": "3.8.5",
+			"_nodeVersion": "5.10.1",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@strongloop.com"
+				},
+				{
+					"name": "octet",
+					"email": "sam@strongloop.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				}
+			],
+			"dist": {
+				"shasum": "43c37f70cee10faa2afae44b15a933e2786464c1",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.4.2.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/loopback-swagger-2.4.2.tgz_1460572062010_0.2865779160056263"
+			},
+			"directories": {}
+		},
+		"2.4.3": {
+			"name": "loopback-swagger",
+			"version": "2.4.3",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha",
+				"lint": "eslint .",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"eslint": "^2.7.0",
+				"eslint-config-loopback": "^1.0.0",
+				"loopback": "^2.21.0",
+				"loopback-datasource-juggler": "^2.39.0",
+				"mocha": "^2.3.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^1.4.2",
+				"debug": "^2.2.0",
+				"ejs": "^1.0.0",
+				"lodash": "^3.10.1",
+				"underscore.string": "~2.3.3"
+			},
+			"gitHead": "289e622d0e3e8e26dbc86f84b22830f0e72fa84b",
+			"homepage": "https://github.com/strongloop/loopback-swagger#readme",
+			"_id": "loopback-swagger@2.4.3",
+			"_shasum": "f606a9eabbe0cbbe49135d45ab634ea155c4db47",
+			"_from": ".",
+			"_npmVersion": "3.8.8",
+			"_nodeVersion": "4.4.3",
+			"_npmUser": {
+				"name": "rmg",
+				"email": "r.m.graham@gmail.com"
+			},
+			"dist": {
+				"shasum": "f606a9eabbe0cbbe49135d45ab634ea155c4db47",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.4.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/loopback-swagger-2.4.3.tgz_1462561124848_0.5977727542631328"
+			},
+			"directories": {}
+		},
+		"2.5.0": {
+			"name": "loopback-swagger",
+			"version": "2.5.0",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha",
+				"lint": "eslint .",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"eslint": "^2.7.0",
+				"eslint-config-loopback": "^1.0.0",
+				"loopback": "^2.21.0",
+				"loopback-datasource-juggler": "^2.39.0",
+				"mocha": "^2.3.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^1.4.2",
+				"debug": "^2.2.0",
+				"ejs": "^1.0.0",
+				"lodash": "^3.10.1",
+				"strong-globalize": "^2.6.0",
+				"underscore.string": "~2.3.3"
+			},
+			"gitHead": "28471194be37c070e6e338450b724ed3351280f6",
+			"homepage": "https://github.com/strongloop/loopback-swagger#readme",
+			"_id": "loopback-swagger@2.5.0",
+			"_shasum": "205e5b9e603e5afa5b7aa6aece472f1ed631448c",
+			"_from": ".",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.5.0",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "mbajtoss@gmail.com"
+			},
+			"dist": {
+				"shasum": "205e5b9e603e5afa5b7aa6aece472f1ed631448c",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.5.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/loopback-swagger-2.5.0.tgz_1473080507452_0.48249312001280487"
+			},
+			"directories": {}
+		},
+		"2.6.0": {
+			"name": "loopback-swagger",
+			"version": "2.6.0",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha",
+				"lint": "eslint .",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"eslint": "^2.7.0",
+				"eslint-config-loopback": "^1.0.0",
+				"loopback": "^2.21.0",
+				"loopback-datasource-juggler": "^2.39.0",
+				"mocha": "^2.3.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^1.4.2",
+				"debug": "^2.2.0",
+				"ejs": "^1.0.0",
+				"lodash": "^3.10.1",
+				"strong-globalize": "^2.6.0",
+				"underscore.string": "~2.3.3"
+			},
+			"gitHead": "903f2184a01d5f250c190bb0c5c480c0ae53184c",
+			"homepage": "https://github.com/strongloop/loopback-swagger#readme",
+			"_id": "loopback-swagger@2.6.0",
+			"_shasum": "bdd95dcefa21226e43150e64c3fa161aca5bbaa2",
+			"_from": ".",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.5.0",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "mbajtoss@gmail.com"
+			},
+			"dist": {
+				"shasum": "bdd95dcefa21226e43150e64c3fa161aca5bbaa2",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.6.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/loopback-swagger-2.6.0.tgz_1473245402058_0.8237949630711228"
+			},
+			"directories": {}
+		},
+		"2.7.0": {
+			"name": "loopback-swagger",
+			"version": "2.7.0",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha",
+				"lint": "eslint .",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"eslint": "^2.7.0",
+				"eslint-config-loopback": "^1.0.0",
+				"loopback": "^3.0.0-alpha.5",
+				"loopback-datasource-juggler": "^3.0.0-alpha.8",
+				"mocha": "^2.3.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^1.4.2",
+				"debug": "^2.2.0",
+				"ejs": "^1.0.0",
+				"lodash": "^3.10.1",
+				"strong-globalize": "^2.6.0",
+				"underscore.string": "~2.3.3"
+			},
+			"gitHead": "bb348e579d76508a6bd66c2294d6ad9c90a130b5",
+			"homepage": "https://github.com/strongloop/loopback-swagger#readme",
+			"_id": "loopback-swagger@2.7.0",
+			"_shasum": "00b8d2b2edb867a3c5c7e80eedaf3477d1320c6d",
+			"_from": ".",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.5.0",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "mbajtoss@gmail.com"
+			},
+			"dist": {
+				"shasum": "00b8d2b2edb867a3c5c7e80eedaf3477d1320c6d",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.7.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/loopback-swagger-2.7.0.tgz_1473763094141_0.19847776531241834"
+			},
+			"directories": {}
+		},
+		"2.8.0": {
+			"name": "loopback-swagger",
+			"version": "2.8.0",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha",
+				"lint": "eslint .",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"eslint": "^2.7.0",
+				"eslint-config-loopback": "^1.0.0",
+				"loopback": "^3.0.0",
+				"mocha": "^2.3.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^1.4.2",
+				"debug": "^2.2.0",
+				"ejs": "^1.0.0",
+				"lodash": "^3.10.1",
+				"strong-globalize": "^2.6.0",
+				"underscore.string": "~2.3.3"
+			},
+			"gitHead": "69851d4bf17fe1174a524fefc3a5cc5e352c4cad",
+			"homepage": "https://github.com/strongloop/loopback-swagger#readme",
+			"_id": "loopback-swagger@2.8.0",
+			"_shasum": "6a2fbf6a61f0e99630e76f209041e5e8c84eff51",
+			"_from": ".",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.6.0",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "mbajtoss@gmail.com"
+			},
+			"dist": {
+				"shasum": "6a2fbf6a61f0e99630e76f209041e5e8c84eff51",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.8.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/loopback-swagger-2.8.0.tgz_1476346645056_0.5655796432401985"
+			},
+			"directories": {}
+		},
+		"3.0.0": {
+			"name": "loopback-swagger",
+			"version": "3.0.0",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"engines": {
+				"node": ">=4"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha",
+				"lint": "eslint .",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"eslint": "^2.7.0",
+				"eslint-config-loopback": "^1.0.0",
+				"loopback": "^3.0.0",
+				"mocha": "^2.3.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^1.4.2",
+				"debug": "^2.2.0",
+				"ejs": "^2.5.5",
+				"lodash": "^3.10.1",
+				"strong-globalize": "^2.6.0",
+				"underscore.string": "~2.3.3"
+			},
+			"gitHead": "7e33fcf0cd2f6f7a6ee38d169ea89013ff18c239",
+			"homepage": "https://github.com/strongloop/loopback-swagger#readme",
+			"_id": "loopback-swagger@3.0.0",
+			"_shasum": "4de8b441182725b379b5e7d2fe87f05f059edeb7",
+			"_from": ".",
+			"_npmVersion": "3.10.8",
+			"_nodeVersion": "6.9.1",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "mbajtoss@gmail.com"
+			},
+			"dist": {
+				"shasum": "4de8b441182725b379b5e7d2fe87f05f059edeb7",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-3.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "0candy",
+					"email": "ngcandy@ca.ibm.com"
+				},
+				{
+					"name": "amir-61",
+					"email": "amirali.jfr61@gmail.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "davidcheung",
+					"email": "davidcheung@live.ca"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "jannyhou2016",
+					"email": "juehou@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "loay",
+					"email": "gewily@ca.ibm.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "qpresley",
+					"email": "qpresley@ca.ibm.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				},
+				{
+					"name": "thegman",
+					"email": "gpandya@live.com"
+				},
+				{
+					"name": "tonyf-ibm",
+					"email": "tffrench@us.ibm.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/loopback-swagger-3.0.0.tgz_1482319974324_0.6474109899718314"
+			},
+			"directories": {}
+		},
+		"3.0.1": {
+			"name": "loopback-swagger",
+			"version": "3.0.1",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"engines": {
+				"node": ">=4"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha",
+				"lint": "eslint .",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"eslint": "^2.7.0",
+				"eslint-config-loopback": "^1.0.0",
+				"loopback": "^3.0.0",
+				"mocha": "^2.3.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^1.4.2",
+				"debug": "^2.2.0",
+				"ejs": "^2.5.5",
+				"lodash": "^3.10.1",
+				"strong-globalize": "^2.6.0",
+				"underscore.string": "~2.3.3"
+			},
+			"gitHead": "8aab88d346f6826ed7df01762ffaf5264c47af26",
+			"homepage": "https://github.com/strongloop/loopback-swagger#readme",
+			"_id": "loopback-swagger@3.0.1",
+			"_shasum": "793ad2ef688953c93f225f19bd91fc172e60c1ad",
+			"_from": ".",
+			"_npmVersion": "3.10.10",
+			"_nodeVersion": "6.9.1",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "mbajtoss@gmail.com"
+			},
+			"dist": {
+				"shasum": "793ad2ef688953c93f225f19bd91fc172e60c1ad",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-3.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "0candy",
+					"email": "ngcandy@ca.ibm.com"
+				},
+				{
+					"name": "amir-61",
+					"email": "amirali.jfr61@gmail.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "davidcheung",
+					"email": "davidcheung@live.ca"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "jannyhou2016",
+					"email": "juehou@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "loay",
+					"email": "gewily@ca.ibm.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "qpresley",
+					"email": "qpresley@ca.ibm.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				},
+				{
+					"name": "thegman",
+					"email": "gpandya@live.com"
+				},
+				{
+					"name": "tonyf-ibm",
+					"email": "tffrench@us.ibm.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/loopback-swagger-3.0.1.tgz_1482419404354_0.7621321990154684"
+			},
+			"directories": {}
+		},
+		"4.0.0": {
+			"name": "loopback-swagger",
+			"version": "4.0.0",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"engines": {
+				"node": ">=4"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha",
+				"lint": "eslint .",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.5.0",
+				"eslint": "^3.12.2",
+				"eslint-config-loopback": "^7.0.1",
+				"loopback": "^3.0.0",
+				"mocha": "^3.2.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^2.1.4",
+				"debug": "^2.4.5",
+				"ejs": "^2.5.5",
+				"lodash": "^4.17.2",
+				"strong-globalize": "^2.8.0"
+			},
+			"gitHead": "bc0a1a2935a9d8329c637d2cc361fc71e9818a15",
+			"homepage": "https://github.com/strongloop/loopback-swagger#readme",
+			"_id": "loopback-swagger@4.0.0",
+			"_shasum": "72a042add5a3b538e87a742685c62e17e37e2cd0",
+			"_from": ".",
+			"_npmVersion": "3.10.10",
+			"_nodeVersion": "6.9.4",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"dist": {
+				"shasum": "72a042add5a3b538e87a742685c62e17e37e2cd0",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-4.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "0candy",
+					"email": "ngcandy@ca.ibm.com"
+				},
+				{
+					"name": "amir-61",
+					"email": "amirali.jfr61@gmail.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "davidcheung",
+					"email": "davidcheung@live.ca"
+				},
+				{
+					"name": "hacksparrow",
+					"email": "captain@hacksparrow.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "jannyhou2016",
+					"email": "juehou@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "loay",
+					"email": "gewily@ca.ibm.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "qpresley",
+					"email": "qpresley@ca.ibm.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				},
+				{
+					"name": "thegman",
+					"email": "gpandya@live.com"
+				},
+				{
+					"name": "tonyf-ibm",
+					"email": "tffrench@us.ibm.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/loopback-swagger-4.0.0.tgz_1485989529892_0.24533615354448557"
+			},
+			"directories": {}
+		},
+		"2.9.0": {
+			"name": "loopback-swagger",
+			"version": "2.9.0",
+			"publishConfig": {
+				"tag": "lts"
+			},
+			"description": "Integration between LoopBack and Swagger API specs",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha",
+				"lint": "eslint .",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"eslint": "^2.7.0",
+				"eslint-config-loopback": "^1.0.0",
+				"loopback": "^2.36.0",
+				"mocha": "^2.3.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^1.4.2",
+				"debug": "^2.2.0",
+				"ejs": "^2.5.5",
+				"lodash": "^3.10.1",
+				"strong-globalize": "^2.6.0",
+				"underscore.string": "~2.3.3"
+			},
+			"gitHead": "02630457eab7eb247937e3c7b878ab6e2e45deaf",
+			"homepage": "https://github.com/strongloop/loopback-swagger#readme",
+			"_id": "loopback-swagger@2.9.0",
+			"_shasum": "fe8de82e5fbb252677782ae5fd2dbda1a9205829",
+			"_from": ".",
+			"_npmVersion": "3.10.10",
+			"_nodeVersion": "6.9.5",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "mbajtoss@gmail.com"
+			},
+			"dist": {
+				"shasum": "fe8de82e5fbb252677782ae5fd2dbda1a9205829",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.9.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "0candy",
+					"email": "ngcandy@ca.ibm.com"
+				},
+				{
+					"name": "amir-61",
+					"email": "amirali.jfr61@gmail.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "davidcheung",
+					"email": "davidcheung@live.ca"
+				},
+				{
+					"name": "hacksparrow",
+					"email": "captain@hacksparrow.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "jannyhou2016",
+					"email": "juehou@ca.ibm.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "loay",
+					"email": "gewily@ca.ibm.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "qpresley",
+					"email": "qpresley@ca.ibm.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				},
+				{
+					"name": "thegman",
+					"email": "gpandya@live.com"
+				},
+				{
+					"name": "tonyf-ibm",
+					"email": "tffrench@us.ibm.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/loopback-swagger-2.9.0.tgz_1487260142896_0.784353336552158"
+			},
+			"directories": {}
+		},
+		"4.0.1": {
+			"name": "loopback-swagger",
+			"version": "4.0.1",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"engines": {
+				"node": ">=4"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha",
+				"lint": "eslint .",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.5.0",
+				"eslint": "^3.12.2",
+				"eslint-config-loopback": "^7.0.1",
+				"loopback": "^3.0.0",
+				"mocha": "^3.2.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^2.1.4",
+				"debug": "^2.4.5",
+				"ejs": "^2.5.5",
+				"lodash": "^4.17.2",
+				"strong-globalize": "^2.8.0"
+			},
+			"gitHead": "dcfde0892442adc9646a3d9cef5b3746696d2fdc",
+			"homepage": "https://github.com/strongloop/loopback-swagger#readme",
+			"_id": "loopback-swagger@4.0.1",
+			"_shasum": "60df0a4a84a74762bd781f365a57f33375730e4f",
+			"_from": ".",
+			"_npmVersion": "4.2.0",
+			"_nodeVersion": "6.10.0",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"dist": {
+				"shasum": "60df0a4a84a74762bd781f365a57f33375730e4f",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-4.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "0candy",
+					"email": "ngcandy@ca.ibm.com"
+				},
+				{
+					"name": "amir-61",
+					"email": "amirali.jfr61@gmail.com"
+				},
+				{
+					"name": "b-admike",
+					"email": "binadmt@hotmail.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "davidcheung",
+					"email": "davidcheung@live.ca"
+				},
+				{
+					"name": "hacksparrow",
+					"email": "captain@hacksparrow.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "jannyhou2016",
+					"email": "juehou@ca.ibm.com"
+				},
+				{
+					"name": "kjdelisle",
+					"email": "kjdelisle@gmail.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "loay",
+					"email": "gewily@ca.ibm.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "qpresley",
+					"email": "qpresley@ca.ibm.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				},
+				{
+					"name": "thegman",
+					"email": "gpandya@live.com"
+				},
+				{
+					"name": "tonyf-ibm",
+					"email": "tffrench@us.ibm.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/loopback-swagger-4.0.1.tgz_1488471978630_0.7283195878844708"
+			},
+			"directories": {}
+		},
+		"4.0.2": {
+			"name": "loopback-swagger",
+			"version": "4.0.2",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"engines": {
+				"node": ">=4"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha",
+				"lint": "eslint .",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.5.0",
+				"eslint": "^3.12.2",
+				"eslint-config-loopback": "^7.0.1",
+				"loopback": "^3.0.0",
+				"mocha": "^3.2.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^2.1.4",
+				"debug": "^2.4.5",
+				"ejs": "^2.5.5",
+				"lodash": "^4.17.2",
+				"strong-globalize": "^2.8.0"
+			},
+			"gitHead": "08ac6923ce0a5dcfd0a34f0f9ee2e2114430312d",
+			"homepage": "https://github.com/strongloop/loopback-swagger#readme",
+			"_id": "loopback-swagger@4.0.2",
+			"_shasum": "6658eb55b3883827f37a1e1da35f1b7b0854e9ea",
+			"_from": ".",
+			"_npmVersion": "4.2.0",
+			"_nodeVersion": "6.10.0",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"dist": {
+				"shasum": "6658eb55b3883827f37a1e1da35f1b7b0854e9ea",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-4.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "0candy",
+					"email": "ngcandy@ca.ibm.com"
+				},
+				{
+					"name": "amir-61",
+					"email": "amirali.jfr61@gmail.com"
+				},
+				{
+					"name": "b-admike",
+					"email": "binadmt@hotmail.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "davidcheung",
+					"email": "davidcheung@live.ca"
+				},
+				{
+					"name": "hacksparrow",
+					"email": "captain@hacksparrow.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "jannyhou2016",
+					"email": "juehou@ca.ibm.com"
+				},
+				{
+					"name": "kjdelisle",
+					"email": "kjdelisle@gmail.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "loay",
+					"email": "gewily@ca.ibm.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "qpresley",
+					"email": "qpresley@ca.ibm.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				},
+				{
+					"name": "thegman",
+					"email": "gpandya@live.com"
+				},
+				{
+					"name": "tonyf-ibm",
+					"email": "tffrench@us.ibm.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/loopback-swagger-4.0.2.tgz_1488473075741_0.27758731436915696"
+			},
+			"directories": {}
+		},
+		"4.0.3": {
+			"name": "loopback-swagger",
+			"version": "4.0.3",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"engines": {
+				"node": ">=4"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha",
+				"lint": "eslint .",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.5.0",
+				"eslint": "^3.12.2",
+				"eslint-config-loopback": "^7.0.1",
+				"loopback": "^3.0.0",
+				"mocha": "^3.2.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^2.1.4",
+				"debug": "^2.4.5",
+				"ejs": "^2.5.5",
+				"lodash": "^4.17.2",
+				"strong-globalize": "^2.8.0"
+			},
+			"gitHead": "8f401db48439276f150599611fa6bd6d42dbd8af",
+			"homepage": "https://github.com/strongloop/loopback-swagger#readme",
+			"_id": "loopback-swagger@4.0.3",
+			"_shasum": "360346793706b3d3131f4dd9c3e779b6af445179",
+			"_from": ".",
+			"_npmVersion": "3.10.10",
+			"_nodeVersion": "6.9.5",
+			"_npmUser": {
+				"name": "kjdelisle",
+				"email": "kjdelisle@gmail.com"
+			},
+			"dist": {
+				"shasum": "360346793706b3d3131f4dd9c3e779b6af445179",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-4.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "0candy",
+					"email": "ngcandy@ca.ibm.com"
+				},
+				{
+					"name": "amir-61",
+					"email": "amirali.jfr61@gmail.com"
+				},
+				{
+					"name": "b-admike",
+					"email": "binadmt@hotmail.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "davidcheung",
+					"email": "davidcheung@live.ca"
+				},
+				{
+					"name": "hacksparrow",
+					"email": "captain@hacksparrow.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "jannyhou2016",
+					"email": "juehou@ca.ibm.com"
+				},
+				{
+					"name": "kjdelisle",
+					"email": "kjdelisle@gmail.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "loay",
+					"email": "gewily@ca.ibm.com"
+				},
+				{
+					"name": "loopback-admin",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "qpresley",
+					"email": "qpresley@ca.ibm.com"
+				},
+				{
+					"name": "rashmihunt",
+					"email": "rashmihunt@gmail.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				},
+				{
+					"name": "thegman",
+					"email": "gpandya@live.com"
+				},
+				{
+					"name": "tonyf-ibm",
+					"email": "tffrench@us.ibm.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/loopback-swagger-4.0.3.tgz_1493325294401_0.20424649631604552"
+			},
+			"directories": {}
+		},
+		"3.0.2": {
+			"name": "loopback-swagger",
+			"version": "3.0.2",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"engines": {
+				"node": ">=4"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha",
+				"lint": "eslint .",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"eslint": "^3.12.2",
+				"eslint-config-loopback": "^7.0.1",
+				"loopback": "^3.0.0",
+				"mocha": "^2.3.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^1.4.2",
+				"debug": "^2.2.0",
+				"ejs": "^2.5.5",
+				"lodash": "^3.10.1",
+				"strong-globalize": "^2.6.0",
+				"underscore.string": "~2.3.3"
+			},
+			"gitHead": "f00edc44d2db040bbee337cd4ac0883d43b21edd",
+			"homepage": "https://github.com/strongloop/loopback-swagger#readme",
+			"_id": "loopback-swagger@3.0.2",
+			"_shasum": "e15062cc6cd3a3f9fefd737aa83d78417d6481bb",
+			"_from": ".",
+			"_npmVersion": "3.10.10",
+			"_nodeVersion": "6.9.5",
+			"_npmUser": {
+				"name": "kjdelisle",
+				"email": "kjdelisle@gmail.com"
+			},
+			"dist": {
+				"shasum": "e15062cc6cd3a3f9fefd737aa83d78417d6481bb",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-3.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "0candy",
+					"email": "ngcandy@ca.ibm.com"
+				},
+				{
+					"name": "amir-61",
+					"email": "amirali.jfr61@gmail.com"
+				},
+				{
+					"name": "b-admike",
+					"email": "binadmt@hotmail.com"
+				},
+				{
+					"name": "bajtos",
+					"email": "mbajtoss@gmail.com"
+				},
+				{
+					"name": "chandadharap",
+					"email": "chanda_dharap@yahoo.com"
+				},
+				{
+					"name": "davidcheung",
+					"email": "davidcheung@live.ca"
+				},
+				{
+					"name": "hacksparrow",
+					"email": "captain@hacksparrow.com"
+				},
+				{
+					"name": "ibmcloud-admin",
+					"email": "rmg@ca.ibm.com"
+				},
+				{
+					"name": "jannyhou2016",
+					"email": "juehou@ca.ibm.com"
+				},
+				{
+					"name": "kjdelisle",
+					"email": "kjdelisle@gmail.com"
+				},
+				{
+					"name": "kraman",
+					"email": "kraman@gmail.com"
+				},
+				{
+					"name": "loay",
+					"email": "gewily@ca.ibm.com"
+				},
+				{
+					"name": "loopback-admin",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "octet",
+					"email": "vieuxtech@gmail.com"
+				},
+				{
+					"name": "qpresley",
+					"email": "qpresley@ca.ibm.com"
+				},
+				{
+					"name": "rashmihunt",
+					"email": "rashmihunt@gmail.com"
+				},
+				{
+					"name": "rfeng",
+					"email": "enjoyjava@gmail.com"
+				},
+				{
+					"name": "ritch",
+					"email": "skawful@gmail.com"
+				},
+				{
+					"name": "rmg",
+					"email": "r.m.graham@gmail.com"
+				},
+				{
+					"name": "setogit",
+					"email": "setogit@gmail.com"
+				},
+				{
+					"name": "strongloop",
+					"email": "strngops@us.ibm.com"
+				},
+				{
+					"name": "superkhau",
+					"email": "superkhau@gmail.com"
+				},
+				{
+					"name": "thegman",
+					"email": "gpandya@live.com"
+				},
+				{
+					"name": "tonyf-ibm",
+					"email": "tffrench@us.ibm.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/loopback-swagger-3.0.2.tgz_1493764213949_0.49921510461717844"
+			},
+			"directories": {}
+		},
+		"4.1.0": {
+			"name": "loopback-swagger",
+			"version": "4.1.0",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"engines": {
+				"node": ">=4"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha",
+				"lint": "eslint .",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.5.0",
+				"eslint": "^3.12.2",
+				"eslint-config-loopback": "^8.0.0",
+				"loopback": "^3.0.0",
+				"mocha": "^3.2.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^2.1.4",
+				"debug": "^2.4.5",
+				"ejs": "^2.5.5",
+				"lodash": "^4.17.2",
+				"strong-globalize": "^2.8.0"
+			},
+			"gitHead": "27588b9e08e07ee9bc550652a29f50fe2ab51675",
+			"homepage": "https://github.com/strongloop/loopback-swagger#readme",
+			"_id": "loopback-swagger@4.1.0",
+			"_npmVersion": "5.3.0",
+			"_nodeVersion": "8.3.0",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "mbajtoss@gmail.com"
+			},
+			"dist": {
+				"integrity": "sha512-XlWQa41vaMTmsRHC0XAZI3wsmkFWM79rTaqCPRmE+3/Z0e2nzOSzEWf9sKpI8ijmEgSJ+GSwgnBrbrozqh+iaQ==",
+				"shasum": "794f075bca29a30f1cbed3e00ba71277cb9d7176",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-4.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"email": "skawful@gmail.com",
+					"name": "ritch"
+				},
+				{
+					"email": "strngops@us.ibm.com",
+					"name": "strongloop"
+				},
+				{
+					"email": "mbajtoss@gmail.com",
+					"name": "bajtos"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "rfeng"
+				},
+				{
+					"email": "kjdelisle@gmail.com",
+					"name": "kjdelisle"
+				},
+				{
+					"email": "tffrench@us.ibm.com",
+					"name": "tonyf-ibm"
+				},
+				{
+					"email": "gpandya@live.com",
+					"name": "thegman"
+				},
+				{
+					"email": "qpresley@ca.ibm.com",
+					"name": "qpresley"
+				},
+				{
+					"email": "gewily@ca.ibm.com",
+					"name": "loay"
+				},
+				{
+					"email": "juehou@ca.ibm.com",
+					"name": "jannyhou2016"
+				},
+				{
+					"email": "captain@hacksparrow.com",
+					"name": "hacksparrow"
+				},
+				{
+					"email": "davidcheung@live.ca",
+					"name": "davidcheung"
+				},
+				{
+					"email": "binadmt@hotmail.com",
+					"name": "b-admike"
+				},
+				{
+					"email": "amirali.jfr61@gmail.com",
+					"name": "amir-61"
+				},
+				{
+					"email": "ngcandy@ca.ibm.com",
+					"name": "0candy"
+				},
+				{
+					"email": "superkhau@gmail.com",
+					"name": "superkhau"
+				},
+				{
+					"email": "setogit@gmail.com",
+					"name": "setogit"
+				},
+				{
+					"email": "rmg@ca.ibm.com",
+					"name": "ibmcloud-admin"
+				},
+				{
+					"email": "kraman@gmail.com",
+					"name": "kraman"
+				},
+				{
+					"email": "r.m.graham@gmail.com",
+					"name": "rmg"
+				},
+				{
+					"email": "vieuxtech@gmail.com",
+					"name": "octet"
+				},
+				{
+					"email": "rashmihunt@gmail.com",
+					"name": "rashmihunt"
+				},
+				{
+					"email": "mahesh.patsute@ibm.com",
+					"name": "mahesh.patsute"
+				},
+				{
+					"email": "dianahmlau@gmail.com",
+					"name": "dhmlau"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "loopback-admin"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/loopback-swagger-4.1.0.tgz_1502725233674_0.9042545726988465"
+			},
+			"directories": {}
+		},
+		"4.2.0": {
+			"name": "loopback-swagger",
+			"version": "4.2.0",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"engines": {
+				"node": ">=4"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha",
+				"lint": "eslint .",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.5.0",
+				"eslint": "^3.12.2",
+				"eslint-config-loopback": "^8.0.0",
+				"loopback": "^3.0.0",
+				"mocha": "^3.2.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^2.1.4",
+				"debug": "^2.4.5",
+				"ejs": "^2.5.5",
+				"lodash": "^4.17.2",
+				"strong-globalize": "^2.8.0"
+			},
+			"gitHead": "58b6edf7f451f19f05bf932eef9eecd812f9ae2d",
+			"homepage": "https://github.com/strongloop/loopback-swagger#readme",
+			"_id": "loopback-swagger@4.2.0",
+			"_shasum": "9712aa4ce0163cff16494de32ad8b40cc214b890",
+			"_from": ".",
+			"_npmVersion": "2.14.2",
+			"_nodeVersion": "4.0.0",
+			"_npmUser": {
+				"name": "rashmihunt",
+				"email": "rashmihunt@gmail.com"
+			},
+			"dist": {
+				"shasum": "9712aa4ce0163cff16494de32ad8b40cc214b890",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-4.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"email": "skawful@gmail.com",
+					"name": "ritch"
+				},
+				{
+					"email": "strngops@us.ibm.com",
+					"name": "strongloop"
+				},
+				{
+					"email": "mbajtoss@gmail.com",
+					"name": "bajtos"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "rfeng"
+				},
+				{
+					"email": "kjdelisle@gmail.com",
+					"name": "kjdelisle"
+				},
+				{
+					"email": "tffrench@us.ibm.com",
+					"name": "tonyf-ibm"
+				},
+				{
+					"email": "gpandya@live.com",
+					"name": "thegman"
+				},
+				{
+					"email": "qpresley@ca.ibm.com",
+					"name": "qpresley"
+				},
+				{
+					"email": "gewily@ca.ibm.com",
+					"name": "loay"
+				},
+				{
+					"email": "juehou@ca.ibm.com",
+					"name": "jannyhou2016"
+				},
+				{
+					"email": "captain@hacksparrow.com",
+					"name": "hacksparrow"
+				},
+				{
+					"email": "davidcheung@live.ca",
+					"name": "davidcheung"
+				},
+				{
+					"email": "binadmt@hotmail.com",
+					"name": "b-admike"
+				},
+				{
+					"email": "amirali.jfr61@gmail.com",
+					"name": "amir-61"
+				},
+				{
+					"email": "ngcandy@ca.ibm.com",
+					"name": "0candy"
+				},
+				{
+					"email": "superkhau@gmail.com",
+					"name": "superkhau"
+				},
+				{
+					"email": "setogit@gmail.com",
+					"name": "setogit"
+				},
+				{
+					"email": "rmg@ca.ibm.com",
+					"name": "ibmcloud-admin"
+				},
+				{
+					"email": "kraman@gmail.com",
+					"name": "kraman"
+				},
+				{
+					"email": "r.m.graham@gmail.com",
+					"name": "rmg"
+				},
+				{
+					"email": "vieuxtech@gmail.com",
+					"name": "octet"
+				},
+				{
+					"email": "rashmihunt@gmail.com",
+					"name": "rashmihunt"
+				},
+				{
+					"email": "mahesh.patsute@ibm.com",
+					"name": "mahesh.patsute"
+				},
+				{
+					"email": "dianahmlau@gmail.com",
+					"name": "dhmlau"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "loopback-admin"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/loopback-swagger-4.2.0.tgz_1503463959838_0.142319749109447"
+			},
+			"deprecated": "v4.2.0 contains breaking changes, see https://github.com/strongloop/loopback-swagger/issues/100. To opt in the changes, use `^5.0.0`. Otherwise, use `^4.3.0`.",
+			"directories": {}
+		},
+		"5.0.0": {
+			"name": "loopback-swagger",
+			"version": "5.0.0",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"engines": {
+				"node": ">=4"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha",
+				"lint": "eslint .",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.5.0",
+				"eslint": "^3.12.2",
+				"eslint-config-loopback": "^8.0.0",
+				"loopback": "^3.0.0",
+				"mocha": "^3.2.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^2.1.4",
+				"debug": "^2.4.5",
+				"ejs": "^2.5.5",
+				"lodash": "^4.17.2",
+				"strong-globalize": "^2.8.0"
+			},
+			"gitHead": "03494dc8adc673faa1f2e70238a8818ae146952c",
+			"homepage": "https://github.com/strongloop/loopback-swagger#readme",
+			"_id": "loopback-swagger@5.0.0",
+			"_npmVersion": "5.0.0",
+			"_nodeVersion": "8.0.0",
+			"_npmUser": {
+				"name": "rashmihunt",
+				"email": "rashmihunt@gmail.com"
+			},
+			"dist": {
+				"integrity": "sha512-xImwRbugLCyHBwtWFYugpVwXF+w3VUtowmYQIkeGem88+kB0lyCoRJxKgKpxEzM+6aBeC/GD9V8Ps2QMv8DtkQ==",
+				"shasum": "bbe8f65fb22f3aa6cabbcf764aaa09cb341d31a2",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-5.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"email": "skawful@gmail.com",
+					"name": "ritch"
+				},
+				{
+					"email": "strngops@us.ibm.com",
+					"name": "strongloop"
+				},
+				{
+					"email": "mbajtoss@gmail.com",
+					"name": "bajtos"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "rfeng"
+				},
+				{
+					"email": "kjdelisle@gmail.com",
+					"name": "kjdelisle"
+				},
+				{
+					"email": "tffrench@us.ibm.com",
+					"name": "tonyf-ibm"
+				},
+				{
+					"email": "gpandya@live.com",
+					"name": "thegman"
+				},
+				{
+					"email": "qpresley@ca.ibm.com",
+					"name": "qpresley"
+				},
+				{
+					"email": "gewily@ca.ibm.com",
+					"name": "loay"
+				},
+				{
+					"email": "juehou@ca.ibm.com",
+					"name": "jannyhou2016"
+				},
+				{
+					"email": "captain@hacksparrow.com",
+					"name": "hacksparrow"
+				},
+				{
+					"email": "davidcheung@live.ca",
+					"name": "davidcheung"
+				},
+				{
+					"email": "binadmt@hotmail.com",
+					"name": "b-admike"
+				},
+				{
+					"email": "amirali.jfr61@gmail.com",
+					"name": "amir-61"
+				},
+				{
+					"email": "ngcandy@ca.ibm.com",
+					"name": "0candy"
+				},
+				{
+					"email": "superkhau@gmail.com",
+					"name": "superkhau"
+				},
+				{
+					"email": "setogit@gmail.com",
+					"name": "setogit"
+				},
+				{
+					"email": "rmg@ca.ibm.com",
+					"name": "ibmcloud-admin"
+				},
+				{
+					"email": "kraman@gmail.com",
+					"name": "kraman"
+				},
+				{
+					"email": "r.m.graham@gmail.com",
+					"name": "rmg"
+				},
+				{
+					"email": "vieuxtech@gmail.com",
+					"name": "octet"
+				},
+				{
+					"email": "rashmihunt@gmail.com",
+					"name": "rashmihunt"
+				},
+				{
+					"email": "mahesh.patsute@ibm.com",
+					"name": "mahesh.patsute"
+				},
+				{
+					"email": "dianahmlau@gmail.com",
+					"name": "dhmlau"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "loopback-admin"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/loopback-swagger-5.0.0.tgz_1504646153374_0.9871415772940964"
+			},
+			"directories": {}
+		},
+		"4.3.0": {
+			"name": "loopback-swagger",
+			"version": "4.3.0",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"engines": {
+				"node": ">=4"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha",
+				"lint": "eslint .",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.5.0",
+				"eslint": "^3.12.2",
+				"eslint-config-loopback": "^8.0.0",
+				"loopback": "^3.0.0",
+				"mocha": "^3.2.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^2.1.4",
+				"debug": "^2.4.5",
+				"ejs": "^2.5.5",
+				"lodash": "^4.17.2",
+				"strong-globalize": "^2.8.0"
+			},
+			"gitHead": "095f34f08f5d4e487bd012b19f96dc2b87fdfb8e",
+			"homepage": "https://github.com/strongloop/loopback-swagger#readme",
+			"_id": "loopback-swagger@4.3.0",
+			"_npmVersion": "5.0.0",
+			"_nodeVersion": "8.0.0",
+			"_npmUser": {
+				"name": "rashmihunt",
+				"email": "rashmihunt@gmail.com"
+			},
+			"dist": {
+				"integrity": "sha512-k1xQbvH0QXUGBEKBxNXRxTUwd7aIwqBRUKfJGOPfiA5kv5zwCm73zAKEnlLJVWeTGsy7ZBl4pBmmuRSbCo5oLg==",
+				"shasum": "3817055469eb7fa8ef703951dc2977c3253a5c49",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-4.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"email": "skawful@gmail.com",
+					"name": "ritch"
+				},
+				{
+					"email": "strngops@us.ibm.com",
+					"name": "strongloop"
+				},
+				{
+					"email": "mbajtoss@gmail.com",
+					"name": "bajtos"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "rfeng"
+				},
+				{
+					"email": "kjdelisle@gmail.com",
+					"name": "kjdelisle"
+				},
+				{
+					"email": "tffrench@us.ibm.com",
+					"name": "tonyf-ibm"
+				},
+				{
+					"email": "gpandya@live.com",
+					"name": "thegman"
+				},
+				{
+					"email": "qpresley@ca.ibm.com",
+					"name": "qpresley"
+				},
+				{
+					"email": "gewily@ca.ibm.com",
+					"name": "loay"
+				},
+				{
+					"email": "juehou@ca.ibm.com",
+					"name": "jannyhou2016"
+				},
+				{
+					"email": "captain@hacksparrow.com",
+					"name": "hacksparrow"
+				},
+				{
+					"email": "davidcheung@live.ca",
+					"name": "davidcheung"
+				},
+				{
+					"email": "binadmt@hotmail.com",
+					"name": "b-admike"
+				},
+				{
+					"email": "amirali.jfr61@gmail.com",
+					"name": "amir-61"
+				},
+				{
+					"email": "ngcandy@ca.ibm.com",
+					"name": "0candy"
+				},
+				{
+					"email": "superkhau@gmail.com",
+					"name": "superkhau"
+				},
+				{
+					"email": "setogit@gmail.com",
+					"name": "setogit"
+				},
+				{
+					"email": "rmg@ca.ibm.com",
+					"name": "ibmcloud-admin"
+				},
+				{
+					"email": "kraman@gmail.com",
+					"name": "kraman"
+				},
+				{
+					"email": "r.m.graham@gmail.com",
+					"name": "rmg"
+				},
+				{
+					"email": "vieuxtech@gmail.com",
+					"name": "octet"
+				},
+				{
+					"email": "rashmihunt@gmail.com",
+					"name": "rashmihunt"
+				},
+				{
+					"email": "mahesh.patsute@ibm.com",
+					"name": "mahesh.patsute"
+				},
+				{
+					"email": "dianahmlau@gmail.com",
+					"name": "dhmlau"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "loopback-admin"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/loopback-swagger-4.3.0.tgz_1504646744326_0.563307055272162"
+			},
+			"directories": {}
+		},
+		"5.1.0": {
+			"name": "loopback-swagger",
+			"version": "5.1.0",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"engines": {
+				"node": ">=4"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha",
+				"lint": "eslint .",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.5.0",
+				"eslint": "^3.12.2",
+				"eslint-config-loopback": "^8.0.0",
+				"loopback": "^3.0.0",
+				"mocha": "^3.2.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^2.1.4",
+				"debug": "^2.4.5",
+				"ejs": "^2.5.5",
+				"lodash": "^4.17.2",
+				"strong-globalize": "^3.1.0"
+			},
+			"gitHead": "4c6dc9c7c5356e024ab151f838e6e615f3d92a60",
+			"homepage": "https://github.com/strongloop/loopback-swagger#readme",
+			"_id": "loopback-swagger@5.1.0",
+			"_npmVersion": "5.4.2",
+			"_nodeVersion": "8.7.0",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "mbajtoss@gmail.com"
+			},
+			"dist": {
+				"integrity": "sha512-ZF6qmSo5fgUzItoPQzP+zC6GTsMZwfDJuRqfIi6h2SkxHIj3Ue84LSJKbARzGTfQvJBUeD2JnIRftIZ5Rzj+Sw==",
+				"shasum": "754905b2effa921d59a1b57c5f4b941955345709",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-5.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"email": "skawful@gmail.com",
+					"name": "ritch"
+				},
+				{
+					"email": "strngops@us.ibm.com",
+					"name": "strongloop"
+				},
+				{
+					"email": "mbajtoss@gmail.com",
+					"name": "bajtos"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "rfeng"
+				},
+				{
+					"email": "kjdelisle@gmail.com",
+					"name": "kjdelisle"
+				},
+				{
+					"email": "tffrench@us.ibm.com",
+					"name": "tonyf-ibm"
+				},
+				{
+					"email": "gpandya@live.com",
+					"name": "thegman"
+				},
+				{
+					"email": "qpresley@ca.ibm.com",
+					"name": "qpresley"
+				},
+				{
+					"email": "gewily@ca.ibm.com",
+					"name": "loay"
+				},
+				{
+					"email": "juehou@ca.ibm.com",
+					"name": "jannyhou2016"
+				},
+				{
+					"email": "captain@hacksparrow.com",
+					"name": "hacksparrow"
+				},
+				{
+					"email": "davidcheung@live.ca",
+					"name": "davidcheung"
+				},
+				{
+					"email": "binadmt@hotmail.com",
+					"name": "b-admike"
+				},
+				{
+					"email": "amirali.jfr61@gmail.com",
+					"name": "amir-61"
+				},
+				{
+					"email": "ngcandy@ca.ibm.com",
+					"name": "0candy"
+				},
+				{
+					"email": "superkhau@gmail.com",
+					"name": "superkhau"
+				},
+				{
+					"email": "setogit@gmail.com",
+					"name": "setogit"
+				},
+				{
+					"email": "rmg@ca.ibm.com",
+					"name": "ibmcloud-admin"
+				},
+				{
+					"email": "kraman@gmail.com",
+					"name": "kraman"
+				},
+				{
+					"email": "r.m.graham@gmail.com",
+					"name": "rmg"
+				},
+				{
+					"email": "vieuxtech@gmail.com",
+					"name": "octet"
+				},
+				{
+					"email": "rashmihunt@gmail.com",
+					"name": "rashmihunt"
+				},
+				{
+					"email": "mahesh.patsute@ibm.com",
+					"name": "mahesh.patsute"
+				},
+				{
+					"email": "dianahmlau@gmail.com",
+					"name": "dhmlau"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "loopback-admin"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/loopback-swagger-5.1.0.tgz_1507901488080_0.9018378632608801"
+			},
+			"directories": {}
+		},
+		"5.2.0": {
+			"name": "loopback-swagger",
+			"version": "5.2.0",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"engines": {
+				"node": ">=4"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha",
+				"lint": "eslint .",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.5.0",
+				"eslint": "^3.12.2",
+				"eslint-config-loopback": "^8.0.0",
+				"loopback": "^3.0.0",
+				"mocha": "^3.2.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^2.1.4",
+				"debug": "^2.4.5",
+				"ejs": "^2.5.5",
+				"lodash": "^4.17.2",
+				"strong-globalize": "^3.1.0"
+			},
+			"gitHead": "d7b09422597b20d3d448a317a919ddf95ac2bdba",
+			"homepage": "https://github.com/strongloop/loopback-swagger#readme",
+			"_id": "loopback-swagger@5.2.0",
+			"_npmVersion": "5.4.2",
+			"_nodeVersion": "8.8.1",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "mbajtoss@gmail.com"
+			},
+			"dist": {
+				"integrity": "sha512-glymiRZx5EqcYuJZGpukGafyUXD4KiaDVYlueFgnFMLGvQiE0/doF+WSYEBGSzlYbNAXEScXzmq6WwG/HDIGdw==",
+				"shasum": "9f58bd54c9a09b5f95ecc83bb157dc981c01e15c",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-5.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"email": "skawful@gmail.com",
+					"name": "ritch"
+				},
+				{
+					"email": "strngops@us.ibm.com",
+					"name": "strongloop"
+				},
+				{
+					"email": "mbajtoss@gmail.com",
+					"name": "bajtos"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "rfeng"
+				},
+				{
+					"email": "kjdelisle@gmail.com",
+					"name": "kjdelisle"
+				},
+				{
+					"email": "tffrench@us.ibm.com",
+					"name": "tonyf-ibm"
+				},
+				{
+					"email": "gpandya@live.com",
+					"name": "thegman"
+				},
+				{
+					"email": "qpresley@ca.ibm.com",
+					"name": "qpresley"
+				},
+				{
+					"email": "juehou@ca.ibm.com",
+					"name": "jannyhou2016"
+				},
+				{
+					"email": "captain@hacksparrow.com",
+					"name": "hacksparrow"
+				},
+				{
+					"email": "davidcheung@live.ca",
+					"name": "davidcheung"
+				},
+				{
+					"email": "binadmt@hotmail.com",
+					"name": "b-admike"
+				},
+				{
+					"email": "amirali.jfr61@gmail.com",
+					"name": "amir-61"
+				},
+				{
+					"email": "ngcandy@ca.ibm.com",
+					"name": "0candy"
+				},
+				{
+					"email": "superkhau@gmail.com",
+					"name": "superkhau"
+				},
+				{
+					"email": "rmg@ca.ibm.com",
+					"name": "ibmcloud-admin"
+				},
+				{
+					"email": "kraman@gmail.com",
+					"name": "kraman"
+				},
+				{
+					"email": "r.m.graham@gmail.com",
+					"name": "rmg"
+				},
+				{
+					"email": "vieuxtech@gmail.com",
+					"name": "octet"
+				},
+				{
+					"email": "dianahmlau@gmail.com",
+					"name": "dhmlau"
+				},
+				{
+					"email": "rashmihunt@gmail.com",
+					"name": "rashmihunt"
+				},
+				{
+					"email": "mahesh.patsute@ibm.com",
+					"name": "mahesh.patsute"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "loopback-admin"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/loopback-swagger-5.2.0.tgz_1509109190718_0.0074152282904833555"
+			},
+			"directories": {}
+		},
+		"5.2.1": {
+			"name": "loopback-swagger",
+			"version": "5.2.1",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"engines": {
+				"node": ">=4"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha",
+				"lint": "eslint .",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.5.0",
+				"eslint": "^3.12.2",
+				"eslint-config-loopback": "^8.0.0",
+				"loopback": "^3.0.0",
+				"mocha": "^3.2.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^2.1.4",
+				"debug": "^2.4.5",
+				"ejs": "^2.5.5",
+				"lodash": "^4.17.2",
+				"strong-globalize": "^3.1.0"
+			},
+			"gitHead": "c1c591202e4460f65eff1eeb4b68dc705ef8d124",
+			"homepage": "https://github.com/strongloop/loopback-swagger#readme",
+			"_id": "loopback-swagger@5.2.1",
+			"_npmVersion": "5.4.2",
+			"_nodeVersion": "8.8.1",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "mbajtoss@gmail.com"
+			},
+			"dist": {
+				"integrity": "sha512-NRHruYRZE6yaZF36+yU8soXQl2IfpKiHLX2EulAd2qOnenAG5O/o04sXMhGXZFI4SSjy0zYYEjcCCb9b63k4nQ==",
+				"shasum": "60a0fd9048b7d183c136c04d4bb736c76786c731",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-5.2.1.tgz"
+			},
+			"maintainers": [
+				{
+					"email": "skawful@gmail.com",
+					"name": "ritch"
+				},
+				{
+					"email": "strngops@us.ibm.com",
+					"name": "strongloop"
+				},
+				{
+					"email": "mbajtoss@gmail.com",
+					"name": "bajtos"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "rfeng"
+				},
+				{
+					"email": "kjdelisle@gmail.com",
+					"name": "kjdelisle"
+				},
+				{
+					"email": "tffrench@us.ibm.com",
+					"name": "tonyf-ibm"
+				},
+				{
+					"email": "gpandya@live.com",
+					"name": "thegman"
+				},
+				{
+					"email": "qpresley@ca.ibm.com",
+					"name": "qpresley"
+				},
+				{
+					"email": "juehou@ca.ibm.com",
+					"name": "jannyhou2016"
+				},
+				{
+					"email": "captain@hacksparrow.com",
+					"name": "hacksparrow"
+				},
+				{
+					"email": "davidcheung@live.ca",
+					"name": "davidcheung"
+				},
+				{
+					"email": "binadmt@hotmail.com",
+					"name": "b-admike"
+				},
+				{
+					"email": "amirali.jfr61@gmail.com",
+					"name": "amir-61"
+				},
+				{
+					"email": "ngcandy@ca.ibm.com",
+					"name": "0candy"
+				},
+				{
+					"email": "superkhau@gmail.com",
+					"name": "superkhau"
+				},
+				{
+					"email": "rmg@ca.ibm.com",
+					"name": "ibmcloud-admin"
+				},
+				{
+					"email": "kraman@gmail.com",
+					"name": "kraman"
+				},
+				{
+					"email": "r.m.graham@gmail.com",
+					"name": "rmg"
+				},
+				{
+					"email": "vieuxtech@gmail.com",
+					"name": "octet"
+				},
+				{
+					"email": "dianahmlau@gmail.com",
+					"name": "dhmlau"
+				},
+				{
+					"email": "rashmihunt@gmail.com",
+					"name": "rashmihunt"
+				},
+				{
+					"email": "mahesh.patsute@ibm.com",
+					"name": "mahesh.patsute"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "loopback-admin"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/loopback-swagger-5.2.1.tgz_1509109900877_0.13599090813659132"
+			},
+			"directories": {}
+		},
+		"5.2.2": {
+			"name": "loopback-swagger",
+			"version": "5.2.2",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"engines": {
+				"node": ">=4"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha",
+				"lint": "eslint .",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.5.0",
+				"eslint": "^3.12.2",
+				"eslint-config-loopback": "^8.0.0",
+				"loopback": "^3.0.0",
+				"mocha": "^3.2.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^2.1.4",
+				"debug": "^2.4.5",
+				"ejs": "^2.5.5",
+				"lodash": "^4.17.2",
+				"strong-globalize": "^3.1.0"
+			},
+			"gitHead": "888648e64a19108beabb309d139f7554d2cddc6d",
+			"homepage": "https://github.com/strongloop/loopback-swagger#readme",
+			"_id": "loopback-swagger@5.2.2",
+			"_npmVersion": "5.5.1",
+			"_nodeVersion": "8.9.0",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"dist": {
+				"integrity": "sha512-9XrifnZlQ14L3EtlkzA9lg5ZZdnTDUh3qwFxH8Wy68LF88nfWRRuNhJswf7JRp4lW44pK00S39SLn8nJGd/CpQ==",
+				"shasum": "19d6d8e3333a7c4071b875726295585f5616c80f",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-5.2.2.tgz"
+			},
+			"maintainers": [
+				{
+					"email": "strngops@us.ibm.com",
+					"name": "strongloop-admin-deleteme"
+				},
+				{
+					"email": "skawful@gmail.com",
+					"name": "ritch"
+				},
+				{
+					"email": "mbajtoss@gmail.com",
+					"name": "bajtos"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "rfeng"
+				},
+				{
+					"email": "kjdelisle@gmail.com",
+					"name": "kjdelisle"
+				},
+				{
+					"email": "tffrench@us.ibm.com",
+					"name": "tonyf-ibm"
+				},
+				{
+					"email": "gpandya@live.com",
+					"name": "thegman"
+				},
+				{
+					"email": "qpresley@ca.ibm.com",
+					"name": "qpresley"
+				},
+				{
+					"email": "juehou@ca.ibm.com",
+					"name": "jannyhou2016"
+				},
+				{
+					"email": "captain@hacksparrow.com",
+					"name": "hacksparrow"
+				},
+				{
+					"email": "davidcheung@live.ca",
+					"name": "davidcheung"
+				},
+				{
+					"email": "binadmt@hotmail.com",
+					"name": "b-admike"
+				},
+				{
+					"email": "amirali.jfr61@gmail.com",
+					"name": "amir-61"
+				},
+				{
+					"email": "ngcandy@ca.ibm.com",
+					"name": "0candy"
+				},
+				{
+					"email": "superkhau@gmail.com",
+					"name": "superkhau"
+				},
+				{
+					"email": "kraman@gmail.com",
+					"name": "kraman"
+				},
+				{
+					"email": "r.m.graham@gmail.com",
+					"name": "rmg"
+				},
+				{
+					"email": "dianahmlau@gmail.com",
+					"name": "dhmlau"
+				},
+				{
+					"email": "rashmihunt@gmail.com",
+					"name": "rashmihunt"
+				},
+				{
+					"email": "mahesh.patsute@ibm.com",
+					"name": "mahesh.patsute"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/loopback-swagger-5.2.2.tgz_1511219670014_0.7270284821279347"
+			},
+			"directories": {}
+		},
+		"5.3.0": {
+			"name": "loopback-swagger",
+			"version": "5.3.0",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"engines": {
+				"node": ">=4"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha",
+				"lint": "eslint .",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.5.0",
+				"eslint": "^3.12.2",
+				"eslint-config-loopback": "^8.0.0",
+				"loopback": "^3.0.0",
+				"mocha": "^3.2.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^2.1.4",
+				"debug": "^2.4.5",
+				"ejs": "^2.5.5",
+				"lodash": "^4.17.2",
+				"strong-globalize": "^3.1.0"
+			},
+			"gitHead": "c626494f5df31911ff77089e3bcefac526fb68de",
+			"homepage": "https://github.com/strongloop/loopback-swagger#readme",
+			"_id": "loopback-swagger@5.3.0",
+			"_npmVersion": "5.5.1",
+			"_nodeVersion": "8.9.0",
+			"_npmUser": {
+				"name": "bajtos",
+				"email": "mbajtoss@gmail.com"
+			},
+			"dist": {
+				"integrity": "sha512-eu5dL03JM6xyCt31iSTN1uCozddSTfqHfPeKn8DD+JyczfiqytdaGOU2sOkibrBTlWbOkg21bJADv+EXIQ8gjQ==",
+				"shasum": "c363bcb664e9cd23a7119eb18109bd9202f4aaa4",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-5.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"email": "strngops@us.ibm.com",
+					"name": "strongloop-admin-deleteme"
+				},
+				{
+					"email": "skawful@gmail.com",
+					"name": "ritch"
+				},
+				{
+					"email": "mbajtoss@gmail.com",
+					"name": "bajtos"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "rfeng"
+				},
+				{
+					"email": "kjdelisle@gmail.com",
+					"name": "kjdelisle"
+				},
+				{
+					"email": "tffrench@us.ibm.com",
+					"name": "tonyf-ibm"
+				},
+				{
+					"email": "gpandya@live.com",
+					"name": "thegman"
+				},
+				{
+					"email": "qpresley@ca.ibm.com",
+					"name": "qpresley"
+				},
+				{
+					"email": "juehou@ca.ibm.com",
+					"name": "jannyhou2016"
+				},
+				{
+					"email": "captain@hacksparrow.com",
+					"name": "hacksparrow"
+				},
+				{
+					"email": "davidcheung@live.ca",
+					"name": "davidcheung"
+				},
+				{
+					"email": "binadmt@hotmail.com",
+					"name": "b-admike"
+				},
+				{
+					"email": "amirali.jfr61@gmail.com",
+					"name": "amir-61"
+				},
+				{
+					"email": "ngcandy@ca.ibm.com",
+					"name": "0candy"
+				},
+				{
+					"email": "superkhau@gmail.com",
+					"name": "superkhau"
+				},
+				{
+					"email": "kraman@gmail.com",
+					"name": "kraman"
+				},
+				{
+					"email": "r.m.graham@gmail.com",
+					"name": "rmg"
+				},
+				{
+					"email": "dianahmlau@gmail.com",
+					"name": "dhmlau"
+				},
+				{
+					"email": "rashmihunt@gmail.com",
+					"name": "rashmihunt"
+				},
+				{
+					"email": "mahesh.patsute@ibm.com",
+					"name": "mahesh.patsute"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/loopback-swagger-5.3.0.tgz_1511280898231_0.8072930646594614"
+			},
+			"directories": {}
+		},
+		"5.4.0": {
+			"name": "loopback-swagger",
+			"version": "5.4.0",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"engines": {
+				"node": ">=4"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha",
+				"lint": "eslint .",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.5.0",
+				"eslint": "^3.12.2",
+				"eslint-config-loopback": "^8.0.0",
+				"loopback": "^3.0.0",
+				"mocha": "^3.2.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^2.1.4",
+				"debug": "^2.4.5",
+				"ejs": "^2.5.5",
+				"lodash": "^4.17.2",
+				"strong-globalize": "^3.1.0"
+			},
+			"gitHead": "114f81289b41fd22f39c0cc0babf0f77f9e3aff4",
+			"homepage": "https://github.com/strongloop/loopback-swagger#readme",
+			"_id": "loopback-swagger@5.4.0",
+			"_npmVersion": "5.5.1",
+			"_nodeVersion": "8.9.0",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"dist": {
+				"integrity": "sha512-X7yru7wM8WFrlLujSCQyWt5KTsvFAyfmFK9WOL/3TyuCIMvekiLgCIo+6YIALXTXtKUJmiuLHCmHRqMKdK4vHg==",
+				"shasum": "c111b1af34d1b4d12e06b4a656a468a16beaeefe",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-5.4.0.tgz"
+			},
+			"maintainers": [
+				{
+					"email": "strngops@us.ibm.com",
+					"name": "strongloop-admin-deleteme"
+				},
+				{
+					"email": "skawful@gmail.com",
+					"name": "ritch"
+				},
+				{
+					"email": "mbajtoss@gmail.com",
+					"name": "bajtos"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "rfeng"
+				},
+				{
+					"email": "kjdelisle@gmail.com",
+					"name": "kjdelisle"
+				},
+				{
+					"email": "tffrench@us.ibm.com",
+					"name": "tonyf-ibm"
+				},
+				{
+					"email": "gpandya@live.com",
+					"name": "thegman"
+				},
+				{
+					"email": "qpresley@ca.ibm.com",
+					"name": "qpresley"
+				},
+				{
+					"email": "juehou@ca.ibm.com",
+					"name": "jannyhou2016"
+				},
+				{
+					"email": "captain@hacksparrow.com",
+					"name": "hacksparrow"
+				},
+				{
+					"email": "davidcheung@live.ca",
+					"name": "davidcheung"
+				},
+				{
+					"email": "binadmt@hotmail.com",
+					"name": "b-admike"
+				},
+				{
+					"email": "amirali.jfr61@gmail.com",
+					"name": "amir-61"
+				},
+				{
+					"email": "ngcandy@ca.ibm.com",
+					"name": "0candy"
+				},
+				{
+					"email": "superkhau@gmail.com",
+					"name": "superkhau"
+				},
+				{
+					"email": "kraman@gmail.com",
+					"name": "kraman"
+				},
+				{
+					"email": "r.m.graham@gmail.com",
+					"name": "rmg"
+				},
+				{
+					"email": "dianahmlau@gmail.com",
+					"name": "dhmlau"
+				},
+				{
+					"email": "rashmihunt@gmail.com",
+					"name": "rashmihunt"
+				},
+				{
+					"email": "mahesh.patsute@ibm.com",
+					"name": "mahesh.patsute"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/loopback-swagger-5.4.0.tgz_1511298090096_0.7212856775149703"
+			},
+			"directories": {}
+		},
+		"5.5.0": {
+			"name": "loopback-swagger",
+			"version": "5.5.0",
+			"description": "Integration between LoopBack and Swagger API specs",
+			"engines": {
+				"node": ">=4"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha",
+				"lint": "eslint .",
+				"posttest": "npm run lint"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/strongloop/loopback-swagger.git"
+			},
+			"keywords": [
+				"StrongLoop Labs",
+				"loopback",
+				"api",
+				"swagger"
+			],
+			"author": {
+				"name": "Raymond Feng"
+			},
+			"bugs": {
+				"url": "https://github.com/strongloop/loopback-swagger/issues"
+			},
+			"devDependencies": {
+				"chai": "^3.5.0",
+				"eslint": "^3.12.2",
+				"eslint-config-loopback": "^8.0.0",
+				"loopback": "^3.0.0",
+				"mocha": "^3.2.0"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"async": "^2.1.4",
+				"debug": "^2.4.5",
+				"ejs": "^2.5.5",
+				"lodash": "^4.17.2",
+				"strong-globalize": "^3.1.0"
+			},
+			"gitHead": "add406b5ee01c58c881f25f7fdc76d9b15ae2149",
+			"homepage": "https://github.com/strongloop/loopback-swagger#readme",
+			"_id": "loopback-swagger@5.5.0",
+			"_npmVersion": "5.5.1",
+			"_nodeVersion": "8.9.0",
+			"_npmUser": {
+				"name": "rfeng",
+				"email": "enjoyjava@gmail.com"
+			},
+			"dist": {
+				"integrity": "sha512-KSjZNl57+GfjpWBiPtilHJgOqu1HEHPzHQrLKnaa3hKf0qM6UuRrijwTIfu5YoXcZkSuZxGMlFgTikofPvQynQ==",
+				"shasum": "1bbaea94ef1356fb455f4b8ac4bd231ee0a0fa3f",
+				"tarball": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-5.5.0.tgz"
+			},
+			"maintainers": [
+				{
+					"email": "skawful@gmail.com",
+					"name": "ritch"
+				},
+				{
+					"email": "mbajtoss@gmail.com",
+					"name": "bajtos"
+				},
+				{
+					"email": "enjoyjava@gmail.com",
+					"name": "rfeng"
+				},
+				{
+					"email": "kjdelisle@gmail.com",
+					"name": "kjdelisle"
+				},
+				{
+					"email": "tffrench@us.ibm.com",
+					"name": "tonyf-ibm"
+				},
+				{
+					"email": "gpandya@live.com",
+					"name": "thegman"
+				},
+				{
+					"email": "qpresley@ca.ibm.com",
+					"name": "qpresley"
+				},
+				{
+					"email": "juehou@ca.ibm.com",
+					"name": "jannyhou2016"
+				},
+				{
+					"email": "captain@hacksparrow.com",
+					"name": "hacksparrow"
+				},
+				{
+					"email": "davidcheung@live.ca",
+					"name": "davidcheung"
+				},
+				{
+					"email": "binadmt@hotmail.com",
+					"name": "b-admike"
+				},
+				{
+					"email": "amirali.jfr61@gmail.com",
+					"name": "amir-61"
+				},
+				{
+					"email": "ngcandy@ca.ibm.com",
+					"name": "0candy"
+				},
+				{
+					"email": "superkhau@gmail.com",
+					"name": "superkhau"
+				},
+				{
+					"email": "kraman@gmail.com",
+					"name": "kraman"
+				},
+				{
+					"email": "r.m.graham@gmail.com",
+					"name": "rmg"
+				},
+				{
+					"email": "dianahmlau@gmail.com",
+					"name": "dhmlau"
+				},
+				{
+					"email": "rashmihunt@gmail.com",
+					"name": "rashmihunt"
+				},
+				{
+					"email": "mahesh.patsute@ibm.com",
+					"name": "mahesh.patsute"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/loopback-swagger-5.5.0.tgz_1512419115149_0.01481734262779355"
+			},
+			"directories": {}
+		}
+	},
+	"dist-tags": {
+		"latest": "5.5.0",
+		"lts": "2.9.0"
+	},
+	"time": {
+		"modified": "2018-01-11T17:05:29.082Z",
+		"created": "2014-09-03T20:47:05.019Z",
+		"1.0.0-beta1": "2014-09-03T20:47:05.019Z",
+		"1.0.0-beta2": "2014-09-05T20:09:09.260Z",
+		"1.0.0-beta3": "2014-09-05T23:43:24.417Z",
+		"1.0.0": "2014-09-06T00:04:13.394Z",
+		"1.0.1": "2014-09-06T16:03:48.448Z",
+		"2.0.0": "2014-12-18T23:38:58.814Z",
+		"2.1.0": "2015-09-03T07:28:10.306Z",
+		"2.1.1": "2015-09-04T08:58:53.490Z",
+		"2.1.2": "2015-09-29T15:45:33.505Z",
+		"2.2.0": "2015-10-14T16:57:47.830Z",
+		"2.2.1": "2015-11-03T18:27:07.844Z",
+		"2.2.2": "2015-11-24T17:54:40.951Z",
+		"2.2.3": "2015-12-02T15:33:06.293Z",
+		"2.3.0": "2016-02-09T12:03:59.772Z",
+		"2.3.1": "2016-03-04T00:17:56.965Z",
+		"2.3.2": "2016-03-19T21:49:32.491Z",
+		"2.4.0": "2016-04-07T09:36:10.975Z",
+		"2.4.1": "2016-04-08T02:17:54.728Z",
+		"2.4.2": "2016-04-13T18:27:43.783Z",
+		"2.4.3": "2016-05-06T18:58:47.934Z",
+		"2.5.0": "2016-09-05T13:01:49.910Z",
+		"2.6.0": "2016-09-07T10:50:03.132Z",
+		"2.7.0": "2016-09-13T10:38:16.162Z",
+		"2.8.0": "2016-10-13T08:17:25.992Z",
+		"3.0.0": "2016-12-21T11:32:54.883Z",
+		"3.0.1": "2016-12-22T15:10:06.722Z",
+		"4.0.0": "2017-02-01T22:52:11.923Z",
+		"2.9.0": "2017-02-16T15:49:03.566Z",
+		"4.0.1": "2017-03-02T16:26:20.746Z",
+		"4.0.2": "2017-03-02T16:44:35.964Z",
+		"4.0.3": "2017-04-27T20:34:54.688Z",
+		"3.0.2": "2017-05-02T22:30:14.214Z",
+		"4.1.0": "2017-08-14T15:40:34.680Z",
+		"4.2.0": "2017-08-23T04:52:39.960Z",
+		"5.0.0": "2017-09-05T21:15:53.536Z",
+		"4.3.0": "2017-09-05T21:25:44.558Z",
+		"5.1.0": "2017-10-13T13:31:29.145Z",
+		"5.2.0": "2017-10-27T12:59:51.763Z",
+		"5.2.1": "2017-10-27T13:11:41.884Z",
+		"5.2.2": "2017-11-20T23:14:30.094Z",
+		"5.3.0": "2017-11-21T16:14:59.234Z",
+		"5.4.0": "2017-11-21T21:01:30.169Z",
+		"5.5.0": "2017-12-04T20:25:15.254Z"
+	},
+	"_distfiles": {
+		"loopback-swagger-1.0.0-beta1.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-1.0.0-beta1.tgz",
+			"sha": "29b42a2b639895dee9328ce95c2f96eda41f20e8",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-1.0.0-beta2.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-1.0.0-beta2.tgz",
+			"sha": "d1284f443120fb0198422695babc39cb443f9320",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-1.0.0-beta3.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-1.0.0-beta3.tgz",
+			"sha": "bbdf682f4cf11ec03a85f08b108b76a4836df2f2",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-1.0.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-1.0.0.tgz",
+			"sha": "c4ab6e2b79be5114cc3696d6d85a449525d23aac",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-1.0.1.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-1.0.1.tgz",
+			"sha": "3588273289aa23ec56ddfc51fc1172078ae94fa6",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-2.0.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.0.0.tgz",
+			"sha": "5ba4671d3873f62edd234c4f3a0bebf475314453",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-2.1.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.1.0.tgz",
+			"sha": "ea56a18f305f9cadbeddb96bd84ce8c629cba375",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-2.1.1.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.1.1.tgz",
+			"sha": "9c153070bc1b70837dccf26891d939452968609a",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-2.1.2.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.1.2.tgz",
+			"sha": "ad638b3e8598788807db6dd8f4e2b05f6a8a27cd",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-2.2.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.2.0.tgz",
+			"sha": "cf3ae3fda1298b2f3ac4cfb0ac21c824c5d36ee1",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-2.2.1.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.2.1.tgz",
+			"sha": "ac0a5fca74dd108c20a1214e9129037594f4b237",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-2.2.2.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.2.2.tgz",
+			"sha": "8f14261f3d53284226b490d47a4bc8a81ed86e68",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-2.2.3.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.2.3.tgz",
+			"sha": "3d4f5af52dff774d6d944491e4d87a638914aaee",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-2.3.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.3.0.tgz",
+			"sha": "f2a8765f2176ac1e7aca4ca8580ef5705fc8d84c",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-2.3.1.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.3.1.tgz",
+			"sha": "3ef04de0f6c756654d831a61f300a7422e219de6",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-2.3.2.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.3.2.tgz",
+			"sha": "663a7dd3b71e4bcac3b55ab6bfc1d50d8ad95cf2",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-2.4.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.4.0.tgz",
+			"sha": "9fb8cb9c15ad39000d06de2ee5f6ec469849efe1",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-2.4.1.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.4.1.tgz",
+			"sha": "910ddf43be26ea0315489444bfbbda3088281a25",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-2.4.2.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.4.2.tgz",
+			"sha": "43c37f70cee10faa2afae44b15a933e2786464c1",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-2.4.3.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.4.3.tgz",
+			"sha": "f606a9eabbe0cbbe49135d45ab634ea155c4db47",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-2.5.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.5.0.tgz",
+			"sha": "205e5b9e603e5afa5b7aa6aece472f1ed631448c",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-2.6.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.6.0.tgz",
+			"sha": "bdd95dcefa21226e43150e64c3fa161aca5bbaa2",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-2.7.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.7.0.tgz",
+			"sha": "00b8d2b2edb867a3c5c7e80eedaf3477d1320c6d",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-2.8.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.8.0.tgz",
+			"sha": "6a2fbf6a61f0e99630e76f209041e5e8c84eff51",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-3.0.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-3.0.0.tgz",
+			"sha": "4de8b441182725b379b5e7d2fe87f05f059edeb7",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-3.0.1.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-3.0.1.tgz",
+			"sha": "793ad2ef688953c93f225f19bd91fc172e60c1ad",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-4.0.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-4.0.0.tgz",
+			"sha": "72a042add5a3b538e87a742685c62e17e37e2cd0",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-2.9.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-2.9.0.tgz",
+			"sha": "fe8de82e5fbb252677782ae5fd2dbda1a9205829",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-4.0.1.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-4.0.1.tgz",
+			"sha": "60df0a4a84a74762bd781f365a57f33375730e4f",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-4.0.2.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-4.0.2.tgz",
+			"sha": "6658eb55b3883827f37a1e1da35f1b7b0854e9ea",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-4.0.3.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-4.0.3.tgz",
+			"sha": "360346793706b3d3131f4dd9c3e779b6af445179",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-3.0.2.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-3.0.2.tgz",
+			"sha": "e15062cc6cd3a3f9fefd737aa83d78417d6481bb",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-4.1.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-4.1.0.tgz",
+			"sha": "794f075bca29a30f1cbed3e00ba71277cb9d7176",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-4.2.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-4.2.0.tgz",
+			"sha": "9712aa4ce0163cff16494de32ad8b40cc214b890",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-5.0.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-5.0.0.tgz",
+			"sha": "bbe8f65fb22f3aa6cabbcf764aaa09cb341d31a2",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-4.3.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-4.3.0.tgz",
+			"sha": "3817055469eb7fa8ef703951dc2977c3253a5c49",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-5.1.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-5.1.0.tgz",
+			"sha": "754905b2effa921d59a1b57c5f4b941955345709",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-5.2.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-5.2.0.tgz",
+			"sha": "9f58bd54c9a09b5f95ecc83bb157dc981c01e15c",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-5.2.1.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-5.2.1.tgz",
+			"sha": "60a0fd9048b7d183c136c04d4bb736c76786c731",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-5.2.2.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-5.2.2.tgz",
+			"sha": "19d6d8e3333a7c4071b875726295585f5616c80f",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-5.3.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-5.3.0.tgz",
+			"sha": "c363bcb664e9cd23a7119eb18109bd9202f4aaa4",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-5.4.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-5.4.0.tgz",
+			"sha": "c111b1af34d1b4d12e06b4a656a468a16beaeefe",
+			"registry": "npmjs"
+		},
+		"loopback-swagger-5.5.0.tgz": {
+			"url": "https://registry.npmjs.org/loopback-swagger/-/loopback-swagger-5.5.0.tgz",
+			"sha": "1bbaea94ef1356fb455f4b8ac4bd231ee0a0fa3f",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "\"5a579959-15aa0\"",
+			"fetched": 1519837518529
+		}
+	},
+	"_rev": "1-605aa40f107bbc1d",
+	"readme": "# loopback-swagger\n\nUtilities to transform between Swagger API specs and LoopBack remoting metadata.\n\nThis is an internal module used by the following user-facing tools:\n\n - [slc loopback:swagger](https://docs.strongloop.com/display/LB/Swagger+generator)\n - [loopback-explorer](https://github.com/strongloop/loopback-explorer)\n"
+}

@@ -1,0 +1,1107 @@
+{
+	"name": "http-status",
+	"versions": {
+		"0.0.1": {
+			"name": "http-status",
+			"version": "0.0.1",
+			"description": "Interact with HTTP status code",
+			"author": {
+				"name": "David Worms",
+				"email": "david@adaltas.com"
+			},
+			"main": "./index",
+			"engines": {
+				"node": ">= 0.1.90"
+			},
+			"_id": "http-status@0.0.1",
+			"_engineSupported": true,
+			"_npmVersion": "0.3.15",
+			"_nodeVersion": "v0.5.0-pre",
+			"directories": {},
+			"files": [
+				""
+			],
+			"_defaultsLoaded": true,
+			"dist": {
+				"shasum": "26a56d6fe9a35b21144a62d68db860c93e692ebc",
+				"tarball": "https://registry.npmjs.org/http-status/-/http-status-0.0.1.tgz"
+			}
+		},
+		"0.1.0": {
+			"name": "http-status",
+			"version": "0.1.0",
+			"description": "Interact with HTTP status code",
+			"author": {
+				"name": "David Worms",
+				"email": "david@adaltas.com"
+			},
+			"contributors": [
+				{
+					"name": "Daniel Gasienica",
+					"email": "daniel@gasienica.ch"
+				}
+			],
+			"devDependencies": {
+				"coffee-script": "1.x"
+			},
+			"main": "./lib/index",
+			"engines": {
+				"node": ">= 0.1.90"
+			},
+			"dependencies": {},
+			"_id": "http-status@0.1.0",
+			"_engineSupported": true,
+			"_npmVersion": "1.0.1rc9",
+			"_nodeVersion": "v0.5.0-pre",
+			"_defaultsLoaded": true,
+			"dist": {
+				"shasum": "fb9cbb5aed019e8a1f5793407f086ab22e785a2d",
+				"tarball": "https://registry.npmjs.org/http-status/-/http-status-0.1.0.tgz"
+			},
+			"directories": {}
+		},
+		"0.1.1": {
+			"name": "http-status",
+			"version": "0.1.1",
+			"description": "Interact with HTTP status code",
+			"author": {
+				"name": "David Worms",
+				"email": "david@adaltas.com"
+			},
+			"contributors": [
+				{
+					"name": "Daniel Gasienica",
+					"email": "daniel@gasienica.ch"
+				}
+			],
+			"devDependencies": {
+				"coffee-script": "1.x"
+			},
+			"main": "./lib/index",
+			"engines": {
+				"node": ">= 0.1.90"
+			},
+			"_npmUser": {
+				"name": "david",
+				"email": "david@adaltas.com"
+			},
+			"_id": "http-status@0.1.1",
+			"dependencies": {},
+			"_engineSupported": true,
+			"_npmVersion": "1.0.105",
+			"_nodeVersion": "v0.6.1",
+			"_defaultsLoaded": true,
+			"dist": {
+				"shasum": "4393ebba9ed4ad18777abf42c0897abc2be4b7fb",
+				"tarball": "https://registry.npmjs.org/http-status/-/http-status-0.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "david",
+					"email": "david@adaltas.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.1.3": {
+			"name": "http-status",
+			"version": "0.1.3",
+			"description": "Interact with HTTP status code",
+			"homepage": "http://www.adaltas.com/projects/node-http-status.html",
+			"author": {
+				"name": "David Worms",
+				"email": "david@adaltas.com"
+			},
+			"keywords": [
+				"http",
+				"express",
+				"connect"
+			],
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/wdavidw/node-http-status"
+			},
+			"bugs": {
+				"url": "http://github.com/wdavidw/node-http-status/issues",
+				"email": "open@adaltas.com"
+			},
+			"devDependencies": {
+				"coffee-script": "latest",
+				"mocha": "latest",
+				"should": "latest"
+			},
+			"contributors": [
+				{
+					"name": "David Worms",
+					"email": "david@adaltas.com"
+				},
+				{
+					"name": "Daniel Gasienica",
+					"email": "daniel@gasienica.ch"
+				}
+			],
+			"main": "./lib",
+			"engines": {
+				"node": ">= 0.4.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "http-status@0.1.3",
+			"dist": {
+				"shasum": "b2a51435baaf2c44571fea0d6f5c3b4a531b49b8",
+				"tarball": "https://registry.npmjs.org/http-status/-/http-status-0.1.3.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.11",
+			"_npmUser": {
+				"name": "david",
+				"email": "david@adaltas.com"
+			},
+			"maintainers": [
+				{
+					"name": "david",
+					"email": "david@adaltas.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.1.4": {
+			"name": "http-status",
+			"version": "0.1.4",
+			"description": "Interact with HTTP status code",
+			"homepage": "http://www.adaltas.com/projects/node-http-status.html",
+			"author": {
+				"name": "David Worms",
+				"email": "david@adaltas.com"
+			},
+			"keywords": [
+				"http",
+				"express",
+				"connect"
+			],
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/wdavidw/node-http-status"
+			},
+			"bugs": {
+				"url": "http://github.com/wdavidw/node-http-status/issues",
+				"email": "open@adaltas.com"
+			},
+			"devDependencies": {
+				"coffee-script": "latest",
+				"mocha": "latest",
+				"should": "latest"
+			},
+			"contributors": [
+				{
+					"name": "David Worms",
+					"email": "david@adaltas.com"
+				},
+				{
+					"name": "Daniel Gasienica",
+					"email": "daniel@gasienica.ch"
+				}
+			],
+			"main": "./lib",
+			"engines": {
+				"node": ">= 0.4.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "http-status@0.1.4",
+			"dist": {
+				"shasum": "2544fe954ac32726b726e12ea7d13e7b0a1e4b4f",
+				"tarball": "https://registry.npmjs.org/http-status/-/http-status-0.1.4.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.11",
+			"_npmUser": {
+				"name": "david",
+				"email": "david@adaltas.com"
+			},
+			"maintainers": [
+				{
+					"name": "david",
+					"email": "david@adaltas.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.1.6": {
+			"name": "http-status",
+			"version": "0.1.6",
+			"description": "Interact with HTTP status code",
+			"homepage": "http://www.adaltas.com/projects/node-http-status",
+			"author": {
+				"name": "David Worms",
+				"email": "david@adaltas.com"
+			},
+			"keywords": [
+				"http",
+				"express",
+				"connect"
+			],
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/wdavidw/node-http-status"
+			},
+			"bugs": {
+				"url": "http://github.com/wdavidw/node-http-status/issues",
+				"email": "open@adaltas.com"
+			},
+			"devDependencies": {
+				"coffee-script": "latest",
+				"mocha": "latest",
+				"should": "latest"
+			},
+			"contributors": [
+				{
+					"name": "David Worms",
+					"email": "david@adaltas.com"
+				},
+				{
+					"name": "Daniel Gasienica",
+					"email": "daniel@gasienica.ch"
+				}
+			],
+			"main": "./lib",
+			"engines": {
+				"node": ">= 0.4.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "http-status@0.1.6",
+			"dist": {
+				"shasum": "c7ac6cadcd31e12a24403bd3dba5c12677c3d2ba",
+				"tarball": "https://registry.npmjs.org/http-status/-/http-status-0.1.6.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.4.4",
+			"_npmUser": {
+				"name": "david",
+				"email": "david@adaltas.com"
+			},
+			"maintainers": [
+				{
+					"name": "david",
+					"email": "david@adaltas.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.1.7": {
+			"name": "http-status",
+			"version": "0.1.7",
+			"description": "Interact with HTTP status code",
+			"homepage": "http://www.adaltas.com/projects/node-http-status",
+			"author": {
+				"name": "David Worms",
+				"email": "david@adaltas.com"
+			},
+			"keywords": [
+				"http",
+				"express",
+				"connect"
+			],
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/wdavidw/node-http-status"
+			},
+			"bugs": {
+				"url": "http://github.com/wdavidw/node-http-status/issues",
+				"email": "open@adaltas.com"
+			},
+			"devDependencies": {
+				"coffee-script": "latest",
+				"mocha": "latest",
+				"should": "latest"
+			},
+			"contributors": [
+				{
+					"name": "David Worms",
+					"email": "david@adaltas.com"
+				},
+				{
+					"name": "Daniel Gasienica",
+					"email": "daniel@gasienica.ch"
+				}
+			],
+			"main": "./lib",
+			"engines": {
+				"node": ">= 0.4.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "http-status@0.1.7",
+			"dist": {
+				"shasum": "01bb1b5cc44bda7c0b8b1b529974d7296281b9af",
+				"tarball": "https://registry.npmjs.org/http-status/-/http-status-0.1.7.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.4.4",
+			"_npmUser": {
+				"name": "david",
+				"email": "david@adaltas.com"
+			},
+			"maintainers": [
+				{
+					"name": "david",
+					"email": "david@adaltas.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.1.8": {
+			"name": "http-status",
+			"version": "0.1.8",
+			"description": "Interact with HTTP status code",
+			"homepage": "http://www.adaltas.com/projects/node-http-status",
+			"author": {
+				"name": "David Worms",
+				"email": "david@adaltas.com"
+			},
+			"keywords": [
+				"http",
+				"express",
+				"connect"
+			],
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/wdavidw/node-http-status"
+			},
+			"bugs": {
+				"url": "http://github.com/wdavidw/node-http-status/issues",
+				"email": "open@adaltas.com"
+			},
+			"devDependencies": {
+				"coffee-script": "latest",
+				"mocha": "latest",
+				"should": "latest"
+			},
+			"contributors": [
+				{
+					"name": "David Worms",
+					"email": "david@adaltas.com"
+				},
+				{
+					"name": "Daniel Gasienica",
+					"email": "daniel@gasienica.ch"
+				}
+			],
+			"main": "./lib",
+			"engines": {
+				"node": ">= 0.4.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"gitHead": "75b2a46566916f399382f86c6193955cc9a2c0af",
+			"_id": "http-status@0.1.8",
+			"_shasum": "5d6ce21043c8d519d684505545077f5ca5074029",
+			"_from": ".",
+			"_npmVersion": "1.4.14",
+			"_npmUser": {
+				"name": "david",
+				"email": "david@adaltas.com"
+			},
+			"maintainers": [
+				{
+					"name": "david",
+					"email": "david@adaltas.com"
+				}
+			],
+			"dist": {
+				"shasum": "5d6ce21043c8d519d684505545077f5ca5074029",
+				"tarball": "https://registry.npmjs.org/http-status/-/http-status-0.1.8.tgz"
+			},
+			"directories": {}
+		},
+		"0.2.0": {
+			"name": "http-status",
+			"version": "0.2.0",
+			"description": "Interact with HTTP status code",
+			"homepage": "http://www.adaltas.com/projects/node-http-status",
+			"author": {
+				"name": "David Worms",
+				"email": "david@adaltas.com"
+			},
+			"keywords": [
+				"http",
+				"express",
+				"connect"
+			],
+			"license": "BSD-3-Clause",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/wdavidw/node-http-status"
+			},
+			"bugs": {
+				"url": "http://github.com/wdavidw/node-http-status/issues",
+				"email": "open@adaltas.com"
+			},
+			"devDependencies": {
+				"coffee-script": "latest",
+				"mocha": "latest",
+				"should": "latest"
+			},
+			"contributors": [
+				{
+					"name": "David Worms",
+					"email": "david@adaltas.com"
+				},
+				{
+					"name": "Daniel Gasienica",
+					"email": "daniel@gasienica.ch"
+				}
+			],
+			"main": "./lib",
+			"engines": {
+				"node": ">= 0.4.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"gitHead": "f80a665c000c10809d33672b4c446001a4c35215",
+			"_id": "http-status@0.2.0",
+			"_shasum": "2a139803c995d522887d517e9e6eedc75b80ab04",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "david",
+				"email": "david@adaltas.com"
+			},
+			"maintainers": [
+				{
+					"name": "david",
+					"email": "david@adaltas.com"
+				}
+			],
+			"dist": {
+				"shasum": "2a139803c995d522887d517e9e6eedc75b80ab04",
+				"tarball": "https://registry.npmjs.org/http-status/-/http-status-0.2.0.tgz"
+			},
+			"directories": {}
+		},
+		"0.2.1": {
+			"name": "http-status",
+			"version": "0.2.1",
+			"description": "Interact with HTTP status code",
+			"homepage": "http://www.adaltas.com/projects/node-http-status",
+			"author": {
+				"name": "David Worms",
+				"email": "david@adaltas.com"
+			},
+			"keywords": [
+				"http",
+				"express",
+				"connect"
+			],
+			"license": "BSD-3-Clause",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/wdavidw/node-http-status"
+			},
+			"bugs": {
+				"url": "http://github.com/wdavidw/node-http-status/issues",
+				"email": "open@adaltas.com"
+			},
+			"devDependencies": {
+				"coffee-script": "latest",
+				"mocha": "latest",
+				"should": "latest"
+			},
+			"contributors": [
+				{
+					"name": "David Worms",
+					"email": "david@adaltas.com"
+				},
+				{
+					"name": "Daniel Gasienica",
+					"email": "daniel@gasienica.ch"
+				}
+			],
+			"main": "./lib",
+			"engines": {
+				"node": ">= 0.4.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"gitHead": "95494f96d4f53166faef4e21bc24f94b794da453",
+			"_id": "http-status@0.2.1",
+			"_shasum": "62baf06db795c748e841ef995a1aa11508afad05",
+			"_from": ".",
+			"_npmVersion": "3.6.0",
+			"_nodeVersion": "5.6.0",
+			"_npmUser": {
+				"name": "david",
+				"email": "david@adaltas.com"
+			},
+			"maintainers": [
+				{
+					"name": "david",
+					"email": "david@adaltas.com"
+				}
+			],
+			"dist": {
+				"shasum": "62baf06db795c748e841ef995a1aa11508afad05",
+				"tarball": "https://registry.npmjs.org/http-status/-/http-status-0.2.1.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-13-west.internal.npmjs.com",
+				"tmp": "tmp/http-status-0.2.1.tgz_1458572698061_0.6124091811943799"
+			},
+			"directories": {}
+		},
+		"0.2.2": {
+			"name": "http-status",
+			"version": "0.2.2",
+			"description": "Interact with HTTP status code",
+			"homepage": "http://www.adaltas.com/projects/node-http-status",
+			"author": {
+				"name": "David Worms",
+				"email": "david@adaltas.com"
+			},
+			"keywords": [
+				"http",
+				"express",
+				"connect"
+			],
+			"license": "BSD-3-Clause",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/wdavidw/node-http-status"
+			},
+			"bugs": {
+				"url": "http://github.com/wdavidw/node-http-status/issues",
+				"email": "open@adaltas.com"
+			},
+			"devDependencies": {
+				"coffee-script": "latest",
+				"mocha": "latest",
+				"should": "latest"
+			},
+			"contributors": [
+				{
+					"name": "David Worms",
+					"email": "david@adaltas.com"
+				},
+				{
+					"name": "Daniel Gasienica",
+					"email": "daniel@gasienica.ch"
+				}
+			],
+			"main": "./lib",
+			"engines": {
+				"node": ">= 0.4.0"
+			},
+			"scripts": {
+				"coffee": "coffee -b -o lib src",
+				"test": "mocha"
+			},
+			"gitHead": "f1781baa2dff1d4c27bcf53da8efa439b019f342",
+			"_id": "http-status@0.2.2",
+			"_shasum": "254b6f60ccbe3ad2cccc5dc58ac1e2db2803ae40",
+			"_from": ".",
+			"_npmVersion": "3.7.3",
+			"_nodeVersion": "5.9.1",
+			"_npmUser": {
+				"name": "david",
+				"email": "david@adaltas.com"
+			},
+			"maintainers": [
+				{
+					"name": "david",
+					"email": "david@adaltas.com"
+				}
+			],
+			"dist": {
+				"shasum": "254b6f60ccbe3ad2cccc5dc58ac1e2db2803ae40",
+				"tarball": "https://registry.npmjs.org/http-status/-/http-status-0.2.2.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/http-status-0.2.2.tgz_1461189894031_0.34805864677764475"
+			},
+			"directories": {}
+		},
+		"0.2.3": {
+			"name": "http-status",
+			"version": "0.2.3",
+			"description": "Interact with HTTP status code",
+			"homepage": "http://www.adaltas.com/projects/node-http-status",
+			"author": {
+				"name": "David Worms",
+				"email": "david@adaltas.com"
+			},
+			"keywords": [
+				"http",
+				"express",
+				"connect"
+			],
+			"license": "BSD-3-Clause",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/wdavidw/node-http-status.git"
+			},
+			"bugs": {
+				"url": "http://github.com/wdavidw/node-http-status/issues",
+				"email": "open@adaltas.com"
+			},
+			"devDependencies": {
+				"coffee-script": "latest",
+				"mocha": "latest",
+				"should": "latest"
+			},
+			"contributors": [
+				{
+					"name": "David Worms",
+					"email": "david@adaltas.com"
+				},
+				{
+					"name": "Daniel Gasienica",
+					"email": "daniel@gasienica.ch"
+				}
+			],
+			"main": "./lib",
+			"engines": {
+				"node": ">= 0.4.0"
+			},
+			"scripts": {
+				"coffee": "coffee -b -o lib src",
+				"test": "mocha"
+			},
+			"gitHead": "7ef518d017aef6030c11b9e5f684ff9be92c79e0",
+			"_id": "http-status@0.2.3",
+			"_shasum": "b8fba208d6723d0fe0de5afec3ae624f6bae03db",
+			"_from": ".",
+			"_npmVersion": "3.8.6",
+			"_nodeVersion": "6.0.0",
+			"_npmUser": {
+				"name": "david",
+				"email": "david@adaltas.com"
+			},
+			"maintainers": [
+				{
+					"name": "david",
+					"email": "david@adaltas.com"
+				}
+			],
+			"dist": {
+				"shasum": "b8fba208d6723d0fe0de5afec3ae624f6bae03db",
+				"tarball": "https://registry.npmjs.org/http-status/-/http-status-0.2.3.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/http-status-0.2.3.tgz_1464206834490_0.42429408989846706"
+			},
+			"directories": {}
+		},
+		"0.2.4": {
+			"name": "http-status",
+			"version": "0.2.4",
+			"description": "Interact with HTTP status code",
+			"homepage": "http://www.adaltas.com/projects/node-http-status",
+			"author": {
+				"name": "David Worms",
+				"email": "david@adaltas.com"
+			},
+			"keywords": [
+				"http",
+				"express",
+				"connect"
+			],
+			"license": "BSD-3-Clause",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/wdavidw/node-http-status.git"
+			},
+			"bugs": {
+				"url": "http://github.com/wdavidw/node-http-status/issues",
+				"email": "open@adaltas.com"
+			},
+			"devDependencies": {
+				"coffee-script": "latest",
+				"mocha": "latest",
+				"should": "latest"
+			},
+			"contributors": [
+				{
+					"name": "David Worms",
+					"email": "david@adaltas.com"
+				},
+				{
+					"name": "Daniel Gasienica",
+					"email": "daniel@gasienica.ch"
+				}
+			],
+			"main": "./lib",
+			"engines": {
+				"node": ">= 0.4.0"
+			},
+			"scripts": {
+				"coffee": "coffee -b -o lib src",
+				"test": "mocha"
+			},
+			"gitHead": "df7c5d7fd84de1e14ccbee7ffbaaff4603293282",
+			"_id": "http-status@0.2.4",
+			"_shasum": "cbf339a480d2fe3c18c0091987023df93dfe270c",
+			"_from": ".",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.7.0",
+			"_npmUser": {
+				"name": "david",
+				"email": "david@adaltas.com"
+			},
+			"maintainers": [
+				{
+					"name": "david",
+					"email": "david@adaltas.com"
+				}
+			],
+			"dist": {
+				"shasum": "cbf339a480d2fe3c18c0091987023df93dfe270c",
+				"tarball": "https://registry.npmjs.org/http-status/-/http-status-0.2.4.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/http-status-0.2.4.tgz_1484507358996_0.6664594518952072"
+			},
+			"directories": {}
+		},
+		"0.2.5": {
+			"name": "http-status",
+			"version": "0.2.5",
+			"description": "Interact with HTTP status code",
+			"homepage": "http://www.adaltas.com/projects/node-http-status",
+			"author": {
+				"name": "David Worms",
+				"email": "david@adaltas.com"
+			},
+			"keywords": [
+				"http",
+				"express",
+				"connect"
+			],
+			"license": "BSD-3-Clause",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/wdavidw/node-http-status.git"
+			},
+			"bugs": {
+				"url": "http://github.com/wdavidw/node-http-status/issues",
+				"email": "open@adaltas.com"
+			},
+			"devDependencies": {
+				"coffee-script": "latest",
+				"mocha": "latest",
+				"should": "latest"
+			},
+			"contributors": [
+				{
+					"name": "David Worms",
+					"email": "david@adaltas.com"
+				},
+				{
+					"name": "Daniel Gasienica",
+					"email": "daniel@gasienica.ch"
+				}
+			],
+			"main": "lib/index.js",
+			"engines": {
+				"node": ">= 0.4.0"
+			},
+			"scripts": {
+				"coffee": "coffee -b -o lib src",
+				"test": "mocha"
+			},
+			"gitHead": "9a2e571c7441b48729331c9d8009280ad99b0082",
+			"_id": "http-status@0.2.5",
+			"_shasum": "976f91077ea7bfc15277cbcf8c80c4d5c51b49b0",
+			"_from": ".",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.7.0",
+			"_npmUser": {
+				"name": "david",
+				"email": "david@adaltas.com"
+			},
+			"maintainers": [
+				{
+					"name": "david",
+					"email": "david@adaltas.com"
+				}
+			],
+			"dist": {
+				"shasum": "976f91077ea7bfc15277cbcf8c80c4d5c51b49b0",
+				"tarball": "https://registry.npmjs.org/http-status/-/http-status-0.2.5.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/http-status-0.2.5.tgz_1484532199437_0.41314394143410027"
+			},
+			"directories": {}
+		},
+		"1.0.0": {
+			"name": "http-status",
+			"version": "1.0.0",
+			"description": "Interact with HTTP status code",
+			"homepage": "http://www.adaltas.com/projects/node-http-status",
+			"author": {
+				"name": "David Worms",
+				"email": "david@adaltas.com"
+			},
+			"keywords": [
+				"http",
+				"express",
+				"connect"
+			],
+			"license": "BSD-3-Clause",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/wdavidw/node-http-status.git"
+			},
+			"bugs": {
+				"url": "http://github.com/wdavidw/node-http-status/issues",
+				"email": "open@adaltas.com"
+			},
+			"devDependencies": {
+				"coffee-script": "latest",
+				"mocha": "latest",
+				"should": "latest"
+			},
+			"contributors": [
+				{
+					"name": "David Worms",
+					"email": "david@adaltas.com"
+				},
+				{
+					"name": "Daniel Gasienica",
+					"email": "daniel@gasienica.ch"
+				}
+			],
+			"main": "lib/index.js",
+			"engines": {
+				"node": ">= 0.4.0"
+			},
+			"scripts": {
+				"coffee": "coffee -b -o lib src",
+				"test": "NODE_ENV=test node_modules/.bin/mocha --compilers coffee:coffee-script/register --reporter dot"
+			},
+			"gitHead": "c03cc5050504c62560ee030e5a828c833bed1d06",
+			"_id": "http-status@1.0.0",
+			"_shasum": "f675d2d81273387b2be5081e677afbd0753bf449",
+			"_from": ".",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.7.0",
+			"_npmUser": {
+				"name": "david",
+				"email": "david@adaltas.com"
+			},
+			"maintainers": [
+				{
+					"name": "david",
+					"email": "david@adaltas.com"
+				}
+			],
+			"dist": {
+				"shasum": "f675d2d81273387b2be5081e677afbd0753bf449",
+				"tarball": "https://registry.npmjs.org/http-status/-/http-status-1.0.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/http-status-1.0.0.tgz_1485376442479_0.5394642469473183"
+			},
+			"directories": {}
+		},
+		"1.0.1": {
+			"name": "http-status",
+			"version": "1.0.1",
+			"description": "Interact with HTTP status code",
+			"homepage": "http://www.adaltas.com/projects/node-http-status",
+			"author": {
+				"name": "David Worms",
+				"email": "david@adaltas.com"
+			},
+			"keywords": [
+				"http",
+				"express",
+				"connect"
+			],
+			"license": "BSD-3-Clause",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/wdavidw/node-http-status.git"
+			},
+			"bugs": {
+				"url": "http://github.com/wdavidw/node-http-status/issues",
+				"email": "open@adaltas.com"
+			},
+			"devDependencies": {
+				"coffee-script": "latest",
+				"mocha": "latest",
+				"should": "latest"
+			},
+			"contributors": [
+				{
+					"name": "David Worms",
+					"email": "david@adaltas.com"
+				},
+				{
+					"name": "Daniel Gasienica",
+					"email": "daniel@gasienica.ch"
+				}
+			],
+			"main": "lib/index.js",
+			"engines": {
+				"node": ">= 0.4.0"
+			},
+			"scripts": {
+				"coffee": "coffee -b -o lib src",
+				"test": "NODE_ENV=test node_modules/.bin/mocha --compilers coffee:coffee-script/register --reporter dot"
+			},
+			"gitHead": "ffc8111f5a427860ed2ee67066bfd8347328b35d",
+			"_id": "http-status@1.0.1",
+			"_shasum": "dc43001a8bfc50ac87d485a892f7578964bc94a2",
+			"_from": ".",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.7.0",
+			"_npmUser": {
+				"name": "david",
+				"email": "david@adaltas.com"
+			},
+			"maintainers": [
+				{
+					"name": "david",
+					"email": "david@adaltas.com"
+				}
+			],
+			"dist": {
+				"shasum": "dc43001a8bfc50ac87d485a892f7578964bc94a2",
+				"tarball": "https://registry.npmjs.org/http-status/-/http-status-1.0.1.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/http-status-1.0.1.tgz_1486141751560_0.020580449607223272"
+			},
+			"directories": {}
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.1"
+	},
+	"time": {
+		"modified": "2018-01-15T07:13:26.771Z",
+		"created": "2011-03-25T23:41:05.349Z",
+		"0.0.1": "2011-03-25T23:41:05.786Z",
+		"0.1.0": "2011-04-18T23:42:36.947Z",
+		"0.1.1": "2011-12-13T20:14:10.819Z",
+		"0.1.3": "2013-11-14T12:15:07.622Z",
+		"0.1.4": "2013-11-17T22:46:37.768Z",
+		"0.1.6": "2014-04-04T19:53:55.153Z",
+		"0.1.7": "2014-05-24T16:03:23.546Z",
+		"0.1.8": "2014-08-06T22:08:54.025Z",
+		"0.2.0": "2015-06-09T10:01:03.425Z",
+		"0.2.1": "2016-03-21T15:05:00.525Z",
+		"0.2.2": "2016-04-20T22:04:55.287Z",
+		"0.2.3": "2016-05-25T20:07:16.007Z",
+		"0.2.4": "2017-01-15T19:09:19.578Z",
+		"0.2.5": "2017-01-16T02:03:20.009Z",
+		"1.0.0": "2017-01-25T20:34:04.430Z",
+		"1.0.1": "2017-02-03T17:09:13.542Z"
+	},
+	"_distfiles": {
+		"http-status-0.0.1.tgz": {
+			"url": "https://registry.npmjs.org/http-status/-/http-status-0.0.1.tgz",
+			"sha": "26a56d6fe9a35b21144a62d68db860c93e692ebc",
+			"registry": "npmjs"
+		},
+		"http-status-0.1.0.tgz": {
+			"url": "https://registry.npmjs.org/http-status/-/http-status-0.1.0.tgz",
+			"sha": "fb9cbb5aed019e8a1f5793407f086ab22e785a2d",
+			"registry": "npmjs"
+		},
+		"http-status-0.1.1.tgz": {
+			"url": "https://registry.npmjs.org/http-status/-/http-status-0.1.1.tgz",
+			"sha": "4393ebba9ed4ad18777abf42c0897abc2be4b7fb",
+			"registry": "npmjs"
+		},
+		"http-status-0.1.3.tgz": {
+			"url": "https://registry.npmjs.org/http-status/-/http-status-0.1.3.tgz",
+			"sha": "b2a51435baaf2c44571fea0d6f5c3b4a531b49b8",
+			"registry": "npmjs"
+		},
+		"http-status-0.1.4.tgz": {
+			"url": "https://registry.npmjs.org/http-status/-/http-status-0.1.4.tgz",
+			"sha": "2544fe954ac32726b726e12ea7d13e7b0a1e4b4f",
+			"registry": "npmjs"
+		},
+		"http-status-0.1.6.tgz": {
+			"url": "https://registry.npmjs.org/http-status/-/http-status-0.1.6.tgz",
+			"sha": "c7ac6cadcd31e12a24403bd3dba5c12677c3d2ba",
+			"registry": "npmjs"
+		},
+		"http-status-0.1.7.tgz": {
+			"url": "https://registry.npmjs.org/http-status/-/http-status-0.1.7.tgz",
+			"sha": "01bb1b5cc44bda7c0b8b1b529974d7296281b9af",
+			"registry": "npmjs"
+		},
+		"http-status-0.1.8.tgz": {
+			"url": "https://registry.npmjs.org/http-status/-/http-status-0.1.8.tgz",
+			"sha": "5d6ce21043c8d519d684505545077f5ca5074029",
+			"registry": "npmjs"
+		},
+		"http-status-0.2.0.tgz": {
+			"url": "https://registry.npmjs.org/http-status/-/http-status-0.2.0.tgz",
+			"sha": "2a139803c995d522887d517e9e6eedc75b80ab04",
+			"registry": "npmjs"
+		},
+		"http-status-0.2.1.tgz": {
+			"url": "https://registry.npmjs.org/http-status/-/http-status-0.2.1.tgz",
+			"sha": "62baf06db795c748e841ef995a1aa11508afad05",
+			"registry": "npmjs"
+		},
+		"http-status-0.2.2.tgz": {
+			"url": "https://registry.npmjs.org/http-status/-/http-status-0.2.2.tgz",
+			"sha": "254b6f60ccbe3ad2cccc5dc58ac1e2db2803ae40",
+			"registry": "npmjs"
+		},
+		"http-status-0.2.3.tgz": {
+			"url": "https://registry.npmjs.org/http-status/-/http-status-0.2.3.tgz",
+			"sha": "b8fba208d6723d0fe0de5afec3ae624f6bae03db",
+			"registry": "npmjs"
+		},
+		"http-status-0.2.4.tgz": {
+			"url": "https://registry.npmjs.org/http-status/-/http-status-0.2.4.tgz",
+			"sha": "cbf339a480d2fe3c18c0091987023df93dfe270c",
+			"registry": "npmjs"
+		},
+		"http-status-0.2.5.tgz": {
+			"url": "https://registry.npmjs.org/http-status/-/http-status-0.2.5.tgz",
+			"sha": "976f91077ea7bfc15277cbcf8c80c4d5c51b49b0",
+			"registry": "npmjs"
+		},
+		"http-status-1.0.0.tgz": {
+			"url": "https://registry.npmjs.org/http-status/-/http-status-1.0.0.tgz",
+			"sha": "f675d2d81273387b2be5081e677afbd0753bf449",
+			"registry": "npmjs"
+		},
+		"http-status-1.0.1.tgz": {
+			"url": "https://registry.npmjs.org/http-status/-/http-status-1.0.1.tgz",
+			"sha": "dc43001a8bfc50ac87d485a892f7578964bc94a2",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "\"5a5c5496-53e4\"",
+			"fetched": 1519837501974
+		}
+	},
+	"_rev": "1-16bd6974c2a74442",
+	"readme": "[![Build Status](https://secure.travis-ci.org/wdavidw/node-http-status.png)](http://travis-ci.org/wdavidw/node-http-status)\n\n# HTTP Status code for Node\n\nUtility to interact with HTTP status code.\n\n## Usage\n\nOnce you require this module, you may call it with either an HTTP code or a message name. With an HTTP code, you will get the message name while with a message name you will get an HTTP code. Simple.\n\n## API\n\nThis module is very simple. A documentation would be more complicate than reading the [original code](./src/index.litcoffee).\n\n### API sample\n\n```javascript\n  var HTTPStatus = require('http-status');\n\n  // Print \"Internal Server Error\"\n  console.log(HTTPStatus[500]);\n\n  // Print 500\n  console.log(HTTPStatus.INTERNAL_SERVER_ERROR);\n```\n\n### Express sample\n\n```javascript\n  var express = require('express'),\n    redis = require('redis'),\n    HTTPStatus = require('http-status');\n\n  var app = express.createServer();\n\n  app.get('/', function (req, res) {\n    var client = redis.createClient();\n    client.ping(function (err, msg) {\n      if (err) {\n        return res.send(HTTPStatus.INTERNAL_SERVER_ERROR);\n      }\n      res.send(msg, HTTPStatus.OK);\n    });\n  });\n\n  app.listen(3000);\n```\n\nContributors\n------------\n\n*\t  David Worms : <https://github.com/wdavidw>\n*\t  Daniel Gasienica : <https://github.com/gasi>\n*   Rodrigo : <rfsbraz@gmail.com>\n*   Paul Vollmer : <paul.vollmer@fh-potsdam.de>\n"
+}

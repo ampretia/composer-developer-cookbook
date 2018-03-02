@@ -1,0 +1,1191 @@
+{
+	"name": "yamljs",
+	"versions": {
+		"0.1.0": {
+			"name": "yamljs",
+			"version": "0.1.0",
+			"description": "Standalone JavaScript YAML 1.2 Parser & Encoder. Mainly inspired from Yaml Component (part of the php framework Symfony).",
+			"keywords": [
+				"yaml"
+			],
+			"author": {
+				"name": "Jeremy Faivre",
+				"email": "contact@jeremyfa.com"
+			},
+			"main": "./bin/yaml.js",
+			"dependencies": {},
+			"devDependencies": {},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jeremyfa/yaml.js.git"
+			},
+			"_id": "yamljs@0.1.0",
+			"dist": {
+				"shasum": "c7c9bd8e7c2e07d5d12c6a9fd860692e6b60fea0",
+				"tarball": "https://registry.npmjs.org/yamljs/-/yamljs-0.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "jeremyfa",
+					"email": "contact@jeremyfa.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.1.1": {
+			"name": "yamljs",
+			"version": "0.1.1",
+			"description": "Standalone JavaScript YAML 1.2 Parser & Encoder. Works under node.js and all major browsers. Also brings command line YAML/JSON conversion tools.",
+			"keywords": [
+				"yaml",
+				"json",
+				"yaml2json",
+				"json2yaml"
+			],
+			"author": {
+				"name": "Jeremy Faivre",
+				"email": "contact@jeremyfa.com"
+			},
+			"main": "./bin/yaml.js",
+			"dependencies": {
+				"argparse": "~0.1.4",
+				"glob": "~3.1.11"
+			},
+			"bin": {
+				"yaml2json": "./bin/yaml2json",
+				"json2yaml": "./bin/json2yaml"
+			},
+			"devDependencies": {},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jeremyfa/yaml.js.git"
+			},
+			"_id": "yamljs@0.1.1",
+			"dist": {
+				"shasum": "906f379e106fd56b11f6010bb50d5aafc27abf0b",
+				"tarball": "https://registry.npmjs.org/yamljs/-/yamljs-0.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "jeremyfa",
+					"email": "contact@jeremyfa.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.1.2": {
+			"name": "yamljs",
+			"version": "0.1.2",
+			"description": "Standalone JavaScript YAML 1.2 Parser & Encoder. Works under node.js and all major browsers. Also brings command line YAML/JSON conversion tools.",
+			"keywords": [
+				"yaml",
+				"json",
+				"yaml2json",
+				"json2yaml"
+			],
+			"author": {
+				"name": "Jeremy Faivre",
+				"email": "contact@jeremyfa.com"
+			},
+			"main": "./bin/yaml.js",
+			"dependencies": {
+				"argparse": "~0.1.4",
+				"glob": "~3.1.11"
+			},
+			"bin": {
+				"yaml2json": "./bin/yaml2json",
+				"json2yaml": "./bin/json2yaml"
+			},
+			"devDependencies": {},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jeremyfa/yaml.js.git"
+			},
+			"_id": "yamljs@0.1.2",
+			"dist": {
+				"shasum": "d1503cac59195fde23370c623368d2e1922f664e",
+				"tarball": "https://registry.npmjs.org/yamljs/-/yamljs-0.1.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "jeremyfa",
+					"email": "contact@jeremyfa.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.1.3": {
+			"name": "yamljs",
+			"version": "0.1.3",
+			"description": "Standalone JavaScript YAML 1.2 Parser & Encoder. Works under node.js and all major browsers. Also brings command line YAML/JSON conversion tools.",
+			"keywords": [
+				"yaml",
+				"json",
+				"yaml2json",
+				"json2yaml"
+			],
+			"author": {
+				"name": "Jeremy Faivre",
+				"email": "contact@jeremyfa.com"
+			},
+			"main": "./bin/yaml.js",
+			"dependencies": {
+				"argparse": "~0.1.4",
+				"glob": "~3.1.11"
+			},
+			"bin": {
+				"yaml2json": "./bin/yaml2json",
+				"json2yaml": "./bin/json2yaml"
+			},
+			"devDependencies": {},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jeremyfa/yaml.js.git"
+			},
+			"_id": "yamljs@0.1.3",
+			"dist": {
+				"shasum": "380d14382b843fe761b953cb81df759cf6aeee6a",
+				"tarball": "https://registry.npmjs.org/yamljs/-/yamljs-0.1.3.tgz"
+			},
+			"_npmVersion": "1.1.59",
+			"_npmUser": {
+				"name": "jeremyfa",
+				"email": "contact@jeremyfa.com"
+			},
+			"maintainers": [
+				{
+					"name": "jeremyfa",
+					"email": "contact@jeremyfa.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.1.4": {
+			"name": "yamljs",
+			"version": "0.1.4",
+			"description": "Standalone JavaScript YAML 1.2 Parser & Encoder. Works under node.js and all major browsers. Also brings command line YAML/JSON conversion tools.",
+			"keywords": [
+				"yaml",
+				"json",
+				"yaml2json",
+				"json2yaml"
+			],
+			"author": {
+				"name": "Jeremy Faivre",
+				"email": "contact@jeremyfa.com"
+			},
+			"main": "./bin/yaml.js",
+			"dependencies": {
+				"argparse": "~0.1.4",
+				"glob": "~3.1.11"
+			},
+			"bin": {
+				"yaml2json": "./bin/yaml2json",
+				"json2yaml": "./bin/json2yaml"
+			},
+			"devDependencies": {},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jeremyfa/yaml.js.git"
+			},
+			"_id": "yamljs@0.1.4",
+			"dist": {
+				"shasum": "665789afc2ad4b902bf403f00e85b6434e0f3300",
+				"tarball": "https://registry.npmjs.org/yamljs/-/yamljs-0.1.4.tgz"
+			},
+			"_npmVersion": "1.1.59",
+			"_npmUser": {
+				"name": "jeremyfa",
+				"email": "contact@jeremyfa.com"
+			},
+			"maintainers": [
+				{
+					"name": "jeremyfa",
+					"email": "contact@jeremyfa.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.1.5": {
+			"name": "yamljs",
+			"version": "0.1.5",
+			"description": "Standalone JavaScript YAML 1.2 Parser & Encoder. Works under node.js and all major browsers. Also brings command line YAML/JSON conversion tools.",
+			"keywords": [
+				"yaml",
+				"json",
+				"yaml2json",
+				"json2yaml"
+			],
+			"author": {
+				"name": "Jeremy Faivre",
+				"email": "contact@jeremyfa.com"
+			},
+			"main": "./bin/yaml.js",
+			"dependencies": {
+				"argparse": "~0.1.4",
+				"glob": "~3.1.11"
+			},
+			"bin": {
+				"yaml2json": "./bin/yaml2json",
+				"json2yaml": "./bin/json2yaml"
+			},
+			"devDependencies": {},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jeremyfa/yaml.js.git"
+			},
+			"bugs": {
+				"url": "https://github.com/jeremyfa/yaml.js/issues"
+			},
+			"homepage": "https://github.com/jeremyfa/yaml.js",
+			"_id": "yamljs@0.1.5",
+			"dist": {
+				"shasum": "df94b86aa5c41d9ce3138aabce0b38a31f0932e1",
+				"tarball": "https://registry.npmjs.org/yamljs/-/yamljs-0.1.5.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.4.3",
+			"_npmUser": {
+				"name": "jeremyfa",
+				"email": "contact@jeremyfa.com"
+			},
+			"maintainers": [
+				{
+					"name": "jeremyfa",
+					"email": "contact@jeremyfa.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.1.6": {
+			"name": "yamljs",
+			"version": "0.1.6",
+			"description": "Standalone JavaScript YAML 1.2 Parser & Encoder. Works under node.js and all major browsers. Also brings command line YAML/JSON conversion tools.",
+			"keywords": [
+				"yaml",
+				"json",
+				"yaml2json",
+				"json2yaml"
+			],
+			"author": {
+				"name": "Jeremy Faivre",
+				"email": "contact@jeremyfa.com"
+			},
+			"main": "./bin/yaml.js",
+			"dependencies": {
+				"argparse": "~0.1.4",
+				"glob": "~3.1.11"
+			},
+			"bin": {
+				"yaml2json": "./bin/yaml2json",
+				"json2yaml": "./bin/json2yaml"
+			},
+			"devDependencies": {},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jeremyfa/yaml.js.git"
+			},
+			"gitHead": "eb971c74a48ea5bb8589dfb7edf3c5750b5b87ae",
+			"bugs": {
+				"url": "https://github.com/jeremyfa/yaml.js/issues"
+			},
+			"homepage": "https://github.com/jeremyfa/yaml.js",
+			"_id": "yamljs@0.1.6",
+			"scripts": {},
+			"_shasum": "4f2a7047f255f38da6c5f0f1b814806efe4b16c9",
+			"_from": ".",
+			"_npmVersion": "1.4.23",
+			"_npmUser": {
+				"name": "jeremyfa",
+				"email": "contact@jeremyfa.com"
+			},
+			"maintainers": [
+				{
+					"name": "jeremyfa",
+					"email": "contact@jeremyfa.com"
+				}
+			],
+			"dist": {
+				"shasum": "4f2a7047f255f38da6c5f0f1b814806efe4b16c9",
+				"tarball": "https://registry.npmjs.org/yamljs/-/yamljs-0.1.6.tgz"
+			},
+			"directories": {}
+		},
+		"0.2.0": {
+			"name": "yamljs",
+			"version": "0.2.0",
+			"description": "Standalone JavaScript YAML 1.2 Parser & Encoder. Works under node.js and all major browsers. Also brings command line YAML/JSON conversion tools.",
+			"keywords": [
+				"yaml",
+				"json",
+				"yaml2json",
+				"json2yaml"
+			],
+			"author": {
+				"name": "Jeremy Faivre",
+				"email": "contact@jeremyfa.com"
+			},
+			"main": "./lib/Yaml.js",
+			"dependencies": {
+				"argparse": "^0.1.15",
+				"glob": "^3.1.21",
+				"coffeeify": "^0.7.0",
+				"benchmark": "^1.0.0",
+				"jasmine-node": "^1.14.5"
+			},
+			"bin": {
+				"yaml2json": "./bin/yaml2json",
+				"json2yaml": "./bin/json2yaml"
+			},
+			"devDependencies": {},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jeremyfa/yaml.js.git"
+			},
+			"gitHead": "d0788ac5f15d50ad353c2b51351040958252b69a",
+			"bugs": {
+				"url": "https://github.com/jeremyfa/yaml.js/issues"
+			},
+			"homepage": "https://github.com/jeremyfa/yaml.js",
+			"_id": "yamljs@0.2.0",
+			"scripts": {},
+			"_shasum": "80510f3a3600b58ed27d75e8855b0de52a4c4a1c",
+			"_from": ".",
+			"_npmVersion": "1.4.23",
+			"_npmUser": {
+				"name": "jeremyfa",
+				"email": "contact@jeremyfa.com"
+			},
+			"maintainers": [
+				{
+					"name": "jeremyfa",
+					"email": "contact@jeremyfa.com"
+				}
+			],
+			"dist": {
+				"shasum": "80510f3a3600b58ed27d75e8855b0de52a4c4a1c",
+				"tarball": "https://registry.npmjs.org/yamljs/-/yamljs-0.2.0.tgz"
+			},
+			"directories": {}
+		},
+		"0.2.1": {
+			"name": "yamljs",
+			"version": "0.2.1",
+			"description": "Standalone JavaScript YAML 1.2 Parser & Encoder. Works under node.js and all major browsers. Also brings command line YAML/JSON conversion tools.",
+			"keywords": [
+				"yaml",
+				"json",
+				"yaml2json",
+				"json2yaml"
+			],
+			"author": {
+				"name": "Jeremy Faivre",
+				"email": "contact@jeremyfa.com"
+			},
+			"main": "./lib/Yaml.js",
+			"dependencies": {
+				"argparse": "^0.1.15",
+				"glob": "^3.1.21",
+				"coffeeify": "^0.7.0",
+				"benchmark": "^1.0.0",
+				"jasmine-node": "^1.14.5"
+			},
+			"bin": {
+				"yaml2json": "./bin/yaml2json",
+				"json2yaml": "./bin/json2yaml"
+			},
+			"devDependencies": {},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jeremyfa/yaml.js.git"
+			},
+			"gitHead": "ad1d6d0f7806c5684caf1f5274f716dba3566405",
+			"bugs": {
+				"url": "https://github.com/jeremyfa/yaml.js/issues"
+			},
+			"homepage": "https://github.com/jeremyfa/yaml.js",
+			"_id": "yamljs@0.2.1",
+			"scripts": {},
+			"_shasum": "a831b492b963739299da25437e859c3449514e35",
+			"_from": ".",
+			"_npmVersion": "1.4.23",
+			"_npmUser": {
+				"name": "jeremyfa",
+				"email": "contact@jeremyfa.com"
+			},
+			"maintainers": [
+				{
+					"name": "jeremyfa",
+					"email": "contact@jeremyfa.com"
+				}
+			],
+			"dist": {
+				"shasum": "a831b492b963739299da25437e859c3449514e35",
+				"tarball": "https://registry.npmjs.org/yamljs/-/yamljs-0.2.1.tgz"
+			},
+			"directories": {}
+		},
+		"0.2.2": {
+			"name": "yamljs",
+			"version": "0.2.2",
+			"description": "Standalone JavaScript YAML 1.2 Parser & Encoder. Works under node.js and all major browsers. Also brings command line YAML/JSON conversion tools.",
+			"keywords": [
+				"yaml",
+				"json",
+				"yaml2json",
+				"json2yaml"
+			],
+			"author": {
+				"name": "Jeremy Faivre",
+				"email": "contact@jeremyfa.com"
+			},
+			"main": "./lib/Yaml.js",
+			"dependencies": {
+				"argparse": "^0.1.15",
+				"glob": "^4.0.0",
+				"coffeeify": "^0.7.0",
+				"benchmark": "^1.0.0",
+				"jasmine-node": "^1.14.5"
+			},
+			"bin": {
+				"yaml2json": "./bin/yaml2json",
+				"json2yaml": "./bin/json2yaml"
+			},
+			"devDependencies": {},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jeremyfa/yaml.js.git"
+			},
+			"gitHead": "8c299f85d729dc3efe40b700510c438e6bc5b8f4",
+			"bugs": {
+				"url": "https://github.com/jeremyfa/yaml.js/issues"
+			},
+			"homepage": "https://github.com/jeremyfa/yaml.js",
+			"_id": "yamljs@0.2.2",
+			"scripts": {},
+			"_shasum": "9d18803bdbe088ab2d495604717728d76ea9169f",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "jeremyfa",
+				"email": "contact@jeremyfa.com"
+			},
+			"maintainers": [
+				{
+					"name": "jeremyfa",
+					"email": "contact@jeremyfa.com"
+				}
+			],
+			"dist": {
+				"shasum": "9d18803bdbe088ab2d495604717728d76ea9169f",
+				"tarball": "https://registry.npmjs.org/yamljs/-/yamljs-0.2.2.tgz"
+			},
+			"directories": {}
+		},
+		"0.2.3": {
+			"name": "yamljs",
+			"version": "0.2.3",
+			"description": "Standalone JavaScript YAML 1.2 Parser & Encoder. Works under node.js and all major browsers. Also brings command line YAML/JSON conversion tools.",
+			"keywords": [
+				"yaml",
+				"json",
+				"yaml2json",
+				"json2yaml"
+			],
+			"author": {
+				"name": "Jeremy Faivre",
+				"email": "contact@jeremyfa.com"
+			},
+			"main": "./lib/Yaml.js",
+			"dependencies": {
+				"argparse": "^0.1.15",
+				"glob": "^4.0.0",
+				"coffeeify": "^0.7.0",
+				"benchmark": "^1.0.0",
+				"jasmine-node": "^1.14.5"
+			},
+			"bin": {
+				"yaml2json": "./bin/yaml2json",
+				"json2yaml": "./bin/json2yaml"
+			},
+			"devDependencies": {},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jeremyfa/yaml.js.git"
+			},
+			"gitHead": "d45e07527d0ad342d87fa030eafd45cfb7421a16",
+			"bugs": {
+				"url": "https://github.com/jeremyfa/yaml.js/issues"
+			},
+			"homepage": "https://github.com/jeremyfa/yaml.js",
+			"_id": "yamljs@0.2.3",
+			"scripts": {},
+			"_shasum": "9415122ecc7dae5e2ffd56acff382d3d2e48e2e5",
+			"_from": ".",
+			"_npmVersion": "2.7.4",
+			"_nodeVersion": "0.12.2",
+			"_npmUser": {
+				"name": "jeremyfa",
+				"email": "contact@jeremyfa.com"
+			},
+			"maintainers": [
+				{
+					"name": "jeremyfa",
+					"email": "contact@jeremyfa.com"
+				}
+			],
+			"dist": {
+				"shasum": "9415122ecc7dae5e2ffd56acff382d3d2e48e2e5",
+				"tarball": "https://registry.npmjs.org/yamljs/-/yamljs-0.2.3.tgz"
+			},
+			"directories": {}
+		},
+		"0.2.4": {
+			"name": "yamljs",
+			"version": "0.2.4",
+			"description": "Standalone JavaScript YAML 1.2 Parser & Encoder. Works under node.js and all major browsers. Also brings command line YAML/JSON conversion tools.",
+			"keywords": [
+				"yaml",
+				"json",
+				"yaml2json",
+				"json2yaml"
+			],
+			"author": {
+				"name": "Jeremy Faivre",
+				"email": "contact@jeremyfa.com"
+			},
+			"main": "./lib/Yaml.js",
+			"dependencies": {
+				"argparse": "^0.1.15",
+				"glob": "^4.0.0"
+			},
+			"devDependencies": {},
+			"bin": {
+				"yaml2json": "./bin/yaml2json",
+				"json2yaml": "./bin/json2yaml"
+			},
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jeremyfa/yaml.js.git"
+			},
+			"gitHead": "8d7ac5a28edac061bc95bd15e34031fd0d833599",
+			"bugs": {
+				"url": "https://github.com/jeremyfa/yaml.js/issues"
+			},
+			"homepage": "https://github.com/jeremyfa/yaml.js",
+			"_id": "yamljs@0.2.4",
+			"scripts": {},
+			"_shasum": "98c34876227a06fd786c80f77d48036d59c67dca",
+			"_from": ".",
+			"_npmVersion": "2.9.1",
+			"_nodeVersion": "0.12.3",
+			"_npmUser": {
+				"name": "jeremyfa",
+				"email": "contact@jeremyfa.com"
+			},
+			"maintainers": [
+				{
+					"name": "jeremyfa",
+					"email": "contact@jeremyfa.com"
+				}
+			],
+			"dist": {
+				"shasum": "98c34876227a06fd786c80f77d48036d59c67dca",
+				"tarball": "https://registry.npmjs.org/yamljs/-/yamljs-0.2.4.tgz"
+			},
+			"directories": {}
+		},
+		"0.2.5": {
+			"name": "yamljs",
+			"version": "0.2.5",
+			"description": "Standalone JavaScript YAML 1.2 Parser & Encoder. Works under node.js and all major browsers. Also brings command line YAML/JSON conversion tools.",
+			"keywords": [
+				"yaml",
+				"json",
+				"yaml2json",
+				"json2yaml"
+			],
+			"author": {
+				"name": "Jeremy Faivre",
+				"email": "contact@jeremyfa.com"
+			},
+			"main": "./lib/Yaml.js",
+			"dependencies": {
+				"argparse": "^0.1.15",
+				"glob": "^4.0.0"
+			},
+			"devDependencies": {
+				"coffeeify": "^0.7.0",
+				"benchmark": "^1.0.0",
+				"jasmine-node": "^1.14.5"
+			},
+			"bin": {
+				"yaml2json": "./bin/yaml2json",
+				"json2yaml": "./bin/json2yaml"
+			},
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jeremyfa/yaml.js.git"
+			},
+			"gitHead": "7046e2e2263cb824d4e9f70251b5055aae892d63",
+			"bugs": {
+				"url": "https://github.com/jeremyfa/yaml.js/issues"
+			},
+			"homepage": "https://github.com/jeremyfa/yaml.js#readme",
+			"_id": "yamljs@0.2.5",
+			"scripts": {},
+			"_shasum": "780e93a50db596143e1f1769ae31195d2a44d0ef",
+			"_from": ".",
+			"_npmVersion": "3.3.12",
+			"_nodeVersion": "5.3.0",
+			"_npmUser": {
+				"name": "jeremyfa",
+				"email": "contact@jeremyfa.com"
+			},
+			"maintainers": [
+				{
+					"name": "jeremyfa",
+					"email": "contact@jeremyfa.com"
+				}
+			],
+			"dist": {
+				"shasum": "780e93a50db596143e1f1769ae31195d2a44d0ef",
+				"tarball": "https://registry.npmjs.org/yamljs/-/yamljs-0.2.5.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-9-west.internal.npmjs.com",
+				"tmp": "tmp/yamljs-0.2.5.tgz_1455629115378_0.2667480008676648"
+			},
+			"directories": {}
+		},
+		"0.2.6": {
+			"name": "yamljs",
+			"version": "0.2.6",
+			"description": "Standalone JavaScript YAML 1.2 Parser & Encoder. Works under node.js and all major browsers. Also brings command line YAML/JSON conversion tools.",
+			"keywords": [
+				"yaml",
+				"json",
+				"yaml2json",
+				"json2yaml"
+			],
+			"author": {
+				"name": "Jeremy Faivre",
+				"email": "contact@jeremyfa.com"
+			},
+			"main": "./lib/Yaml.js",
+			"dependencies": {
+				"argparse": "^0.1.15",
+				"glob": "^4.0.0"
+			},
+			"devDependencies": {
+				"coffeeify": "^0.7.0",
+				"benchmark": "^1.0.0",
+				"jasmine-node": "^1.14.5"
+			},
+			"bin": {
+				"yaml2json": "./bin/yaml2json",
+				"json2yaml": "./bin/json2yaml"
+			},
+			"scripts": {
+				"test": "cake build; cake test"
+			},
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jeremyfa/yaml.js.git"
+			},
+			"gitHead": "da6a1295271ea4f1bcc2e85e08f317e9576125ff",
+			"bugs": {
+				"url": "https://github.com/jeremyfa/yaml.js/issues"
+			},
+			"homepage": "https://github.com/jeremyfa/yaml.js#readme",
+			"_id": "yamljs@0.2.6",
+			"_shasum": "80c4c691e58c3977a03349066a9b4b8cc9920387",
+			"_from": ".",
+			"_npmVersion": "3.3.12",
+			"_nodeVersion": "5.3.0",
+			"_npmUser": {
+				"name": "jeremyfa",
+				"email": "contact@jeremyfa.com"
+			},
+			"maintainers": [
+				{
+					"name": "jeremyfa",
+					"email": "contact@jeremyfa.com"
+				}
+			],
+			"dist": {
+				"shasum": "80c4c691e58c3977a03349066a9b4b8cc9920387",
+				"tarball": "https://registry.npmjs.org/yamljs/-/yamljs-0.2.6.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-6-west.internal.npmjs.com",
+				"tmp": "tmp/yamljs-0.2.6.tgz_1456680770582_0.8634388097561896"
+			},
+			"directories": {}
+		},
+		"0.2.7": {
+			"name": "yamljs",
+			"version": "0.2.7",
+			"description": "Standalone JavaScript YAML 1.2 Parser & Encoder. Works under node.js and all major browsers. Also brings command line YAML/JSON conversion tools.",
+			"keywords": [
+				"yaml",
+				"json",
+				"yaml2json",
+				"json2yaml"
+			],
+			"author": {
+				"name": "Jeremy Faivre",
+				"email": "contact@jeremyfa.com"
+			},
+			"main": "./lib/Yaml.js",
+			"dependencies": {
+				"argparse": "^0.1.15",
+				"glob": "^4.0.0"
+			},
+			"devDependencies": {
+				"coffeeify": "^0.7.0",
+				"benchmark": "^1.0.0",
+				"jasmine-node": "^1.14.5"
+			},
+			"bin": {
+				"yaml2json": "./bin/yaml2json",
+				"json2yaml": "./bin/json2yaml"
+			},
+			"scripts": {
+				"test": "cake build; cake test"
+			},
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jeremyfa/yaml.js.git"
+			},
+			"gitHead": "69f78ff25639b8d22b8e458ddf200d08d19700a0",
+			"bugs": {
+				"url": "https://github.com/jeremyfa/yaml.js/issues"
+			},
+			"homepage": "https://github.com/jeremyfa/yaml.js#readme",
+			"_id": "yamljs@0.2.7",
+			"_shasum": "84c7e20c790e3dbc711697fef8115b628584ad0c",
+			"_from": ".",
+			"_npmVersion": "2.14.12",
+			"_nodeVersion": "4.3.2",
+			"_npmUser": {
+				"name": "jeremyfa",
+				"email": "contact@jeremyfa.com"
+			},
+			"dist": {
+				"shasum": "84c7e20c790e3dbc711697fef8115b628584ad0c",
+				"tarball": "https://registry.npmjs.org/yamljs/-/yamljs-0.2.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "jeremyfa",
+					"email": "contact@jeremyfa.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/yamljs-0.2.7.tgz_1458914915088_0.8251276998780668"
+			},
+			"directories": {}
+		},
+		"0.2.8": {
+			"name": "yamljs",
+			"version": "0.2.8",
+			"description": "Standalone JavaScript YAML 1.2 Parser & Encoder. Works under node.js and all major browsers. Also brings command line YAML/JSON conversion tools.",
+			"keywords": [
+				"yaml",
+				"json",
+				"yaml2json",
+				"json2yaml"
+			],
+			"author": {
+				"name": "Jeremy Faivre",
+				"email": "contact@jeremyfa.com"
+			},
+			"main": "./lib/Yaml.js",
+			"dependencies": {
+				"argparse": "^1.0.7",
+				"glob": "^7.0.5"
+			},
+			"devDependencies": {
+				"benchmark": "^2.1.0",
+				"coffeeify": "^2.0.1",
+				"jasmine-node": "^1.14.5"
+			},
+			"bin": {
+				"yaml2json": "./bin/yaml2json",
+				"json2yaml": "./bin/json2yaml"
+			},
+			"scripts": {
+				"test": "cake build; cake test"
+			},
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jeremyfa/yaml.js.git"
+			},
+			"gitHead": "97d39b6c2bf533d33538205a399638b63f6baa66",
+			"bugs": {
+				"url": "https://github.com/jeremyfa/yaml.js/issues"
+			},
+			"homepage": "https://github.com/jeremyfa/yaml.js#readme",
+			"_id": "yamljs@0.2.8",
+			"_shasum": "ef23fb006e62f6ae07b406aa2a949561f336ea5c",
+			"_from": ".",
+			"_npmVersion": "2.15.5",
+			"_nodeVersion": "4.4.5",
+			"_npmUser": {
+				"name": "jeremyfa",
+				"email": "contact@jeremyfa.com"
+			},
+			"dist": {
+				"shasum": "ef23fb006e62f6ae07b406aa2a949561f336ea5c",
+				"tarball": "https://registry.npmjs.org/yamljs/-/yamljs-0.2.8.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "jeremyfa",
+					"email": "contact@jeremyfa.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/yamljs-0.2.8.tgz_1466589014196_0.6931578784715384"
+			},
+			"directories": {}
+		},
+		"0.2.9": {
+			"name": "yamljs",
+			"version": "0.2.9",
+			"description": "Standalone JavaScript YAML 1.2 Parser & Encoder. Works under node.js and all major browsers. Also brings command line YAML/JSON conversion tools.",
+			"keywords": [
+				"yaml",
+				"json",
+				"yaml2json",
+				"json2yaml"
+			],
+			"author": {
+				"name": "Jeremy Faivre",
+				"email": "contact@jeremyfa.com"
+			},
+			"main": "./lib/Yaml.js",
+			"dependencies": {
+				"argparse": "^1.0.7",
+				"glob": "^7.0.5"
+			},
+			"devDependencies": {
+				"benchmark": "^2.1.0",
+				"coffeeify": "^2.0.1",
+				"jasmine-node": "^1.14.5"
+			},
+			"bin": {
+				"yaml2json": "./bin/yaml2json",
+				"json2yaml": "./bin/json2yaml"
+			},
+			"scripts": {
+				"test": "cake build; cake test"
+			},
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jeremyfa/yaml.js.git"
+			},
+			"gitHead": "e1796d46972b4784973d7593802975af0d138547",
+			"bugs": {
+				"url": "https://github.com/jeremyfa/yaml.js/issues"
+			},
+			"homepage": "https://github.com/jeremyfa/yaml.js#readme",
+			"_id": "yamljs@0.2.9",
+			"_shasum": "bd3bdaa62ac09deb2a2e1ce803eeb4217b52a82f",
+			"_from": ".",
+			"_npmVersion": "3.10.10",
+			"_nodeVersion": "6.10.0",
+			"_npmUser": {
+				"name": "jeremyfa",
+				"email": "contact@jeremyfa.com"
+			},
+			"dist": {
+				"shasum": "bd3bdaa62ac09deb2a2e1ce803eeb4217b52a82f",
+				"tarball": "https://registry.npmjs.org/yamljs/-/yamljs-0.2.9.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "jeremyfa",
+					"email": "contact@jeremyfa.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/yamljs-0.2.9.tgz_1491144268912_0.04114999668672681"
+			},
+			"directories": {}
+		},
+		"0.2.10": {
+			"name": "yamljs",
+			"version": "0.2.10",
+			"description": "Standalone JavaScript YAML 1.2 Parser & Encoder. Works under node.js and all major browsers. Also brings command line YAML/JSON conversion tools.",
+			"keywords": [
+				"yaml",
+				"json",
+				"yaml2json",
+				"json2yaml"
+			],
+			"author": {
+				"name": "Jeremy Faivre",
+				"email": "contact@jeremyfa.com"
+			},
+			"main": "./lib/Yaml.js",
+			"dependencies": {
+				"argparse": "^1.0.7",
+				"glob": "^7.0.5"
+			},
+			"devDependencies": {
+				"benchmark": "^2.1.0",
+				"coffeeify": "^2.0.1",
+				"jasmine-node": "^1.14.5"
+			},
+			"bin": {
+				"yaml2json": "./bin/yaml2json",
+				"json2yaml": "./bin/json2yaml"
+			},
+			"scripts": {
+				"test": "cake build; cake test"
+			},
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jeremyfa/yaml.js.git"
+			},
+			"gitHead": "305f32d3bd051b7f9506b47b666aab17415474d4",
+			"bugs": {
+				"url": "https://github.com/jeremyfa/yaml.js/issues"
+			},
+			"homepage": "https://github.com/jeremyfa/yaml.js#readme",
+			"_id": "yamljs@0.2.10",
+			"_shasum": "481cc7c25ca73af59f591f0c96e3ce56c757a40f",
+			"_from": ".",
+			"_npmVersion": "3.10.10",
+			"_nodeVersion": "6.10.0",
+			"_npmUser": {
+				"name": "jeremyfa",
+				"email": "contact@jeremyfa.com"
+			},
+			"dist": {
+				"shasum": "481cc7c25ca73af59f591f0c96e3ce56c757a40f",
+				"tarball": "https://registry.npmjs.org/yamljs/-/yamljs-0.2.10.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "jeremyfa",
+					"email": "contact@jeremyfa.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/yamljs-0.2.10.tgz_1492703550511_0.12388348509557545"
+			},
+			"directories": {}
+		},
+		"0.3.0": {
+			"name": "yamljs",
+			"version": "0.3.0",
+			"description": "Standalone JavaScript YAML 1.2 Parser & Encoder. Works under node.js and all major browsers. Also brings command line YAML/JSON conversion tools.",
+			"keywords": [
+				"yaml",
+				"json",
+				"yaml2json",
+				"json2yaml"
+			],
+			"author": {
+				"name": "Jeremy Faivre",
+				"email": "contact@jeremyfa.com"
+			},
+			"main": "./lib/Yaml.js",
+			"dependencies": {
+				"argparse": "^1.0.7",
+				"glob": "^7.0.5"
+			},
+			"devDependencies": {
+				"benchmark": "^2.1.0",
+				"coffeeify": "^2.0.1",
+				"jasmine-node": "^1.14.5"
+			},
+			"bin": {
+				"yaml2json": "./bin/yaml2json",
+				"json2yaml": "./bin/json2yaml"
+			},
+			"scripts": {
+				"test": "cake build; cake test"
+			},
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jeremyfa/yaml.js.git"
+			},
+			"gitHead": "51a74dc0c39d78af7c64e12eafef2711f31abb27",
+			"bugs": {
+				"url": "https://github.com/jeremyfa/yaml.js/issues"
+			},
+			"homepage": "https://github.com/jeremyfa/yaml.js#readme",
+			"_id": "yamljs@0.3.0",
+			"_npmVersion": "5.0.3",
+			"_nodeVersion": "6.10.0",
+			"_npmUser": {
+				"name": "jeremyfa",
+				"email": "contact@jeremyfa.com"
+			},
+			"dist": {
+				"integrity": "sha512-C/FsVVhht4iPQYXOInoxUM/1ELSf9EsgKH34FofQOp6hwCPrW4vG4w5++TED3xRUo8gD7l0P1J1dLlDYzODsTQ==",
+				"shasum": "dc060bf267447b39f7304e9b2bfbe8b5a7ddb03b",
+				"tarball": "https://registry.npmjs.org/yamljs/-/yamljs-0.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "jeremyfa",
+					"email": "contact@jeremyfa.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/yamljs-0.3.0.tgz_1498304401554_0.12306599761359394"
+			},
+			"directories": {}
+		}
+	},
+	"dist-tags": {
+		"latest": "0.3.0"
+	},
+	"time": {
+		"modified": "2018-02-01T00:09:12.963Z",
+		"created": "2012-08-04T01:42:21.449Z",
+		"0.1.0": "2012-08-04T01:42:22.967Z",
+		"0.1.1": "2012-08-09T09:41:25.338Z",
+		"0.1.2": "2012-08-13T22:02:54.448Z",
+		"0.1.3": "2012-09-19T16:54:01.432Z",
+		"0.1.4": "2012-12-16T22:07:49.307Z",
+		"0.1.5": "2014-04-23T21:26:59.432Z",
+		"0.1.6": "2014-09-02T08:07:35.731Z",
+		"0.2.0": "2014-09-14T13:36:12.163Z",
+		"0.2.1": "2014-10-22T17:20:59.717Z",
+		"0.2.2": "2015-04-29T12:06:43.008Z",
+		"0.2.3": "2015-05-21T22:47:40.436Z",
+		"0.2.4": "2015-09-15T17:07:55.731Z",
+		"0.2.5": "2016-02-16T13:25:19.403Z",
+		"0.2.6": "2016-02-28T17:32:53.606Z",
+		"0.2.7": "2016-03-25T14:08:37.645Z",
+		"0.2.8": "2016-06-22T09:50:15.755Z",
+		"0.2.9": "2017-04-02T14:44:30.961Z",
+		"0.2.10": "2017-04-20T15:52:32.561Z",
+		"0.3.0": "2017-06-24T11:40:02.885Z"
+	},
+	"_distfiles": {
+		"yamljs-0.1.0.tgz": {
+			"url": "https://registry.npmjs.org/yamljs/-/yamljs-0.1.0.tgz",
+			"sha": "c7c9bd8e7c2e07d5d12c6a9fd860692e6b60fea0",
+			"registry": "npmjs"
+		},
+		"yamljs-0.1.1.tgz": {
+			"url": "https://registry.npmjs.org/yamljs/-/yamljs-0.1.1.tgz",
+			"sha": "906f379e106fd56b11f6010bb50d5aafc27abf0b",
+			"registry": "npmjs"
+		},
+		"yamljs-0.1.2.tgz": {
+			"url": "https://registry.npmjs.org/yamljs/-/yamljs-0.1.2.tgz",
+			"sha": "d1503cac59195fde23370c623368d2e1922f664e",
+			"registry": "npmjs"
+		},
+		"yamljs-0.1.3.tgz": {
+			"url": "https://registry.npmjs.org/yamljs/-/yamljs-0.1.3.tgz",
+			"sha": "380d14382b843fe761b953cb81df759cf6aeee6a",
+			"registry": "npmjs"
+		},
+		"yamljs-0.1.4.tgz": {
+			"url": "https://registry.npmjs.org/yamljs/-/yamljs-0.1.4.tgz",
+			"sha": "665789afc2ad4b902bf403f00e85b6434e0f3300",
+			"registry": "npmjs"
+		},
+		"yamljs-0.1.5.tgz": {
+			"url": "https://registry.npmjs.org/yamljs/-/yamljs-0.1.5.tgz",
+			"sha": "df94b86aa5c41d9ce3138aabce0b38a31f0932e1",
+			"registry": "npmjs"
+		},
+		"yamljs-0.1.6.tgz": {
+			"url": "https://registry.npmjs.org/yamljs/-/yamljs-0.1.6.tgz",
+			"sha": "4f2a7047f255f38da6c5f0f1b814806efe4b16c9",
+			"registry": "npmjs"
+		},
+		"yamljs-0.2.0.tgz": {
+			"url": "https://registry.npmjs.org/yamljs/-/yamljs-0.2.0.tgz",
+			"sha": "80510f3a3600b58ed27d75e8855b0de52a4c4a1c",
+			"registry": "npmjs"
+		},
+		"yamljs-0.2.1.tgz": {
+			"url": "https://registry.npmjs.org/yamljs/-/yamljs-0.2.1.tgz",
+			"sha": "a831b492b963739299da25437e859c3449514e35",
+			"registry": "npmjs"
+		},
+		"yamljs-0.2.2.tgz": {
+			"url": "https://registry.npmjs.org/yamljs/-/yamljs-0.2.2.tgz",
+			"sha": "9d18803bdbe088ab2d495604717728d76ea9169f",
+			"registry": "npmjs"
+		},
+		"yamljs-0.2.3.tgz": {
+			"url": "https://registry.npmjs.org/yamljs/-/yamljs-0.2.3.tgz",
+			"sha": "9415122ecc7dae5e2ffd56acff382d3d2e48e2e5",
+			"registry": "npmjs"
+		},
+		"yamljs-0.2.4.tgz": {
+			"url": "https://registry.npmjs.org/yamljs/-/yamljs-0.2.4.tgz",
+			"sha": "98c34876227a06fd786c80f77d48036d59c67dca",
+			"registry": "npmjs"
+		},
+		"yamljs-0.2.5.tgz": {
+			"url": "https://registry.npmjs.org/yamljs/-/yamljs-0.2.5.tgz",
+			"sha": "780e93a50db596143e1f1769ae31195d2a44d0ef",
+			"registry": "npmjs"
+		},
+		"yamljs-0.2.6.tgz": {
+			"url": "https://registry.npmjs.org/yamljs/-/yamljs-0.2.6.tgz",
+			"sha": "80c4c691e58c3977a03349066a9b4b8cc9920387",
+			"registry": "npmjs"
+		},
+		"yamljs-0.2.7.tgz": {
+			"url": "https://registry.npmjs.org/yamljs/-/yamljs-0.2.7.tgz",
+			"sha": "84c7e20c790e3dbc711697fef8115b628584ad0c",
+			"registry": "npmjs"
+		},
+		"yamljs-0.2.8.tgz": {
+			"url": "https://registry.npmjs.org/yamljs/-/yamljs-0.2.8.tgz",
+			"sha": "ef23fb006e62f6ae07b406aa2a949561f336ea5c",
+			"registry": "npmjs"
+		},
+		"yamljs-0.2.9.tgz": {
+			"url": "https://registry.npmjs.org/yamljs/-/yamljs-0.2.9.tgz",
+			"sha": "bd3bdaa62ac09deb2a2e1ce803eeb4217b52a82f",
+			"registry": "npmjs"
+		},
+		"yamljs-0.2.10.tgz": {
+			"url": "https://registry.npmjs.org/yamljs/-/yamljs-0.2.10.tgz",
+			"sha": "481cc7c25ca73af59f591f0c96e3ce56c757a40f",
+			"registry": "npmjs"
+		},
+		"yamljs-0.3.0.tgz": {
+			"url": "https://registry.npmjs.org/yamljs/-/yamljs-0.3.0.tgz",
+			"sha": "dc060bf267447b39f7304e9b2bfbe8b5a7ddb03b",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "\"5a725aa8-6fd6\"",
+			"fetched": 1519837514931
+		}
+	},
+	"_rev": "1-bebbc47fa51f69b5",
+	"readme": "yaml.js\n=======\n\n![Build status](https://travis-ci.org/jeremyfa/yaml.js.svg?branch=develop)\n\nStandalone JavaScript YAML 1.2 Parser & Encoder. Works under node.js and all major browsers. Also brings command line YAML/JSON conversion tools.\n\nMainly inspired from [Symfony Yaml Component](https://github.com/symfony/Yaml).\n\nHow to use\n----------\n\nImport yaml.js in your html page:\n\n``` html\n<script type=\"text/javascript\" src=\"yaml.js\"></script>\n```\n\nParse yaml string:\n\n``` js\nnativeObject = YAML.parse(yamlString);\n```\n\nDump native object into yaml string:\n\n``` js\nyamlString = YAML.stringify(nativeObject[, inline /* @integer depth to start using inline notation at */[, spaces /* @integer number of spaces to use for indentation */] ]);\n```\n\nLoad yaml file:\n\n``` js\nnativeObject = YAML.load('file.yml');\n```\n\nLoad yaml file:\n\n``` js\nYAML.load('file.yml', function(result)\n{\n    nativeObject = result;\n});\n```\n\nUse with node.js\n----------------\n\nInstall module:\n\n``` bash\nnpm install yamljs\n```\n\nUse it:\n\n``` js\nYAML = require('yamljs');\n\n// parse YAML string\nnativeObject = YAML.parse(yamlString);\n\n// Generate YAML\nyamlString = YAML.stringify(nativeObject, 4);\n\n// Load yaml file using YAML.load\nnativeObject = YAML.load('myfile.yml');\n```\n\nCommand line tools\n------------------\n\nYou can enable the command line tools by installing yamljs as a global module:\n\n``` bash\nnpm install -g yamljs\n```\n\nThen, two cli commands should become available: **yaml2json** and **json2yaml**. They let you convert YAML to JSON and JSON to YAML very easily.\n\n**yaml2json**\n\n```\nusage: yaml2json [-h] [-v] [-p] [-i INDENTATION] [-s] [-r] [-w] input\n\nPositional arguments:\n  input                 YAML file or directory containing YAML files.\n\nOptional arguments:\n  -h, --help            Show this help message and exit.\n  -v, --version         Show program's version number and exit.\n  -p, --pretty          Output pretty (indented) JSON.\n  -i INDENTATION, --indentation INDENTATION\n                        Number of space characters used to indent code (use \n                        with --pretty, default: 2).\n  -s, --save            Save output inside JSON file(s) with the same name.\n  -r, --recursive       If the input is a directory, also find YAML files in \n                        sub-directories recursively.\n  -w, --watch           Watch for changes.\n```\n\n**json2yaml**\n\n```\nusage: json2yaml [-h] [-v] [-d DEPTH] [-i INDENTATION] [-s] [-r] [-w] input\n\nPositional arguments:\n  input                 JSON file or directory containing JSON files.\n\nOptional arguments:\n  -h, --help            Show this help message and exit.\n  -v, --version         Show program's version number and exit.\n  -d DEPTH, --depth DEPTH\n                        Set minimum level of depth before generating inline \n                        YAML (default: 2).\n  -i INDENTATION, --indentation INDENTATION\n                        Number of space characters used to indent code \n                        (default: 2).\n  -s, --save            Save output inside YML file(s) with the same name.\n  -r, --recursive       If the input is a directory, also find JSON files in \n                        sub-directories recursively.\n  -w, --watch           Watch for changes.\n```\n\n**examples**\n\n``` bash\n# Convert YAML to JSON and output resulting JSON on the console\nyaml2json myfile.yml\n\n# Store output inside a JSON file\nyaml2json myfile.yml > output.json\n\n# Output \"pretty\" (indented) JSON\nyaml2json myfile.yml --pretty\n\n# Save the output inside a file called myfile.json\nyaml2json myfile.yml --pretty --save\n\n# Watch a full directory and convert any YAML file into its JSON equivalent\nyaml2json mydirectory --pretty --save --recursive\n\n# Convert JSON to YAML and store output inside a JSON file\njson2yaml myfile.json > output.yml\n\n# Output YAML that will be inlined only after 8 levels of indentation\njson2yaml myfile.json --depth 8\n\n# Save the output inside a file called myfile.json with 4 spaces for each indentation\njson2yaml myfile.json --indentation 4\n\n# Watch a full directory and convert any JSON file into its YAML equivalent\njson2yaml mydirectory --pretty --save --recursive\n\n"
+}

@@ -1,0 +1,1911 @@
+{
+	"name": "requestretry",
+	"versions": {
+		"0.0.1": {
+			"name": "requestretry",
+			"description": "request-retry wrap nodejs request to retry http(s) requests in case of error",
+			"author": {
+				"name": "Francois-Guillaume Ribreau",
+				"email": "npm@fgribreau.com",
+				"url": "http://fgribreau.com"
+			},
+			"version": "0.0.1",
+			"repository": {
+				"url": "https://github.com/FGRibreau/node-request-retry"
+			},
+			"main": "index.js",
+			"license": "MIT",
+			"dependencies": {
+				"fg-lodash": "0.0.1",
+				"request": "~2.34.0"
+			},
+			"bugs": {
+				"url": "https://github.com/FGRibreau/node-request-retry/issues"
+			},
+			"_id": "requestretry@0.0.1",
+			"dist": {
+				"shasum": "4d1d9ce7178ee5be50a48ea0f0fd06d321d293d9",
+				"tarball": "https://registry.npmjs.org/requestretry/-/requestretry-0.0.1.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.2",
+			"_npmUser": {
+				"name": "fgribreau",
+				"email": "npm@fgribreau.com"
+			},
+			"maintainers": [
+				{
+					"name": "fgribreau",
+					"email": "npm@fgribreau.com"
+				}
+			],
+			"directories": {}
+		},
+		"1.0.0": {
+			"name": "requestretry",
+			"description": "request-retry wrap nodejs request to retry http(s) requests in case of error",
+			"author": {
+				"name": "Francois-Guillaume Ribreau",
+				"email": "npm@fgribreau.com",
+				"url": "http://fgribreau.com"
+			},
+			"version": "1.0.0",
+			"repository": {
+				"url": "https://github.com/FGRibreau/node-request-retry"
+			},
+			"main": "index.js",
+			"license": "MIT",
+			"dependencies": {
+				"fg-lodash": "0.0.1",
+				"request": "~2.34.0"
+			},
+			"devDependencies": {
+				"chai": "~1.9.1",
+				"mocha": "~1.18.2"
+			},
+			"bugs": {
+				"url": "https://github.com/FGRibreau/node-request-retry/issues"
+			},
+			"_id": "requestretry@1.0.0",
+			"dist": {
+				"shasum": "f24f0347502653fb4c1604b5c18511a65f142f9b",
+				"tarball": "https://registry.npmjs.org/requestretry/-/requestretry-1.0.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.2",
+			"_npmUser": {
+				"name": "fgribreau",
+				"email": "npm@fgribreau.com"
+			},
+			"maintainers": [
+				{
+					"name": "fgribreau",
+					"email": "npm@fgribreau.com"
+				}
+			],
+			"directories": {}
+		},
+		"1.0.1": {
+			"name": "requestretry",
+			"description": "request-retry wrap nodejs request to retry http(s) requests in case of error",
+			"author": {
+				"name": "Francois-Guillaume Ribreau",
+				"email": "npm@fgribreau.com",
+				"url": "http://fgribreau.com"
+			},
+			"version": "1.0.1",
+			"repository": {
+				"url": "https://github.com/FGRibreau/node-request-retry"
+			},
+			"main": "index.js",
+			"license": "MIT",
+			"dependencies": {
+				"fg-lodash": "0.0.1",
+				"request": "~2.34.0",
+				"cancelable": "~0.1.0"
+			},
+			"devDependencies": {
+				"chai": "~1.9.1",
+				"mocha": "~1.18.2"
+			},
+			"bugs": {
+				"url": "https://github.com/FGRibreau/node-request-retry/issues"
+			},
+			"_id": "requestretry@1.0.1",
+			"dist": {
+				"shasum": "cfa8c20d6e65a59ba56f66a0055aeda0137639d5",
+				"tarball": "https://registry.npmjs.org/requestretry/-/requestretry-1.0.1.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.2",
+			"_npmUser": {
+				"name": "fgribreau",
+				"email": "npm@fgribreau.com"
+			},
+			"maintainers": [
+				{
+					"name": "fgribreau",
+					"email": "npm@fgribreau.com"
+				}
+			],
+			"directories": {}
+		},
+		"1.0.2": {
+			"name": "requestretry",
+			"description": "request-retry wrap nodejs request to retry http(s) requests in case of error",
+			"author": {
+				"name": "Francois-Guillaume Ribreau",
+				"email": "npm@fgribreau.com",
+				"url": "http://fgribreau.com"
+			},
+			"version": "1.0.2",
+			"repository": {
+				"url": "https://github.com/FGRibreau/node-request-retry"
+			},
+			"main": "index.js",
+			"license": "MIT",
+			"dependencies": {
+				"cancelable": "~0.1.0",
+				"fg-lodash": "0.0.1",
+				"request": "~2.44.0"
+			},
+			"devDependencies": {
+				"chai": "~1.9.1",
+				"mocha": "~1.18.2"
+			},
+			"gitHead": "c0f3b974315773d987bccb224ac9c4499e29600f",
+			"bugs": {
+				"url": "https://github.com/FGRibreau/node-request-retry/issues"
+			},
+			"homepage": "https://github.com/FGRibreau/node-request-retry",
+			"_id": "requestretry@1.0.2",
+			"scripts": {},
+			"_shasum": "a090699ecc293086bf49bf5ca9cc7c5d5f4f4eda",
+			"_from": ".",
+			"_npmVersion": "1.4.23",
+			"_npmUser": {
+				"name": "fgribreau",
+				"email": "npm@fgribreau.com"
+			},
+			"maintainers": [
+				{
+					"name": "fgribreau",
+					"email": "npm@fgribreau.com"
+				}
+			],
+			"dist": {
+				"shasum": "a090699ecc293086bf49bf5ca9cc7c5d5f4f4eda",
+				"tarball": "https://registry.npmjs.org/requestretry/-/requestretry-1.0.2.tgz"
+			},
+			"directories": {}
+		},
+		"1.0.3": {
+			"name": "requestretry",
+			"description": "request-retry wrap nodejs request to retry http(s) requests in case of error",
+			"author": {
+				"name": "Francois-Guillaume Ribreau",
+				"email": "npm@fgribreau.com",
+				"url": "http://fgribreau.com"
+			},
+			"version": "1.0.3",
+			"repository": {
+				"url": "https://github.com/FGRibreau/node-request-retry"
+			},
+			"main": "index.js",
+			"license": "MIT",
+			"dependencies": {
+				"cancelable": "~0.1.0",
+				"fg-lodash": "0.0.1",
+				"request": "~2.44.0"
+			},
+			"devDependencies": {
+				"chai": "~1.9.1",
+				"mocha": "~1.18.2"
+			},
+			"gitHead": "8ed86e67f346d597f65dc25ecb3a374cc7e3a9b7",
+			"bugs": {
+				"url": "https://github.com/FGRibreau/node-request-retry/issues"
+			},
+			"homepage": "https://github.com/FGRibreau/node-request-retry",
+			"_id": "requestretry@1.0.3",
+			"scripts": {},
+			"_shasum": "f81ca504dbc0a75c15b49beb0d6f7ce45fbb7a8c",
+			"_from": ".",
+			"_npmVersion": "1.4.23",
+			"_npmUser": {
+				"name": "fgribreau",
+				"email": "npm@fgribreau.com"
+			},
+			"maintainers": [
+				{
+					"name": "fgribreau",
+					"email": "npm@fgribreau.com"
+				}
+			],
+			"dist": {
+				"shasum": "f81ca504dbc0a75c15b49beb0d6f7ce45fbb7a8c",
+				"tarball": "https://registry.npmjs.org/requestretry/-/requestretry-1.0.3.tgz"
+			},
+			"directories": {}
+		},
+		"1.0.4": {
+			"name": "requestretry",
+			"description": "request-retry wrap nodejs request to retry http(s) requests in case of error",
+			"author": {
+				"name": "Francois-Guillaume Ribreau",
+				"email": "npm@fgribreau.com",
+				"url": "http://fgribreau.com"
+			},
+			"version": "1.0.4",
+			"repository": {
+				"url": "https://github.com/FGRibreau/node-request-retry"
+			},
+			"main": "index.js",
+			"license": "MIT",
+			"dependencies": {
+				"cancelable": "~0.1.0",
+				"fg-lodash": "0.0.1",
+				"request": "~2.44.0"
+			},
+			"devDependencies": {
+				"chai": "~1.9.1",
+				"mocha": "~1.18.2"
+			},
+			"gitHead": "66e39be276c61df7f8c8913dfdd0d42359aa2296",
+			"bugs": {
+				"url": "https://github.com/FGRibreau/node-request-retry/issues"
+			},
+			"homepage": "https://github.com/FGRibreau/node-request-retry",
+			"_id": "requestretry@1.0.4",
+			"scripts": {},
+			"_shasum": "60c66dc163b63ad98d759b718429d52d65cdc955",
+			"_from": ".",
+			"_npmVersion": "1.4.23",
+			"_npmUser": {
+				"name": "fgribreau",
+				"email": "npm@fgribreau.com"
+			},
+			"maintainers": [
+				{
+					"name": "fgribreau",
+					"email": "npm@fgribreau.com"
+				}
+			],
+			"dist": {
+				"shasum": "60c66dc163b63ad98d759b718429d52d65cdc955",
+				"tarball": "https://registry.npmjs.org/requestretry/-/requestretry-1.0.4.tgz"
+			},
+			"directories": {}
+		},
+		"1.1.0": {
+			"name": "requestretry",
+			"description": "request-retry wrap nodejs request to retry http(s) requests in case of error",
+			"version": "1.1.0",
+			"author": {
+				"name": "Francois-Guillaume Ribreau",
+				"email": "npm@fgribreau.com",
+				"url": "http://fgribreau.com"
+			},
+			"contributors": [
+				{
+					"name": "juliendangers",
+					"email": "dev@juliencrestin.com"
+				}
+			],
+			"repository": {
+				"url": "https://github.com/FGRibreau/node-request-retry"
+			},
+			"main": "index.js",
+			"license": "MIT",
+			"dependencies": {
+				"cancelable": "~0.1.0",
+				"fg-lodash": "0.0.2",
+				"request": "~2.47.0"
+			},
+			"devDependencies": {
+				"chai": "~1.9.1",
+				"mocha": "~1.18.2"
+			},
+			"gitHead": "6708bb0ea9d673ea511ed7a940e590b5a8762fb7",
+			"bugs": {
+				"url": "https://github.com/FGRibreau/node-request-retry/issues"
+			},
+			"homepage": "https://github.com/FGRibreau/node-request-retry",
+			"_id": "requestretry@1.1.0",
+			"scripts": {},
+			"_shasum": "df1a0c321d1cb49ca6f9d84dd5f6a5e76cafa351",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "fgribreau",
+				"email": "npm@fgribreau.com"
+			},
+			"maintainers": [
+				{
+					"name": "fgribreau",
+					"email": "npm@fgribreau.com"
+				}
+			],
+			"dist": {
+				"shasum": "df1a0c321d1cb49ca6f9d84dd5f6a5e76cafa351",
+				"tarball": "https://registry.npmjs.org/requestretry/-/requestretry-1.1.0.tgz"
+			},
+			"directories": {}
+		},
+		"1.2.0": {
+			"name": "requestretry",
+			"description": "request-retry wrap nodejs request to retry http(s) requests in case of error",
+			"version": "1.2.0",
+			"author": {
+				"name": "Francois-Guillaume Ribreau",
+				"email": "npm@fgribreau.com",
+				"url": "http://fgribreau.com"
+			},
+			"contributors": [
+				{
+					"name": "juliendangers",
+					"email": "dev@juliencrestin.com"
+				}
+			],
+			"repository": {
+				"url": "https://github.com/FGRibreau/node-request-retry"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha test"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"fg-lodash": "0.0.2",
+				"request": "~2.47.0"
+			},
+			"devDependencies": {
+				"chai": "~1.9.1",
+				"mocha": "~1.18.2"
+			},
+			"gitHead": "103ae764efc026a61e4e369fd0556064ff368e3c",
+			"bugs": {
+				"url": "https://github.com/FGRibreau/node-request-retry/issues"
+			},
+			"homepage": "https://github.com/FGRibreau/node-request-retry",
+			"_id": "requestretry@1.2.0",
+			"_shasum": "d9c2d3e56e49caa86c7558f76f7f18a23f8fd243",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "fgribreau",
+				"email": "npm@fgribreau.com"
+			},
+			"maintainers": [
+				{
+					"name": "fgribreau",
+					"email": "npm@fgribreau.com"
+				}
+			],
+			"dist": {
+				"shasum": "d9c2d3e56e49caa86c7558f76f7f18a23f8fd243",
+				"tarball": "https://registry.npmjs.org/requestretry/-/requestretry-1.2.0.tgz"
+			},
+			"directories": {}
+		},
+		"1.2.1": {
+			"name": "requestretry",
+			"description": "request-retry wrap nodejs request to retry http(s) requests in case of error",
+			"version": "1.2.1",
+			"author": {
+				"name": "Francois-Guillaume Ribreau",
+				"email": "npm@fgribreau.com",
+				"url": "http://fgribreau.com"
+			},
+			"contributors": [
+				{
+					"name": "juliendangers",
+					"email": "dev@juliencrestin.com"
+				}
+			],
+			"repository": {
+				"url": "https://github.com/FGRibreau/node-request-retry"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha test"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"fg-lodash": "0.0.2",
+				"request": "~2.47.0"
+			},
+			"devDependencies": {
+				"chai": "~1.9.1",
+				"mocha": "~1.18.2"
+			},
+			"gitHead": "1a45d5188b239927e48bcb769c323cf409a5bf96",
+			"bugs": {
+				"url": "https://github.com/FGRibreau/node-request-retry/issues"
+			},
+			"homepage": "https://github.com/FGRibreau/node-request-retry",
+			"_id": "requestretry@1.2.1",
+			"_shasum": "0b3b48f192ec238ce883b895b4ccd0a161293b5c",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "fgribreau",
+				"email": "npm@fgribreau.com"
+			},
+			"maintainers": [
+				{
+					"name": "fgribreau",
+					"email": "npm@fgribreau.com"
+				}
+			],
+			"dist": {
+				"shasum": "0b3b48f192ec238ce883b895b4ccd0a161293b5c",
+				"tarball": "https://registry.npmjs.org/requestretry/-/requestretry-1.2.1.tgz"
+			},
+			"directories": {}
+		},
+		"1.2.2": {
+			"name": "requestretry",
+			"description": "request-retry wrap nodejs request to retry http(s) requests in case of error",
+			"version": "1.2.2",
+			"author": {
+				"name": "Francois-Guillaume Ribreau",
+				"email": "npm@fgribreau.com",
+				"url": "http://fgribreau.com"
+			},
+			"contributors": [
+				{
+					"name": "juliendangers",
+					"email": "dev@juliencrestin.com"
+				}
+			],
+			"repository": {
+				"url": "https://github.com/FGRibreau/node-request-retry"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha test"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"fg-lodash": "0.0.2",
+				"request": "2.51.x"
+			},
+			"devDependencies": {
+				"chai": "~1.9.1",
+				"mocha": "~1.18.2"
+			},
+			"gitHead": "4ee950bfae573e39c06f9ae221406a69975ed26b",
+			"bugs": {
+				"url": "https://github.com/FGRibreau/node-request-retry/issues"
+			},
+			"homepage": "https://github.com/FGRibreau/node-request-retry",
+			"_id": "requestretry@1.2.2",
+			"_shasum": "4b7daaf47330ccdfcae414e90b882eb6900e7983",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "fgribreau",
+				"email": "npm@fgribreau.com"
+			},
+			"maintainers": [
+				{
+					"name": "fgribreau",
+					"email": "npm@fgribreau.com"
+				}
+			],
+			"dist": {
+				"shasum": "4b7daaf47330ccdfcae414e90b882eb6900e7983",
+				"tarball": "https://registry.npmjs.org/requestretry/-/requestretry-1.2.2.tgz"
+			},
+			"directories": {}
+		},
+		"1.3.0": {
+			"name": "requestretry",
+			"description": "request-retry wrap nodejs request to retry http(s) requests in case of error",
+			"version": "1.3.0",
+			"author": {
+				"name": "Francois-Guillaume Ribreau",
+				"email": "npm@fgribreau.com",
+				"url": "http://fgribreau.com"
+			},
+			"contributors": [
+				{
+					"name": "juliendangers",
+					"email": "dev@juliencrestin.com"
+				}
+			],
+			"repository": {
+				"url": "https://github.com/FGRibreau/node-request-retry"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha test"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"fg-lodash": "0.0.2",
+				"request": "2.55.x"
+			},
+			"devDependencies": {
+				"chai": "~2.3.0",
+				"mocha": "~2.2.4"
+			},
+			"gitHead": "07ac1227fa24dafec8f085c7e554d58568348d04",
+			"bugs": {
+				"url": "https://github.com/FGRibreau/node-request-retry/issues"
+			},
+			"homepage": "https://github.com/FGRibreau/node-request-retry",
+			"_id": "requestretry@1.3.0",
+			"_shasum": "064bad0fa6c6371c7f0d7bd0105d8e38ad6b412a",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "fgribreau",
+				"email": "npm@fgribreau.com"
+			},
+			"maintainers": [
+				{
+					"name": "fgribreau",
+					"email": "npm@fgribreau.com"
+				}
+			],
+			"dist": {
+				"shasum": "064bad0fa6c6371c7f0d7bd0105d8e38ad6b412a",
+				"tarball": "https://registry.npmjs.org/requestretry/-/requestretry-1.3.0.tgz"
+			},
+			"directories": {}
+		},
+		"1.3.1": {
+			"name": "requestretry",
+			"description": "request-retry wrap nodejs request to retry http(s) requests in case of error",
+			"version": "1.3.1",
+			"author": {
+				"name": "Francois-Guillaume Ribreau",
+				"email": "npm@fgribreau.com",
+				"url": "http://fgribreau.com"
+			},
+			"contributors": [
+				{
+					"name": "juliendangers",
+					"email": "dev@juliencrestin.com"
+				}
+			],
+			"repository": {
+				"url": "https://github.com/FGRibreau/node-request-retry"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha test"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"fg-lodash": "0.0.2",
+				"request": "2.55.x"
+			},
+			"devDependencies": {
+				"chai": "~2.3.0",
+				"mocha": "~2.2.4"
+			},
+			"gitHead": "bef5dba95eb1af36e2ac92d84c9fe208a949a79f",
+			"bugs": {
+				"url": "https://github.com/FGRibreau/node-request-retry/issues"
+			},
+			"homepage": "https://github.com/FGRibreau/node-request-retry",
+			"_id": "requestretry@1.3.1",
+			"_shasum": "bcaf38a5b8b7c1caf0d4b0da21af0d5020f4dea4",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "fgribreau",
+				"email": "npm@fgribreau.com"
+			},
+			"maintainers": [
+				{
+					"name": "fgribreau",
+					"email": "npm@fgribreau.com"
+				}
+			],
+			"dist": {
+				"shasum": "bcaf38a5b8b7c1caf0d4b0da21af0d5020f4dea4",
+				"tarball": "https://registry.npmjs.org/requestretry/-/requestretry-1.3.1.tgz"
+			},
+			"directories": {}
+		},
+		"1.4.0": {
+			"name": "requestretry",
+			"description": "request-retry wrap nodejs request to retry http(s) requests in case of error",
+			"version": "1.4.0",
+			"author": {
+				"name": "Francois-Guillaume Ribreau",
+				"email": "npm@fgribreau.com",
+				"url": "http://fgribreau.com"
+			},
+			"contributors": [
+				{
+					"name": "juliendangers",
+					"email": "dev@juliencrestin.com"
+				}
+			],
+			"repository": {
+				"url": "https://github.com/FGRibreau/node-request-retry"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha test"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"fg-lodash": "0.0.2",
+				"request": "2.58.x"
+			},
+			"devDependencies": {
+				"chai": "~2.3.0",
+				"mocha": "~2.2.4"
+			},
+			"gitHead": "e890593b85a18b52ca6aea24ff1e7736fb78d4e5",
+			"bugs": {
+				"url": "https://github.com/FGRibreau/node-request-retry/issues"
+			},
+			"homepage": "https://github.com/FGRibreau/node-request-retry",
+			"_id": "requestretry@1.4.0",
+			"_shasum": "839f7cad8458562eee01680d27452e9f85e16582",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "fgribreau",
+				"email": "npm@fgribreau.com"
+			},
+			"maintainers": [
+				{
+					"name": "fgribreau",
+					"email": "npm@fgribreau.com"
+				}
+			],
+			"dist": {
+				"shasum": "839f7cad8458562eee01680d27452e9f85e16582",
+				"tarball": "https://registry.npmjs.org/requestretry/-/requestretry-1.4.0.tgz"
+			},
+			"directories": {}
+		},
+		"1.4.1": {
+			"name": "requestretry",
+			"description": "request-retry wrap nodejs request to retry http(s) requests in case of error",
+			"version": "1.4.1",
+			"author": {
+				"name": "Francois-Guillaume Ribreau",
+				"email": "npm@fgribreau.com",
+				"url": "http://fgribreau.com"
+			},
+			"contributors": [
+				{
+					"name": "juliendangers",
+					"email": "dev@juliencrestin.com"
+				}
+			],
+			"repository": {
+				"url": "https://github.com/FGRibreau/node-request-retry"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha test"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"fg-lodash": "0.0.2",
+				"request": "^2.62.x"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"mocha": "^2.3.0"
+			},
+			"gitHead": "9f6cadf9a175aab39738fad39f07e135488b26ef",
+			"bugs": {
+				"url": "https://github.com/FGRibreau/node-request-retry/issues"
+			},
+			"homepage": "https://github.com/FGRibreau/node-request-retry",
+			"_id": "requestretry@1.4.1",
+			"_shasum": "f20a0e78a0ae2dd7ae6dcfe58dd0c64aef52f7c2",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "fgribreau",
+				"email": "npm@fgribreau.com"
+			},
+			"maintainers": [
+				{
+					"name": "fgribreau",
+					"email": "npm@fgribreau.com"
+				}
+			],
+			"dist": {
+				"shasum": "f20a0e78a0ae2dd7ae6dcfe58dd0c64aef52f7c2",
+				"tarball": "https://registry.npmjs.org/requestretry/-/requestretry-1.4.1.tgz"
+			},
+			"directories": {}
+		},
+		"1.5.0": {
+			"name": "requestretry",
+			"description": "request-retry wrap nodejs request to retry http(s) requests in case of error",
+			"version": "1.5.0",
+			"author": {
+				"name": "Francois-Guillaume Ribreau",
+				"email": "npm@fgribreau.com",
+				"url": "http://fgribreau.com"
+			},
+			"contributors": [
+				{
+					"name": "juliendangers",
+					"email": "dev@juliencrestin.com"
+				}
+			],
+			"repository": {
+				"url": "https://github.com/FGRibreau/node-request-retry"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha test"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"fg-lodash": "0.0.2",
+				"request": "^2.62.x"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"mocha": "^2.3.0"
+			},
+			"gitHead": "1b7ca7c88a79f9221c1ab6974b191daf3c29d913",
+			"bugs": {
+				"url": "https://github.com/FGRibreau/node-request-retry/issues"
+			},
+			"homepage": "https://github.com/FGRibreau/node-request-retry",
+			"_id": "requestretry@1.5.0",
+			"_shasum": "ed157bba53526edeb3ec32a8e704a4998bece627",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "fgribreau",
+				"email": "npm@fgribreau.com"
+			},
+			"maintainers": [
+				{
+					"name": "fgribreau",
+					"email": "npm@fgribreau.com"
+				}
+			],
+			"dist": {
+				"shasum": "ed157bba53526edeb3ec32a8e704a4998bece627",
+				"tarball": "https://registry.npmjs.org/requestretry/-/requestretry-1.5.0.tgz"
+			},
+			"directories": {}
+		},
+		"1.6.0": {
+			"name": "requestretry",
+			"description": "request-retry wrap nodejs request to retry http(s) requests in case of error",
+			"version": "1.6.0",
+			"author": {
+				"name": "Francois-Guillaume Ribreau",
+				"email": "npm@fgribreau.com",
+				"url": "http://fgribreau.com"
+			},
+			"contributors": [
+				{
+					"name": "juliendangers",
+					"email": "dev@juliencrestin.com"
+				}
+			],
+			"repository": {
+				"url": "git+https://github.com/FGRibreau/node-request-retry.git"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha test"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"fg-lodash": "0.0.2",
+				"request": "^2.62.x",
+				"when": "~3.7.5"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"kew": "~0.7.0",
+				"mocha": "^2.3.0",
+				"nock": "~3.1.0",
+				"q": "~1.4.1",
+				"rsvp": "~3.1.0",
+				"bluebird": "~3.0.5"
+			},
+			"gitHead": "99118dd9cd78da79fd914745674cde8b1d043ba8",
+			"bugs": {
+				"url": "https://github.com/FGRibreau/node-request-retry/issues"
+			},
+			"homepage": "https://github.com/FGRibreau/node-request-retry#readme",
+			"_id": "requestretry@1.6.0",
+			"_shasum": "3b33a9389bf17f87a9ad39862b47ffd04172e286",
+			"_from": ".",
+			"_npmVersion": "3.3.12",
+			"_nodeVersion": "5.3.0",
+			"_npmUser": {
+				"name": "fgribreau",
+				"email": "npm@fgribreau.com"
+			},
+			"dist": {
+				"shasum": "3b33a9389bf17f87a9ad39862b47ffd04172e286",
+				"tarball": "https://registry.npmjs.org/requestretry/-/requestretry-1.6.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "fgribreau",
+					"email": "npm@fgribreau.com"
+				}
+			],
+			"directories": {}
+		},
+		"1.7.0": {
+			"name": "requestretry",
+			"description": "request-retry wrap nodejs request to retry http(s) requests in case of error",
+			"version": "1.7.0",
+			"author": {
+				"name": "Francois-Guillaume Ribreau",
+				"email": "npm@fgribreau.com",
+				"url": "http://fgribreau.com"
+			},
+			"contributors": [
+				{
+					"name": "juliendangers",
+					"email": "dev@juliencrestin.com"
+				}
+			],
+			"repository": {
+				"url": "git+https://github.com/FGRibreau/node-request-retry.git"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha test"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"fg-lodash": "0.0.2",
+				"request": "^2.62.x",
+				"when": "~3.7.5"
+			},
+			"devDependencies": {
+				"chai": "^3.2.0",
+				"kew": "~0.7.0",
+				"mocha": "^2.3.0",
+				"nock": "~3.1.0",
+				"q": "~1.4.1",
+				"rsvp": "~3.1.0",
+				"bluebird": "~3.0.5"
+			},
+			"gitHead": "762e15041b6fc5600e460c973db9dc2530928f2d",
+			"bugs": {
+				"url": "https://github.com/FGRibreau/node-request-retry/issues"
+			},
+			"homepage": "https://github.com/FGRibreau/node-request-retry#readme",
+			"_id": "requestretry@1.7.0",
+			"_shasum": "54e9c56f2a4dae86e13ff91dcba238ea4f86ac28",
+			"_from": ".",
+			"_npmVersion": "3.8.3",
+			"_nodeVersion": "5.10.1",
+			"_npmUser": {
+				"name": "fgribreau",
+				"email": "npm@fgribreau.com"
+			},
+			"dist": {
+				"shasum": "54e9c56f2a4dae86e13ff91dcba238ea4f86ac28",
+				"tarball": "https://registry.npmjs.org/requestretry/-/requestretry-1.7.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "fgribreau",
+					"email": "npm@fgribreau.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/requestretry-1.7.0.tgz_1462549981955_0.7528514179866761"
+			},
+			"directories": {}
+		},
+		"1.7.1": {
+			"name": "requestretry",
+			"description": "request-retry wrap nodejs request to retry http(s) requests in case of error",
+			"version": "1.7.1",
+			"author": {
+				"name": "Francois-Guillaume Ribreau",
+				"email": "npm@fgribreau.com",
+				"url": "http://fgribreau.com"
+			},
+			"contributors": [
+				{
+					"name": "juliendangers",
+					"email": "dev@juliencrestin.com"
+				}
+			],
+			"repository": {
+				"url": "git+https://github.com/FGRibreau/node-request-retry.git"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha test",
+				"changelog": "github-changes --o $(node -p 'process.env.npm_package_repository_url.split(\"/\")[3];') --r $(node -p 'a=process.env.npm_package_repository_url.split(\"/\");a[a.length-1].split(\".\")[0]') --token $CHANGELOG_GITHUB_TOKEN_FG -f CHANGELOG.md",
+				"changelog-git": "npm run changelog && git add CHANGELOG.md && git commit -m 'docs(changelog): updated' && git push origin master"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"extend": "^3.0.0",
+				"fg-lodash": "0.0.2",
+				"request": "^2.62.x",
+				"when": "~3.7.5"
+			},
+			"devDependencies": {
+				"bluebird": "~3.0.5",
+				"chai": "^3.2.0",
+				"github-changes": "^1.0.2",
+				"kew": "~0.7.0",
+				"mocha": "^2.3.0",
+				"nock": "~3.1.0",
+				"q": "~1.4.1",
+				"rsvp": "~3.1.0"
+			},
+			"gitHead": "55ab78a92b63309a142f01cd6cb6eac1e3693f7f",
+			"bugs": {
+				"url": "https://github.com/FGRibreau/node-request-retry/issues"
+			},
+			"homepage": "https://github.com/FGRibreau/node-request-retry#readme",
+			"_id": "requestretry@1.7.1",
+			"_shasum": "b49271570b3e9d703a2eaafcb07aafaf7811d5ed",
+			"_from": ".",
+			"_npmVersion": "3.8.3",
+			"_nodeVersion": "5.10.1",
+			"_npmUser": {
+				"name": "fgribreau",
+				"email": "npm@fgribreau.com"
+			},
+			"dist": {
+				"shasum": "b49271570b3e9d703a2eaafcb07aafaf7811d5ed",
+				"tarball": "https://registry.npmjs.org/requestretry/-/requestretry-1.7.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "fgribreau",
+					"email": "npm@fgribreau.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/requestretry-1.7.1.tgz_1462947863915_0.14631893765181303"
+			},
+			"directories": {}
+		},
+		"1.8.0": {
+			"name": "requestretry",
+			"description": "request-retry wrap nodejs request to retry http(s) requests in case of error",
+			"version": "1.8.0",
+			"author": {
+				"name": "Francois-Guillaume Ribreau",
+				"email": "npm@fgribreau.com",
+				"url": "http://fgribreau.com"
+			},
+			"contributors": [
+				{
+					"name": "juliendangers",
+					"email": "dev@juliencrestin.com"
+				}
+			],
+			"repository": {
+				"url": "git+https://github.com/FGRibreau/node-request-retry.git"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha test",
+				"changelog": "github-changes --o $(node -p 'process.env.npm_package_repository_url.split(\"/\")[3];') --r $(node -p 'a=process.env.npm_package_repository_url.split(\"/\");a[a.length-1].split(\".\")[0]') --token $CHANGELOG_GITHUB_TOKEN_FG -f CHANGELOG.md",
+				"changelog-git": "npm run changelog && git add CHANGELOG.md && git commit -m 'docs(changelog): updated' && git push origin master"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"extend": "^3.0.0",
+				"fg-lodash": "0.0.2",
+				"request": "^2.62.x",
+				"when": "~3.7.5"
+			},
+			"devDependencies": {
+				"bluebird": "~3.0.5",
+				"chai": "^3.2.0",
+				"github-changes": "^1.0.2",
+				"kew": "~0.7.0",
+				"mocha": "^2.3.0",
+				"nock": "~3.1.0",
+				"q": "~1.4.1",
+				"rsvp": "~3.1.0"
+			},
+			"gitHead": "6767b497ad0f015bbc87eff65a5f6abd6d9e481e",
+			"bugs": {
+				"url": "https://github.com/FGRibreau/node-request-retry/issues"
+			},
+			"homepage": "https://github.com/FGRibreau/node-request-retry#readme",
+			"_id": "requestretry@1.8.0",
+			"_shasum": "1fa4acbcdf7f118a7b1c144bf4c0d8e14341d643",
+			"_from": ".",
+			"_npmVersion": "3.8.3",
+			"_nodeVersion": "5.10.1",
+			"_npmUser": {
+				"name": "fgribreau",
+				"email": "npm@fgribreau.com"
+			},
+			"dist": {
+				"shasum": "1fa4acbcdf7f118a7b1c144bf4c0d8e14341d643",
+				"tarball": "https://registry.npmjs.org/requestretry/-/requestretry-1.8.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "fgribreau",
+					"email": "npm@fgribreau.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/requestretry-1.8.0.tgz_1462947966315_0.6624281841795892"
+			},
+			"directories": {}
+		},
+		"1.9.0": {
+			"name": "requestretry",
+			"description": "request-retry wrap nodejs request to retry http(s) requests in case of error",
+			"version": "1.9.0",
+			"author": {
+				"name": "Francois-Guillaume Ribreau",
+				"email": "npm@fgribreau.com",
+				"url": "http://fgribreau.com"
+			},
+			"contributors": [
+				{
+					"name": "juliendangers",
+					"email": "dev@juliencrestin.com"
+				}
+			],
+			"repository": {
+				"url": "git+https://github.com/FGRibreau/node-request-retry.git"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha test",
+				"changelog": "github-changes --o $(node -p 'process.env.npm_package_repository_url.split(\"/\")[3];') --r $(node -p 'a=process.env.npm_package_repository_url.split(\"/\");a[a.length-1].split(\".\")[0]') --token $CHANGELOG_GITHUB_TOKEN_FG -f CHANGELOG.md",
+				"changelog-git": "npm run changelog && git add CHANGELOG.md && git commit -m 'docs(changelog): updated' && git push origin master"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"extend": "^3.0.0",
+				"fg-lodash": "0.0.2",
+				"request": "^2.62.x",
+				"when": "~3.7.5"
+			},
+			"devDependencies": {
+				"bluebird": "~3.0.5",
+				"chai": "^3.2.0",
+				"github-changes": "^1.0.2",
+				"kew": "~0.7.0",
+				"mocha": "^2.3.0",
+				"nock": "~3.1.0",
+				"q": "~1.4.1",
+				"rsvp": "~3.1.0"
+			},
+			"gitHead": "5bdee742e01b555fc8a538f5fce3d2b459ade9b6",
+			"bugs": {
+				"url": "https://github.com/FGRibreau/node-request-retry/issues"
+			},
+			"homepage": "https://github.com/FGRibreau/node-request-retry#readme",
+			"_id": "requestretry@1.9.0",
+			"_shasum": "8f44d66e53957f3b3d53543f1fd44d12f1fa0fd9",
+			"_from": ".",
+			"_npmVersion": "2.11.3",
+			"_nodeVersion": "0.12.7",
+			"_npmUser": {
+				"name": "fgribreau",
+				"email": "npm@fgribreau.com"
+			},
+			"dist": {
+				"shasum": "8f44d66e53957f3b3d53543f1fd44d12f1fa0fd9",
+				"tarball": "https://registry.npmjs.org/requestretry/-/requestretry-1.9.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "fgribreau",
+					"email": "npm@fgribreau.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/requestretry-1.9.0.tgz_1466622694602_0.6649378426373005"
+			},
+			"directories": {}
+		},
+		"1.9.1": {
+			"name": "requestretry",
+			"description": "request-retry wrap nodejs request to retry http(s) requests in case of error",
+			"version": "1.9.1",
+			"author": {
+				"name": "Francois-Guillaume Ribreau",
+				"email": "npm@fgribreau.com",
+				"url": "http://fgribreau.com"
+			},
+			"contributors": [
+				{
+					"name": "juliendangers",
+					"email": "dev@juliencrestin.com"
+				}
+			],
+			"repository": {
+				"url": "https://github.com/FGRibreau/node-request-retry"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha test",
+				"changelog-init": "conventional-changelog -i CHANGELOG.md -s -r 0",
+				"changelog": "conventional-changelog -i CHANGELOG.md -s",
+				"changelog-git": "npm run changelog && git add CHANGELOG.md && git commit -m 'docs(changelog): updated' && git push origin master"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"extend": "^3.0.0",
+				"fg-lodash": "0.0.2",
+				"request": "^2.74.x",
+				"when": "~3.7.5"
+			},
+			"devDependencies": {
+				"bluebird": "~3.0.5",
+				"chai": "^3.2.0",
+				"conventional-changelog": "^1.1.0",
+				"conventional-changelog-cli": "^1.2.0",
+				"kew": "~0.7.0",
+				"mocha": "^2.3.0",
+				"nock": "~3.1.0",
+				"q": "~1.4.1",
+				"rsvp": "~3.1.0"
+			},
+			"gitHead": "852e81c8ea5b6f4309123065e6517eddfafff7ec",
+			"bugs": {
+				"url": "https://github.com/FGRibreau/node-request-retry/issues"
+			},
+			"homepage": "https://github.com/FGRibreau/node-request-retry",
+			"_id": "requestretry@1.9.1",
+			"_shasum": "0a2a004eaf211969c4cc2cfebf3fe9e57b92c74e",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "fgribreau",
+				"email": "npm@fgribreau.com"
+			},
+			"maintainers": [
+				{
+					"name": "fgribreau",
+					"email": "npm@fgribreau.com"
+				}
+			],
+			"dist": {
+				"shasum": "0a2a004eaf211969c4cc2cfebf3fe9e57b92c74e",
+				"tarball": "https://registry.npmjs.org/requestretry/-/requestretry-1.9.1.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/requestretry-1.9.1.tgz_1469812225141_0.7890794929116964"
+			},
+			"directories": {}
+		},
+		"1.10.0": {
+			"name": "requestretry",
+			"description": "request-retry wrap nodejs request to retry http(s) requests in case of error",
+			"version": "1.10.0",
+			"author": {
+				"name": "Francois-Guillaume Ribreau",
+				"email": "npm@fgribreau.com",
+				"url": "http://fgribreau.com"
+			},
+			"contributors": [
+				{
+					"name": "juliendangers",
+					"email": "dev@juliencrestin.com"
+				}
+			],
+			"repository": {
+				"url": "git+https://github.com/FGRibreau/node-request-retry.git"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha test",
+				"update": "updtr",
+				"changelog-init": "conventional-changelog -i CHANGELOG.md -s -r 0",
+				"changelog": "conventional-changelog -i CHANGELOG.md -s",
+				"changelog-git": "npm run changelog && git add CHANGELOG.md && git commit -m 'docs(changelog): updated' && git push origin master"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"extend": "^3.0.0",
+				"fg-lodash": "0.0.2",
+				"request": "^2.74.0",
+				"when": "~3.7.5"
+			},
+			"devDependencies": {
+				"bluebird": "^3.4.1",
+				"chai": "^3.2.0",
+				"conventional-changelog": "^1.1.0",
+				"conventional-changelog-cli": "^1.2.0",
+				"kew": "~0.7.0",
+				"mocha": "^3.0.2",
+				"nock": "^8.0.0",
+				"q": "~1.4.1",
+				"rsvp": "^3.2.1",
+				"updtr": "^0.2.1"
+			},
+			"gitHead": "b1fbef59ecd5ad9fdf64f9f2632020c206464099",
+			"bugs": {
+				"url": "https://github.com/FGRibreau/node-request-retry/issues"
+			},
+			"homepage": "https://github.com/FGRibreau/node-request-retry#readme",
+			"_id": "requestretry@1.10.0",
+			"_shasum": "39c26d1aad3769cd40eae58ac8cc3a8792da09d9",
+			"_from": ".",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "fgribreau",
+				"email": "npm@fgribreau.com"
+			},
+			"dist": {
+				"shasum": "39c26d1aad3769cd40eae58ac8cc3a8792da09d9",
+				"tarball": "https://registry.npmjs.org/requestretry/-/requestretry-1.10.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "fgribreau",
+					"email": "npm@fgribreau.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/requestretry-1.10.0.tgz_1471533014358_0.539109795121476"
+			},
+			"directories": {}
+		},
+		"1.11.0": {
+			"name": "requestretry",
+			"description": "request-retry wrap nodejs request to retry http(s) requests in case of error",
+			"version": "1.11.0",
+			"author": {
+				"name": "Francois-Guillaume Ribreau",
+				"email": "npm@fgribreau.com",
+				"url": "http://fgribreau.com"
+			},
+			"contributors": [
+				{
+					"name": "juliendangers",
+					"email": "dev@juliencrestin.com"
+				}
+			],
+			"repository": {
+				"url": "git+https://github.com/FGRibreau/node-request-retry.git"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha -t 1000 -R spec $(find test -name '*.test.js')",
+				"test-watch": "mocha -t 100000 -R min -w $(find test -name '*.test.js')",
+				"test-coverage": "nyc --all --statements=100 --lines=100 --functions=100 --branches=100 --check-coverage --reporter=lcov --reporter=cobertura --report-dir=coverage -- mocha -R spec -t 100000  $(find test -name '*.test.js')",
+				"send-coverage": "cat ./coverage/lcov.info | coveralls",
+				"update": "updtr",
+				"changelog": "conventional-changelog -i CHANGELOG.md -s -r 0",
+				"changelog-git": "npm run changelog && git add CHANGELOG.md && git commit -m 'docs(changelog): updated' && git push origin master"
+			},
+			"license": "MIT",
+			"nyc": {
+				"exclude": [
+					"node_modules",
+					"dist",
+					"coverage",
+					"webpack.config.js",
+					"test"
+				]
+			},
+			"dependencies": {
+				"extend": "^3.0.0",
+				"lodash": "^4.15.0",
+				"request": "^2.74.0",
+				"when": "^3.7.7"
+			},
+			"devDependencies": {
+				"bluebird": "^3.4.6",
+				"chai": "^3.2.0",
+				"conventional-changelog": "^1.1.0",
+				"conventional-changelog-cli": "^1.2.0",
+				"coveralls": "^2.11.12",
+				"kew": "~0.7.0",
+				"mocha": "^3.0.2",
+				"nyc": "^8.1.0",
+				"q": "~1.4.1",
+				"rsvp": "^3.2.1",
+				"updtr": "^0.2.1"
+			},
+			"gitHead": "560e4026095d3326438b75cf8d73ec75230c78d1",
+			"bugs": {
+				"url": "https://github.com/FGRibreau/node-request-retry/issues"
+			},
+			"homepage": "https://github.com/FGRibreau/node-request-retry#readme",
+			"_id": "requestretry@1.11.0",
+			"_shasum": "a4b1c185f664717365a57bad63cba074de8fefc7",
+			"_from": ".",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "fgribreau",
+				"email": "npm@fgribreau.com"
+			},
+			"dist": {
+				"shasum": "a4b1c185f664717365a57bad63cba074de8fefc7",
+				"tarball": "https://registry.npmjs.org/requestretry/-/requestretry-1.11.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "fgribreau",
+					"email": "npm@fgribreau.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/requestretry-1.11.0.tgz_1472921751341_0.585861963685602"
+			},
+			"directories": {}
+		},
+		"1.12.0": {
+			"name": "requestretry",
+			"description": "request-retry wrap nodejs request to retry http(s) requests in case of error",
+			"version": "1.12.0",
+			"author": {
+				"name": "Francois-Guillaume Ribreau",
+				"email": "npm@fgribreau.com",
+				"url": "http://fgribreau.com"
+			},
+			"contributors": [
+				{
+					"name": "juliendangers",
+					"email": "dev@juliencrestin.com"
+				},
+				{
+					"name": "Osbert Orr",
+					"email": "dev@osbert.net"
+				}
+			],
+			"repository": {
+				"url": "git+https://github.com/FGRibreau/node-request-retry.git"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha -t 2000 -R spec $(find test -name '*.test.js')",
+				"test-watch": "mocha -t 100000 -R min -w $(find test -name '*.test.js')",
+				"test-coverage": "nyc --all --statements=100 --lines=100 --functions=100 --branches=100 --check-coverage --reporter=lcov --reporter=cobertura --report-dir=coverage -- mocha -R spec -t 100000  $(find test -name '*.test.js')",
+				"send-coverage": "cat ./coverage/lcov.info | coveralls",
+				"update": "updtr",
+				"changelog": "conventional-changelog -i CHANGELOG.md -s -r 0",
+				"changelog-git": "npm run changelog && git add CHANGELOG.md && git commit -m 'docs(changelog): updated' && git push origin master"
+			},
+			"license": "MIT",
+			"nyc": {
+				"exclude": [
+					"node_modules",
+					"dist",
+					"coverage",
+					"webpack.config.js",
+					"test"
+				]
+			},
+			"dependencies": {
+				"extend": "^3.0.0",
+				"lodash": "^4.15.0",
+				"request": "^2.74.0",
+				"when": "^3.7.7"
+			},
+			"devDependencies": {
+				"bluebird": "^3.4.6",
+				"chai": "^3.2.0",
+				"conventional-changelog": "^1.1.0",
+				"conventional-changelog-cli": "^1.2.0",
+				"coveralls": "^2.11.12",
+				"kew": "~0.7.0",
+				"mocha": "^3.0.2",
+				"nyc": "^8.1.0",
+				"q": "~1.4.1",
+				"rsvp": "^3.2.1",
+				"sinon": "1.17.5",
+				"updtr": "^0.2.1"
+			},
+			"gitHead": "aef934cb31c0ecdffae069a5a84e5a3df526806f",
+			"bugs": {
+				"url": "https://github.com/FGRibreau/node-request-retry/issues"
+			},
+			"homepage": "https://github.com/FGRibreau/node-request-retry#readme",
+			"_id": "requestretry@1.12.0",
+			"_shasum": "7f10a2cd0edb7e43bf9a8b6cbfeda202fb320860",
+			"_from": ".",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "fgribreau",
+				"email": "npm@fgribreau.com"
+			},
+			"dist": {
+				"shasum": "7f10a2cd0edb7e43bf9a8b6cbfeda202fb320860",
+				"tarball": "https://registry.npmjs.org/requestretry/-/requestretry-1.12.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "fgribreau",
+					"email": "npm@fgribreau.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/requestretry-1.12.0.tgz_1473236064838_0.20453642634674907"
+			},
+			"directories": {}
+		},
+		"1.12.2": {
+			"name": "requestretry",
+			"description": "request-retry wrap nodejs request to retry http(s) requests in case of error",
+			"version": "1.12.2",
+			"author": {
+				"name": "Francois-Guillaume Ribreau",
+				"email": "npm@fgribreau.com",
+				"url": "http://fgribreau.com"
+			},
+			"contributors": [
+				{
+					"name": "juliendangers",
+					"email": "dev@juliencrestin.com"
+				},
+				{
+					"name": "Osbert Orr",
+					"email": "dev@osbert.net"
+				}
+			],
+			"repository": {
+				"url": "git+https://github.com/FGRibreau/node-request-retry.git"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha -t 2000 -R spec $(find test -name '*.test.js')",
+				"test-watch": "mocha -t 100000 -R min -w $(find test -name '*.test.js')",
+				"test-coverage": "nyc --all --statements=100 --lines=100 --functions=100 --branches=100 --check-coverage --reporter=lcov --reporter=cobertura --report-dir=coverage -- mocha -R spec -t 100000  $(find test -name '*.test.js')",
+				"send-coverage": "cat ./coverage/lcov.info | coveralls",
+				"update": "updtr",
+				"changelog": "conventional-changelog -i CHANGELOG.md -s -r 0",
+				"changelog-git": "npm run changelog && git add CHANGELOG.md && git commit -m 'docs(changelog): updated' && git push origin master"
+			},
+			"license": "MIT",
+			"nyc": {
+				"exclude": [
+					"node_modules",
+					"dist",
+					"coverage",
+					"webpack.config.js",
+					"test"
+				]
+			},
+			"dependencies": {
+				"extend": "^3.0.0",
+				"lodash": "^4.15.0",
+				"request": "^2.74.0",
+				"when": "^3.7.7"
+			},
+			"devDependencies": {
+				"bluebird": "^3.4.6",
+				"chai": "^3.2.0",
+				"conventional-changelog": "^1.1.0",
+				"conventional-changelog-cli": "^1.2.0",
+				"coveralls": "^2.11.12",
+				"kew": "~0.7.0",
+				"mocha": "^3.0.2",
+				"nyc": "^10.0.0",
+				"q": "~1.4.1",
+				"rsvp": "^3.2.1",
+				"sinon": "1.17.6",
+				"updtr": "^0.2.1"
+			},
+			"gitHead": "eba306c594f6ab2729221615c099a35ca2e70015",
+			"bugs": {
+				"url": "https://github.com/FGRibreau/node-request-retry/issues"
+			},
+			"homepage": "https://github.com/FGRibreau/node-request-retry#readme",
+			"_id": "requestretry@1.12.2",
+			"_npmVersion": "5.3.0",
+			"_nodeVersion": "8.1.4",
+			"_npmUser": {
+				"name": "fgribreau",
+				"email": "npm@fgribreau.com"
+			},
+			"dist": {
+				"integrity": "sha512-wDYnH4imurLs5upu31WoPaOFfEu31qhFlF7KgpYbBsmBagFmreZZo8E/XpoQ3erCP5za+72t8k8QI4wlrtwVXw==",
+				"shasum": "13ce38a4ce4e809f3c9ec6d4ca3b7b9ba4acf26c",
+				"tarball": "https://registry.npmjs.org/requestretry/-/requestretry-1.12.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "fgribreau",
+					"email": "npm@fgribreau.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/requestretry-1.12.2.tgz_1501574128858_0.560437188250944"
+			},
+			"directories": {}
+		},
+		"1.12.3": {
+			"name": "requestretry",
+			"description": "request-retry wrap nodejs request to retry http(s) requests in case of error",
+			"version": "1.12.3",
+			"author": {
+				"name": "Francois-Guillaume Ribreau",
+				"email": "npm@fgribreau.com",
+				"url": "http://fgribreau.com"
+			},
+			"contributors": [
+				{
+					"name": "juliendangers",
+					"email": "dev@juliencrestin.com"
+				},
+				{
+					"name": "Osbert Orr",
+					"email": "dev@osbert.net"
+				}
+			],
+			"repository": {
+				"url": "git+https://github.com/FGRibreau/node-request-retry.git"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha -t 2000 -R spec $(find test -name '*.test.js')",
+				"test-watch": "mocha -t 100000 -R min -w $(find test -name '*.test.js')",
+				"test-coverage": "nyc --all --statements=100 --lines=100 --functions=100 --branches=100 --check-coverage --reporter=lcov --reporter=cobertura --report-dir=coverage -- mocha -R spec -t 100000  $(find test -name '*.test.js')",
+				"send-coverage": "cat ./coverage/lcov.info | coveralls",
+				"update": "updtr",
+				"changelog": "conventional-changelog -i CHANGELOG.md -s -r 0",
+				"changelog-git": "npm run changelog && git add CHANGELOG.md && git commit -m 'docs(changelog): updated' && git push origin master"
+			},
+			"license": "MIT",
+			"nyc": {
+				"exclude": [
+					"node_modules",
+					"dist",
+					"coverage",
+					"webpack.config.js",
+					"test"
+				]
+			},
+			"dependencies": {
+				"extend": "^3.0.0",
+				"lodash": "^4.15.0",
+				"request": "^2.74.0",
+				"when": "^3.7.7"
+			},
+			"devDependencies": {
+				"bluebird": "^3.4.6",
+				"chai": "^3.2.0",
+				"conventional-changelog": "^1.1.0",
+				"conventional-changelog-cli": "^1.2.0",
+				"coveralls": "^2.11.12",
+				"kew": "~0.7.0",
+				"mocha": "^3.0.2",
+				"nyc": "^10.0.0",
+				"q": "~1.4.1",
+				"rsvp": "^3.2.1",
+				"sinon": "1.17.6",
+				"updtr": "^0.2.1"
+			},
+			"gitHead": "57bb3d8c7eac814330786198111dfe1daf52672d",
+			"bugs": {
+				"url": "https://github.com/FGRibreau/node-request-retry/issues"
+			},
+			"homepage": "https://github.com/FGRibreau/node-request-retry#readme",
+			"_id": "requestretry@1.12.3",
+			"_npmVersion": "5.3.0",
+			"_nodeVersion": "8.1.4",
+			"_npmUser": {
+				"name": "fgribreau",
+				"email": "npm@fgribreau.com"
+			},
+			"dist": {
+				"integrity": "sha512-3H5xTOfORJGSDWV0WZYWLt39tqFyW19V+joQqsKvbbIR1AfJo8b1PDYlSYBoC5jPvmQcG0ZS0DkAKF23mChTow==",
+				"shasum": "af34d696a7cb7bcbec61b56c539295d4e6088235",
+				"tarball": "https://registry.npmjs.org/requestretry/-/requestretry-1.12.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "fgribreau",
+					"email": "npm@fgribreau.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/requestretry-1.12.3.tgz_1516270399168_0.04993642191402614"
+			},
+			"directories": {}
+		},
+		"1.13.0": {
+			"name": "requestretry",
+			"description": "request-retry wrap nodejs request to retry http(s) requests in case of error",
+			"version": "1.13.0",
+			"author": {
+				"name": "Francois-Guillaume Ribreau",
+				"email": "npm@fgribreau.com",
+				"url": "http://fgribreau.com"
+			},
+			"contributors": [
+				{
+					"name": "juliendangers",
+					"email": "dev@juliencrestin.com"
+				},
+				{
+					"name": "Osbert Orr",
+					"email": "dev@osbert.net"
+				}
+			],
+			"repository": {
+				"url": "git+https://github.com/FGRibreau/node-request-retry.git"
+			},
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha -t 2000 -R spec $(find test -name '*.test.js')",
+				"test-watch": "mocha -t 100000 -R min -w $(find test -name '*.test.js')",
+				"test-coverage": "nyc --all --statements=100 --lines=100 --functions=100 --branches=100 --check-coverage --reporter=lcov --reporter=cobertura --report-dir=coverage -- mocha -R spec -t 100000  $(find test -name '*.test.js')",
+				"send-coverage": "cat ./coverage/lcov.info | coveralls",
+				"update": "updtr",
+				"changelog": "conventional-changelog -i CHANGELOG.md -s -r 0",
+				"changelog-git": "npm run changelog && git add CHANGELOG.md && git commit -m 'docs(changelog): updated' && git push origin master",
+				"postpublish": "npm run --silent changelog-git"
+			},
+			"license": "MIT",
+			"nyc": {
+				"exclude": [
+					"node_modules",
+					"dist",
+					"coverage",
+					"webpack.config.js",
+					"test"
+				]
+			},
+			"dependencies": {
+				"extend": "^3.0.0",
+				"lodash": "^4.15.0",
+				"request": "^2.74.0",
+				"when": "^3.7.7"
+			},
+			"devDependencies": {
+				"bluebird": "^3.4.6",
+				"chai": "^3.2.0",
+				"conventional-changelog": "^1.1.0",
+				"conventional-changelog-cli": "^1.2.0",
+				"coveralls": "^2.11.12",
+				"kew": "~0.7.0",
+				"mocha": "^3.0.2",
+				"nyc": "^10.0.0",
+				"q": "~1.4.1",
+				"rsvp": "^3.2.1",
+				"sinon": "1.17.6",
+				"updtr": "^0.2.1"
+			},
+			"gitHead": "83829111c751478824dfeee8283ca2f6c9d6aca6",
+			"bugs": {
+				"url": "https://github.com/FGRibreau/node-request-retry/issues"
+			},
+			"homepage": "https://github.com/FGRibreau/node-request-retry#readme",
+			"_id": "requestretry@1.13.0",
+			"_npmVersion": "5.3.0",
+			"_nodeVersion": "8.1.4",
+			"_npmUser": {
+				"name": "fgribreau",
+				"email": "npm@fgribreau.com"
+			},
+			"dist": {
+				"integrity": "sha512-Lmh9qMvnQXADGAQxsXHP4rbgO6pffCfuR8XUBdP9aitJcLQJxhp7YZK4xAVYXnPJ5E52mwrfiKQtKonPL8xsmg==",
+				"shasum": "213ec1006eeb750e8b8ce54176283d15a8d55d94",
+				"tarball": "https://registry.npmjs.org/requestretry/-/requestretry-1.13.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "fgribreau",
+					"email": "npm@fgribreau.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/requestretry-1.13.0.tgz_1516271235648_0.5052908672951162"
+			},
+			"directories": {}
+		}
+	},
+	"dist-tags": {
+		"latest": "1.13.0"
+	},
+	"time": {
+		"modified": "2018-01-18T10:27:16.918Z",
+		"created": "2014-03-23T17:53:15.365Z",
+		"0.0.1": "2014-03-23T17:53:18.618Z",
+		"1.0.0": "2014-03-26T11:48:51.101Z",
+		"1.0.1": "2014-07-07T12:37:03.190Z",
+		"1.0.2": "2014-09-19T10:06:47.267Z",
+		"1.0.3": "2014-09-23T14:00:53.533Z",
+		"1.0.4": "2014-09-30T10:01:18.910Z",
+		"1.1.0": "2014-10-27T17:45:59.347Z",
+		"1.2.0": "2014-11-03T14:18:45.632Z",
+		"1.2.1": "2014-11-10T12:23:59.955Z",
+		"1.2.2": "2015-01-03T17:55:12.067Z",
+		"1.3.0": "2015-05-06T19:53:55.382Z",
+		"1.3.1": "2015-05-06T19:58:19.936Z",
+		"1.4.0": "2015-07-16T11:24:47.076Z",
+		"1.4.1": "2015-09-21T06:35:37.869Z",
+		"1.5.0": "2015-09-24T06:38:11.638Z",
+		"1.6.0": "2015-12-25T11:18:15.396Z",
+		"1.7.0": "2016-05-06T15:53:04.719Z",
+		"1.7.1": "2016-05-11T06:24:26.369Z",
+		"1.8.0": "2016-05-11T06:26:07.587Z",
+		"1.9.0": "2016-06-22T19:11:36.748Z",
+		"1.9.1": "2016-07-29T17:10:28.112Z",
+		"1.10.0": "2016-08-18T15:10:15.187Z",
+		"1.11.0": "2016-09-03T16:55:53.981Z",
+		"1.12.0": "2016-09-07T08:14:26.009Z",
+		"1.12.2": "2017-08-01T07:55:29.882Z",
+		"1.12.3": "2018-01-18T10:13:19.273Z",
+		"1.13.0": "2018-01-18T10:27:16.918Z"
+	},
+	"_distfiles": {
+		"requestretry-0.0.1.tgz": {
+			"url": "https://registry.npmjs.org/requestretry/-/requestretry-0.0.1.tgz",
+			"sha": "4d1d9ce7178ee5be50a48ea0f0fd06d321d293d9",
+			"registry": "npmjs"
+		},
+		"requestretry-1.0.0.tgz": {
+			"url": "https://registry.npmjs.org/requestretry/-/requestretry-1.0.0.tgz",
+			"sha": "f24f0347502653fb4c1604b5c18511a65f142f9b",
+			"registry": "npmjs"
+		},
+		"requestretry-1.0.1.tgz": {
+			"url": "https://registry.npmjs.org/requestretry/-/requestretry-1.0.1.tgz",
+			"sha": "cfa8c20d6e65a59ba56f66a0055aeda0137639d5",
+			"registry": "npmjs"
+		},
+		"requestretry-1.0.2.tgz": {
+			"url": "https://registry.npmjs.org/requestretry/-/requestretry-1.0.2.tgz",
+			"sha": "a090699ecc293086bf49bf5ca9cc7c5d5f4f4eda",
+			"registry": "npmjs"
+		},
+		"requestretry-1.0.3.tgz": {
+			"url": "https://registry.npmjs.org/requestretry/-/requestretry-1.0.3.tgz",
+			"sha": "f81ca504dbc0a75c15b49beb0d6f7ce45fbb7a8c",
+			"registry": "npmjs"
+		},
+		"requestretry-1.0.4.tgz": {
+			"url": "https://registry.npmjs.org/requestretry/-/requestretry-1.0.4.tgz",
+			"sha": "60c66dc163b63ad98d759b718429d52d65cdc955",
+			"registry": "npmjs"
+		},
+		"requestretry-1.1.0.tgz": {
+			"url": "https://registry.npmjs.org/requestretry/-/requestretry-1.1.0.tgz",
+			"sha": "df1a0c321d1cb49ca6f9d84dd5f6a5e76cafa351",
+			"registry": "npmjs"
+		},
+		"requestretry-1.2.0.tgz": {
+			"url": "https://registry.npmjs.org/requestretry/-/requestretry-1.2.0.tgz",
+			"sha": "d9c2d3e56e49caa86c7558f76f7f18a23f8fd243",
+			"registry": "npmjs"
+		},
+		"requestretry-1.2.1.tgz": {
+			"url": "https://registry.npmjs.org/requestretry/-/requestretry-1.2.1.tgz",
+			"sha": "0b3b48f192ec238ce883b895b4ccd0a161293b5c",
+			"registry": "npmjs"
+		},
+		"requestretry-1.2.2.tgz": {
+			"url": "https://registry.npmjs.org/requestretry/-/requestretry-1.2.2.tgz",
+			"sha": "4b7daaf47330ccdfcae414e90b882eb6900e7983",
+			"registry": "npmjs"
+		},
+		"requestretry-1.3.0.tgz": {
+			"url": "https://registry.npmjs.org/requestretry/-/requestretry-1.3.0.tgz",
+			"sha": "064bad0fa6c6371c7f0d7bd0105d8e38ad6b412a",
+			"registry": "npmjs"
+		},
+		"requestretry-1.3.1.tgz": {
+			"url": "https://registry.npmjs.org/requestretry/-/requestretry-1.3.1.tgz",
+			"sha": "bcaf38a5b8b7c1caf0d4b0da21af0d5020f4dea4",
+			"registry": "npmjs"
+		},
+		"requestretry-1.4.0.tgz": {
+			"url": "https://registry.npmjs.org/requestretry/-/requestretry-1.4.0.tgz",
+			"sha": "839f7cad8458562eee01680d27452e9f85e16582",
+			"registry": "npmjs"
+		},
+		"requestretry-1.4.1.tgz": {
+			"url": "https://registry.npmjs.org/requestretry/-/requestretry-1.4.1.tgz",
+			"sha": "f20a0e78a0ae2dd7ae6dcfe58dd0c64aef52f7c2",
+			"registry": "npmjs"
+		},
+		"requestretry-1.5.0.tgz": {
+			"url": "https://registry.npmjs.org/requestretry/-/requestretry-1.5.0.tgz",
+			"sha": "ed157bba53526edeb3ec32a8e704a4998bece627",
+			"registry": "npmjs"
+		},
+		"requestretry-1.6.0.tgz": {
+			"url": "https://registry.npmjs.org/requestretry/-/requestretry-1.6.0.tgz",
+			"sha": "3b33a9389bf17f87a9ad39862b47ffd04172e286",
+			"registry": "npmjs"
+		},
+		"requestretry-1.7.0.tgz": {
+			"url": "https://registry.npmjs.org/requestretry/-/requestretry-1.7.0.tgz",
+			"sha": "54e9c56f2a4dae86e13ff91dcba238ea4f86ac28",
+			"registry": "npmjs"
+		},
+		"requestretry-1.7.1.tgz": {
+			"url": "https://registry.npmjs.org/requestretry/-/requestretry-1.7.1.tgz",
+			"sha": "b49271570b3e9d703a2eaafcb07aafaf7811d5ed",
+			"registry": "npmjs"
+		},
+		"requestretry-1.8.0.tgz": {
+			"url": "https://registry.npmjs.org/requestretry/-/requestretry-1.8.0.tgz",
+			"sha": "1fa4acbcdf7f118a7b1c144bf4c0d8e14341d643",
+			"registry": "npmjs"
+		},
+		"requestretry-1.9.0.tgz": {
+			"url": "https://registry.npmjs.org/requestretry/-/requestretry-1.9.0.tgz",
+			"sha": "8f44d66e53957f3b3d53543f1fd44d12f1fa0fd9",
+			"registry": "npmjs"
+		},
+		"requestretry-1.9.1.tgz": {
+			"url": "https://registry.npmjs.org/requestretry/-/requestretry-1.9.1.tgz",
+			"sha": "0a2a004eaf211969c4cc2cfebf3fe9e57b92c74e",
+			"registry": "npmjs"
+		},
+		"requestretry-1.10.0.tgz": {
+			"url": "https://registry.npmjs.org/requestretry/-/requestretry-1.10.0.tgz",
+			"sha": "39c26d1aad3769cd40eae58ac8cc3a8792da09d9",
+			"registry": "npmjs"
+		},
+		"requestretry-1.11.0.tgz": {
+			"url": "https://registry.npmjs.org/requestretry/-/requestretry-1.11.0.tgz",
+			"sha": "a4b1c185f664717365a57bad63cba074de8fefc7",
+			"registry": "npmjs"
+		},
+		"requestretry-1.12.0.tgz": {
+			"url": "https://registry.npmjs.org/requestretry/-/requestretry-1.12.0.tgz",
+			"sha": "7f10a2cd0edb7e43bf9a8b6cbfeda202fb320860",
+			"registry": "npmjs"
+		},
+		"requestretry-1.12.2.tgz": {
+			"url": "https://registry.npmjs.org/requestretry/-/requestretry-1.12.2.tgz",
+			"sha": "13ce38a4ce4e809f3c9ec6d4ca3b7b9ba4acf26c",
+			"registry": "npmjs"
+		},
+		"requestretry-1.12.3.tgz": {
+			"url": "https://registry.npmjs.org/requestretry/-/requestretry-1.12.3.tgz",
+			"sha": "af34d696a7cb7bcbec61b56c539295d4e6088235",
+			"registry": "npmjs"
+		},
+		"requestretry-1.13.0.tgz": {
+			"url": "https://registry.npmjs.org/requestretry/-/requestretry-1.13.0.tgz",
+			"sha": "213ec1006eeb750e8b8ce54176283d15a8d55d94",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {
+		"requestretry-1.13.0.tgz": {
+			"shasum": "213ec1006eeb750e8b8ce54176283d15a8d55d94"
+		}
+	},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "\"5a607684-c451\"",
+			"fetched": 1519912115806
+		}
+	},
+	"_rev": "7-39cf325cabe454cb",
+	"readme": "<div align=\"center\">\n  <br><p><strong>request-retry</strong> - HTTP(s) request retry on recoverable errors.</p>\n</div>\n\n------------------------------------------------\n\n[![Build Status](https://img.shields.io/circleci/project/FGRibreau/node-request-retry.svg)](https://circleci.com/gh/FGRibreau/node-request-retry/) [![Coverage Status](https://img.shields.io/coveralls/FGRibreau/node-request-retry/master.svg)](https://coveralls.io/github/FGRibreau/node-request-retry?branch=master) [![Deps](\thttps://img.shields.io/david/FGRibreau/node-request-retry.svg)](https://david-dm.org/FGRibreau/node-request-retry) [![NPM version](https://img.shields.io/npm/v/requestretry.svg)](http://badge.fury.io/js/requestretry) [![Downloads](http://img.shields.io/npm/dm/requestretry.svg)](https://www.npmjs.com/package/requestretry)\n\n[![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/francois-guillaume-ribreau?utm_source=github&utm_medium=button&utm_term=francois-guillaume-ribreau&utm_campaign=github)  [![available-for-advisory](https://img.shields.io/badge/available%20for%20consulting%20advisory-yes-ff69b4.svg?)](http://bit.ly/2c7uFJq) ![extra](https://img.shields.io/badge/actively%20maintained-yes-ff69b4.svg)\n\n![NPM](https://nodei.co/npm/requestretry.png?downloadRank=true) ![NPM](https://nodei.co/npm-dl/requestretry.png?months=3&height=2)\n\nWhen the connection fails with one of `ECONNRESET`, `ENOTFOUND`, `ESOCKETTIMEDOUT`, `ETIMEDOUT`, `ECONNREFUSED`, `EHOSTUNREACH`, `EPIPE`, `EAI_AGAIN` or when an HTTP 5xx error occurrs, the request will automatically be re-attempted as these are often recoverable errors and will go away on retry.\n\n\n> ## ❤️ Shameless plug\n> - [**Charts, simple as a URL**. No more server-side rendering pain, 1 url = 1 chart](https://image-charts.com)\n> - [Looking for a free **Redis GUI**?](http://redsmin.com) [Or for **real-time alerting** & monitoring for Redis?](http://redsmin.com)\n\n## Installation\n\nInstall with [npm](https://npmjs.org/package/requestretry).\n\n    npm install --save requestretry\n\n## Usage\n\nRequest-retry is a drop-in replacement for [request](https://github.com/mikeal/request) but adds two new options `maxAttempts` and `retryDelay`. It also adds one property to the response (or the error object, upon a network error), `attempts`. It supports callbacks or promises.\n\n### With callbacks\n\n```javascript\nvar request = require('requestretry');\n\nrequest({\n  url: 'https://api.domain.com/v1/a/b',\n  json: true,\n\n  // The below parameters are specific to request-retry\n  maxAttempts: 5,   // (default) try 5 times\n  retryDelay: 5000,  // (default) wait for 5s before trying again\n  retryStrategy: request.RetryStrategies.HTTPOrNetworkError // (default) retry on 5xx or network errors\n}, function(err, response, body){\n  // this callback will only be called when the request succeeded or after maxAttempts or on error\n  if (response) {\n    console.log('The number of request attempts: ' + response.attempts);\n  }\n});\n```\n\n### With promises\n\nWhen you're using promises, you can pass the two following options:\n- `fullResponse` _(default true)_ - To resolve the promise with the full response or just the body\n- `promiseFactory` _(default whenjs)_ - A function to allow the usage of a different promise implementation library\n\n```javascript\nrequest({\n  url: 'https://api.domain.com/v1/a/b',\n  json: true,\n\n  fullResponse: true // (default) To resolve the promise with the full response or just the body\n})\n.then(function (response) {\n  // response = The full response object or just the body\n})\n.catch(function(error) {\n  // error = Any occurred error\n})\n```\n\n**Using `promiseFactory` option to use a different promise implementation library**\n\n```javascript\n// See the tests for different libraries usage examples\n\n/**\n * @param  {Function} resolver The promise resolver function\n * @return {Object} The promise instance\n */\nfunction customPromiseFactory(resolver) {\n  // With when.js\n  return require('when').promise(resolver);\n\n  // With RSVP.js\n  var Promise = require('rsvp').Promise;\n\n  return new Promise(resolver);\n}\n\nrequest({\n  url: 'https://api.domain.com/v1/a/b',\n  json: true,\n\n  // Custom promise factory function\n  promiseFactory: customPromiseFactory\n})\n.then(function (response) {\n  // response = The full response object or just the body\n})\n.catch(function(error) {\n  // error = Any occurred error\n})\n```\n\n## How to define your own retry strategy\n\nA retry strategy let you specify when request-retry should retry a request\n\n```javascript\n/**\n * @param  {Null | Object} err\n * @param  {Object} response\n * @param  {Object} body\n * @return {Boolean} true if the request should be retried\n */\nfunction myRetryStrategy(err, response, body){\n  // retry the request if we had an error or if the response was a 'Bad Gateway'\n  return err || response.statusCode === 502;\n}\n\nrequest({\n  url: 'https://api.domain.com/v1/a/b'\n  json:true,\n  retryStrategy: myRetryStrategy\n}, function(err, response, body){\n  // this callback will only be called when the request succeeded or after maxAttempts or on error\n});\n```\n\n## How to define your own delay strategy\n\nA delay strategy let you specify how long request-retry should wait before trying again the request\n\n```javascript\n/**\n * @param  {Null | Object} err\n * @param  {Object} response\n * @param  {Object} body\n * @return {Number} number of milliseconds to wait before trying again the request\n */\nfunction myDelayStrategy(err, response, body){\n  // set delay of retry to a random number between 500 and 3500 ms\n  return Math.floor(Math.random() * (3500 - 500 + 1) + 500);\n}\n\nrequest({\n  url: 'https://api.domain.com/v1/a/b'\n  json:true,\n  delayStrategy: myDelayStrategy // delayStrategy is called 1 less times than the maxAttempts set\n}, function(err, response, body){\n  // this callback will only be called when the request succeeded or after maxAttempts or on error\n});\n```\n\nHere is how to implement an exponential backoff strategy:\n\n```javascript\n/**\n * @param   {Number} attempts The number of times that the request has been attempted.\n * @return  {Number} number of milliseconds to wait before retrying again the request.\n */\nfunction getExponentialBackoff(attempts) {\n  return (Math.pow(2, attempts) * 100) + Math.floor(Math.random() * 50);\n}\n\nfunction constructExponentialBackoffStrategy() {\n  let attempts = 0;\n  return () => {\n    attempts += 1;\n    return getExponentialBackoff(attempts);\n  };\n}\n\nrequest({\n  url: 'https://api.domain.com/v1/a/b'\n  json:true,\n  delayStrategy: constructExponentialBackoffStrategy() // need to invoke the function to return the closure.\n}, function(err, response, body){\n  // this callback will only be called when the request succeeded or after maxAttempts or on error\n});\n```\n\n## Modifying `request` options\n\nYou can use the `defaults` method to provide default options like so:\n\n```javascript\nvar request = require('requestretry').defaults({ json: true, retryStrategy: myRetryStrategy });\n```\n\n## API surface\n\nAs with `request`, several helpers are provided for various HTTP methods and usage:\n\n* `request(options [, callback])`.\n* `request(url [, callback])` - same as `request(options [, callback])`.\n* `request(url, options [, callback])` - same as `request(options [, callback])`.\n* `request.get(url [, callback])` - same as `request(options [, callback])`, defaults `options.method` to `GET`.\n* `request.get(url, options  [, callback])` - same as `request(options [, callback])`, defaults `options.method` to `GET`.\n* `request.head(url)` - same as `request(options [, callback])`, defaults `options.method` to `HEAD`.\n* `request.post(url)` - same as `request(options [, callback])`, defaults `options.method` to `POST`.\n* `request.put(url)` - same as `request(options [, callback])`, defaults `options.method` to `PUT`.\n* `request.patch(url)` - same as `request(options [, callback])`, defaults `options.method` to `PATCH`.\n* `request.del(url)` - same as `request(options [, callback])`, defaults `options.method` to `DELETE`.\n* `request.delete(url)` - same as `request(options [, callback])`, defaults `options.method` to `DELETE`.\n\n## [Changelog](CHANGELOG.md)\n\n## You want to support my work?\n\nI maintain this project in my free time, if it helped you, well, I would be grateful to buy a beer thanks to your [paypal](https://paypal.me/fgribreau) or [Bitcoins](https://www.coinbase.com/fgribreau), donation!\n\n[Francois-Guillaume Ribreau](http://fgribreau.com) (npm@fgribreau.com)\n"
+}

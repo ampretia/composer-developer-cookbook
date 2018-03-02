@@ -1,0 +1,980 @@
+{
+	"name": "lorem-ipsum",
+	"versions": {
+		"0.0.0": {
+			"author": {
+				"name": "Nickolas Kenyeres",
+				"email": "nkenyeres@gmail.com",
+				"url": "http://knicklabs.github.com"
+			},
+			"name": "lorem-ipsum",
+			"description": "Generate placeholder text using lorem ipsum.",
+			"version": "0.0.0",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/knicklabs/node-lorem-ipsum.git"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"dependencies": {},
+			"devDependencies": {},
+			"bin": {
+				"lorem-ipsum": "bin/lorem-ipsum.bin.js"
+			},
+			"_npmUser": {
+				"name": "knicklabs",
+				"email": "nkenyeres@gmail.com"
+			},
+			"_id": "lorem-ipsum@0.0.0",
+			"_engineSupported": true,
+			"_npmVersion": "1.1.0-beta-10",
+			"_nodeVersion": "v0.6.7",
+			"_defaultsLoaded": true,
+			"dist": {
+				"shasum": "93642206cefabad75a04256a415def6ef3baa35d",
+				"tarball": "https://registry.npmjs.org/lorem-ipsum/-/lorem-ipsum-0.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "knicklabs",
+					"email": "nkenyeres@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.0.1": {
+			"author": {
+				"name": "Nickolas Kenyeres",
+				"email": "nkenyeres@gmail.com",
+				"url": "http://knicklabs.github.com"
+			},
+			"name": "lorem-ipsum",
+			"description": "Generate placeholder text using lorem ipsum.",
+			"version": "0.0.1",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/knicklabs/node-lorem-ipsum.git"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"dependencies": {},
+			"devDependencies": {},
+			"bin": {
+				"lorem-ipsum": "bin/lorem-ipsum.bin.js"
+			},
+			"_npmUser": {
+				"name": "knicklabs",
+				"email": "nkenyeres@gmail.com"
+			},
+			"_id": "lorem-ipsum@0.0.1",
+			"_engineSupported": true,
+			"_npmVersion": "1.1.0-beta-10",
+			"_nodeVersion": "v0.6.7",
+			"_defaultsLoaded": true,
+			"dist": {
+				"shasum": "48b297a7ead911b53168fcb914441e16b460cc12",
+				"tarball": "https://registry.npmjs.org/lorem-ipsum/-/lorem-ipsum-0.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "knicklabs",
+					"email": "nkenyeres@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.0.2": {
+			"author": {
+				"name": "Nickolas Kenyeres",
+				"email": "nkenyeres@gmail.com",
+				"url": "http://knicklabs.github.com"
+			},
+			"name": "lorem-ipsum",
+			"description": "Generate placeholder text using lorem ipsum.",
+			"version": "0.0.2",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/knicklabs/node-lorem-ipsum.git"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"dependencies": {},
+			"devDependencies": {},
+			"bin": {
+				"lorem-ipsum": "bin/lorem-ipsum.bin.js"
+			},
+			"_npmUser": {
+				"name": "knicklabs",
+				"email": "nkenyeres@gmail.com"
+			},
+			"_id": "lorem-ipsum@0.0.2",
+			"_engineSupported": true,
+			"_npmVersion": "1.1.0-beta-10",
+			"_nodeVersion": "v0.6.7",
+			"_defaultsLoaded": true,
+			"dist": {
+				"shasum": "7dd34c59e70b34cd107083f127c811a34e2cc686",
+				"tarball": "https://registry.npmjs.org/lorem-ipsum/-/lorem-ipsum-0.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "knicklabs",
+					"email": "nkenyeres@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.0.3": {
+			"author": {
+				"name": "Nickolas Kenyeres",
+				"email": "nkenyeres@gmail.com",
+				"url": "http://knicklabs.github.com"
+			},
+			"name": "lorem-ipsum",
+			"description": "Generate placeholder text using lorem ipsum.",
+			"version": "0.0.3",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/knicklabs/node-lorem-ipsum.git"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"dependencies": {},
+			"devDependencies": {},
+			"bin": {
+				"lorem-ipsum": "bin/lorem-ipsum.bin.js"
+			},
+			"main": "./lorem-ipsum.js",
+			"_npmUser": {
+				"name": "knicklabs",
+				"email": "nkenyeres@gmail.com"
+			},
+			"_id": "lorem-ipsum@0.0.3",
+			"optionalDependencies": {},
+			"_engineSupported": true,
+			"_npmVersion": "1.1.24",
+			"_nodeVersion": "v0.6.19",
+			"_defaultsLoaded": true,
+			"dist": {
+				"shasum": "e11a1f0cd7adf02ffc2e6f973635f133ce8f62fc",
+				"tarball": "https://registry.npmjs.org/lorem-ipsum/-/lorem-ipsum-0.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "knicklabs",
+					"email": "nkenyeres@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.0.4": {
+			"author": {
+				"name": "Nickolas Kenyeres",
+				"email": "nkenyeres@gmail.com",
+				"url": "http://knicklabs.github.com"
+			},
+			"name": "lorem-ipsum",
+			"description": "Generate placeholder text using lorem ipsum.",
+			"version": "0.0.4",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/knicklabs/node-lorem-ipsum.git"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"dependencies": {},
+			"devDependencies": {},
+			"main": "./lib/generator",
+			"bin": {
+				"lorem-ipsum": "bin/lorem-ipsum.bin.js"
+			},
+			"optionalDependencies": {},
+			"_npmUser": {
+				"name": "knicklabs",
+				"email": "nkenyeres@gmail.com"
+			},
+			"_id": "lorem-ipsum@0.0.4",
+			"_engineSupported": true,
+			"_npmVersion": "1.1.24",
+			"_nodeVersion": "v0.6.19",
+			"_defaultsLoaded": true,
+			"dist": {
+				"shasum": "cdd1d1b3ad6b431221129088742f51182ddf00d2",
+				"tarball": "https://registry.npmjs.org/lorem-ipsum/-/lorem-ipsum-0.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "knicklabs",
+					"email": "nkenyeres@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.0.5": {
+			"author": {
+				"name": "Nickolas Kenyeres",
+				"email": "nkenyeres@gmail.com",
+				"url": "http://knicklabs.github.com"
+			},
+			"name": "lorem-ipsum",
+			"description": "Generate placeholder text using lorem ipsum.",
+			"version": "0.0.5",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/knicklabs/node-lorem-ipsum.git"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"dependencies": {},
+			"devDependencies": {},
+			"main": "./lib/generator",
+			"bin": {
+				"lorem-ipsum": "bin/lorem-ipsum.bin.js"
+			},
+			"optionalDependencies": {},
+			"_npmUser": {
+				"name": "knicklabs",
+				"email": "nkenyeres@gmail.com"
+			},
+			"_id": "lorem-ipsum@0.0.5",
+			"_engineSupported": true,
+			"_npmVersion": "1.1.24",
+			"_nodeVersion": "v0.6.19",
+			"_defaultsLoaded": true,
+			"dist": {
+				"shasum": "0429b8881e347197ba966bd88da0eb3ea5718a44",
+				"tarball": "https://registry.npmjs.org/lorem-ipsum/-/lorem-ipsum-0.0.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "knicklabs",
+					"email": "nkenyeres@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.0.6": {
+			"author": {
+				"name": "Nickolas Kenyeres",
+				"email": "nkenyeres@gmail.com",
+				"url": "http://knicklabs.github.com"
+			},
+			"name": "lorem-ipsum",
+			"description": "Generate placeholder text using lorem ipsum.",
+			"version": "0.0.6",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/knicklabs/node-lorem-ipsum.git"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"dependencies": {},
+			"devDependencies": {},
+			"main": "./lib/generator",
+			"bin": {
+				"lorem-ipsum": "bin/lorem-ipsum.bin.js"
+			},
+			"optionalDependencies": {},
+			"_npmUser": {
+				"name": "knicklabs",
+				"email": "nkenyeres@gmail.com"
+			},
+			"_id": "lorem-ipsum@0.0.6",
+			"_engineSupported": true,
+			"_npmVersion": "1.1.24",
+			"_nodeVersion": "v0.6.19",
+			"_defaultsLoaded": true,
+			"dist": {
+				"shasum": "9b11d06243e596f48314f66650a5e13055dbdf99",
+				"tarball": "https://registry.npmjs.org/lorem-ipsum/-/lorem-ipsum-0.0.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "knicklabs",
+					"email": "nkenyeres@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.0.7": {
+			"author": {
+				"name": "Nickolas Kenyeres",
+				"email": "nkenyeres@gmail.com",
+				"url": "http://knicklabs.github.com"
+			},
+			"name": "lorem-ipsum",
+			"description": "Generate placeholder text using lorem ipsum.",
+			"version": "0.0.7",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/knicklabs/node-lorem-ipsum.git"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"dependencies": {},
+			"devDependencies": {},
+			"main": "./lib/generator",
+			"bin": {
+				"lorem-ipsum": "bin/lorem-ipsum.bin.js"
+			},
+			"optionalDependencies": {},
+			"_npmUser": {
+				"name": "knicklabs",
+				"email": "nkenyeres@gmail.com"
+			},
+			"_id": "lorem-ipsum@0.0.7",
+			"_engineSupported": true,
+			"_npmVersion": "1.1.24",
+			"_nodeVersion": "v0.6.19",
+			"_defaultsLoaded": true,
+			"dist": {
+				"shasum": "e1758f4ad88784af4d6a7eb152bcfeda58640d14",
+				"tarball": "https://registry.npmjs.org/lorem-ipsum/-/lorem-ipsum-0.0.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "knicklabs",
+					"email": "nkenyeres@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.0.8": {
+			"author": {
+				"name": "Nickolas Kenyeres",
+				"email": "nkenyeres@gmail.com",
+				"url": "http://knicklabs.github.com"
+			},
+			"name": "lorem-ipsum",
+			"description": "Generate placeholder text using lorem ipsum.",
+			"version": "0.0.8",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/knicklabs/node-lorem-ipsum.git"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"dependencies": {},
+			"devDependencies": {},
+			"main": "./lib/generator",
+			"bin": {
+				"lorem-ipsum": "bin/lorem-ipsum.bin.js"
+			},
+			"optionalDependencies": {},
+			"_id": "lorem-ipsum@0.0.8",
+			"dist": {
+				"shasum": "5587acdce2f79f3071a1cc5d72e14c1b38117400",
+				"tarball": "https://registry.npmjs.org/lorem-ipsum/-/lorem-ipsum-0.0.8.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "knicklabs",
+					"email": "nkenyeres@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.0.9": {
+			"author": {
+				"name": "Nickolas Kenyeres",
+				"email": "nkenyeres@gmail.com",
+				"url": "http://knicklabs.github.com"
+			},
+			"name": "lorem-ipsum",
+			"description": "Generate placeholder text using lorem ipsum.",
+			"version": "0.0.9",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/knicklabs/node-lorem-ipsum.git"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"dependencies": {},
+			"devDependencies": {},
+			"main": "./lib/generator",
+			"bin": {
+				"lorem-ipsum": "bin/lorem-ipsum.bin.js"
+			},
+			"optionalDependencies": {},
+			"_id": "lorem-ipsum@0.0.9",
+			"dist": {
+				"shasum": "1c31eb039f87979729ab084a8101d985cc2f48d9",
+				"tarball": "https://registry.npmjs.org/lorem-ipsum/-/lorem-ipsum-0.0.9.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "knicklabs",
+					"email": "nkenyeres@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.1.0": {
+			"name": "lorem-ipsum",
+			"version": "0.1.0",
+			"description": "Generates passages of lorem ipsum text suitable for use a placeholder in web pages, graphics, and more.",
+			"author": {
+				"name": "Nickolas Kenyeres",
+				"email": "nkenyeres@gmail.com",
+				"url": "http://knicklabs.github.com"
+			},
+			"license": "MIT/X11",
+			"main": "./lib/generator",
+			"dependencies": {
+				"optimist": "~0.3.5"
+			},
+			"devDependencies": {},
+			"optionalDependencies": {},
+			"bin": {
+				"lorem-ipsum": "bin/lorem-ipsum.bin.js"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/knicklabs/node-lorem-ipsum.git"
+			},
+			"keywords": [
+				"lorem",
+				"ipsum",
+				"placeholder",
+				"text",
+				"dummy",
+				"filler"
+			],
+			"engine": {
+				"node": ">=0.4"
+			},
+			"_id": "lorem-ipsum@0.1.0",
+			"dist": {
+				"shasum": "4099a3a7640fff6c4e5bfabdda09f967c2bb0ceb",
+				"tarball": "https://registry.npmjs.org/lorem-ipsum/-/lorem-ipsum-0.1.0.tgz"
+			},
+			"_npmVersion": "1.1.59",
+			"_npmUser": {
+				"name": "knicklabs",
+				"email": "nkenyeres@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "knicklabs",
+					"email": "nkenyeres@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.1.1": {
+			"name": "lorem-ipsum",
+			"version": "0.1.1",
+			"description": "Generates passages of lorem ipsum text suitable for use as placeholder copy in web pages, graphics, and more.",
+			"author": {
+				"name": "Nickolas Kenyeres",
+				"email": "nkenyeres@gmail.com",
+				"url": "http://knicklabs.github.com"
+			},
+			"license": "MIT/X11",
+			"main": "./lib/generator",
+			"dependencies": {
+				"optimist": "~0.3.5",
+				"inflection": "~1.2.6"
+			},
+			"devDependencies": {
+				"alea": "0.0.9"
+			},
+			"optionalDependencies": {},
+			"bin": {
+				"lorem-ipsum": "bin/lorem-ipsum.bin.js"
+			},
+			"scripts": {
+				"test": "nodeunit test"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/knicklabs/node-lorem-ipsum.git"
+			},
+			"keywords": [
+				"lorem",
+				"ipsum",
+				"placeholder",
+				"text",
+				"dummy",
+				"filler"
+			],
+			"engine": {
+				"node": ">=0.4"
+			},
+			"_id": "lorem-ipsum@0.1.1",
+			"dist": {
+				"shasum": "c0937a0dfbb4377c0d72413ae12655514f902419",
+				"tarball": "https://registry.npmjs.org/lorem-ipsum/-/lorem-ipsum-0.1.1.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.2.15",
+			"_npmUser": {
+				"name": "knicklabs",
+				"email": "nkenyeres@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "knicklabs",
+					"email": "nkenyeres@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"1.0.0": {
+			"name": "lorem-ipsum",
+			"version": "1.0.0",
+			"description": "Generates passages of lorem ipsum text suitable for use as placeholder copy in web pages, graphics, and more.",
+			"author": {
+				"name": "Nickolas Kenyeres",
+				"email": "nkenyeres@gmail.com",
+				"url": "http://knicklabs.github.com"
+			},
+			"license": "MIT/X11",
+			"main": "./lib/generator",
+			"dependencies": {
+				"optimist": "~0.3.5"
+			},
+			"devDependencies": {
+				"alea": "0.0.9"
+			},
+			"optionalDependencies": {},
+			"bin": {
+				"lorem-ipsum": "bin/lorem-ipsum.bin.js"
+			},
+			"scripts": {
+				"test": "nodeunit test"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/knicklabs/node-lorem-ipsum.git"
+			},
+			"keywords": [
+				"lorem",
+				"ipsum",
+				"placeholder",
+				"text",
+				"dummy",
+				"filler"
+			],
+			"engine": {
+				"node": ">=0.4"
+			},
+			"bugs": {
+				"url": "https://github.com/knicklabs/node-lorem-ipsum/issues"
+			},
+			"_id": "lorem-ipsum@1.0.0",
+			"dist": {
+				"shasum": "af3b5ff814ce6221f1e0fad2176d5ed31a72e3ca",
+				"tarball": "https://registry.npmjs.org/lorem-ipsum/-/lorem-ipsum-1.0.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.8",
+			"_npmUser": {
+				"name": "knicklabs",
+				"email": "nkenyeres@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "knicklabs",
+					"email": "nkenyeres@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"1.0.1": {
+			"name": "lorem-ipsum",
+			"version": "1.0.1",
+			"description": "Generates passages of lorem ipsum text suitable for use as placeholder copy in web pages, graphics, and more.",
+			"author": {
+				"name": "Nickolas Kenyeres",
+				"email": "nkenyeres@gmail.com",
+				"url": "http://knicklabs.github.com"
+			},
+			"license": "MIT/X11",
+			"main": "./lib/generator",
+			"dependencies": {
+				"optimist": "~0.3.5"
+			},
+			"devDependencies": {
+				"alea": "0.0.9"
+			},
+			"optionalDependencies": {},
+			"bin": {
+				"lorem-ipsum": "bin/lorem-ipsum.bin.js"
+			},
+			"scripts": {
+				"test": "nodeunit test"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/knicklabs/node-lorem-ipsum.git"
+			},
+			"keywords": [
+				"lorem",
+				"ipsum",
+				"placeholder",
+				"text",
+				"dummy",
+				"filler"
+			],
+			"engine": {
+				"node": ">=0.4"
+			},
+			"bugs": {
+				"url": "https://github.com/knicklabs/node-lorem-ipsum/issues"
+			},
+			"homepage": "https://github.com/knicklabs/node-lorem-ipsum",
+			"_id": "lorem-ipsum@1.0.1",
+			"dist": {
+				"shasum": "8df27d94c4f133bdd739f0e79ad1017565bf69ae",
+				"tarball": "https://registry.npmjs.org/lorem-ipsum/-/lorem-ipsum-1.0.1.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.14",
+			"_npmUser": {
+				"name": "knicklabs",
+				"email": "nkenyeres@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "knicklabs",
+					"email": "nkenyeres@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"1.0.2": {
+			"name": "lorem-ipsum",
+			"version": "1.0.2",
+			"description": "Generates passages of lorem ipsum text suitable for use as placeholder copy in web pages, graphics, and more.",
+			"author": {
+				"name": "Nickolas Kenyeres",
+				"email": "nkenyeres@gmail.com",
+				"url": "http://knicklabs.github.com"
+			},
+			"license": "MIT/X11",
+			"main": "./lib/generator",
+			"dependencies": {
+				"optimist": "~0.3.5"
+			},
+			"devDependencies": {
+				"alea": "0.0.9"
+			},
+			"optionalDependencies": {},
+			"bin": {
+				"lorem-ipsum": "bin/lorem-ipsum.bin.js"
+			},
+			"scripts": {
+				"test": "nodeunit test"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/knicklabs/node-lorem-ipsum.git"
+			},
+			"keywords": [
+				"lorem",
+				"ipsum",
+				"placeholder",
+				"text",
+				"dummy",
+				"filler"
+			],
+			"engine": {
+				"node": ">=0.4"
+			},
+			"gitHead": "c3ef67ff63c30d1a8e12aeecb362de7dcab4aa4f",
+			"bugs": {
+				"url": "https://github.com/knicklabs/node-lorem-ipsum/issues"
+			},
+			"homepage": "https://github.com/knicklabs/node-lorem-ipsum",
+			"_id": "lorem-ipsum@1.0.2",
+			"_shasum": "61746826d41c1ad24dea25adfc95cd82cc4d12ab",
+			"_from": ".",
+			"_npmVersion": "2.7.4",
+			"_nodeVersion": "0.12.2",
+			"_npmUser": {
+				"name": "knicklabs",
+				"email": "nkenyeres@gmail.com"
+			},
+			"dist": {
+				"shasum": "61746826d41c1ad24dea25adfc95cd82cc4d12ab",
+				"tarball": "https://registry.npmjs.org/lorem-ipsum/-/lorem-ipsum-1.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "knicklabs",
+					"email": "nkenyeres@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"1.0.3": {
+			"name": "lorem-ipsum",
+			"version": "1.0.3",
+			"description": "Generates passages of lorem ipsum text suitable for use as placeholder copy in web pages, graphics, and more.",
+			"author": {
+				"name": "Nickolas Kenyeres",
+				"email": "nkenyeres@gmail.com",
+				"url": "http://knicklabs.github.com"
+			},
+			"license": "MIT/X11",
+			"main": "./lib/generator",
+			"dependencies": {
+				"optimist": "~0.3.5"
+			},
+			"devDependencies": {
+				"alea": "0.0.9"
+			},
+			"optionalDependencies": {},
+			"bin": {
+				"lorem-ipsum": "bin/lorem-ipsum.bin.js"
+			},
+			"scripts": {
+				"test": "nodeunit test"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/knicklabs/node-lorem-ipsum.git"
+			},
+			"keywords": [
+				"lorem",
+				"ipsum",
+				"placeholder",
+				"text",
+				"dummy",
+				"filler"
+			],
+			"engine": {
+				"node": ">=0.4"
+			},
+			"gitHead": "fd028b731a22cb9fb62a0da0adcd29d57c95bcf9",
+			"bugs": {
+				"url": "https://github.com/knicklabs/node-lorem-ipsum/issues"
+			},
+			"homepage": "https://github.com/knicklabs/node-lorem-ipsum",
+			"_id": "lorem-ipsum@1.0.3",
+			"_shasum": "40afece589b39bcec2c2e4cb8b154122f467b5c0",
+			"_from": ".",
+			"_npmVersion": "2.7.4",
+			"_nodeVersion": "0.12.2",
+			"_npmUser": {
+				"name": "knicklabs",
+				"email": "nkenyeres@gmail.com"
+			},
+			"dist": {
+				"shasum": "40afece589b39bcec2c2e4cb8b154122f467b5c0",
+				"tarball": "https://registry.npmjs.org/lorem-ipsum/-/lorem-ipsum-1.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "knicklabs",
+					"email": "nkenyeres@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"1.0.4": {
+			"name": "lorem-ipsum",
+			"version": "1.0.4",
+			"description": "Generates passages of lorem ipsum text suitable for use as placeholder copy in web pages, graphics, and more.",
+			"author": {
+				"name": "Nickolas Kenyeres",
+				"email": "nkenyeres@gmail.com",
+				"url": "http://knicklabs.github.com"
+			},
+			"license": "MIT/X11",
+			"main": "./lib/generator",
+			"dependencies": {
+				"optimist": "~0.3.5"
+			},
+			"devDependencies": {
+				"alea": "0.0.9"
+			},
+			"optionalDependencies": {},
+			"bin": {
+				"lorem-ipsum": "bin/lorem-ipsum.bin.js"
+			},
+			"scripts": {
+				"test": "nodeunit test"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/knicklabs/node-lorem-ipsum.git"
+			},
+			"keywords": [
+				"lorem",
+				"ipsum",
+				"placeholder",
+				"text",
+				"dummy",
+				"filler"
+			],
+			"engine": {
+				"node": ">=0.4"
+			},
+			"gitHead": "1540491e141e807bf564ff29a4b8aebc627a38f4",
+			"bugs": {
+				"url": "https://github.com/knicklabs/node-lorem-ipsum/issues"
+			},
+			"homepage": "https://github.com/knicklabs/node-lorem-ipsum#readme",
+			"_id": "lorem-ipsum@1.0.4",
+			"_shasum": "30b72a3b1e191f55062af8c7dfab291ae4fbd912",
+			"_from": ".",
+			"_npmVersion": "3.10.9",
+			"_nodeVersion": "7.1.0",
+			"_npmUser": {
+				"name": "knicklabs",
+				"email": "nkenyeres@gmail.com"
+			},
+			"dist": {
+				"shasum": "30b72a3b1e191f55062af8c7dfab291ae4fbd912",
+				"tarball": "https://registry.npmjs.org/lorem-ipsum/-/lorem-ipsum-1.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "knicklabs",
+					"email": "nkenyeres@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lorem-ipsum-1.0.4.tgz_1493275075718_0.8011690089479089"
+			},
+			"directories": {}
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.4"
+	},
+	"time": {
+		"modified": "2018-02-15T02:42:52.990Z",
+		"created": "2012-06-18T03:47:38.503Z",
+		"0.0.0": "2012-06-18T03:47:38.997Z",
+		"0.0.1": "2012-06-18T04:09:27.608Z",
+		"0.0.2": "2012-06-18T04:14:48.799Z",
+		"0.0.3": "2012-06-18T14:05:22.648Z",
+		"0.0.4": "2012-06-18T15:10:03.312Z",
+		"0.0.5": "2012-06-18T16:27:14.001Z",
+		"0.0.6": "2012-06-18T16:54:37.353Z",
+		"0.0.7": "2012-06-18T18:02:05.713Z",
+		"0.0.8": "2012-10-27T13:50:35.643Z",
+		"0.0.9": "2012-10-27T13:56:15.992Z",
+		"0.1.0": "2013-01-04T04:08:50.291Z",
+		"0.1.1": "2013-07-14T19:27:02.200Z",
+		"1.0.0": "2013-11-08T01:44:35.421Z",
+		"1.0.1": "2013-11-28T04:53:46.850Z",
+		"1.0.2": "2015-05-28T23:13:43.518Z",
+		"1.0.3": "2015-05-28T23:20:42.085Z",
+		"1.0.4": "2017-04-27T06:37:57.809Z"
+	},
+	"_distfiles": {
+		"lorem-ipsum-0.0.0.tgz": {
+			"url": "https://registry.npmjs.org/lorem-ipsum/-/lorem-ipsum-0.0.0.tgz",
+			"sha": "93642206cefabad75a04256a415def6ef3baa35d",
+			"registry": "npmjs"
+		},
+		"lorem-ipsum-0.0.1.tgz": {
+			"url": "https://registry.npmjs.org/lorem-ipsum/-/lorem-ipsum-0.0.1.tgz",
+			"sha": "48b297a7ead911b53168fcb914441e16b460cc12",
+			"registry": "npmjs"
+		},
+		"lorem-ipsum-0.0.2.tgz": {
+			"url": "https://registry.npmjs.org/lorem-ipsum/-/lorem-ipsum-0.0.2.tgz",
+			"sha": "7dd34c59e70b34cd107083f127c811a34e2cc686",
+			"registry": "npmjs"
+		},
+		"lorem-ipsum-0.0.3.tgz": {
+			"url": "https://registry.npmjs.org/lorem-ipsum/-/lorem-ipsum-0.0.3.tgz",
+			"sha": "e11a1f0cd7adf02ffc2e6f973635f133ce8f62fc",
+			"registry": "npmjs"
+		},
+		"lorem-ipsum-0.0.4.tgz": {
+			"url": "https://registry.npmjs.org/lorem-ipsum/-/lorem-ipsum-0.0.4.tgz",
+			"sha": "cdd1d1b3ad6b431221129088742f51182ddf00d2",
+			"registry": "npmjs"
+		},
+		"lorem-ipsum-0.0.5.tgz": {
+			"url": "https://registry.npmjs.org/lorem-ipsum/-/lorem-ipsum-0.0.5.tgz",
+			"sha": "0429b8881e347197ba966bd88da0eb3ea5718a44",
+			"registry": "npmjs"
+		},
+		"lorem-ipsum-0.0.6.tgz": {
+			"url": "https://registry.npmjs.org/lorem-ipsum/-/lorem-ipsum-0.0.6.tgz",
+			"sha": "9b11d06243e596f48314f66650a5e13055dbdf99",
+			"registry": "npmjs"
+		},
+		"lorem-ipsum-0.0.7.tgz": {
+			"url": "https://registry.npmjs.org/lorem-ipsum/-/lorem-ipsum-0.0.7.tgz",
+			"sha": "e1758f4ad88784af4d6a7eb152bcfeda58640d14",
+			"registry": "npmjs"
+		},
+		"lorem-ipsum-0.0.8.tgz": {
+			"url": "https://registry.npmjs.org/lorem-ipsum/-/lorem-ipsum-0.0.8.tgz",
+			"sha": "5587acdce2f79f3071a1cc5d72e14c1b38117400",
+			"registry": "npmjs"
+		},
+		"lorem-ipsum-0.0.9.tgz": {
+			"url": "https://registry.npmjs.org/lorem-ipsum/-/lorem-ipsum-0.0.9.tgz",
+			"sha": "1c31eb039f87979729ab084a8101d985cc2f48d9",
+			"registry": "npmjs"
+		},
+		"lorem-ipsum-0.1.0.tgz": {
+			"url": "https://registry.npmjs.org/lorem-ipsum/-/lorem-ipsum-0.1.0.tgz",
+			"sha": "4099a3a7640fff6c4e5bfabdda09f967c2bb0ceb",
+			"registry": "npmjs"
+		},
+		"lorem-ipsum-0.1.1.tgz": {
+			"url": "https://registry.npmjs.org/lorem-ipsum/-/lorem-ipsum-0.1.1.tgz",
+			"sha": "c0937a0dfbb4377c0d72413ae12655514f902419",
+			"registry": "npmjs"
+		},
+		"lorem-ipsum-1.0.0.tgz": {
+			"url": "https://registry.npmjs.org/lorem-ipsum/-/lorem-ipsum-1.0.0.tgz",
+			"sha": "af3b5ff814ce6221f1e0fad2176d5ed31a72e3ca",
+			"registry": "npmjs"
+		},
+		"lorem-ipsum-1.0.1.tgz": {
+			"url": "https://registry.npmjs.org/lorem-ipsum/-/lorem-ipsum-1.0.1.tgz",
+			"sha": "8df27d94c4f133bdd739f0e79ad1017565bf69ae",
+			"registry": "npmjs"
+		},
+		"lorem-ipsum-1.0.2.tgz": {
+			"url": "https://registry.npmjs.org/lorem-ipsum/-/lorem-ipsum-1.0.2.tgz",
+			"sha": "61746826d41c1ad24dea25adfc95cd82cc4d12ab",
+			"registry": "npmjs"
+		},
+		"lorem-ipsum-1.0.3.tgz": {
+			"url": "https://registry.npmjs.org/lorem-ipsum/-/lorem-ipsum-1.0.3.tgz",
+			"sha": "40afece589b39bcec2c2e4cb8b154122f467b5c0",
+			"registry": "npmjs"
+		},
+		"lorem-ipsum-1.0.4.tgz": {
+			"url": "https://registry.npmjs.org/lorem-ipsum/-/lorem-ipsum-1.0.4.tgz",
+			"sha": "30b72a3b1e191f55062af8c7dfab291ae4fbd912",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {
+		"lorem-ipsum-1.0.4.tgz": {
+			"shasum": "30b72a3b1e191f55062af8c7dfab291ae4fbd912"
+		}
+	},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "\"5a84f3ac-5950\"",
+			"fetched": 1519912114878
+		}
+	},
+	"_rev": "7-2a57981166c2a83f",
+	"readme": "### lorem-ipsum.js\n\nlorem-ipsum.js is a Node.js and Component.js module for generating passages of lorem ipsum text. Lorem ipsum text is commonly used as placeholder text in publishing, graphic design, and web development.\n\n### Using the Module (Node.js)\n\nInstall the lorem-ipsum.js module to use the library in your server-side Node.js projects.\n\n```bash\ncd ~/MyProject\nnpm install lorem-ipsum\n```\n\nRequire the lorem-ipsum.js module and use it to generate a passage of lorem ipsum text.\n\n```javascript\nvar loremIpsum = require('lorem-ipsum')\n  , output     = loremIpsum();\n```\n\n### Using the Module (Component.js)\n\nInstall the lorem-ipsum.js module to use the library client-side.\n\n```bash\ncd ~/MyProject\ncomponent install knicklabs/lorem-ipsum.js\n```\n\nRequire the lorem-ipsum.js module and use it to generate a passage of lorem ipsum text.\n\n```javascript\nvar loremIpsum = require('knicklabs-lorem-ipsum.js')\n  , output     = loremIpsum();\n```\n\n### Customizing the Output with Options (Node.js/Component.js)\n\nYou can pass options to the loremIpsum() function to fine-tune the output. The API is the same on client and server. See below:\n\n```javascript\n...\noutput = loremIpsum({\n    count: 1                      // Number of words, sentences, or paragraphs to generate.\n  , units: 'sentences'            // Generate words, sentences, or paragraphs.\n  , sentenceLowerBound: 5         // Minimum words per sentence.\n  , sentenceUpperBound: 15        // Maximum words per sentence.\n  , paragraphLowerBound: 3        // Minimum sentences per paragraph.\n  , paragraphUpperBound: 7        // Maximum sentences per paragraph.\n  , format: 'plain'               // Plain text or html\n  , words: ['ad', 'dolor', ... ]  // Custom word dictionary. Uses dictionary.words (in lib/dictionary.js) by default.\n  , random: Math.random           // A PRNG function. Uses Math.random by default\n  , suffix: EOL                   // The character to insert between paragraphs. Defaults to default EOL for your OS.\n});\n```\n\n### Using the CLI (Node.js)\n\nlorem-ipsum.js includes a command line interface for generating passages of lorem ipsum text. Install the module globally to take advantage of this feature.\n\n```bash\nnpm install lorem-ipsum --global\n```\n\nExecute the statement `lorem-ipsum` from your terminal to generate a passage of lorem ipsum text. You can pass arguments to the program to fine-tune the output.\n\n```bash\nlorem-ipsum --units words --count 100 --copy --format html\n```\n\nSee below for a description of the arguments to the program.\n\n<table>\n  <tr>\n    <th>Argument</th>\n    <th>Description</th>\n  </tr>\n  <tr>\n    <td>--count</td>\n    <td>The <strong>number</strong> of words, sentences or paragraphs to generate</td>\n  </tr>\n  <tr>\n    <td>--units</td>\n    <td>Generate <strong>words</strong>, <strong>sentences</strong> or <strong>paragraphs</strong></td>\n  </tr>\n  <tr>\n    <td>--copy</td>\n    <td><strong>Copy</strong> the output to the system clipboard</td>\n  </tr>\n  <tr>\n    <td>--format</td>\n    <td><strong>html</strong> or <strong>plain</strong> text format</td>\n  </tr>\n</table>\n\nYou may now also use a short form when running lorem-ipsum.js from the command line. Here's some examples:\n\n```\nlorem-ipsum 1 word\n```\n\n```\nlorem-ipsum 15 sentences --copy\n```\n\n```\nlorem-ipsum 5 paragraphs --copy --format html\n```\n\n### Notes\n\nThe copy feature requires that you have xclip installed if you are using lorem-ipsum.js on Linux. The feature will work out of the box on Mac and Windows systems.\n\n### License\n\nThis software is licensed under the MIT license.\n\nCopyright (c) 2012-2017 Nickolas Kenyeres\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n"
+}

@@ -1,0 +1,86 @@
+{
+	"name": "a-sync-waterfall",
+	"versions": {
+		"1.0.0": {
+			"name": "a-sync-waterfall",
+			"version": "1.0.0",
+			"description": "Runs a list of async tasks, passing the results of each into the next one",
+			"author": {
+				"name": "Gleb Khudyakov",
+				"url": "https://github.com/hydiak/a-sync-waterfall"
+			},
+			"homepage": "https://github.com/hydiak/a-sync-waterfall",
+			"repository": {
+				"type": "git",
+				"url": "git+ssh://git@github.com/hydiak/a-sync-waterfall.git"
+			},
+			"bugs": {
+				"url": "https://github.com/hydiak/a-sync-waterfall/issues"
+			},
+			"main": "./index",
+			"keywords": [
+				"async",
+				"sync",
+				"waterfall",
+				"tasks",
+				"control",
+				"flow"
+			],
+			"dependencies": {},
+			"gitHead": "bc694c0bd76115d3b61bf416081a606568c87de7",
+			"_id": "a-sync-waterfall@1.0.0",
+			"scripts": {},
+			"_shasum": "38e8319d79379e24628845b53b96722b29e0e47c",
+			"_from": ".",
+			"_npmVersion": "3.9.6",
+			"_nodeVersion": "5.2.0",
+			"_npmUser": {
+				"name": "gkhudyakov",
+				"email": "hydiak@gmail.com"
+			},
+			"dist": {
+				"shasum": "38e8319d79379e24628845b53b96722b29e0e47c",
+				"tarball": "https://registry.npmjs.org/a-sync-waterfall/-/a-sync-waterfall-1.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "gkhudyakov",
+					"email": "hydiak@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/a-sync-waterfall-1.0.0.tgz_1467294098508_0.6947686404455453"
+			},
+			"directories": {}
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.0"
+	},
+	"time": {
+		"modified": "2016-06-30T13:41:41.085Z",
+		"created": "2016-06-30T13:41:41.085Z",
+		"1.0.0": "2016-06-30T13:41:41.085Z"
+	},
+	"_distfiles": {
+		"a-sync-waterfall-1.0.0.tgz": {
+			"url": "https://registry.npmjs.org/a-sync-waterfall/-/a-sync-waterfall-1.0.0.tgz",
+			"sha": "38e8319d79379e24628845b53b96722b29e0e47c",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {
+		"a-sync-waterfall-1.0.0.tgz": {
+			"shasum": "38e8319d79379e24628845b53b96722b29e0e47c"
+		}
+	},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "\"57752195-1340\"",
+			"fetched": 1519912117836
+		}
+	},
+	"_rev": "7-38d459490484b9e2",
+	"readme": "# a-sync-waterfall\n\nSimple, isolated sync/async waterfall module for JavaScript.\n\nRuns an array of functions in series, each passing their results to the next in\nthe array. However, if any of the functions pass an error to the callback, the\nnext function is not executed and the main callback is immediately called with\nthe error.\n\nFor browsers and node.js.\n\n## Installation\n* Just include a-sync-waterfall before your scripts.\n* `npm install a-sync-waterfall` if you’re using node.js.\n\n\n## Usage\n\n* `waterfall(tasks, optionalCallback, forceAsync);`\n* **tasks** - An array of functions to run, each function is passed a\n`callback(err, result1, result2, ...)` it must call on completion. The first\nargument is an error (which can be null) and any further arguments will be\npassed as arguments in order to the next task.\n* **optionalCallback** - An optional callback to run once all the functions have\ncompleted. This will be passed the results of the last task's callback.\n* **forceAsync** An optional flag that force tasks run asynchronously even if they are sync.\n\n##### Node.js:\n\n```javascript\nvar waterfall = require('a-sync-waterfall');\nwaterfall(tasks, callback);\n```\n\n##### Browser:\n\n```javascript\nvar waterfall = require('a-sync-waterfall');\nwaterfall(tasks, callback);\n\n// Default:\nwindow.waterfall(tasks, callback);\n```\n\n##### Tasks as Array of Functions\n\n```javascript\nwaterfall([\n  function(callback){\n    callback(null, 'one', 'two');\n  },\n  function(arg1, arg2, callback){\n    callback(null, 'three');\n  },\n  function(arg1, callback){\n    // arg1 now equals 'three'\n    callback(null, 'done');\n  }\n], function (err, result) {\n  // result now equals 'done'\n});\n```\n\n##### Derive Tasks from an Array.map\n\n```javascript\n/* basic - no arguments */\nwaterfall(myArray.map(function (arrayItem) {\n  return function (nextCallback) {\n    // same execution for each item, call the next one when done\n    doAsyncThingsWith(arrayItem, nextCallback);\n}}));\n\n/* with arguments, initializer function, and final callback */\nwaterfall([function initializer (firstMapFunction) {\n    firstMapFunction(null, initialValue);\n  }].concat(myArray.map(function (arrayItem) {\n    return function (lastItemResult, nextCallback) {\n      // same execution for each item in the array\n      var itemResult = doThingsWith(arrayItem, lastItemResult);\n      // results carried along from each to the next\n      nextCallback(null, itemResult);\n}})), function (err, finalResult) {\n  // final callback\n});\n```\n\n## Acknowledgements\nHat tip to [Caolan McMahon](https://github.com/caolan) and\n[Paul Miller](https://github.com/paulmillr), whose prior contributions this is\nbased upon.\nAlso [Elan Shanker](https://github.com/es128) from which this rep is forked\n\n## License\n[MIT](https://raw.github.com/hydiak/a-sync-waterfall/master/LICENSE)\n"
+}

@@ -1,0 +1,339 @@
+{
+	"name": "libbase64",
+	"versions": {
+		"0.1.0": {
+			"name": "libbase64",
+			"version": "0.1.0",
+			"description": "Encode and decode base64 encoded strings",
+			"main": "lib/libbase64.js",
+			"scripts": {
+				"test": "grunt"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/andris9/libbase64.git"
+			},
+			"keywords": [
+				"base64",
+				"mime"
+			],
+			"author": {
+				"name": "Andris Reinman"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/andris9/libbase64/issues"
+			},
+			"homepage": "https://github.com/andris9/libbase64",
+			"devDependencies": {
+				"chai": "~1.8.1",
+				"grunt": "~0.4.1",
+				"grunt-contrib-jshint": "~0.8.0",
+				"grunt-mocha-test": "~0.10.0"
+			},
+			"_id": "libbase64@0.1.0",
+			"dist": {
+				"shasum": "62351a839563ac5ff5bd26f12f60e9830bb751e6",
+				"tarball": "https://registry.npmjs.org/libbase64/-/libbase64-0.1.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.4.3",
+			"_npmUser": {
+				"name": "andris",
+				"email": "andris@node.ee"
+			},
+			"maintainers": [
+				{
+					"name": "andris",
+					"email": "andris@node.ee"
+				}
+			],
+			"directories": {}
+		},
+		"0.2.0": {
+			"name": "libbase64",
+			"version": "0.2.0",
+			"description": "Encode and decode base64 encoded strings",
+			"main": "lib/libbase64.js",
+			"scripts": {
+				"test": "grunt"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/andris9/libbase64.git"
+			},
+			"keywords": [
+				"base64",
+				"mime"
+			],
+			"author": {
+				"name": "Andris Reinman"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/andris9/libbase64/issues"
+			},
+			"homepage": "https://github.com/andris9/libbase64",
+			"devDependencies": {
+				"chai": "~1.8.1",
+				"grunt": "~0.4.1",
+				"grunt-contrib-jshint": "~0.8.0",
+				"grunt-mocha-test": "~0.10.0"
+			},
+			"gitHead": "c4545f0f19c52e74991019528b72bc58d8817239",
+			"_id": "libbase64@0.2.0",
+			"_shasum": "b72ece3c8c5162158ab01c9c73be9498736b29c9",
+			"_from": ".",
+			"_npmVersion": "3.10.10",
+			"_nodeVersion": "6.10.0",
+			"_npmUser": {
+				"name": "andris",
+				"email": "andris@kreata.ee"
+			},
+			"dist": {
+				"shasum": "b72ece3c8c5162158ab01c9c73be9498736b29c9",
+				"tarball": "https://registry.npmjs.org/libbase64/-/libbase64-0.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "andris",
+					"email": "andris@node.ee"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/libbase64-0.2.0.tgz_1496751807425_0.037411344004794955"
+			},
+			"directories": {}
+		},
+		"1.0.0": {
+			"name": "libbase64",
+			"version": "1.0.0",
+			"description": "Encode and decode base64 encoded strings",
+			"main": "lib/libbase64.js",
+			"scripts": {
+				"test": "grunt"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/nodemailer/libbase64.git"
+			},
+			"keywords": [
+				"base64",
+				"mime"
+			],
+			"author": {
+				"name": "Andris Reinman"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/nodemailer/libbase64/issues"
+			},
+			"homepage": "https://github.com/nodemailer/libbase64",
+			"devDependencies": {
+				"chai": "^4.1.2",
+				"eslint-config-nodemailer": "^1.2.0",
+				"grunt": "^1.0.1",
+				"grunt-cli": "^1.2.0",
+				"grunt-eslint": "^20.1.0",
+				"grunt-mocha-test": "^0.13.3",
+				"mocha": "^4.0.1"
+			},
+			"dependencies": {},
+			"gitHead": "9cb52e6e34144a3d4a23a59626c31d220f7f6fcf",
+			"_id": "libbase64@1.0.0",
+			"_npmVersion": "5.5.1",
+			"_nodeVersion": "8.9.1",
+			"_npmUser": {
+				"name": "andris",
+				"email": "andris@kreata.ee"
+			},
+			"dist": {
+				"integrity": "sha512-ekGw969gHWbRGqzR77oMC0TVTrsSiNcfptvK7tk9wMZCuSGrp3/9JV8ZMCrBijFC2M+bdTSgXaJj77KdE3o51A==",
+				"shasum": "5511bdb89895842b9cbc7b9f189fe4b94b215c04",
+				"tarball": "https://registry.npmjs.org/libbase64/-/libbase64-1.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "andris",
+					"email": "andris@node.ee"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/libbase64-1.0.0.tgz_1511437924755_0.8411105452105403"
+			},
+			"directories": {}
+		},
+		"1.0.1": {
+			"name": "libbase64",
+			"version": "1.0.1",
+			"description": "Encode and decode base64 encoded strings",
+			"main": "lib/libbase64.js",
+			"scripts": {
+				"test": "grunt"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/nodemailer/libbase64.git"
+			},
+			"keywords": [
+				"base64",
+				"mime"
+			],
+			"author": {
+				"name": "Andris Reinman"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/nodemailer/libbase64/issues"
+			},
+			"homepage": "https://github.com/nodemailer/libbase64",
+			"devDependencies": {
+				"chai": "^4.1.2",
+				"eslint-config-nodemailer": "^1.2.0",
+				"grunt": "^1.0.1",
+				"grunt-cli": "^1.2.0",
+				"grunt-eslint": "^20.1.0",
+				"grunt-mocha-test": "^0.13.3",
+				"mocha": "^4.0.1"
+			},
+			"dependencies": {},
+			"gitHead": "4f92d24a1ea7e361c060b660bc31dc7e8f6f5fad",
+			"_id": "libbase64@1.0.1",
+			"_npmVersion": "5.5.1",
+			"_nodeVersion": "8.9.1",
+			"_npmUser": {
+				"name": "andris",
+				"email": "andris@kreata.ee"
+			},
+			"dist": {
+				"integrity": "sha512-e8P3IibKehfoYcSlFZ/mH4Q/3kvr7fGAYfCY3BY4KwnrNiKj9bVKQFQF0asg0L6F33VL/CF7awLFmhybN4YV4A==",
+				"shasum": "79c0b28222c3f510fe51d19ba465d6eca19211d6",
+				"tarball": "https://registry.npmjs.org/libbase64/-/libbase64-1.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "andris",
+					"email": "andris@node.ee"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/libbase64-1.0.1.tgz_1511732334726_0.612858448876068"
+			},
+			"directories": {}
+		},
+		"1.0.2": {
+			"name": "libbase64",
+			"version": "1.0.2",
+			"description": "Encode and decode base64 encoded strings",
+			"main": "lib/libbase64.js",
+			"scripts": {
+				"test": "grunt"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/nodemailer/libbase64.git"
+			},
+			"keywords": [
+				"base64",
+				"mime"
+			],
+			"author": {
+				"name": "Andris Reinman"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/nodemailer/libbase64/issues"
+			},
+			"homepage": "https://github.com/nodemailer/libbase64",
+			"devDependencies": {
+				"chai": "^4.1.2",
+				"eslint-config-nodemailer": "^1.2.0",
+				"grunt": "^1.0.1",
+				"grunt-cli": "^1.2.0",
+				"grunt-eslint": "^20.1.0",
+				"grunt-mocha-test": "^0.13.3",
+				"mocha": "^4.0.1"
+			},
+			"dependencies": {},
+			"gitHead": "f5133f881cdf4f46107e01c109a4f8cb6a6e2f20",
+			"_id": "libbase64@1.0.2",
+			"_npmVersion": "5.5.1",
+			"_nodeVersion": "8.9.3",
+			"_npmUser": {
+				"name": "andris",
+				"email": "andris@kreata.ee"
+			},
+			"dist": {
+				"integrity": "sha512-CyPjvTFbsGps2Sdvy9GVjSRPvUGpji8Hxb+iunp466guzxcd3QaK0k8Hur1sPkgD9FonW8V1z2F1y066YiliEg==",
+				"shasum": "2ff13ffe69b1e40159f49368e30d0dd8bb1635b5",
+				"tarball": "https://registry.npmjs.org/libbase64/-/libbase64-1.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "andris",
+					"email": "andris@node.ee"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/libbase64-1.0.2.tgz_1513342206532_0.5182748252991587"
+			},
+			"directories": {}
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.2"
+	},
+	"time": {
+		"modified": "2018-02-22T08:02:14.845Z",
+		"created": "2014-06-18T13:27:18.378Z",
+		"0.1.0": "2014-06-18T13:27:18.378Z",
+		"0.2.0": "2017-06-06T12:23:28.294Z",
+		"1.0.0": "2017-11-23T11:52:04.837Z",
+		"1.0.1": "2017-11-26T21:38:55.691Z",
+		"1.0.2": "2017-12-15T12:50:07.303Z"
+	},
+	"_distfiles": {
+		"libbase64-0.1.0.tgz": {
+			"url": "https://registry.npmjs.org/libbase64/-/libbase64-0.1.0.tgz",
+			"sha": "62351a839563ac5ff5bd26f12f60e9830bb751e6",
+			"registry": "npmjs"
+		},
+		"libbase64-0.2.0.tgz": {
+			"url": "https://registry.npmjs.org/libbase64/-/libbase64-0.2.0.tgz",
+			"sha": "b72ece3c8c5162158ab01c9c73be9498736b29c9",
+			"registry": "npmjs"
+		},
+		"libbase64-1.0.0.tgz": {
+			"url": "https://registry.npmjs.org/libbase64/-/libbase64-1.0.0.tgz",
+			"sha": "5511bdb89895842b9cbc7b9f189fe4b94b215c04",
+			"registry": "npmjs"
+		},
+		"libbase64-1.0.1.tgz": {
+			"url": "https://registry.npmjs.org/libbase64/-/libbase64-1.0.1.tgz",
+			"sha": "79c0b28222c3f510fe51d19ba465d6eca19211d6",
+			"registry": "npmjs"
+		},
+		"libbase64-1.0.2.tgz": {
+			"url": "https://registry.npmjs.org/libbase64/-/libbase64-1.0.2.tgz",
+			"sha": "2ff13ffe69b1e40159f49368e30d0dd8bb1635b5",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {
+		"libbase64-0.1.0.tgz": {
+			"shasum": "62351a839563ac5ff5bd26f12f60e9830bb751e6"
+		}
+	},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "\"5a8e7906-2326\"",
+			"fetched": 1519912118854
+		}
+	},
+	"_rev": "7-b9f37c35e53067fc",
+	"readme": "# libbase64\n\nEncode and decode base64 strings.\n\n## Usage\n\nInstall with npm\n\n    npm install libbase64\n\nRequire in your script\n\n```javascript\nconst libbase64 = require('libbase64');\n```\n\n### Encode values\n\nEncode Buffer objects or unicode strings with\n\n    libbase64.encode(val) → String\n\nWhere\n\n* **val** is a Buffer or an unicode string\n\n**Example**\n\n```javascript\nlibbase64.encode('jõgeva');\n// asO1Z2V2YQ==\n```\n\n### Wrap encoded values\n\nTo enforce soft line breaks on lines longer than selected amount of characters, use `wrap`\n\n    libbase64.wrap(str[, lineLength]) → String\n\nWhere\n\n* **str** is a base64 encoded string\n* **lineLength** (defaults to 76) is the maximum allowed line length\n\n**Example**\n\n```javascript\nlibbase64.wrap('asO1Z2V2asO1Z2V2asO1Z2V2YQ==', 10);\n// asO1Z2V2as\\r\\n\n// O1Z2V2asO1\\r\\n\n// Z2V2YQ==\n```\n\n### Transform Streams\n\n`libbase64` makes it possible to encode and decode streams with `libbase64.Encoder` and `libbase64.Decoder` constructors.\n\n### Encoder Stream\n\nCreate new Encoder Stream with\n\n    const encoder = new libbase64.Encoder([options])\n\nWhere\n\n* **options** is the optional stream options object with an additional option `lineLength` if you want to use any other line length than the default 76\n  characters (or set to `false` to turn the soft wrapping off completely)\n\n**Example**\n\nThe following example script reads in a file, encodes it to base64 and saves the output to a file.\n\n```javascript\nconst libbase64 = require('libbase64');\nconst fs = require('fs');\nconst source = fs.createReadStream('source.txt');\nconst encoded = fs.createReadStream('encoded.txt');\nconst encoder = new libbase64.Encoder();\n\nsource.pipe(encoder).pipe(encoded);\n```\n\n### Decoder Stream\n\nCreate new Decoder Stream with\n\n    const decoder = new libbase64.Decoder([options])\n\nWhere\n\n* **options** is the optional stream options object\n\n**Example**\n\nThe following example script reads in a file in base64 encoding, decodes it and saves the output to a file.\n\n```javascript\nconst libbase64 = require('libbase64');\nconst fs = require('fs');\nconst encoded = fs.createReadStream('encoded.txt');\nconst dest = fs.createReadStream('dest.txt');\nconst decoder = new libbase64.Decoder();\n\nencoded.pipe(decoder).pipe(dest);\n```\n\n## License\n\n**MIT**\n"
+}

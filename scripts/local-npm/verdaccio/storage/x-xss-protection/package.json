@@ -1,0 +1,382 @@
+{
+	"name": "x-xss-protection",
+	"versions": {
+		"0.1.0": {
+			"name": "x-xss-protection",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "Middleware to set the X-XSS-Protection header",
+			"version": "0.1.0",
+			"keywords": [
+				"helmet",
+				"security",
+				"express",
+				"connect",
+				"xss",
+				"x-xss-protection"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/x-xss-protection.git"
+			},
+			"bugs": {
+				"url": "https://github.com/helmetjs/x-xss-protection/issues"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"devDependencies": {
+				"connect": "^3.3.1",
+				"mocha": "^2.0.1",
+				"supertest": "^0.14.0"
+			},
+			"dependencies": {
+				"platform": "1.2.0"
+			},
+			"gitHead": "c236fcf4af4f7be66f908bb2f43514da261999d6",
+			"homepage": "https://github.com/helmetjs/x-xss-protection",
+			"_id": "x-xss-protection@0.1.0",
+			"_shasum": "57357bd54a8eb578e08e8c66f0083d37b2f73280",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "57357bd54a8eb578e08e8c66f0083d37b2f73280",
+				"tarball": "https://registry.npmjs.org/x-xss-protection/-/x-xss-protection-0.1.0.tgz"
+			},
+			"directories": {}
+		},
+		"0.1.1": {
+			"name": "x-xss-protection",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "Middleware to set the X-XSS-Protection header",
+			"version": "0.1.1",
+			"keywords": [
+				"helmet",
+				"security",
+				"express",
+				"connect",
+				"xss",
+				"x-xss-protection"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/x-xss-protection.git"
+			},
+			"bugs": {
+				"url": "https://github.com/helmetjs/x-xss-protection/issues"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"devDependencies": {
+				"connect": "^3.3.1",
+				"mocha": "^2.0.1",
+				"supertest": "^0.14.0"
+			},
+			"dependencies": {
+				"platform": "1.3.0"
+			},
+			"gitHead": "3d6ae4f6c87406211117057a2f127b0ed7bef7f6",
+			"homepage": "https://github.com/helmetjs/x-xss-protection",
+			"_id": "x-xss-protection@0.1.1",
+			"_shasum": "0a85cb13c21575cd7fa596f973a8d1e0cb6e55e6",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "0a85cb13c21575cd7fa596f973a8d1e0cb6e55e6",
+				"tarball": "https://registry.npmjs.org/x-xss-protection/-/x-xss-protection-0.1.1.tgz"
+			},
+			"directories": {}
+		},
+		"0.1.2": {
+			"name": "x-xss-protection",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "Middleware to set the X-XSS-Protection header",
+			"version": "0.1.2",
+			"keywords": [
+				"helmet",
+				"security",
+				"express",
+				"connect",
+				"xss",
+				"x-xss-protection"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/x-xss-protection.git"
+			},
+			"bugs": {
+				"url": "https://github.com/helmetjs/x-xss-protection/issues"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"devDependencies": {
+				"async": "^0.9.0",
+				"connect": "^3.3.1",
+				"mocha": "^2.0.1",
+				"rfile": "^1.0.0",
+				"supertest": "^0.15.0"
+			},
+			"gitHead": "824fd5d959068ef474d39ca8bbbeed0290c5bf0f",
+			"homepage": "https://github.com/helmetjs/x-xss-protection",
+			"_id": "x-xss-protection@0.1.2",
+			"_shasum": "4ab3197e66ae133588eff8fcbc9f4347b8d02c73",
+			"_from": ".",
+			"_npmVersion": "2.5.1",
+			"_nodeVersion": "0.12.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "4ab3197e66ae133588eff8fcbc9f4347b8d02c73",
+				"tarball": "https://registry.npmjs.org/x-xss-protection/-/x-xss-protection-0.1.2.tgz"
+			},
+			"directories": {}
+		},
+		"0.2.0": {
+			"name": "x-xss-protection",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "Middleware to set the X-XSS-Protection header",
+			"version": "0.2.0",
+			"keywords": [
+				"helmet",
+				"security",
+				"express",
+				"connect",
+				"xss",
+				"x-xss-protection"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/x-xss-protection.git"
+			},
+			"bugs": {
+				"url": "https://github.com/helmetjs/x-xss-protection/issues"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"devDependencies": {
+				"async": "^0.9.0",
+				"connect": "^3.3.1",
+				"mocha": "^2.0.1",
+				"rfile": "^1.0.0",
+				"supertest": "^0.15.0"
+			},
+			"gitHead": "b1a568c8fd148aed40cdbcdc8d2b9e595aa3ddc8",
+			"homepage": "https://github.com/helmetjs/x-xss-protection#readme",
+			"_id": "x-xss-protection@0.2.0",
+			"_shasum": "cf5047ba4960c64488edcb24ad0f965170bd81b3",
+			"_from": ".",
+			"_npmVersion": "2.14.7",
+			"_nodeVersion": "4.2.1",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"dist": {
+				"shasum": "cf5047ba4960c64488edcb24ad0f965170bd81b3",
+				"tarball": "https://registry.npmjs.org/x-xss-protection/-/x-xss-protection-0.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"directories": {}
+		},
+		"1.0.0": {
+			"name": "x-xss-protection",
+			"author": {
+				"name": "Adam Baldwin",
+				"email": "baldwin@andyet.net",
+				"url": "http://andyet.net/team/baldwin"
+			},
+			"contributors": [
+				{
+					"name": "Evan Hahn",
+					"email": "me@evanhahn.com",
+					"url": "http://evanhahn.com"
+				}
+			],
+			"description": "Middleware to set the X-XSS-Protection header",
+			"version": "1.0.0",
+			"license": "MIT",
+			"keywords": [
+				"helmet",
+				"security",
+				"express",
+				"connect",
+				"xss",
+				"x-xss-protection"
+			],
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/helmetjs/x-xss-protection.git"
+			},
+			"bugs": {
+				"url": "https://github.com/helmetjs/x-xss-protection/issues"
+			},
+			"scripts": {
+				"test": "standard && mocha"
+			},
+			"devDependencies": {
+				"async": "^1.5.0",
+				"connect": "^3.3.1",
+				"mocha": "^2.3.4",
+				"rfile": "^1.0.0",
+				"standard": "^5.4.1",
+				"supertest": "^1.1.0"
+			},
+			"standard": {
+				"globals": [
+					"describe",
+					"beforeEach",
+					"it"
+				]
+			},
+			"gitHead": "203b4427be2edfa69bb81c0b1e8a8160ce134074",
+			"homepage": "https://github.com/helmetjs/x-xss-protection#readme",
+			"_id": "x-xss-protection@1.0.0",
+			"_shasum": "898afb93869b24661cf9c52f9ee8db8ed0764dd9",
+			"_from": ".",
+			"_npmVersion": "3.5.3",
+			"_nodeVersion": "5.3.0",
+			"_npmUser": {
+				"name": "evanhahn",
+				"email": "me@evanhahn.com"
+			},
+			"maintainers": [
+				{
+					"name": "evanhahn",
+					"email": "me@evanhahn.com"
+				}
+			],
+			"dist": {
+				"shasum": "898afb93869b24661cf9c52f9ee8db8ed0764dd9",
+				"tarball": "https://registry.npmjs.org/x-xss-protection/-/x-xss-protection-1.0.0.tgz"
+			},
+			"directories": {}
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.0"
+	},
+	"time": {
+		"modified": "2017-10-15T20:07:20.779Z",
+		"created": "2014-10-28T15:04:50.693Z",
+		"0.1.0": "2014-10-28T15:04:50.693Z",
+		"0.1.1": "2014-12-08T13:19:07.634Z",
+		"0.1.2": "2015-03-01T19:51:39.103Z",
+		"0.2.0": "2015-10-23T17:30:31.105Z",
+		"1.0.0": "2015-12-18T19:48:15.677Z"
+	},
+	"_distfiles": {
+		"x-xss-protection-0.1.0.tgz": {
+			"url": "https://registry.npmjs.org/x-xss-protection/-/x-xss-protection-0.1.0.tgz",
+			"sha": "57357bd54a8eb578e08e8c66f0083d37b2f73280",
+			"registry": "npmjs"
+		},
+		"x-xss-protection-0.1.1.tgz": {
+			"url": "https://registry.npmjs.org/x-xss-protection/-/x-xss-protection-0.1.1.tgz",
+			"sha": "0a85cb13c21575cd7fa596f973a8d1e0cb6e55e6",
+			"registry": "npmjs"
+		},
+		"x-xss-protection-0.1.2.tgz": {
+			"url": "https://registry.npmjs.org/x-xss-protection/-/x-xss-protection-0.1.2.tgz",
+			"sha": "4ab3197e66ae133588eff8fcbc9f4347b8d02c73",
+			"registry": "npmjs"
+		},
+		"x-xss-protection-0.2.0.tgz": {
+			"url": "https://registry.npmjs.org/x-xss-protection/-/x-xss-protection-0.2.0.tgz",
+			"sha": "cf5047ba4960c64488edcb24ad0f965170bd81b3",
+			"registry": "npmjs"
+		},
+		"x-xss-protection-1.0.0.tgz": {
+			"url": "https://registry.npmjs.org/x-xss-protection/-/x-xss-protection-1.0.0.tgz",
+			"sha": "898afb93869b24661cf9c52f9ee8db8ed0764dd9",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "\"59e3bff8-21ab\"",
+			"fetched": 1519837507960
+		}
+	},
+	"_rev": "1-fdad9035c73d854d",
+	"readme": "X-XSS-Protection middleware\n===========================\n[![Build Status](https://travis-ci.org/helmetjs/x-xss-protection.svg?branch=master)](https://travis-ci.org/helmetjs/x-xss-protection)\n[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)\n\nThe `X-XSS-Protection` HTTP header is a basic protection against XSS. It was originally [by Microsoft](http://blogs.msdn.com/b/ieinternals/archive/2011/01/31/controlling-the-internet-explorer-xss-filter-with-the-x-xss-protection-http-header.aspx) but Chrome has since adopted it as well.\n\nThis middleware sets the `X-XSS-Protection` header. On modern browsers, it will set the value to `1; mode=block`. On old versions of Internet Explorer, this creates a vulnerability (see [here](http://hackademix.net/2009/11/21/ies-xss-filter-creates-xss-vulnerabilities/) and [here](http://technet.microsoft.com/en-us/security/bulletin/MS10-002)), and so the header is set to `0` to disable it.\n\nTo use this middleware:\n\n```javascript\nvar xssFilter = require('x-xss-protection')\napp.use(xssFilter())\n```\n\nTo force the header to be set to `1; mode=block` on all versions of IE, add the option:\n\n```javascript\napp.use(xssFilter({ setOnOldIE: true }))\n// This has some security problems for old IE!\n```\n"
+}

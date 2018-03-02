@@ -1,0 +1,2713 @@
+{
+	"name": "proxyquire",
+	"versions": {
+		"0.0.2": {
+			"name": "proxyquire",
+			"version": "0.0.2",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "proxyquire.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://www.opensource.org/licenses/mit-license.php"
+				}
+			],
+			"devDependencies": {
+				"mocha": "1.3.x",
+				"should": "0.6.x"
+			},
+			"_id": "proxyquire@0.0.2",
+			"dist": {
+				"shasum": "8074b9d46242812d66a389d39ea932ebdd9fae32",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-0.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				}
+			],
+			"directories": {}
+		},
+		"0.1.0": {
+			"name": "proxyquire",
+			"version": "0.1.0",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "proxyquire.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://www.opensource.org/licenses/mit-license.php"
+				}
+			],
+			"devDependencies": {
+				"mocha": "1.3.x",
+				"should": "0.6.x"
+			},
+			"_id": "proxyquire@0.1.0",
+			"dist": {
+				"shasum": "0b6c7028ab94c99c654fc8084448f06c453f8343",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-0.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				}
+			],
+			"directories": {}
+		},
+		"0.1.1": {
+			"name": "proxyquire",
+			"version": "0.1.1",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "proxyquire.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://www.opensource.org/licenses/mit-license.php"
+				}
+			],
+			"devDependencies": {
+				"mocha": "1.3.x",
+				"should": "0.6.x"
+			},
+			"_id": "proxyquire@0.1.1",
+			"dist": {
+				"shasum": "5083784489b02dac1ce700752ad926195037f0c2",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-0.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				}
+			],
+			"directories": {}
+		},
+		"0.2.0": {
+			"name": "proxyquire",
+			"version": "0.2.0",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "proxyquire.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://www.opensource.org/licenses/mit-license.php"
+				}
+			],
+			"devDependencies": {
+				"mocha": "1.3.x",
+				"should": "0.6.x"
+			},
+			"_id": "proxyquire@0.2.0",
+			"dist": {
+				"shasum": "2f069e9aaa73c92b5f73ee3f916a054098577ec3",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-0.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				}
+			],
+			"directories": {}
+		},
+		"0.2.1": {
+			"name": "proxyquire",
+			"version": "0.2.1",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "proxyquire.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://www.opensource.org/licenses/mit-license.php"
+				}
+			],
+			"devDependencies": {
+				"mocha": "1.3.x",
+				"should": "0.6.x"
+			},
+			"_id": "proxyquire@0.2.1",
+			"dist": {
+				"shasum": "9e797ac268def4bd42bd1329658a69475859a87d",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-0.2.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				}
+			],
+			"directories": {}
+		},
+		"0.3.0": {
+			"name": "proxyquire",
+			"version": "0.3.0",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "proxyquire.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://www.opensource.org/licenses/mit-license.php"
+				}
+			],
+			"devDependencies": {
+				"mocha": "1.3.x",
+				"should": "0.6.x"
+			},
+			"_id": "proxyquire@0.3.0",
+			"dist": {
+				"shasum": "3cb50d3721ece19006428f98dc13c96269483b94",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-0.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				}
+			],
+			"directories": {}
+		},
+		"0.3.1": {
+			"name": "proxyquire",
+			"version": "0.3.1",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "proxyquire.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://www.opensource.org/licenses/mit-license.php"
+				}
+			],
+			"devDependencies": {
+				"mocha": "1.3.x",
+				"should": "0.6.x",
+				"sinon": "~1.4.2"
+			},
+			"_id": "proxyquire@0.3.1",
+			"dist": {
+				"shasum": "eef358681d0b4ce02e44092e85019c482c2e48cc",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-0.3.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				}
+			],
+			"directories": {}
+		},
+		"0.3.2": {
+			"name": "proxyquire",
+			"version": "0.3.2",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "proxyquire.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://www.opensource.org/licenses/mit-license.php"
+				}
+			],
+			"devDependencies": {
+				"mocha": "1.3.x",
+				"should": "0.6.x",
+				"sinon": "~1.4.2"
+			},
+			"_id": "proxyquire@0.3.2",
+			"dist": {
+				"shasum": "54e1920c409799ea2f05b04f7e5683bad0db1794",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-0.3.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				}
+			],
+			"directories": {}
+		},
+		"0.3.3": {
+			"name": "proxyquire",
+			"version": "0.3.3",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "proxyquire.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://www.opensource.org/licenses/mit-license.php"
+				}
+			],
+			"devDependencies": {
+				"mocha": "1.3.x",
+				"should": "0.6.x",
+				"sinon": "~1.4.2"
+			},
+			"_id": "proxyquire@0.3.3",
+			"dist": {
+				"shasum": "0b2c88464db530f9e6ef260395a684a5fa75a579",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-0.3.3.tgz"
+			},
+			"_npmVersion": "1.1.59",
+			"_npmUser": {
+				"name": "thlorenz",
+				"email": "thlorenz@gmx.de"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				}
+			],
+			"directories": {}
+		},
+		"0.3.4": {
+			"name": "proxyquire",
+			"version": "0.3.4",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "proxyquire.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://www.opensource.org/licenses/mit-license.php"
+				}
+			],
+			"devDependencies": {
+				"mocha": "1.3.x",
+				"should": "0.6.x",
+				"sinon": "~1.4.2"
+			},
+			"_id": "proxyquire@0.3.4",
+			"dist": {
+				"shasum": "38df14cae65b1de8bebb1fb75281647548a98f4b",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-0.3.4.tgz"
+			},
+			"_npmVersion": "1.1.59",
+			"_npmUser": {
+				"name": "thlorenz",
+				"email": "thlorenz@gmx.de"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				}
+			],
+			"directories": {}
+		},
+		"0.3.5": {
+			"name": "proxyquire",
+			"version": "0.3.5",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "proxyquire.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://www.opensource.org/licenses/mit-license.php"
+				}
+			],
+			"devDependencies": {
+				"mocha": "1.3.x",
+				"should": "0.6.x",
+				"sinon": "~1.4.2"
+			},
+			"_id": "proxyquire@0.3.5",
+			"dist": {
+				"shasum": "2816fd82336bb98801e21de39c6f271099514f71",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-0.3.5.tgz"
+			},
+			"_npmVersion": "1.1.65",
+			"_npmUser": {
+				"name": "thlorenz",
+				"email": "thlorenz@gmx.de"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				}
+			],
+			"directories": {}
+		},
+		"0.4.0": {
+			"name": "proxyquire",
+			"version": "0.4.0",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://www.opensource.org/licenses/mit-license.php"
+				}
+			],
+			"devDependencies": {
+				"mocha": "1.3.x",
+				"should": "0.6.x",
+				"sinon": "~1.4.2"
+			},
+			"_id": "proxyquire@0.4.0",
+			"dist": {
+				"shasum": "9ccc9fa065a4a66ca952c0f790515e5ea0ddde0e",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-0.4.0.tgz"
+			},
+			"_npmVersion": "1.1.69",
+			"_npmUser": {
+				"name": "thlorenz",
+				"email": "thlorenz@gmx.de"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				}
+			],
+			"directories": {}
+		},
+		"0.4.1": {
+			"name": "proxyquire",
+			"version": "0.4.1",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://www.opensource.org/licenses/mit-license.php"
+				}
+			],
+			"devDependencies": {
+				"mocha": "1.3.x",
+				"should": "0.6.x",
+				"sinon": "~1.4.2"
+			},
+			"_id": "proxyquire@0.4.1",
+			"dist": {
+				"shasum": "6642631274dd3c54d71141ff92d59ec7acf18254",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-0.4.1.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.2.14",
+			"_npmUser": {
+				"name": "thlorenz",
+				"email": "thlorenz@gmx.de"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				}
+			],
+			"directories": {}
+		},
+		"0.5.0": {
+			"name": "proxyquire",
+			"version": "0.5.0",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://github.com/thlorenz/proxyquire/blob/master/LICENSE"
+				}
+			],
+			"devDependencies": {
+				"mocha": "1.3.x",
+				"should": "0.6.x",
+				"sinon": "~1.4.2"
+			},
+			"bugs": {
+				"url": "https://github.com/thlorenz/proxyquire/issues"
+			},
+			"_id": "proxyquire@0.5.0",
+			"dist": {
+				"shasum": "a9a1507706f88e0bfb65866044688ca609988849",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-0.5.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.5",
+			"_npmUser": {
+				"name": "thlorenz",
+				"email": "thlorenz@gmx.de"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				}
+			],
+			"directories": {}
+		},
+		"0.5.1": {
+			"name": "proxyquire",
+			"version": "0.5.1",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"injection",
+				"di",
+				"inject",
+				"swap",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://github.com/thlorenz/proxyquire/blob/master/LICENSE"
+				}
+			],
+			"devDependencies": {
+				"mocha": "1.3.x",
+				"should": "0.6.x",
+				"sinon": "~1.4.2"
+			},
+			"bugs": {
+				"url": "https://github.com/thlorenz/proxyquire/issues"
+			},
+			"_id": "proxyquire@0.5.1",
+			"dist": {
+				"shasum": "ead9dc832eb5cb21cb411caed4540164238845f0",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-0.5.1.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.5",
+			"_npmUser": {
+				"name": "thlorenz",
+				"email": "thlorenz@gmx.de"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				}
+			],
+			"directories": {}
+		},
+		"0.5.2": {
+			"name": "proxyquire",
+			"version": "0.5.2",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"injection",
+				"di",
+				"inject",
+				"swap",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://github.com/thlorenz/proxyquire/blob/master/LICENSE"
+				}
+			],
+			"devDependencies": {
+				"mocha": "1.3.x",
+				"should": "0.6.x",
+				"sinon": "~1.4.2"
+			},
+			"bugs": {
+				"url": "https://github.com/thlorenz/proxyquire/issues"
+			},
+			"homepage": "https://github.com/thlorenz/proxyquire",
+			"_id": "proxyquire@0.5.2",
+			"dist": {
+				"shasum": "003a97006eb5743a235c852f16ebd9213e8478dd",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-0.5.2.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.17",
+			"_npmUser": {
+				"name": "thlorenz",
+				"email": "thlorenz@gmx.de"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				}
+			],
+			"directories": {}
+		},
+		"0.5.3": {
+			"name": "proxyquire",
+			"version": "0.5.3",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"injection",
+				"di",
+				"inject",
+				"swap",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://github.com/thlorenz/proxyquire/blob/master/LICENSE"
+				}
+			],
+			"devDependencies": {
+				"mocha": "1.3.x",
+				"should": "0.6.x",
+				"sinon": "~1.4.2"
+			},
+			"bugs": {
+				"url": "https://github.com/thlorenz/proxyquire/issues"
+			},
+			"homepage": "https://github.com/thlorenz/proxyquire",
+			"_id": "proxyquire@0.5.3",
+			"dist": {
+				"shasum": "8317a550a4c40db716ebff566fe8cdc35504c4e5",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-0.5.3.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.4.3",
+			"_npmUser": {
+				"name": "thlorenz",
+				"email": "thlorenz@gmx.de"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				}
+			],
+			"directories": {}
+		},
+		"0.6.0": {
+			"name": "proxyquire",
+			"version": "0.6.0",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"injection",
+				"di",
+				"inject",
+				"swap",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://github.com/thlorenz/proxyquire/blob/master/LICENSE"
+				}
+			],
+			"devDependencies": {
+				"mocha": "1.3.x",
+				"should": "0.6.x",
+				"sinon": "~1.4.2"
+			},
+			"bugs": {
+				"url": "https://github.com/thlorenz/proxyquire/issues"
+			},
+			"homepage": "https://github.com/thlorenz/proxyquire",
+			"_id": "proxyquire@0.6.0",
+			"dist": {
+				"shasum": "226940c5c0926c36c1a22834085ffc44145cb855",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-0.6.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.4.6",
+			"_npmUser": {
+				"name": "thlorenz",
+				"email": "thlorenz@gmx.de"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				}
+			],
+			"directories": {}
+		},
+		"1.0.0": {
+			"name": "proxyquire",
+			"version": "1.0.0",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"injection",
+				"di",
+				"inject",
+				"swap",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://github.com/thlorenz/proxyquire/blob/master/LICENSE"
+				}
+			],
+			"devDependencies": {
+				"mocha": "~1.18",
+				"should": "~3.3",
+				"sinon": "~1.9"
+			},
+			"bugs": {
+				"url": "https://github.com/thlorenz/proxyquire/issues"
+			},
+			"homepage": "https://github.com/thlorenz/proxyquire",
+			"_id": "proxyquire@1.0.0",
+			"dist": {
+				"shasum": "894ad89067d976d1e70aadfa7d2d1980d8aebfe0",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.0.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.4.6",
+			"_npmUser": {
+				"name": "thlorenz",
+				"email": "thlorenz@gmx.de"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				}
+			],
+			"directories": {}
+		},
+		"1.0.1": {
+			"name": "proxyquire",
+			"version": "1.0.1",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"injection",
+				"di",
+				"inject",
+				"swap",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://github.com/thlorenz/proxyquire/blob/master/LICENSE"
+				}
+			],
+			"devDependencies": {
+				"mocha": "~1.18",
+				"should": "~3.3",
+				"sinon": "~1.9"
+			},
+			"bugs": {
+				"url": "https://github.com/thlorenz/proxyquire/issues"
+			},
+			"homepage": "https://github.com/thlorenz/proxyquire",
+			"_id": "proxyquire@1.0.1",
+			"_shasum": "c28e84b145b271b634bad861299f8c17540d3ef1",
+			"_from": ".",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "thlorenz",
+				"email": "thlorenz@gmx.de"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				}
+			],
+			"dist": {
+				"shasum": "c28e84b145b271b634bad861299f8c17540d3ef1",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.0.1.tgz"
+			},
+			"directories": {}
+		},
+		"1.1.0": {
+			"name": "proxyquire",
+			"version": "1.1.0",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"injection",
+				"di",
+				"inject",
+				"swap",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://github.com/thlorenz/proxyquire/blob/master/LICENSE"
+				}
+			],
+			"devDependencies": {
+				"mocha": "~1.18",
+				"should": "~3.3",
+				"sinon": "~1.9"
+			},
+			"gitHead": "37a356190e20677872c4ab1e026afe2f68a8a066",
+			"bugs": {
+				"url": "https://github.com/thlorenz/proxyquire/issues"
+			},
+			"homepage": "https://github.com/thlorenz/proxyquire",
+			"_id": "proxyquire@1.1.0",
+			"_shasum": "cd1ce56fcc1bf8973a09c2a2165a54a7b551a6fe",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "thlorenz",
+				"email": "thlorenz@gmx.de"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				}
+			],
+			"dist": {
+				"shasum": "cd1ce56fcc1bf8973a09c2a2165a54a7b551a6fe",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.1.0.tgz"
+			},
+			"directories": {}
+		},
+		"1.2.0": {
+			"name": "proxyquire",
+			"version": "1.2.0",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"injection",
+				"di",
+				"inject",
+				"swap",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://github.com/thlorenz/proxyquire/blob/master/LICENSE"
+				}
+			],
+			"devDependencies": {
+				"mocha": "~1.18",
+				"should": "~3.3",
+				"sinon": "~1.9"
+			},
+			"gitHead": "24e0d7b7c64623d9d314554b8f299fad60d9f7c9",
+			"bugs": {
+				"url": "https://github.com/thlorenz/proxyquire/issues"
+			},
+			"homepage": "https://github.com/thlorenz/proxyquire",
+			"_id": "proxyquire@1.2.0",
+			"_shasum": "9d1e64e18214b52e6861c676d9f90778b8fee38a",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "thlorenz",
+				"email": "thlorenz@gmx.de"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				}
+			],
+			"dist": {
+				"shasum": "9d1e64e18214b52e6861c676d9f90778b8fee38a",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.2.0.tgz"
+			},
+			"directories": {}
+		},
+		"1.3.0": {
+			"name": "proxyquire",
+			"version": "1.3.0",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"injection",
+				"di",
+				"inject",
+				"swap",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://github.com/thlorenz/proxyquire/blob/master/LICENSE"
+				}
+			],
+			"devDependencies": {
+				"mocha": "~1.18",
+				"should": "~3.3",
+				"sinon": "~1.9"
+			},
+			"gitHead": "b54f1767b0577a1b7058769a4653864b5662b203",
+			"bugs": {
+				"url": "https://github.com/thlorenz/proxyquire/issues"
+			},
+			"homepage": "https://github.com/thlorenz/proxyquire",
+			"_id": "proxyquire@1.3.0",
+			"_shasum": "0a894564311880172266a364d7501c3a247d4c4b",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "thlorenz",
+				"email": "thlorenz@gmx.de"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				}
+			],
+			"dist": {
+				"shasum": "0a894564311880172266a364d7501c3a247d4c4b",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.3.0.tgz"
+			},
+			"directories": {}
+		},
+		"1.3.1": {
+			"name": "proxyquire",
+			"version": "1.3.1",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"injection",
+				"di",
+				"inject",
+				"swap",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://github.com/thlorenz/proxyquire/blob/master/LICENSE"
+				}
+			],
+			"devDependencies": {
+				"mocha": "~1.18",
+				"should": "~3.3",
+				"sinon": "~1.9"
+			},
+			"gitHead": "6b6c7d99e7b10501c1867165296a0ed50a706218",
+			"bugs": {
+				"url": "https://github.com/thlorenz/proxyquire/issues"
+			},
+			"homepage": "https://github.com/thlorenz/proxyquire",
+			"_id": "proxyquire@1.3.1",
+			"_shasum": "11079c0b1d91f80ef8cf7a61c650cd07bb45d93a",
+			"_from": ".",
+			"_npmVersion": "2.0.0",
+			"_npmUser": {
+				"name": "thlorenz",
+				"email": "thlorenz@gmx.de"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				}
+			],
+			"dist": {
+				"shasum": "11079c0b1d91f80ef8cf7a61c650cd07bb45d93a",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.3.1.tgz"
+			},
+			"directories": {}
+		},
+		"1.3.2": {
+			"name": "proxyquire",
+			"version": "1.3.2",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"injection",
+				"di",
+				"inject",
+				"swap",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://github.com/thlorenz/proxyquire/blob/master/LICENSE"
+				}
+			],
+			"devDependencies": {
+				"mocha": "~1.18",
+				"should": "~3.3",
+				"sinon": "~1.9"
+			},
+			"gitHead": "3d1eb8f9b333a85a3dd1cbc069446fcaf49ec55d",
+			"bugs": {
+				"url": "https://github.com/thlorenz/proxyquire/issues"
+			},
+			"homepage": "https://github.com/thlorenz/proxyquire",
+			"_id": "proxyquire@1.3.2",
+			"_shasum": "d6e801ac00b0c05efb20947ba34738b5aa02f48d",
+			"_from": ".",
+			"_npmVersion": "2.6.1",
+			"_nodeVersion": "1.4.2",
+			"_npmUser": {
+				"name": "thlorenz",
+				"email": "thlorenz@gmx.de"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				}
+			],
+			"dist": {
+				"shasum": "d6e801ac00b0c05efb20947ba34738b5aa02f48d",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.3.2.tgz"
+			},
+			"directories": {}
+		},
+		"1.4.0": {
+			"name": "proxyquire",
+			"version": "1.4.0",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"injection",
+				"di",
+				"inject",
+				"swap",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://github.com/thlorenz/proxyquire/blob/master/LICENSE"
+				}
+			],
+			"devDependencies": {
+				"mocha": "~1.18",
+				"should": "~3.3",
+				"sinon": "~1.9"
+			},
+			"gitHead": "777993c9b5bfae1222561f30262a9b2960f54996",
+			"bugs": {
+				"url": "https://github.com/thlorenz/proxyquire/issues"
+			},
+			"homepage": "https://github.com/thlorenz/proxyquire",
+			"_id": "proxyquire@1.4.0",
+			"_shasum": "bd1f641ae1ef3a5fd2a9faffba7dc410eebda92c",
+			"_from": ".",
+			"_npmVersion": "2.6.1",
+			"_nodeVersion": "1.4.2",
+			"_npmUser": {
+				"name": "thlorenz",
+				"email": "thlorenz@gmx.de"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				}
+			],
+			"dist": {
+				"shasum": "bd1f641ae1ef3a5fd2a9faffba7dc410eebda92c",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.4.0.tgz"
+			},
+			"directories": {}
+		},
+		"1.5.0": {
+			"name": "proxyquire",
+			"version": "1.5.0",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"injection",
+				"di",
+				"inject",
+				"swap",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://github.com/thlorenz/proxyquire/blob/master/LICENSE"
+				}
+			],
+			"devDependencies": {
+				"mocha": "~1.18",
+				"should": "~3.3",
+				"sinon": "~1.9"
+			},
+			"dependencies": {
+				"fill-keys": "^1.0.0"
+			},
+			"gitHead": "1c1d327b3175c2ef9cdc6a902fb7d9ae7ff19b38",
+			"bugs": {
+				"url": "https://github.com/thlorenz/proxyquire/issues"
+			},
+			"homepage": "https://github.com/thlorenz/proxyquire",
+			"_id": "proxyquire@1.5.0",
+			"_shasum": "1ea87f83e46f45dd1c3f7c4d03abf225e9df3f02",
+			"_from": ".",
+			"_npmVersion": "2.9.0",
+			"_nodeVersion": "2.0.2",
+			"_npmUser": {
+				"name": "thlorenz",
+				"email": "thlorenz@gmx.de"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				}
+			],
+			"dist": {
+				"shasum": "1ea87f83e46f45dd1c3f7c4d03abf225e9df3f02",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.5.0.tgz"
+			},
+			"directories": {}
+		},
+		"1.6.0": {
+			"name": "proxyquire",
+			"version": "1.6.0",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"injection",
+				"di",
+				"inject",
+				"swap",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"license": "SEE LICENSE IN LICENSE",
+			"devDependencies": {
+				"mocha": "~1.18",
+				"should": "~3.3",
+				"sinon": "~1.9"
+			},
+			"dependencies": {
+				"fill-keys": "^1.0.0",
+				"module-not-found-error": "^1.0.0"
+			},
+			"gitHead": "d96e4d8bcdce42cb997fed4172b869dbd9f7d7ee",
+			"bugs": {
+				"url": "https://github.com/thlorenz/proxyquire/issues"
+			},
+			"homepage": "https://github.com/thlorenz/proxyquire",
+			"_id": "proxyquire@1.6.0",
+			"_shasum": "bc642dae32b2e94df748d5e481abd816e6b2d3aa",
+			"_from": ".",
+			"_npmVersion": "2.9.0",
+			"_nodeVersion": "2.0.1",
+			"_npmUser": {
+				"name": "thlorenz",
+				"email": "thlorenz@gmx.de"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				}
+			],
+			"dist": {
+				"shasum": "bc642dae32b2e94df748d5e481abd816e6b2d3aa",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.6.0.tgz"
+			},
+			"directories": {}
+		},
+		"1.7.0": {
+			"name": "proxyquire",
+			"version": "1.7.0",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"injection",
+				"di",
+				"inject",
+				"swap",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"license": "SEE LICENSE IN LICENSE",
+			"devDependencies": {
+				"mocha": "~1.18",
+				"should": "~3.3",
+				"sinon": "~1.9"
+			},
+			"dependencies": {
+				"fill-keys": "^1.0.0",
+				"module-not-found-error": "^1.0.0"
+			},
+			"gitHead": "2c6cc0d83efad09eeb3e1b6f3db5f22831f9f5da",
+			"bugs": {
+				"url": "https://github.com/thlorenz/proxyquire/issues"
+			},
+			"homepage": "https://github.com/thlorenz/proxyquire#readme",
+			"_id": "proxyquire@1.7.0",
+			"_shasum": "bd85c30c19fe37534ae4ef01106e3d8bd92dc6fe",
+			"_from": ".",
+			"_npmVersion": "2.13.5",
+			"_nodeVersion": "2.3.3",
+			"_npmUser": {
+				"name": "bendrucker",
+				"email": "bvdrucker@gmail.com"
+			},
+			"dist": {
+				"shasum": "bd85c30c19fe37534ae4ef01106e3d8bd92dc6fe",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.7.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				},
+				{
+					"name": "bendrucker",
+					"email": "bvdrucker@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"1.7.1": {
+			"name": "proxyquire",
+			"version": "1.7.1",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"injection",
+				"di",
+				"inject",
+				"swap",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"license": "SEE LICENSE IN LICENSE",
+			"devDependencies": {
+				"mocha": "~1.18",
+				"should": "~3.3",
+				"sinon": "~1.9"
+			},
+			"dependencies": {
+				"fill-keys": "^1.0.0",
+				"module-not-found-error": "^1.0.0"
+			},
+			"gitHead": "bc5b1db96858e8ee158bc3c845cfef3ec4651ec0",
+			"bugs": {
+				"url": "https://github.com/thlorenz/proxyquire/issues"
+			},
+			"homepage": "https://github.com/thlorenz/proxyquire#readme",
+			"_id": "proxyquire@1.7.1",
+			"_shasum": "8ca11818e130daefaff21cf924fad783b1b72728",
+			"_from": ".",
+			"_npmVersion": "2.13.5",
+			"_nodeVersion": "2.2.1",
+			"_npmUser": {
+				"name": "bendrucker",
+				"email": "bvdrucker@gmail.com"
+			},
+			"dist": {
+				"shasum": "8ca11818e130daefaff21cf924fad783b1b72728",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.7.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				},
+				{
+					"name": "bendrucker",
+					"email": "bvdrucker@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"1.7.2": {
+			"name": "proxyquire",
+			"version": "1.7.2",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"injection",
+				"di",
+				"inject",
+				"swap",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"license": "SEE LICENSE IN LICENSE",
+			"devDependencies": {
+				"mocha": "~1.18",
+				"should": "~3.3",
+				"sinon": "~1.9"
+			},
+			"dependencies": {
+				"fill-keys": "^1.0.0",
+				"module-not-found-error": "^1.0.0"
+			},
+			"gitHead": "2f6f0066b4a4783aadbb5eacd7c529c695fca808",
+			"bugs": {
+				"url": "https://github.com/thlorenz/proxyquire/issues"
+			},
+			"homepage": "https://github.com/thlorenz/proxyquire#readme",
+			"_id": "proxyquire@1.7.2",
+			"_shasum": "40783e3e572214d9951bdf06366507cac5222622",
+			"_from": ".",
+			"_npmVersion": "2.13.5",
+			"_nodeVersion": "2.2.1",
+			"_npmUser": {
+				"name": "bendrucker",
+				"email": "bvdrucker@gmail.com"
+			},
+			"dist": {
+				"shasum": "40783e3e572214d9951bdf06366507cac5222622",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.7.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				},
+				{
+					"name": "bendrucker",
+					"email": "bvdrucker@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"1.7.3": {
+			"name": "proxyquire",
+			"version": "1.7.3",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"injection",
+				"di",
+				"inject",
+				"swap",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"license": "SEE LICENSE IN LICENSE",
+			"devDependencies": {
+				"mocha": "~1.18",
+				"should": "~3.3",
+				"sinon": "~1.9"
+			},
+			"dependencies": {
+				"fill-keys": "^1.0.2",
+				"module-not-found-error": "^1.0.0"
+			},
+			"gitHead": "0a91f0e5cc4d9df2c8ba5f97f90d77d69e898f37",
+			"bugs": {
+				"url": "https://github.com/thlorenz/proxyquire/issues"
+			},
+			"homepage": "https://github.com/thlorenz/proxyquire#readme",
+			"_id": "proxyquire@1.7.3",
+			"_shasum": "54fff5b321829d802aea900a928b95bab46874e6",
+			"_from": ".",
+			"_npmVersion": "3.3.3",
+			"_nodeVersion": "2.2.1",
+			"_npmUser": {
+				"name": "bendrucker",
+				"email": "bvdrucker@gmail.com"
+			},
+			"dist": {
+				"shasum": "54fff5b321829d802aea900a928b95bab46874e6",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.7.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				},
+				{
+					"name": "bendrucker",
+					"email": "bvdrucker@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"1.7.4": {
+			"name": "proxyquire",
+			"version": "1.7.4",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"injection",
+				"di",
+				"inject",
+				"swap",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"mocha": "~1.18",
+				"should": "~3.3",
+				"sinon": "~1.9"
+			},
+			"dependencies": {
+				"fill-keys": "^1.0.2",
+				"module-not-found-error": "^1.0.0"
+			},
+			"gitHead": "b624446b260fab0103b3cad339e6434858739589",
+			"bugs": {
+				"url": "https://github.com/thlorenz/proxyquire/issues"
+			},
+			"homepage": "https://github.com/thlorenz/proxyquire#readme",
+			"_id": "proxyquire@1.7.4",
+			"_shasum": "654719b21531c3f1fc9a6e4e272da319a05b2e98",
+			"_from": ".",
+			"_npmVersion": "3.3.6",
+			"_nodeVersion": "5.0.0",
+			"_npmUser": {
+				"name": "bendrucker",
+				"email": "bvdrucker@gmail.com"
+			},
+			"dist": {
+				"shasum": "654719b21531c3f1fc9a6e4e272da319a05b2e98",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.7.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				},
+				{
+					"name": "bendrucker",
+					"email": "bvdrucker@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-8-eu.internal.npmjs.com",
+				"tmp": "tmp/proxyquire-1.7.4.tgz_1454364366846_0.06526524480432272"
+			},
+			"directories": {}
+		},
+		"1.7.5": {
+			"name": "proxyquire",
+			"version": "1.7.5",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"injection",
+				"di",
+				"inject",
+				"swap",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"mocha": "~1.18",
+				"should": "~3.3",
+				"sinon": "~1.9"
+			},
+			"dependencies": {
+				"fill-keys": "^1.0.2",
+				"module-not-found-error": "^1.0.0",
+				"resolve": "~1.1.7"
+			},
+			"gitHead": "4776b6958f7423d11b2504f6a2e1f32293dd74eb",
+			"bugs": {
+				"url": "https://github.com/thlorenz/proxyquire/issues"
+			},
+			"homepage": "https://github.com/thlorenz/proxyquire#readme",
+			"_id": "proxyquire@1.7.5",
+			"_shasum": "6a65f4240da4222323c97540d838522b0576c66b",
+			"_from": ".",
+			"_npmVersion": "3.8.6",
+			"_nodeVersion": "6.0.0",
+			"_npmUser": {
+				"name": "bendrucker",
+				"email": "bvdrucker@gmail.com"
+			},
+			"dist": {
+				"shasum": "6a65f4240da4222323c97540d838522b0576c66b",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.7.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				},
+				{
+					"name": "bendrucker",
+					"email": "bvdrucker@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/proxyquire-1.7.5.tgz_1462476945524_0.7343967638444155"
+			},
+			"directories": {}
+		},
+		"1.7.6": {
+			"name": "proxyquire",
+			"version": "1.7.6",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"injection",
+				"di",
+				"inject",
+				"swap",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"mocha": "~1.18",
+				"should": "~3.3",
+				"sinon": "~1.9"
+			},
+			"dependencies": {
+				"fill-keys": "^1.0.2",
+				"module-not-found-error": "^1.0.0",
+				"resolve": "~1.1.7"
+			},
+			"gitHead": "25fef24ef7f7d38b95706226000b71c4aaf7fc98",
+			"bugs": {
+				"url": "https://github.com/thlorenz/proxyquire/issues"
+			},
+			"homepage": "https://github.com/thlorenz/proxyquire#readme",
+			"_id": "proxyquire@1.7.6",
+			"_shasum": "06dc45d3fef27f565a7bad0af75e659b198f0c21",
+			"_from": ".",
+			"_npmVersion": "3.8.6",
+			"_nodeVersion": "6.0.0",
+			"_npmUser": {
+				"name": "bendrucker",
+				"email": "bvdrucker@gmail.com"
+			},
+			"dist": {
+				"shasum": "06dc45d3fef27f565a7bad0af75e659b198f0c21",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.7.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				},
+				{
+					"name": "bendrucker",
+					"email": "bvdrucker@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/proxyquire-1.7.6.tgz_1462477915662_0.06724123703315854"
+			},
+			"directories": {}
+		},
+		"1.7.7": {
+			"name": "proxyquire",
+			"version": "1.7.7",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"injection",
+				"di",
+				"inject",
+				"swap",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"mocha": "~1.18",
+				"should": "~3.3",
+				"sinon": "~1.9"
+			},
+			"dependencies": {
+				"fill-keys": "^1.0.2",
+				"module-not-found-error": "^1.0.0",
+				"resolve": "~1.1.7"
+			},
+			"gitHead": "383afdff6e44beeeafb39592edab6b70f5a706e1",
+			"bugs": {
+				"url": "https://github.com/thlorenz/proxyquire/issues"
+			},
+			"homepage": "https://github.com/thlorenz/proxyquire#readme",
+			"_id": "proxyquire@1.7.7",
+			"_shasum": "c40275b35a7e5df094e060b3184686e7c9d6502c",
+			"_from": ".",
+			"_npmVersion": "3.8.6",
+			"_nodeVersion": "6.0.0",
+			"_npmUser": {
+				"name": "bendrucker",
+				"email": "bvdrucker@gmail.com"
+			},
+			"dist": {
+				"shasum": "c40275b35a7e5df094e060b3184686e7c9d6502c",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.7.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				},
+				{
+					"name": "bendrucker",
+					"email": "bvdrucker@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/proxyquire-1.7.7.tgz_1462477972027_0.1086619917768985"
+			},
+			"directories": {}
+		},
+		"1.7.8": {
+			"name": "proxyquire",
+			"version": "1.7.8",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"injection",
+				"di",
+				"inject",
+				"swap",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"mocha": "~1.18",
+				"should": "~3.3",
+				"sinon": "~1.9"
+			},
+			"dependencies": {
+				"fill-keys": "^1.0.2",
+				"module-not-found-error": "^1.0.0",
+				"resolve": "~1.1.7"
+			},
+			"gitHead": "8a3335ebb55307b6b23b20b489394c4611d7a06f",
+			"bugs": {
+				"url": "https://github.com/thlorenz/proxyquire/issues"
+			},
+			"homepage": "https://github.com/thlorenz/proxyquire#readme",
+			"_id": "proxyquire@1.7.8",
+			"_shasum": "3dfbaae7feb971e8cce45fcc4f9bf01b29d0e8ff",
+			"_from": ".",
+			"_npmVersion": "3.7.3",
+			"_nodeVersion": "5.9.1",
+			"_npmUser": {
+				"name": "bendrucker",
+				"email": "bvdrucker@gmail.com"
+			},
+			"dist": {
+				"shasum": "3dfbaae7feb971e8cce45fcc4f9bf01b29d0e8ff",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.7.8.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				},
+				{
+					"name": "bendrucker",
+					"email": "bvdrucker@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/proxyquire-1.7.8.tgz_1462850579630_0.4756160413380712"
+			},
+			"directories": {}
+		},
+		"1.7.9": {
+			"name": "proxyquire",
+			"version": "1.7.9",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"injection",
+				"di",
+				"inject",
+				"swap",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"mocha": "~1.18",
+				"should": "~3.3",
+				"sinon": "~1.9"
+			},
+			"dependencies": {
+				"fill-keys": "^1.0.2",
+				"module-not-found-error": "^1.0.0",
+				"resolve": "~1.1.7"
+			},
+			"gitHead": "572b4c9b84c760462a0af47ba18cec27cfcec901",
+			"bugs": {
+				"url": "https://github.com/thlorenz/proxyquire/issues"
+			},
+			"homepage": "https://github.com/thlorenz/proxyquire#readme",
+			"_id": "proxyquire@1.7.9",
+			"_shasum": "2c0d5713f61c9f71dbf5e5095dfbaa39524813da",
+			"_from": ".",
+			"_npmVersion": "3.8.9",
+			"_nodeVersion": "5.0.0",
+			"_npmUser": {
+				"name": "bendrucker",
+				"email": "bvdrucker@gmail.com"
+			},
+			"dist": {
+				"shasum": "2c0d5713f61c9f71dbf5e5095dfbaa39524813da",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.7.9.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				},
+				{
+					"name": "bendrucker",
+					"email": "bvdrucker@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/proxyquire-1.7.9.tgz_1462930185294_0.12436377629637718"
+			},
+			"directories": {}
+		},
+		"1.7.10": {
+			"name": "proxyquire",
+			"version": "1.7.10",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"injection",
+				"di",
+				"inject",
+				"swap",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"mocha": "~1.18",
+				"should": "~3.3",
+				"sinon": "~1.9"
+			},
+			"dependencies": {
+				"fill-keys": "^1.0.2",
+				"module-not-found-error": "^1.0.0",
+				"resolve": "~1.1.7"
+			},
+			"gitHead": "04b1f1e862705fcec228c9d621243b758bed0c7e",
+			"bugs": {
+				"url": "https://github.com/thlorenz/proxyquire/issues"
+			},
+			"homepage": "https://github.com/thlorenz/proxyquire#readme",
+			"_id": "proxyquire@1.7.10",
+			"_shasum": "75be0770a81188f4d08bd01dfc30b767365aa20d",
+			"_from": ".",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "5.11.1",
+			"_npmUser": {
+				"name": "bendrucker",
+				"email": "bvdrucker@gmail.com"
+			},
+			"dist": {
+				"shasum": "75be0770a81188f4d08bd01dfc30b767365aa20d",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.7.10.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				},
+				{
+					"name": "bendrucker",
+					"email": "bvdrucker@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/proxyquire-1.7.10.tgz_1467219620994_0.20993585628457367"
+			},
+			"directories": {}
+		},
+		"1.7.11": {
+			"name": "proxyquire",
+			"version": "1.7.11",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"injection",
+				"di",
+				"inject",
+				"swap",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"mocha": "~3.1",
+				"native-hello-world": "^1.0.0",
+				"should": "~3.3",
+				"sinon": "~1.9"
+			},
+			"dependencies": {
+				"fill-keys": "^1.0.2",
+				"module-not-found-error": "^1.0.0",
+				"resolve": "~1.1.7"
+			},
+			"gitHead": "ef4ed9bc024f10738d38cd85c5f77870b1135573",
+			"bugs": {
+				"url": "https://github.com/thlorenz/proxyquire/issues"
+			},
+			"homepage": "https://github.com/thlorenz/proxyquire#readme",
+			"_id": "proxyquire@1.7.11",
+			"_shasum": "13b494eb1e71fb21cc3ebe3699e637d3bec1af9e",
+			"_from": ".",
+			"_npmVersion": "2.15.9",
+			"_nodeVersion": "4.6.0",
+			"_npmUser": {
+				"name": "bendrucker",
+				"email": "bvdrucker@gmail.com"
+			},
+			"dist": {
+				"shasum": "13b494eb1e71fb21cc3ebe3699e637d3bec1af9e",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.7.11.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				},
+				{
+					"name": "bendrucker",
+					"email": "bvdrucker@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/proxyquire-1.7.11.tgz_1485457505262_0.3427430046722293"
+			},
+			"directories": {}
+		},
+		"1.8.0": {
+			"name": "proxyquire",
+			"version": "1.8.0",
+			"description": "Proxies nodejs require in order to allow overriding dependencies during testing.",
+			"main": "index.js",
+			"scripts": {
+				"test": "mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/thlorenz/proxyquire.git"
+			},
+			"keywords": [
+				"require",
+				"dependency",
+				"injection",
+				"di",
+				"inject",
+				"swap",
+				"test",
+				"mock",
+				"stub"
+			],
+			"author": {
+				"name": "Thorsten Lorenz"
+			},
+			"license": "MIT",
+			"devDependencies": {
+				"mocha": "~3.1",
+				"native-hello-world": "^1.0.0",
+				"should": "~3.3",
+				"sinon": "~1.9"
+			},
+			"dependencies": {
+				"fill-keys": "^1.0.2",
+				"module-not-found-error": "^1.0.0",
+				"resolve": "~1.1.7"
+			},
+			"gitHead": "af2c86953b898b3b4911031372fc552190282b81",
+			"bugs": {
+				"url": "https://github.com/thlorenz/proxyquire/issues"
+			},
+			"homepage": "https://github.com/thlorenz/proxyquire#readme",
+			"_id": "proxyquire@1.8.0",
+			"_shasum": "02d514a5bed986f04cbb2093af16741535f79edc",
+			"_from": ".",
+			"_npmVersion": "4.1.2",
+			"_nodeVersion": "6.8.1",
+			"_npmUser": {
+				"name": "bendrucker",
+				"email": "bvdrucker@gmail.com"
+			},
+			"dist": {
+				"shasum": "02d514a5bed986f04cbb2093af16741535f79edc",
+				"tarball": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.8.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "thlorenz",
+					"email": "thlorenz@gmx.de"
+				},
+				{
+					"name": "bendrucker",
+					"email": "bvdrucker@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/proxyquire-1.8.0.tgz_1494852130176_0.9895041631534696"
+			},
+			"directories": {}
+		}
+	},
+	"dist-tags": {
+		"latest": "1.8.0"
+	},
+	"time": {
+		"modified": "2018-02-28T09:40:50.895Z",
+		"created": "2012-07-08T20:29:55.334Z",
+		"0.0.2": "2012-07-08T20:29:55.900Z",
+		"0.1.0": "2012-07-14T02:46:06.005Z",
+		"0.1.1": "2012-07-16T12:00:16.821Z",
+		"0.2.0": "2012-07-17T11:44:27.244Z",
+		"0.2.1": "2012-07-17T12:09:30.133Z",
+		"0.3.0": "2012-08-01T02:24:03.461Z",
+		"0.3.1": "2012-08-01T12:35:26.700Z",
+		"0.3.2": "2012-08-04T16:40:04.459Z",
+		"0.3.3": "2012-10-04T00:56:41.938Z",
+		"0.3.4": "2012-10-10T02:52:45.490Z",
+		"0.3.5": "2012-12-05T13:11:53.120Z",
+		"0.4.0": "2013-03-19T02:37:23.449Z",
+		"0.4.1": "2013-04-13T16:11:42.895Z",
+		"0.4.2": "2013-08-08T13:34:04.649Z",
+		"0.5.0": "2013-08-08T15:15:59.024Z",
+		"0.5.1": "2013-08-20T15:52:02.501Z",
+		"0.5.2": "2013-12-15T22:47:43.954Z",
+		"0.5.3": "2014-03-07T01:35:25.219Z",
+		"0.6.0": "2014-04-02T16:02:31.597Z",
+		"1.0.0": "2014-05-15T17:05:27.821Z",
+		"1.0.1": "2014-05-30T16:11:38.489Z",
+		"1.1.0": "2014-11-18T19:01:59.227Z",
+		"1.2.0": "2014-12-12T00:49:45.852Z",
+		"1.3.0": "2014-12-12T03:44:00.657Z",
+		"1.3.1": "2015-01-17T13:05:13.406Z",
+		"1.3.2": "2015-03-02T20:19:28.513Z",
+		"1.4.0": "2015-03-04T17:15:53.511Z",
+		"1.5.0": "2015-05-20T07:02:20.372Z",
+		"1.6.0": "2015-07-04T00:56:05.555Z",
+		"1.7.0": "2015-08-18T01:28:04.460Z",
+		"1.7.1": "2015-08-22T20:46:54.303Z",
+		"1.7.2": "2015-09-07T15:44:51.412Z",
+		"1.7.3": "2015-10-05T14:36:09.978Z",
+		"1.7.4": "2016-02-01T22:06:09.646Z",
+		"1.7.5": "2016-05-05T19:35:47.082Z",
+		"1.7.6": "2016-05-05T19:51:58.464Z",
+		"1.7.7": "2016-05-05T19:52:53.574Z",
+		"1.7.8": "2016-05-10T03:23:02.373Z",
+		"1.7.9": "2016-05-11T01:29:48.041Z",
+		"1.7.10": "2016-06-29T17:00:23.729Z",
+		"1.7.11": "2017-01-26T19:05:05.486Z",
+		"1.8.0": "2017-05-15T12:42:10.449Z"
+	},
+	"_distfiles": {
+		"proxyquire-0.0.2.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-0.0.2.tgz",
+			"sha": "8074b9d46242812d66a389d39ea932ebdd9fae32",
+			"registry": "npmjs"
+		},
+		"proxyquire-0.1.0.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-0.1.0.tgz",
+			"sha": "0b6c7028ab94c99c654fc8084448f06c453f8343",
+			"registry": "npmjs"
+		},
+		"proxyquire-0.1.1.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-0.1.1.tgz",
+			"sha": "5083784489b02dac1ce700752ad926195037f0c2",
+			"registry": "npmjs"
+		},
+		"proxyquire-0.2.0.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-0.2.0.tgz",
+			"sha": "2f069e9aaa73c92b5f73ee3f916a054098577ec3",
+			"registry": "npmjs"
+		},
+		"proxyquire-0.2.1.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-0.2.1.tgz",
+			"sha": "9e797ac268def4bd42bd1329658a69475859a87d",
+			"registry": "npmjs"
+		},
+		"proxyquire-0.3.0.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-0.3.0.tgz",
+			"sha": "3cb50d3721ece19006428f98dc13c96269483b94",
+			"registry": "npmjs"
+		},
+		"proxyquire-0.3.1.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-0.3.1.tgz",
+			"sha": "eef358681d0b4ce02e44092e85019c482c2e48cc",
+			"registry": "npmjs"
+		},
+		"proxyquire-0.3.2.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-0.3.2.tgz",
+			"sha": "54e1920c409799ea2f05b04f7e5683bad0db1794",
+			"registry": "npmjs"
+		},
+		"proxyquire-0.3.3.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-0.3.3.tgz",
+			"sha": "0b2c88464db530f9e6ef260395a684a5fa75a579",
+			"registry": "npmjs"
+		},
+		"proxyquire-0.3.4.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-0.3.4.tgz",
+			"sha": "38df14cae65b1de8bebb1fb75281647548a98f4b",
+			"registry": "npmjs"
+		},
+		"proxyquire-0.3.5.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-0.3.5.tgz",
+			"sha": "2816fd82336bb98801e21de39c6f271099514f71",
+			"registry": "npmjs"
+		},
+		"proxyquire-0.4.0.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-0.4.0.tgz",
+			"sha": "9ccc9fa065a4a66ca952c0f790515e5ea0ddde0e",
+			"registry": "npmjs"
+		},
+		"proxyquire-0.4.1.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-0.4.1.tgz",
+			"sha": "6642631274dd3c54d71141ff92d59ec7acf18254",
+			"registry": "npmjs"
+		},
+		"proxyquire-0.5.0.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-0.5.0.tgz",
+			"sha": "a9a1507706f88e0bfb65866044688ca609988849",
+			"registry": "npmjs"
+		},
+		"proxyquire-0.5.1.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-0.5.1.tgz",
+			"sha": "ead9dc832eb5cb21cb411caed4540164238845f0",
+			"registry": "npmjs"
+		},
+		"proxyquire-0.5.2.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-0.5.2.tgz",
+			"sha": "003a97006eb5743a235c852f16ebd9213e8478dd",
+			"registry": "npmjs"
+		},
+		"proxyquire-0.5.3.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-0.5.3.tgz",
+			"sha": "8317a550a4c40db716ebff566fe8cdc35504c4e5",
+			"registry": "npmjs"
+		},
+		"proxyquire-0.6.0.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-0.6.0.tgz",
+			"sha": "226940c5c0926c36c1a22834085ffc44145cb855",
+			"registry": "npmjs"
+		},
+		"proxyquire-1.0.0.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.0.0.tgz",
+			"sha": "894ad89067d976d1e70aadfa7d2d1980d8aebfe0",
+			"registry": "npmjs"
+		},
+		"proxyquire-1.0.1.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.0.1.tgz",
+			"sha": "c28e84b145b271b634bad861299f8c17540d3ef1",
+			"registry": "npmjs"
+		},
+		"proxyquire-1.1.0.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.1.0.tgz",
+			"sha": "cd1ce56fcc1bf8973a09c2a2165a54a7b551a6fe",
+			"registry": "npmjs"
+		},
+		"proxyquire-1.2.0.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.2.0.tgz",
+			"sha": "9d1e64e18214b52e6861c676d9f90778b8fee38a",
+			"registry": "npmjs"
+		},
+		"proxyquire-1.3.0.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.3.0.tgz",
+			"sha": "0a894564311880172266a364d7501c3a247d4c4b",
+			"registry": "npmjs"
+		},
+		"proxyquire-1.3.1.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.3.1.tgz",
+			"sha": "11079c0b1d91f80ef8cf7a61c650cd07bb45d93a",
+			"registry": "npmjs"
+		},
+		"proxyquire-1.3.2.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.3.2.tgz",
+			"sha": "d6e801ac00b0c05efb20947ba34738b5aa02f48d",
+			"registry": "npmjs"
+		},
+		"proxyquire-1.4.0.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.4.0.tgz",
+			"sha": "bd1f641ae1ef3a5fd2a9faffba7dc410eebda92c",
+			"registry": "npmjs"
+		},
+		"proxyquire-1.5.0.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.5.0.tgz",
+			"sha": "1ea87f83e46f45dd1c3f7c4d03abf225e9df3f02",
+			"registry": "npmjs"
+		},
+		"proxyquire-1.6.0.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.6.0.tgz",
+			"sha": "bc642dae32b2e94df748d5e481abd816e6b2d3aa",
+			"registry": "npmjs"
+		},
+		"proxyquire-1.7.0.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.7.0.tgz",
+			"sha": "bd85c30c19fe37534ae4ef01106e3d8bd92dc6fe",
+			"registry": "npmjs"
+		},
+		"proxyquire-1.7.1.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.7.1.tgz",
+			"sha": "8ca11818e130daefaff21cf924fad783b1b72728",
+			"registry": "npmjs"
+		},
+		"proxyquire-1.7.2.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.7.2.tgz",
+			"sha": "40783e3e572214d9951bdf06366507cac5222622",
+			"registry": "npmjs"
+		},
+		"proxyquire-1.7.3.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.7.3.tgz",
+			"sha": "54fff5b321829d802aea900a928b95bab46874e6",
+			"registry": "npmjs"
+		},
+		"proxyquire-1.7.4.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.7.4.tgz",
+			"sha": "654719b21531c3f1fc9a6e4e272da319a05b2e98",
+			"registry": "npmjs"
+		},
+		"proxyquire-1.7.5.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.7.5.tgz",
+			"sha": "6a65f4240da4222323c97540d838522b0576c66b",
+			"registry": "npmjs"
+		},
+		"proxyquire-1.7.6.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.7.6.tgz",
+			"sha": "06dc45d3fef27f565a7bad0af75e659b198f0c21",
+			"registry": "npmjs"
+		},
+		"proxyquire-1.7.7.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.7.7.tgz",
+			"sha": "c40275b35a7e5df094e060b3184686e7c9d6502c",
+			"registry": "npmjs"
+		},
+		"proxyquire-1.7.8.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.7.8.tgz",
+			"sha": "3dfbaae7feb971e8cce45fcc4f9bf01b29d0e8ff",
+			"registry": "npmjs"
+		},
+		"proxyquire-1.7.9.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.7.9.tgz",
+			"sha": "2c0d5713f61c9f71dbf5e5095dfbaa39524813da",
+			"registry": "npmjs"
+		},
+		"proxyquire-1.7.10.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.7.10.tgz",
+			"sha": "75be0770a81188f4d08bd01dfc30b767365aa20d",
+			"registry": "npmjs"
+		},
+		"proxyquire-1.7.11.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.7.11.tgz",
+			"sha": "13b494eb1e71fb21cc3ebe3699e637d3bec1af9e",
+			"registry": "npmjs"
+		},
+		"proxyquire-1.8.0.tgz": {
+			"url": "https://registry.npmjs.org/proxyquire/-/proxyquire-1.8.0.tgz",
+			"sha": "02d514a5bed986f04cbb2093af16741535f79edc",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {
+		"proxyquire-1.7.11.tgz": {
+			"shasum": "13b494eb1e71fb21cc3ebe3699e637d3bec1af9e"
+		}
+	},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "\"5a967922-f44c\"",
+			"fetched": 1519912115023
+		}
+	},
+	"_rev": "7-9372ab210dc6dfc6",
+	"readme": "# proxyquire [![Build Status](https://secure.travis-ci.org/thlorenz/proxyquire.svg)](http://travis-ci.org/thlorenz/proxyquire)\n\n[![NPM](https://nodei.co/npm/proxyquire.png?downloads=true&stars=true)](https://nodei.co/npm/proxyquire/)\n\nProxies nodejs's require in order to make overriding dependencies during testing easy while staying **totally unobtrusive**.\n\nIf you want to stub dependencies for your client side modules, try\n[proxyquireify](https://github.com/thlorenz/proxyquireify), a proxyquire for [browserify\nv2](https://github.com/substack/browserify) or [proxyquire-universal](https://github.com/bendrucker/proxyquire-universal) \nto test in both Node and the browser.\n\n# Features\n\n- **no changes to your code** are necessary\n- non overridden methods of a module behave like the original\n- mocking framework agnostic, if it can stub a function then it works with proxyquire\n- \"use strict\" compliant\n\n# Example\n\n**foo.js:**\n\n```javascript\nvar path = require('path');\n\nmodule.exports.extnameAllCaps = function (file) {\n  return path.extname(file).toUpperCase();\n};\n\nmodule.exports.basenameAllCaps = function (file) {\n  return path.basename(file).toUpperCase();\n};\n```\n\n**foo.test.js:**\n\n```javascript\nvar proxyquire =  require('proxyquire')\n  , assert     =  require('assert')\n  , pathStub   =  { };\n\n// when no overrides are specified, path.extname behaves normally\nvar foo = proxyquire('./foo', { 'path': pathStub });\nassert.equal(foo.extnameAllCaps('file.txt'), '.TXT');\n\n// override path.extname\npathStub.extname = function (file) { return 'Exterminate, exterminate the ' + file; };\n\n// path.extname now behaves as we told it to\nassert.equal(foo.extnameAllCaps('file.txt'), 'EXTERMINATE, EXTERMINATE THE FILE.TXT');\n\n// path.basename and all other path module methods still function as before\nassert.equal(foo.basenameAllCaps('/a/b/file.txt'), 'FILE.TXT');\n```\n\nYou can also replace functions directly:\n\n```js\nvar get    = require('simple-get');\nvar assert = require('assert');\n\nmodule.exports = function fetch (callback) {\n  get('https://api/users', callback);\n};\n```\n\n```js\nvar proxyquire = require('proxyquire');\nvar fetch = proxyquire('./get', {\n  'simple-get': function (url, callback) {\n    process.nextTick(function () {\n      callback(null, fakeResponse)\n    })\n  }\n});\n\nfetch(function (err, res) {\n  assert(res.statusCode, 200)\n});\n```\n\n\n<!-- START doctoc generated TOC please keep comment here to allow auto update -->\n<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->\n**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*\n\n- [Usage](#usage)\n- [API](#api)\n  - [Preventing call thru to original dependency](#preventing-call-thru-to-original-dependency)\n    - [Prevent call thru for all future stubs resolved by a proxyquire instance](#prevent-call-thru-for-all-future-stubs-resolved-by-a-proxyquire-instance)\n    - [Re-enable call thru for all future stubs resolved by a proxyquire instance](#re-enable-call-thru-for-all-future-stubs-resolved-by-a-proxyquire-instance)\n      - [All together, now](#all-together-now)\n  - [Using proxyquire to simulate the absence of Modules](#using-proxyquire-to-simulate-the-absence-of-modules)\n  - [Forcing proxyquire to reload modules](#forcing-proxyquire-to-reload-modules)\n  - [Globally override require](#globally-override-require)\n    - [Caveat](#caveat)\n    - [Globally override require during module initialization](#globally-override-require-during-module-initialization)\n    - [Why is proxyquire messing with my `require` cache?](#why-is-proxyquire-messing-with-my-require-cache)\n    - [Globally override require during module runtime](#globally-override-require-during-module-runtime)\n  - [Configuring proxyquire by setting stub properties](#configuring-proxyquire-by-setting-stub-properties)\n- [Backwards Compatibility for proxyquire v0.3.x](#backwards-compatibility-for-proxyquire-v03x)\n- [Examples](#examples)\n- [More Examples](#more-examples)\n\n<!-- END doctoc generated TOC please keep comment here to allow auto update -->\n\n\n# Usage\n\nTwo simple steps to override require in your tests:\n\n- add `var proxyquire = require('proxyquire');` to top level of your test file\n- `proxyquire(...)` the module you want to test and pass along stubs for modules you want to override\n\n# API\n\n***proxyquire({string} request, {Object} stubs)***\n\n- **request**: path to the module to be tested e.g., `../lib/foo`\n- **stubs**: key/value pairs of the form `{ modulePath: stub, ... }`\n    - module paths are relative to the tested module **not** the test file\n    - therefore specify it exactly as in the require statement inside the tested file\n    - values themselves are key/value pairs of functions/properties and the appropriate override\n\n## Preventing call thru to original dependency\n\nBy default proxyquire calls the function defined on the *original* dependency whenever it is not found on the stub.\n\nIf you prefer a more strict behavior you can prevent *callThru* on a per module or contextual basis.\n\nIf *callThru* is disabled, you can stub out modules that don't even exist on the machine that your tests are running on.\nWhile I wouldn't recommend this in general, I have seen cases where it is legitimately useful (e.g., when requiring\nglobal environment configs in json format that may not be available on all machines).\n\n**Prevent call thru on path stub:**\n\n```javascript\nvar foo = proxyquire('./foo', {\n  path: {\n      extname: function (file) { ... }\n    , '@noCallThru': true\n  }\n});\n```\n\n### Prevent call thru for all future stubs resolved by a proxyquire instance\n\n```javascript\n// all stubs resolved by proxyquireStrict will not call through by default\nvar proxyquireStrict = require('proxyquire').noCallThru();\n\n// all stubs resolved by proxyquireNonStrict will call through by default\nvar proxyquireNonStrict = require('proxyquire');\n```\n\n### Re-enable call thru for all future stubs resolved by a proxyquire instance\n\n```javascript\nproxyquire.callThru();\n```\n\n**Call thru configurations per module override `callThru()`:**\n\nPassing `@noCallThru: false` when configuring modules will override `noCallThru()`:\n\n```javascript\nvar foo = proxyquire\n    .noCallThru()\n    .load('./foo', {\n\n        // no calls to original './bar' methods will be made\n        './bar' : { toAtm: function (val) { ... } }\n\n        // for 'path' module they will be made\n      , path: {\n          extname: function (file) { ... }\n        , '@noCallThru': false\n        }\n    });\n```\n\n#### All together, now\n\n```javascript\nvar proxyquire = require('proxyquire').noCallThru();\n\n// all methods for foo's dependencies will have to be stubbed out since proxyquire will not call through\nvar foo = proxyquire('./foo', stubs);\n\nproxyquire.callThru();\n\n// only some methods for foo's dependencies will have to be stubbed out here since proxyquire will now call through\nvar foo2 = proxyquire('./foo', stubs);\n```\n\n## Using proxyquire to simulate the absence of Modules\n\nSome libraries may behave differently in the presence or absence of a\npackage, for example:\n\n```javascript\nvar cluster;\ntry {\n  cluster = require('cluster');\n} catch(e) {\n  // cluster module is not present.\n  cluster = null\n}\nif (cluster) {\n  // Then provide some functionality for a cluster-aware version of Node.js\n} else {\n  // and some alternative for a cluster-unaware version.\n}\n```\n\nTo exercise the second branch of the `if` statement, you can make proxyquire pretend the package isn't present by\nsetting the stub for it to `null`. This works even if a `cluster` module is actually present.\n\n```javascript\nvar foo = proxyquire('./foo', { cluster: null });\n```\n\n## Forcing proxyquire to reload modules\n\nIn most situations it is fine to have proxyquire behave exactly like nodejs `require`, i.e. modules that are loaded once\nget pulled from the cache the next time.\n\nFor some tests however you need to ensure that the module gets loaded fresh everytime, i.e. if that causes initializing\nsome dependency or some module state.\n\nFor this purpose proxyquire exposes the `noPreserveCache` function.\n\n```js\n// ensure we don't get any module from the cache, but to load it fresh every time\nvar proxyquire = require('proxyquire').noPreserveCache();\n\nvar foo1 = proxyquire('./foo', stubs);\nvar foo2 = proxyquire('./foo', stubs);\nvar foo3 = require('./foo');\n\n// foo1, foo2 and foo3 are different instances of the same module\nassert.notEqual(foo1, foo2);\nassert.notEqual(foo1, foo3);\n```\n\n`require.preserveCache` allows you to restore the behavior to match nodejs's `require` again.\n\n```js\nproxyquire.preserveCache();\n\nvar foo1 = proxyquire('./foo', stubs);\nvar foo2 = proxyquire('./foo', stubs);\nvar foo3 = require('./foo');\n\n// foo1, foo2 and foo3 are the same instance\nassert.equal(foo1, foo2);\nassert.equal(foo1, foo3);\n```\n\n\n## Globally override require\n\nUse the `@global` property to override every `require` of a module, even transitively.\n\n### Caveat\n\nYou should **think very hard about alternatives before using this feature**. Why, because it's intrusive and as you'll\nsee if you read on it changes the default behavior of module initialization which means that code runs differently\nduring testing than it does normally.\n\nAdditionally it **makes it harder to reason about how your tests work**. \n\n> Yeah, we are mocking `fs` three levels down in `bar`, so that's why we have to set it up when testing `foo`\n\n**WAAAT???**\n\nIf you write proper unit tests you should never have a need for this. So here are some techniques to consider:\n\n- test each module in isolation\n- make sure your modules are small enough and do only one thing\n- stub out dependencies directly instead of stubbing something inside your dependencies\n- if you are testing `bar` and `bar` calls `foo.read` and `foo.read` calls `fs.readFile` proceed as follows\n  - **do not** stub out `fs.readFile` globally\n  - instead stub out `foo` so you can control what `foo.read` returns without ever even hitting `fs`\n\nOK, made it past the warnings and still feel like you need this? Read on then but you are on your own now, this is as\nfar as I'll go ;)\n\nWatch out for more warnings below.\n\n### Globally override require during module initialization\n\n```javascript\n// foo.js\nvar bar = require('bar');\n\nmodule.exports = function() {\n  bar();\n}\n\n// bar.js\nvar baz = require('baz');\n\nmodule.exports = function() {\n  baz.method();\n}\n\n// baz.js\nmodule.exports = {\n  method: function() {\n    console.info('hello');\n  }\n}\n\n// test.js\nvar stubs = {\n  'baz': {\n    method: function(val) {\n      console.info('goodbye');\n    },\n    '@global': true\n  }\n};\n\nvar proxyquire = require('proxyquire');\n\nvar foo = proxyquire('foo', stubs);\nfoo();  // 'goodbye' is printed to stdout\n```\n\nBe aware that when using global overrides **any module initialization code will be re-executed for each require.**\n\nThis is not normally the case since node.js caches the return value of `require`, however to make global overrides work ,\n`proxyquire` bypasses the module cache. This may cause **unexpected behaviour if a module's initialization causes side effects**.\n\nAs an example consider this module which opens a file during its initialization:\n\n```javascript\nvar fs = require('fs')\n  , C = require('C');\n\n// will get executed twice\nvar file = fs.openSync('/tmp/foo.txt', 'w');\n\nmodule.exports = function() {\n  return new C(file);\n};\n```\n\nThe file at `/tmp/foo.txt` could be created and/or truncated more than once.\n\n### Why is proxyquire messing with my `require` cache?\n\nSay you have a module, C, that you wish to stub.  You require module A which contains `require('B')`. Module B in turn\ncontains `require('C')`. If module B has already been required elsewhere then when module A receives the cached version\nof module B and proxyquire would have no opportunity to inject the stub for C.\n\nTherefore when using the `@global` flag, `proxyquire` will bypass the `require` cache.\n\n### Globally override require during module runtime\n\nSay you have a module that looks like this:\n\n```javascript\nmodule.exports = function() {\n  var d = require('d');\n  d.method();\n};\n```\nThe invocation of `require('d')` will happen at runtime and not when the containing module is requested via `require`.\nIf you want to globally override `d` above, use the `@runtimeGlobal` property:\n\n```javascript\nvar stubs = {\n  'd': {\n    method: function(val) {\n      console.info('hello world');\n    },\n    '@runtimeGlobal': true\n  }\n};\n```\n\nThis will cause module setup code to be re-excuted just like `@global`, but with the difference that it will happen\nevery time the module is requested via `require` at runtime as no module will ever be cached.\n\nThis can cause subtle bugs so if you can guarantee that your modules will not vary their `require` behaviour at runtime,\nuse `@global` instead.\n\n## Configuring proxyquire by setting stub properties\n\nEven if you want to override a module that exports a function directly, you can still set special properties like `@global`. You can use a named function or assign your stub function to a variable to add properties:\n\n```js\nfoo['@global'] = true;\nfunction foo () {}\nproxyquire('./bar', {\n  foo: foo\n});\n```\n\nAnd if your stub is in a separate module where `module.exports = foo`:\n\n```js\nvar foostub = require('../stubs/foostub');\nfoostub['@global'] = true;\nproxyquire('bar', {\n  foo: foostub\n});\n```\n\n# Backwards Compatibility for proxyquire v0.3.x\n\nCompatibility mode with proxyquire v0.3.x **has been removed**.\n\nYou should update your code to use the newer API but if you can't, pin the version of proxyquire in your package.json file to ~0.6 in order to continue using the older style.\n\n# Examples\n\n**We are testing foo which depends on bar:**\n\n```javascript\n// bar.js module\nmodule.exports = {\n    toAtm: function (val) { return  0.986923267 * val; }\n};\n\n// foo.js module\n// requires bar which we will stub out in tests\nvar bar = require('./bar');\n[ ... ]\n\n```\n\n**Tests:**\n\n```javascript\n// foo-test.js module which is one folder below foo.js (e.g., in ./tests/)\n\n/*\n *   Option a) Resolve and override in one step:\n */\nvar foo = proxyquire('../foo', {\n  './bar': { toAtm: function (val) { return 0; /* wonder what happens now */ } }\n});\n\n// [ .. run some tests .. ]\n\n/*\n *   Option b) Resolve with empty stub and add overrides later\n */\nvar barStub = { };\n\nvar foo =  proxyquire('../foo', { './bar': barStub });\n\n// Add override\nbarStub.toAtm = function (val) { return 0; /* wonder what happens now */ };\n\n[ .. run some tests .. ]\n\n// Change override\nbarStub.toAtm = function (val) { return -1 * val; /* or now */ };\n\n[ .. run some tests .. ]\n\n// Resolve foo and override multiple of its dependencies in one step - oh my!\nvar foo = proxyquire('./foo', {\n    './bar' : {\n      toAtm: function (val) { return 0; /* wonder what happens now */ }\n    }\n  , path    : {\n      extname: function (file) { return 'exterminate the name of ' + file; }\n    }\n});\n```\n\n# More Examples\n\nFor more examples look inside the [examples folder](https://github.com/thlorenz/proxyquire/tree/master/examples/) or\nlook through the [tests](https://github.com/thlorenz/proxyquire/blob/master/test/proxyquire.js)\n\n**Specific Examples:**\n\n- test async APIs synchronously: [examples/async](https://github.com/thlorenz/proxyquire/tree/master/examples/async).\n- using proxyquire with [Sinon.JS](http://sinonjs.org/): [examples/sinon](https://github.com/thlorenz/proxyquire/tree/master/examples/sinon).\n"
+}

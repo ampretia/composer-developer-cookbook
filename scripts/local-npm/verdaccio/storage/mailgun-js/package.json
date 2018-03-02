@@ -1,0 +1,5858 @@
+{
+	"name": "mailgun-js",
+	"versions": {
+		"0.1.0": {
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.1.0",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": "0.8.x"
+			},
+			"main": "./mailgun.js",
+			"dependencies": {
+				"request": "2.12.x"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.1.0",
+			"dist": {
+				"shasum": "d7c75ef3528ca4407b111ea5bea1faf92c714a5b",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.1.0.tgz"
+			},
+			"_npmVersion": "1.1.49",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.1.1": {
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.1.1",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": "0.8.x"
+			},
+			"main": "./mailgun.js",
+			"dependencies": {
+				"request": "2.16.x"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.1.1",
+			"dist": {
+				"shasum": "75ff9502f6758f2bbf7dd3f109d1c8e2967a8852",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.1.1.tgz"
+			},
+			"_npmVersion": "1.1.49",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.2.0": {
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.2.0",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": "0.8.x"
+			},
+			"main": "./mailgun.js",
+			"dependencies": {
+				"request": "2.16.x"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.2.0",
+			"dist": {
+				"shasum": "6d8a60b2a68183cdcd8d5ae87571f7650300ecf7",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.2.0.tgz"
+			},
+			"_npmVersion": "1.1.49",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.2.1": {
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.2.1",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": "0.8.x"
+			},
+			"main": "./mailgun.js",
+			"dependencies": {
+				"request": "2.16.x"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.2.1",
+			"dist": {
+				"shasum": "42c93ea4af02a29be30410b51890aa32dc3f7ae7",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.2.1.tgz"
+			},
+			"_from": "mailgun-js/",
+			"_npmVersion": "1.2.15",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.2.2": {
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.2.2",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": "0.8.x"
+			},
+			"main": "./mailgun.js",
+			"dependencies": {
+				"request": "2.16.x"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.2.2",
+			"dist": {
+				"shasum": "557be859792d404c969a53de9f07ad0fab47ac1d",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.2.2.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.2.15",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.3.0": {
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.3.0",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": "0.8.x"
+			},
+			"main": "./mailgun.js",
+			"dependencies": {
+				"request": "2.33.x"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.3.0",
+			"dist": {
+				"shasum": "74a468cce90b25c99a7c57d25df61cab2013fc4c",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.3.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.2.15",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.3.1": {
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.3.1",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": "0.8.x"
+			},
+			"main": "./mailgun.js",
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.3.1",
+			"dist": {
+				"shasum": "67be12661d54abf100839816a6ce00eb6ad1943f",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.3.1.tgz"
+			},
+			"_from": "./mailgun-js",
+			"_npmVersion": "1.3.25",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.3.2": {
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.3.2",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./mailgun.js",
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.3.2",
+			"dist": {
+				"shasum": "57010bf55ab50780b3ced676bf443f85a4779940",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.3.2.tgz"
+			},
+			"_from": "./mailgun-js/",
+			"_npmVersion": "1.3.25",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.3.3": {
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.3.3",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./mailgun.js",
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.3.3",
+			"dist": {
+				"shasum": "d4984c7c08886253a9f7ecf213332b1db074bae3",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.3.3.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.25",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.3.4": {
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.3.4",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./mailgun.js",
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.3.4",
+			"dist": {
+				"shasum": "de3342819b2f089a26f5c0befc987c651bb6ed1c",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.3.4.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.25",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.3.5": {
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.3.5",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./mailgun.js",
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.3.5",
+			"dist": {
+				"shasum": "2e0728698e26467dfe708030ec87eac029327879",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.3.5.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.25",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.4.2": {
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.4.2",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"form-data": "~0.1.2",
+				"inflection": "~1.2.6",
+				"path-proxy": "~1.0",
+				"q": "~1.0.1"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.4.2",
+			"dist": {
+				"shasum": "f8bf9cd6332a01409228a8e239e3f21b8f89bbf4",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.4.2.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.25",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.4.3": {
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.4.3",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"form-data": "~0.1.2",
+				"inflection": "~1.2.6",
+				"path-proxy": "~1.0",
+				"q": "~1.0.1"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.4.3",
+			"dist": {
+				"shasum": "e4600932245af72dc0d302a8a797e8ed971d2bdf",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.4.3.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.25",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.4.4": {
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.4.4",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"form-data": "~0.1.2",
+				"inflection": "~1.2.6",
+				"path-proxy": "~1.0",
+				"q": "~1.0.1"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.4.4",
+			"dist": {
+				"shasum": "93d5fe80aa83c1fda2a58730a9f344025adc84a9",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.4.4.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.25",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.4.5": {
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.4.5",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"form-data": "~0.1.2",
+				"inflection": "~1.2.6",
+				"path-proxy": "~1.0",
+				"q": "~1.0.1"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.4.5",
+			"dist": {
+				"shasum": "438902d20664af477a051fa8415ae6b09f568b02",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.4.5.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.25",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.4.7": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.4.7",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"form-data": "~0.1.2",
+				"inflection": "~1.2.6",
+				"path-proxy": "~1.0",
+				"q": "~1.0.1"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"contributors": [
+				{
+					"name": "Bojan Djurkovic"
+				},
+				{
+					"name": "Adam Magaluk"
+				},
+				{
+					"name": "Bill Johnston"
+				},
+				{
+					"name": "Jamie Curtis"
+				},
+				{
+					"name": "Serhiy Oplakanets"
+				}
+			],
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.4.7",
+			"dist": {
+				"shasum": "4e54f552cc5b265fcf04cfd32946bc02f406b4ce",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.4.7.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.25",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"directories": {}
+		},
+		"0.4.8": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.4.8",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"form-data": "~0.1.2",
+				"inflection": "~1.2.6",
+				"path-proxy": "~1.0",
+				"q": "~1.0.1"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"contributors": [
+				{
+					"name": "Bojan Djurkovic"
+				},
+				{
+					"name": "Adam Magaluk"
+				},
+				{
+					"name": "Bill Johnston"
+				},
+				{
+					"name": "Jamie Curtis"
+				},
+				{
+					"name": "Serhiy Oplakanets"
+				}
+			],
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.4.8",
+			"_shasum": "4c38cc1c22dad66931a23d02f9c16f35479d9a32",
+			"_from": ".",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "4c38cc1c22dad66931a23d02f9c16f35479d9a32",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.4.8.tgz"
+			},
+			"directories": {}
+		},
+		"0.4.9": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.4.9",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"form-data": "~0.1.2",
+				"inflection": "~1.2.6",
+				"path-proxy": "~1.0",
+				"q": "~1.0.1"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"contributors": [
+				{
+					"name": "Bojan Djurkovic"
+				},
+				{
+					"name": "Adam Magaluk"
+				},
+				{
+					"name": "Bill Johnston"
+				},
+				{
+					"name": "Jamie Curtis"
+				},
+				{
+					"name": "Serhiy Oplakanets"
+				},
+				{
+					"name": "Julien Faissolle"
+				}
+			],
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.4.9",
+			"_shasum": "c6c2ae71a0ebb49e647977a9fedd4c33366fcae2",
+			"_from": ".",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "c6c2ae71a0ebb49e647977a9fedd4c33366fcae2",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.4.9.tgz"
+			},
+			"directories": {}
+		},
+		"0.4.10": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.4.10",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"form-data": "~0.1.2",
+				"inflection": "~1.2.6",
+				"path-proxy": "~1.0",
+				"q": "~1.0.1",
+				"debug": "~0.8.1"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"contributors": [
+				{
+					"name": "Bojan Djurkovic"
+				},
+				{
+					"name": "Adam Magaluk"
+				},
+				{
+					"name": "Bill Johnston"
+				},
+				{
+					"name": "Jamie Curtis"
+				},
+				{
+					"name": "Serhiy Oplakanets"
+				},
+				{
+					"name": "Julien Faissolle"
+				}
+			],
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.4.10",
+			"_shasum": "e21eb7d1ad59b5a0962a91c7ea06c3e010434ca0",
+			"_from": ".",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "e21eb7d1ad59b5a0962a91c7ea06c3e010434ca0",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.4.10.tgz"
+			},
+			"directories": {}
+		},
+		"0.4.11": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.4.11",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"form-data": "~0.1.2",
+				"inflection": "~1.2.6",
+				"path-proxy": "~1.0",
+				"q": "~1.0.1",
+				"debug": "~0.8.1"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"contributors": [
+				{
+					"name": "Bojan Djurkovic"
+				},
+				{
+					"name": "Adam Magaluk"
+				},
+				{
+					"name": "Bill Johnston"
+				},
+				{
+					"name": "Jamie Curtis"
+				},
+				{
+					"name": "Serhiy Oplakanets"
+				},
+				{
+					"name": "Julien Faissolle"
+				}
+			],
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.4.11",
+			"_shasum": "78515324bb091b9495bd9128af8060221e1f61be",
+			"_from": ".",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "78515324bb091b9495bd9128af8060221e1f61be",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.4.11.tgz"
+			},
+			"directories": {}
+		},
+		"0.4.12": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.4.12",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"form-data": "~0.1.2",
+				"inflection": "~1.2.6",
+				"path-proxy": "~1.0",
+				"q": "~1.0.1",
+				"debug": "~0.8.1"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"contributors": [
+				{
+					"name": "Bojan Djurkovic"
+				},
+				{
+					"name": "Adam Magaluk"
+				},
+				{
+					"name": "Bill Johnston"
+				},
+				{
+					"name": "Jamie Curtis"
+				},
+				{
+					"name": "Serhiy Oplakanets"
+				},
+				{
+					"name": "Julien Faissolle"
+				}
+			],
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.4.12",
+			"_shasum": "9d8647751c11401f3f8ea5a9a1d40e3d419b892c",
+			"_from": ".",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "9d8647751c11401f3f8ea5a9a1d40e3d419b892c",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.4.12.tgz"
+			},
+			"directories": {}
+		},
+		"0.4.13": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.4.13",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"form-data": "~0.1.2",
+				"inflection": "~1.2.6",
+				"path-proxy": "~1.0",
+				"q": "~1.0.1",
+				"debug": "~0.8.1"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"contributors": [
+				{
+					"name": "Bojan Djurkovic"
+				},
+				{
+					"name": "Adam Magaluk"
+				},
+				{
+					"name": "Bill Johnston"
+				},
+				{
+					"name": "Jamie Curtis"
+				},
+				{
+					"name": "Serhiy Oplakanets"
+				},
+				{
+					"name": "Julien Faissolle"
+				}
+			],
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.4.13",
+			"_shasum": "6b98ff312796fb57d25dfe50bbb9a9b3466a343d",
+			"_from": ".",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "6b98ff312796fb57d25dfe50bbb9a9b3466a343d",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.4.13.tgz"
+			},
+			"directories": {}
+		},
+		"0.4.14": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.4.14",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"form-data": "~0.1.2",
+				"inflection": "~1.2.6",
+				"path-proxy": "~1.0",
+				"q": "~1.0.1",
+				"debug": "~0.8.1"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"contributors": [
+				{
+					"name": "Bojan Djurkovic"
+				},
+				{
+					"name": "Adam Magaluk"
+				},
+				{
+					"name": "Bill Johnston"
+				},
+				{
+					"name": "Jamie Curtis"
+				},
+				{
+					"name": "Serhiy Oplakanets"
+				},
+				{
+					"name": "Julien Faissolle"
+				}
+			],
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.4.14",
+			"_shasum": "ff142f96e89517c9bbcd8ee3bd05386d5daff19d",
+			"_from": ".",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "ff142f96e89517c9bbcd8ee3bd05386d5daff19d",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.4.14.tgz"
+			},
+			"directories": {}
+		},
+		"0.4.15": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.4.15",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"form-data": "~0.1.2",
+				"inflection": "~1.2.6",
+				"path-proxy": "~1.0",
+				"q": "~1.0.1",
+				"debug": "~0.8.1"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"contributors": [
+				{
+					"name": "Bojan Djurkovic"
+				},
+				{
+					"name": "Adam Magaluk"
+				},
+				{
+					"name": "Bill Johnston"
+				},
+				{
+					"name": "Jamie Curtis"
+				},
+				{
+					"name": "Serhiy Oplakanets"
+				},
+				{
+					"name": "Julien Faissolle"
+				}
+			],
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.4.15",
+			"_shasum": "ab8a9e39a94b4c6754ddb690024bfccc7b4d5a1b",
+			"_from": ".",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "ab8a9e39a94b4c6754ddb690024bfccc7b4d5a1b",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.4.15.tgz"
+			},
+			"directories": {}
+		},
+		"0.5.0": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.5.0",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"form-data": "~0.1.2",
+				"inflection": "~1.2.6",
+				"path-proxy": "~1.0",
+				"q": "~1.0.1",
+				"debug": "~0.8.1"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"contributors": [
+				{
+					"name": "Bojan Djurkovic"
+				},
+				{
+					"name": "Adam Magaluk"
+				},
+				{
+					"name": "Bill Johnston"
+				},
+				{
+					"name": "Jamie Curtis"
+				},
+				{
+					"name": "Serhiy Oplakanets"
+				},
+				{
+					"name": "Julien Faissolle"
+				}
+			],
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.5.0",
+			"_shasum": "05cbc5eba18a27f974c7902e307e153c82a4b8ad",
+			"_from": ".",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "05cbc5eba18a27f974c7902e307e153c82a4b8ad",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.5.0.tgz"
+			},
+			"directories": {}
+		},
+		"0.5.1": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.5.1",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"form-data": "~0.1.2",
+				"inflection": "~1.2.6",
+				"path-proxy": "~1.0",
+				"q": "~1.0.1",
+				"debug": "~0.8.1"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"contributors": [
+				{
+					"name": "Bojan Djurkovic"
+				},
+				{
+					"name": "Adam Magaluk"
+				},
+				{
+					"name": "Bill Johnston"
+				},
+				{
+					"name": "Jamie Curtis"
+				},
+				{
+					"name": "Serhiy Oplakanets"
+				},
+				{
+					"name": "Julien Faissolle"
+				}
+			],
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.5.1",
+			"_shasum": "cbf4f1794f7a50f568f75f9345165905950e9a99",
+			"_from": ".",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "cbf4f1794f7a50f568f75f9345165905950e9a99",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.5.1.tgz"
+			},
+			"directories": {}
+		},
+		"0.5.2": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.5.2",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"form-data": "~0.1.2",
+				"inflection": "~1.2.6",
+				"path-proxy": "~1.0",
+				"q": "~1.0.1",
+				"scmp": "~0.0.3",
+				"debug": "~0.8.1"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"contributors": [
+				{
+					"name": "Bojan Djurkovic"
+				},
+				{
+					"name": "Adam Magaluk"
+				},
+				{
+					"name": "Bill Johnston"
+				},
+				{
+					"name": "Jamie Curtis"
+				},
+				{
+					"name": "Serhiy Oplakanets"
+				},
+				{
+					"name": "Julien Faissolle"
+				},
+				{
+					"name": "AJ ONeal"
+				}
+			],
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.5.2",
+			"_shasum": "88a0d0475a20250650fbd354a46db3c0522e2d19",
+			"_from": ".",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "88a0d0475a20250650fbd354a46db3c0522e2d19",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.5.2.tgz"
+			},
+			"directories": {}
+		},
+		"0.5.3": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.5.3",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"form-data": "~0.1.2",
+				"inflection": "~1.2.6",
+				"path-proxy": "~1.0",
+				"q": "~1.0.1",
+				"scmp": "~0.0.3",
+				"debug": "~0.8.1"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"contributors": [
+				{
+					"name": "Bojan Djurkovic"
+				},
+				{
+					"name": "Adam Magaluk"
+				},
+				{
+					"name": "Bill Johnston"
+				},
+				{
+					"name": "Jamie Curtis"
+				},
+				{
+					"name": "Serhiy Oplakanets"
+				},
+				{
+					"name": "Julien Faissolle"
+				},
+				{
+					"name": "AJ ONeal"
+				}
+			],
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.5.3",
+			"_shasum": "c3791508306d72b8bbd30c79874886fecb6dff12",
+			"_from": ".",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "c3791508306d72b8bbd30c79874886fecb6dff12",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.5.3.tgz"
+			},
+			"directories": {}
+		},
+		"0.5.4": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.5.4",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"form-data": "~0.1.2",
+				"inflection": "~1.2.6",
+				"path-proxy": "~1.0",
+				"q": "~1.0.1",
+				"scmp": "~0.0.3",
+				"debug": "~0.8.1"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"contributors": [
+				{
+					"name": "Bojan Djurkovic"
+				},
+				{
+					"name": "Adam Magaluk"
+				},
+				{
+					"name": "Bill Johnston"
+				},
+				{
+					"name": "Jamie Curtis"
+				},
+				{
+					"name": "Serhiy Oplakanets"
+				},
+				{
+					"name": "Julien Faissolle"
+				},
+				{
+					"name": "AJ ONeal"
+				}
+			],
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.5.4",
+			"_shasum": "c2518d44741bdbf8f6380f4169433a8dc83930d8",
+			"_from": ".",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "c2518d44741bdbf8f6380f4169433a8dc83930d8",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.5.4.tgz"
+			},
+			"directories": {}
+		},
+		"0.6.0": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.6.0",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"form-data": "~0.1.2",
+				"inflection": "~1.2.6",
+				"path-proxy": "~1.0",
+				"q": "~1.0.1",
+				"scmp": "~0.0.3",
+				"debug": "~0.8.1"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"contributors": [
+				{
+					"name": "Bojan Djurkovic"
+				},
+				{
+					"name": "Adam Magaluk"
+				},
+				{
+					"name": "Bill Johnston"
+				},
+				{
+					"name": "Jamie Curtis"
+				},
+				{
+					"name": "Serhiy Oplakanets"
+				},
+				{
+					"name": "Julien Faissolle"
+				},
+				{
+					"name": "AJ ONeal"
+				}
+			],
+			"devDependencies": {
+				"mocha": "*",
+				"mailcomposer": "0.2.12"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.6.0",
+			"_shasum": "5b41cf2d1767195c9a4880e00a473533d436a729",
+			"_from": ".",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "5b41cf2d1767195c9a4880e00a473533d436a729",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.6.0.tgz"
+			},
+			"directories": {}
+		},
+		"0.6.1": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.6.1",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"form-data": "~0.1.2",
+				"inflection": "~1.2.6",
+				"path-proxy": "~1.0",
+				"q": "~1.0.1",
+				"scmp": "~0.0.3",
+				"debug": "~0.8.1"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"contributors": [
+				{
+					"name": "Bojan Djurkovic"
+				},
+				{
+					"name": "Adam Magaluk"
+				},
+				{
+					"name": "Bill Johnston"
+				},
+				{
+					"name": "Jamie Curtis"
+				},
+				{
+					"name": "Serhiy Oplakanets"
+				},
+				{
+					"name": "Julien Faissolle"
+				},
+				{
+					"name": "AJ ONeal"
+				}
+			],
+			"devDependencies": {
+				"mocha": "*",
+				"mailcomposer": "0.2.12"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.6.1",
+			"_shasum": "02ce776a027768d0e8cab45c91785e14f6676b57",
+			"_from": ".",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "02ce776a027768d0e8cab45c91785e14f6676b57",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.6.1.tgz"
+			},
+			"directories": {}
+		},
+		"0.6.2": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.6.2",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"form-data": "~0.1.2",
+				"inflection": "~1.2.6",
+				"path-proxy": "~1.0",
+				"q": "~1.0.1",
+				"scmp": "~0.0.3",
+				"debug": "~0.8.1"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"contributors": [
+				{
+					"name": "Bojan Djurkovic"
+				},
+				{
+					"name": "Adam Magaluk"
+				},
+				{
+					"name": "Bill Johnston"
+				},
+				{
+					"name": "Jamie Curtis"
+				},
+				{
+					"name": "Serhiy Oplakanets"
+				},
+				{
+					"name": "Julien Faissolle"
+				},
+				{
+					"name": "AJ ONeal"
+				}
+			],
+			"devDependencies": {
+				"mocha": "*",
+				"mailcomposer": "0.2.12"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.6.2",
+			"_shasum": "7036a99061ae845910da4f0d64940f3d135d364a",
+			"_from": ".",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "7036a99061ae845910da4f0d64940f3d135d364a",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.6.2.tgz"
+			},
+			"directories": {}
+		},
+		"0.6.3": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.6.3",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"form-data": "~0.1.2",
+				"inflection": "~1.2.6",
+				"path-proxy": "~1.0",
+				"q": "~1.0.1",
+				"scmp": "~0.0.3",
+				"debug": "~0.8.1"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"contributors": [
+				{
+					"name": "Bojan Djurkovic"
+				},
+				{
+					"name": "Adam Magaluk"
+				},
+				{
+					"name": "Bill Johnston"
+				},
+				{
+					"name": "Jamie Curtis"
+				},
+				{
+					"name": "Serhiy Oplakanets"
+				},
+				{
+					"name": "Julien Faissolle"
+				},
+				{
+					"name": "AJ ONeal"
+				}
+			],
+			"devDependencies": {
+				"mocha": "*",
+				"mailcomposer": "0.2.12"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.6.3",
+			"_shasum": "a2c673624bd2c7a01cf96c1131299a2e39b49f3d",
+			"_from": ".",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "a2c673624bd2c7a01cf96c1131299a2e39b49f3d",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.6.3.tgz"
+			},
+			"directories": {}
+		},
+		"0.6.4": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.6.4",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"form-data": "~0.1.2",
+				"inflection": "~1.2.6",
+				"path-proxy": "~1.0",
+				"q": "~1.0.1",
+				"scmp": "~0.0.3",
+				"debug": "~0.8.1"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"contributors": [
+				{
+					"name": "Bojan Djurkovic"
+				},
+				{
+					"name": "Adam Magaluk"
+				},
+				{
+					"name": "Bill Johnston"
+				},
+				{
+					"name": "Jamie Curtis"
+				},
+				{
+					"name": "Serhiy Oplakanets"
+				},
+				{
+					"name": "Julien Faissolle"
+				},
+				{
+					"name": "AJ ONeal"
+				}
+			],
+			"devDependencies": {
+				"mocha": "*",
+				"mailcomposer": "0.2.12"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.6.4",
+			"_shasum": "a5fd1ea7924ad38de9f2dc8c2080c07e5e641b37",
+			"_from": ".",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "a5fd1ea7924ad38de9f2dc8c2080c07e5e641b37",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.6.4.tgz"
+			},
+			"directories": {}
+		},
+		"0.6.5": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.6.5",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"form-data": "~0.1.2",
+				"inflection": "~1.2.6",
+				"path-proxy": "~1.0",
+				"q": "~1.0.1",
+				"scmp": "~0.0.3",
+				"debug": "~0.8.1"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"contributors": [
+				{
+					"name": "Bojan Djurkovic"
+				},
+				{
+					"name": "Adam Magaluk"
+				},
+				{
+					"name": "Bill Johnston"
+				},
+				{
+					"name": "Jamie Curtis"
+				},
+				{
+					"name": "Serhiy Oplakanets"
+				},
+				{
+					"name": "Julien Faissolle"
+				},
+				{
+					"name": "AJ ONeal"
+				}
+			],
+			"devDependencies": {
+				"mocha": "*",
+				"mailcomposer": "0.2.12"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.6.5",
+			"_shasum": "d61cbf58c772fb3a77f43e6f4cc1c3f2012ca474",
+			"_from": ".",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "d61cbf58c772fb3a77f43e6f4cc1c3f2012ca474",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.6.5.tgz"
+			},
+			"directories": {}
+		},
+		"0.6.6": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.6.6",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"form-data": "~0.1.2",
+				"inflection": "~1.2.6",
+				"path-proxy": "~1.0",
+				"q": "~1.0.1",
+				"scmp": "~0.0.3",
+				"debug": "~0.8.1"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"contributors": [
+				{
+					"name": "Bojan Djurkovic"
+				},
+				{
+					"name": "Adam Magaluk"
+				},
+				{
+					"name": "Bill Johnston"
+				},
+				{
+					"name": "Jamie Curtis"
+				},
+				{
+					"name": "Serhiy Oplakanets"
+				},
+				{
+					"name": "Julien Faissolle"
+				},
+				{
+					"name": "AJ ONeal"
+				}
+			],
+			"devDependencies": {
+				"mocha": "*",
+				"mailcomposer": "0.2.12"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.6.6",
+			"_shasum": "88203511541a67e4f0654a3e29668e9bc8df28dd",
+			"_from": ".",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "88203511541a67e4f0654a3e29668e9bc8df28dd",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.6.6.tgz"
+			},
+			"directories": {}
+		},
+		"0.6.7": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.6.7",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"form-data": "~0.1.2",
+				"inflection": "~1.2.6",
+				"path-proxy": "~1.0",
+				"q": "~1.0.1",
+				"scmp": "~0.0.3",
+				"debug": "~0.8.1"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"contributors": [
+				{
+					"name": "Bojan Djurkovic"
+				},
+				{
+					"name": "Adam Magaluk"
+				},
+				{
+					"name": "Bill Johnston"
+				},
+				{
+					"name": "Jamie Curtis"
+				},
+				{
+					"name": "Serhiy Oplakanets"
+				},
+				{
+					"name": "Julien Faissolle"
+				},
+				{
+					"name": "AJ ONeal"
+				}
+			],
+			"devDependencies": {
+				"mocha": "*",
+				"mailcomposer": "0.2.12"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"_id": "mailgun-js@0.6.7",
+			"_shasum": "e9988b8d0e20dc97844a62eefe8119262d02e7a2",
+			"_from": ".",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "e9988b8d0e20dc97844a62eefe8119262d02e7a2",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.6.7.tgz"
+			},
+			"directories": {}
+		},
+		"0.6.8": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.6.8",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"form-data": "~0.2.0",
+				"inflection": "~1.5.3",
+				"path-proxy": "~1.0",
+				"proxy-agent": "~1.1.0",
+				"q": "~1.1.2",
+				"scmp": "~1.0.0",
+				"debug": "~2.1.1"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"contributors": [
+				{
+					"name": "Bojan Djurkovic"
+				},
+				{
+					"name": "Adam Magaluk"
+				},
+				{
+					"name": "Bill Johnston"
+				},
+				{
+					"name": "Jamie Curtis"
+				},
+				{
+					"name": "Serhiy Oplakanets"
+				},
+				{
+					"name": "Julien Faissolle"
+				},
+				{
+					"name": "AJ ONeal"
+				}
+			],
+			"devDependencies": {
+				"clone": "~0.2.0",
+				"mocha": "*",
+				"mailcomposer": "0.2.12"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"gitHead": "e43f8098f2e3157f8010259be00b5d9d0e198338",
+			"_id": "mailgun-js@0.6.8",
+			"_shasum": "64a1aab7036b8161a7c619037d820d6c50fe83ab",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "64a1aab7036b8161a7c619037d820d6c50fe83ab",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.6.8.tgz"
+			},
+			"directories": {}
+		},
+		"0.6.9": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.6.9",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"form-data": "~0.2.0",
+				"inflection": "~1.5.3",
+				"path-proxy": "~1.0",
+				"proxy-agent": "~1.1.0",
+				"q": "~1.1.2",
+				"scmp": "~1.0.0",
+				"debug": "~2.1.1"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"contributors": [
+				{
+					"name": "Bojan Djurkovic"
+				},
+				{
+					"name": "Adam Magaluk"
+				},
+				{
+					"name": "Bill Johnston"
+				},
+				{
+					"name": "Jamie Curtis"
+				},
+				{
+					"name": "Serhiy Oplakanets"
+				},
+				{
+					"name": "Julien Faissolle"
+				},
+				{
+					"name": "AJ ONeal"
+				}
+			],
+			"devDependencies": {
+				"clone": "~0.2.0",
+				"mocha": "*",
+				"mailcomposer": "0.2.12"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"gitHead": "ee4d8154c0829bffb987bc3ed1225832997c9ca0",
+			"_id": "mailgun-js@0.6.9",
+			"_shasum": "1bdc22b636a249b6870e920695b8338370b2cf98",
+			"_from": ".",
+			"_npmVersion": "2.7.1",
+			"_nodeVersion": "0.10.36",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "1bdc22b636a249b6870e920695b8338370b2cf98",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.6.9.tgz"
+			},
+			"directories": {}
+		},
+		"0.7.0": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.7.0",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"form-data": "~0.2.0",
+				"inflection": "~1.5.3",
+				"path-proxy": "~1.0",
+				"proxy-agent": "~1.1.0",
+				"q": "~1.1.2",
+				"scmp": "~1.0.0",
+				"debug": "~2.1.1"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"contributors": [
+				{
+					"name": "Bojan Djurkovic"
+				},
+				{
+					"name": "Adam Magaluk"
+				},
+				{
+					"name": "Bill Johnston"
+				},
+				{
+					"name": "Jamie Curtis"
+				},
+				{
+					"name": "Serhiy Oplakanets"
+				},
+				{
+					"name": "Julien Faissolle"
+				},
+				{
+					"name": "AJ ONeal"
+				}
+			],
+			"devDependencies": {
+				"clone": "~0.2.0",
+				"mocha": "*",
+				"mailcomposer": "0.2.12"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"gitHead": "e26727c42fedb16e26e8980f465df9f95a9eb75f",
+			"_id": "mailgun-js@0.7.0",
+			"_shasum": "24b2d27b65fef9bcb16558968b166fc176d42bb4",
+			"_from": ".",
+			"_npmVersion": "2.7.1",
+			"_nodeVersion": "0.10.36",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "24b2d27b65fef9bcb16558968b166fc176d42bb4",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.7.0.tgz"
+			},
+			"directories": {}
+		},
+		"0.7.1": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.7.1",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"form-data": "~0.2.0",
+				"inflection": "~1.5.3",
+				"path-proxy": "~1.0",
+				"proxy-agent": "~1.1.0",
+				"q": "~1.1.2",
+				"scmp": "~1.0.0",
+				"debug": "~2.1.1"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"contributors": [
+				{
+					"name": "Bojan Djurkovic"
+				},
+				{
+					"name": "Adam Magaluk"
+				},
+				{
+					"name": "Bill Johnston"
+				},
+				{
+					"name": "Jamie Curtis"
+				},
+				{
+					"name": "Serhiy Oplakanets"
+				},
+				{
+					"name": "Julien Faissolle"
+				},
+				{
+					"name": "AJ ONeal"
+				}
+			],
+			"devDependencies": {
+				"clone": "~0.2.0",
+				"mocha": "*",
+				"mailcomposer": "0.2.12"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"gitHead": "6cda70a43e0f1d1ca033e1e9edd7e980f021f3d1",
+			"_id": "mailgun-js@0.7.1",
+			"_shasum": "1979c5989eae143b144695c56243726831aab279",
+			"_from": ".",
+			"_npmVersion": "2.11.1",
+			"_nodeVersion": "0.10.36",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "1979c5989eae143b144695c56243726831aab279",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.7.1.tgz"
+			},
+			"directories": {}
+		},
+		"0.7.2": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.7.2",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"form-data": "~0.2.0",
+				"inflection": "~1.5.3",
+				"path-proxy": "~1.0",
+				"proxy-agent": "~1.1.0",
+				"q": "~1.1.2",
+				"scmp": "~1.0.0",
+				"debug": "~2.1.1"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"contributors": [
+				{
+					"name": "Bojan Djurkovic"
+				},
+				{
+					"name": "Adam Magaluk"
+				},
+				{
+					"name": "Bill Johnston"
+				},
+				{
+					"name": "Jamie Curtis"
+				},
+				{
+					"name": "Serhiy Oplakanets"
+				},
+				{
+					"name": "Julien Faissolle"
+				},
+				{
+					"name": "AJ ONeal"
+				}
+			],
+			"devDependencies": {
+				"clone": "~0.2.0",
+				"mocha": "~2.0.0",
+				"mailcomposer": "~1.0.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"gitHead": "2def0cb9d20e8b72b78fc0c51452b63e0b7187af",
+			"_id": "mailgun-js@0.7.2",
+			"_shasum": "434e6e16e10e472c18307909c5b7e72ab776d7aa",
+			"_from": ".",
+			"_npmVersion": "2.14.7",
+			"_nodeVersion": "0.12.7",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "434e6e16e10e472c18307909c5b7e72ab776d7aa",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.7.2.tgz"
+			},
+			"directories": {}
+		},
+		"0.7.3": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.7.3",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"form-data": "~0.2.0",
+				"inflection": "~1.5.3",
+				"path-proxy": "~1.0",
+				"proxy-agent": "~1.1.0",
+				"q": "~1.1.2",
+				"scmp": "~1.0.0",
+				"debug": "~2.1.1"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"contributors": [
+				{
+					"name": "Bojan Djurkovic"
+				},
+				{
+					"name": "Adam Magaluk"
+				},
+				{
+					"name": "Bill Johnston"
+				},
+				{
+					"name": "Jamie Curtis"
+				},
+				{
+					"name": "Serhiy Oplakanets"
+				},
+				{
+					"name": "Julien Faissolle"
+				},
+				{
+					"name": "AJ ONeal"
+				}
+			],
+			"devDependencies": {
+				"clone": "~0.2.0",
+				"mocha": "~2.0.0",
+				"mailcomposer": "~1.0.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"gitHead": "d6a20ca8808ac6ffb6790cf8e381854508ef1cf5",
+			"_id": "mailgun-js@0.7.3",
+			"_shasum": "89aee77c69a45dfc3bd44a1089af1b9c33bfef55",
+			"_from": ".",
+			"_npmVersion": "2.14.7",
+			"_nodeVersion": "0.12.7",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "89aee77c69a45dfc3bd44a1089af1b9c33bfef55",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.7.3.tgz"
+			},
+			"directories": {}
+		},
+		"0.7.4": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.7.4",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"form-data": "~0.2.0",
+				"inflection": "~1.5.3",
+				"path-proxy": "~1.0",
+				"proxy-agent": "~1.1.0",
+				"q": "~1.1.2",
+				"scmp": "~1.0.0",
+				"debug": "~2.1.1"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"contributors": [
+				{
+					"name": "Bojan Djurkovic"
+				},
+				{
+					"name": "Adam Magaluk"
+				},
+				{
+					"name": "Bill Johnston"
+				},
+				{
+					"name": "Jamie Curtis"
+				},
+				{
+					"name": "Serhiy Oplakanets"
+				},
+				{
+					"name": "Julien Faissolle"
+				},
+				{
+					"name": "AJ ONeal"
+				}
+			],
+			"devDependencies": {
+				"clone": "~0.2.0",
+				"mocha": "~2.0.0",
+				"mailcomposer": "~1.0.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"gitHead": "d6a20ca8808ac6ffb6790cf8e381854508ef1cf5",
+			"_id": "mailgun-js@0.7.4",
+			"_shasum": "fe317d55320178b644778303be7da64462f50a8c",
+			"_from": ".",
+			"_npmVersion": "2.14.7",
+			"_nodeVersion": "0.12.7",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "fe317d55320178b644778303be7da64462f50a8c",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.7.4.tgz"
+			},
+			"directories": {}
+		},
+		"0.7.5": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.7.5",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"form-data": "~1.0.0-rc3",
+				"inflection": "~1.7.2",
+				"path-proxy": "~1.0.0",
+				"proxy-agent": "~2.0.0",
+				"q": "~1.4.0",
+				"scmp": "~1.0.0",
+				"debug": "~2.2.0"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"contributors": [
+				{
+					"name": "Bojan Djurkovic"
+				},
+				{
+					"name": "Adam Magaluk"
+				},
+				{
+					"name": "Bill Johnston"
+				},
+				{
+					"name": "Jamie Curtis"
+				},
+				{
+					"name": "Serhiy Oplakanets"
+				},
+				{
+					"name": "Julien Faissolle"
+				},
+				{
+					"name": "AJ ONeal"
+				}
+			],
+			"devDependencies": {
+				"clone": "~1.0.0",
+				"mocha": "~2.3.4",
+				"mailcomposer": "~2.1.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"gitHead": "ef904c0721de5f02a43ad53ea7d2dcf34960ad00",
+			"_id": "mailgun-js@0.7.5",
+			"_shasum": "eb3a6aabeaefb36f0dc4fdd9a0b1ef798696e628",
+			"_from": ".",
+			"_npmVersion": "2.14.7",
+			"_nodeVersion": "4.2.2",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "eb3a6aabeaefb36f0dc4fdd9a0b1ef798696e628",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.7.5.tgz"
+			},
+			"directories": {}
+		},
+		"0.7.6": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.7.6",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"form-data": "~1.0.0-rc3",
+				"inflection": "~1.7.2",
+				"path-proxy": "~1.0.0",
+				"proxy-agent": "~2.0.0",
+				"q": "~1.4.0",
+				"scmp": "~1.0.0",
+				"debug": "~2.2.0"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"contributors": [
+				{
+					"name": "Bojan Djurkovic"
+				},
+				{
+					"name": "Adam Magaluk"
+				},
+				{
+					"name": "Bill Johnston"
+				},
+				{
+					"name": "Jamie Curtis"
+				},
+				{
+					"name": "Serhiy Oplakanets"
+				},
+				{
+					"name": "Julien Faissolle"
+				},
+				{
+					"name": "AJ ONeal"
+				}
+			],
+			"devDependencies": {
+				"clone": "~1.0.0",
+				"mocha": "~2.3.4",
+				"mailcomposer": "~2.1.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"gitHead": "01f4e1e6f946a2e988ce290bf05c9c13f3155ecd",
+			"_id": "mailgun-js@0.7.6",
+			"_shasum": "7333240e602c522c25ff4f7a92a7b16d1fa052bb",
+			"_from": ".",
+			"_npmVersion": "2.14.7",
+			"_nodeVersion": "0.12.7",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "7333240e602c522c25ff4f7a92a7b16d1fa052bb",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.7.6.tgz"
+			},
+			"directories": {}
+		},
+		"0.7.7": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.7.7",
+			"homepage": "https://github.com/1lobby/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/1lobby/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/1lobby/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"async": "~1.5.0",
+				"form-data": "~1.0.0-rc3",
+				"inflection": "~1.7.2",
+				"path-proxy": "~1.0.0",
+				"proxy-agent": "~2.0.0",
+				"q": "~1.4.0",
+				"scmp": "~1.0.0",
+				"debug": "~2.2.0"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"devDependencies": {
+				"clone": "~1.0.0",
+				"mailcomposer": "~2.1.0",
+				"mocha": "~2.3.4",
+				"request": "^2.67.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"gitHead": "eaebd3ec98d1ce46dc8399e313eca7fbf33e574a",
+			"_id": "mailgun-js@0.7.7",
+			"_shasum": "3e67674f169f3ca32fd7ac1e15295c573cf7e694",
+			"_from": ".",
+			"_npmVersion": "2.14.7",
+			"_nodeVersion": "0.12.7",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "3e67674f169f3ca32fd7ac1e15295c573cf7e694",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.7.7.tgz"
+			},
+			"directories": {}
+		},
+		"0.7.8": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.7.8",
+			"homepage": "https://github.com/bojand/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/bojand/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/bojand/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"async": "~1.5.0",
+				"form-data": "~1.0.0-rc3",
+				"inflection": "~1.7.2",
+				"path-proxy": "~1.0.0",
+				"proxy-agent": "~2.0.0",
+				"q": "~1.4.0",
+				"scmp": "~1.0.0",
+				"debug": "~2.2.0"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"devDependencies": {
+				"clone": "~1.0.0",
+				"mailcomposer": "~2.1.0",
+				"mocha": "~2.3.4",
+				"request": "^2.67.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"gitHead": "47032bb15a35c724b20fc5cd2a8eb1fd00fb7e81",
+			"_id": "mailgun-js@0.7.8",
+			"_shasum": "fe61554e6e86909faeef06281aba48e1e44542c5",
+			"_from": ".",
+			"_npmVersion": "2.15.0",
+			"_nodeVersion": "4.4.2",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "fe61554e6e86909faeef06281aba48e1e44542c5",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.7.8.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/mailgun-js-0.7.8.tgz_1460385794755_0.7838246438186616"
+			},
+			"directories": {}
+		},
+		"0.7.9": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.7.9",
+			"homepage": "https://github.com/bojand/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/bojand/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/bojand/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"async": "~1.5.0",
+				"form-data": "~1.0.0-rc3",
+				"inflection": "~1.7.2",
+				"path-proxy": "~1.0.0",
+				"proxy-agent": "~2.0.0",
+				"q": "~1.4.0",
+				"scmp": "~1.0.0",
+				"debug": "~2.2.0"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"devDependencies": {
+				"clone": "~1.0.0",
+				"mailcomposer": "~2.1.0",
+				"mocha": "~2.3.4",
+				"request": "^2.67.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"gitHead": "e3ea073319291486db0010f3c2e3fea044b1db8d",
+			"_id": "mailgun-js@0.7.9",
+			"_shasum": "3562e498a43d7837c8a87a45f130841241d668c5",
+			"_from": ".",
+			"_npmVersion": "2.15.0",
+			"_nodeVersion": "4.4.2",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "3562e498a43d7837c8a87a45f130841241d668c5",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.7.9.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/mailgun-js-0.7.9.tgz_1461242833226_0.14453523000702262"
+			},
+			"directories": {}
+		},
+		"0.7.10": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.7.10",
+			"homepage": "https://github.com/bojand/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/bojand/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/bojand/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"async": "~1.5.0",
+				"form-data": "~1.0.0-rc3",
+				"inflection": "~1.7.2",
+				"path-proxy": "~1.0.0",
+				"proxy-agent": "~2.0.0",
+				"q": "~1.4.0",
+				"scmp": "~1.0.0",
+				"debug": "~2.2.0"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"devDependencies": {
+				"clone": "~1.0.0",
+				"mailcomposer": "~2.1.0",
+				"mocha": "~2.3.4",
+				"request": "^2.67.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"gitHead": "1c62afd4db2bc4ad7d5f6a47223f9fdf6c863d95",
+			"_id": "mailgun-js@0.7.10",
+			"_shasum": "8f11bc8533fecdcd37aba8b4e47ca80e411028d8",
+			"_from": ".",
+			"_npmVersion": "2.15.0",
+			"_nodeVersion": "4.4.2",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "8f11bc8533fecdcd37aba8b4e47ca80e411028d8",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.7.10.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/mailgun-js-0.7.10.tgz_1461251575229_0.828092371346429"
+			},
+			"directories": {}
+		},
+		"0.7.11": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.7.11",
+			"homepage": "https://github.com/bojand/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/bojand/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/bojand/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"async": "~1.5.0",
+				"form-data": "~1.0.0-rc3",
+				"inflection": "~1.7.2",
+				"path-proxy": "~1.0.0",
+				"proxy-agent": "~2.0.0",
+				"q": "~1.4.0",
+				"tsscmp": "~1.0.0",
+				"debug": "~2.2.0"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"devDependencies": {
+				"clone": "~1.0.0",
+				"mailcomposer": "~2.1.0",
+				"mocha": "~2.3.4",
+				"request": "^2.67.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"gitHead": "a3d97dfdbd5f7b9d468160a6e418777a09456282",
+			"_id": "mailgun-js@0.7.11",
+			"_shasum": "4177c9ba90bd8d9ab314a2e088667f60fafc2b55",
+			"_from": ".",
+			"_npmVersion": "2.15.0",
+			"_nodeVersion": "4.4.2",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "4177c9ba90bd8d9ab314a2e088667f60fafc2b55",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.7.11.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/mailgun-js-0.7.11.tgz_1463056754109_0.1693522126879543"
+			},
+			"directories": {}
+		},
+		"0.7.12": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.7.12",
+			"homepage": "https://github.com/bojand/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/bojand/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/bojand/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"async": "~2.0.1",
+				"form-data": "~1.0.0-rc3",
+				"inflection": "~1.10.0",
+				"path-proxy": "~1.0.0",
+				"proxy-agent": "~2.0.0",
+				"q": "~1.4.0",
+				"tsscmp": "~1.0.0",
+				"debug": "~2.2.0"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"devDependencies": {
+				"clone": "~1.0.0",
+				"mailcomposer": "~2.1.0",
+				"mocha": "~3.0.2",
+				"request": "^2.67.0"
+			},
+			"scripts": {
+				"test": "mocha",
+				"docs:api": "./bin/docs",
+				"docs:clean": "rm -rf _book",
+				"docs:prepare": "gitbook install",
+				"docs:build": "npm run docs:api && npm run docs:prepare && npm run docs:clean && gitbook build",
+				"docs:watch": "npm run docs:api && npm run docs:prepare && gitbook serve",
+				"docs:publish": "npm run docs:build && cd _book && git init && git commit --allow-empty -m 'Update docs' && git checkout -b gh-pages && git add . && git commit -am 'Update docs' && git push https://github.com/bojand/mailgun-js.git gh-pages --force"
+			},
+			"gitHead": "8bfaf5c50414e242d4ebf37994540d9de7da5663",
+			"_id": "mailgun-js@0.7.12",
+			"_shasum": "b7025ce53f1beae1b777a6d70ef45d4482db4e4e",
+			"_from": ".",
+			"_npmVersion": "2.15.0",
+			"_nodeVersion": "4.4.2",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "b7025ce53f1beae1b777a6d70ef45d4482db4e4e",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.7.12.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/mailgun-js-0.7.12.tgz_1471046996680_0.31331878108903766"
+			},
+			"directories": {}
+		},
+		"0.7.13": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.7.13",
+			"homepage": "https://github.com/bojand/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/bojand/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/bojand/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"async": "~2.1.2",
+				"form-data": "~2.1.1",
+				"inflection": "~1.10.0",
+				"path-proxy": "~1.0.0",
+				"proxy-agent": "~2.0.0",
+				"q": "~1.4.0",
+				"tsscmp": "~1.0.0",
+				"debug": "~2.2.0"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"devDependencies": {
+				"clone": "~1.0.0",
+				"mailcomposer": "~2.1.0",
+				"mocha": "~3.0.2",
+				"request": "^2.67.0"
+			},
+			"scripts": {
+				"test": "mocha",
+				"docs:api": "./bin/docs",
+				"docs:clean": "rm -rf _book",
+				"docs:prepare": "gitbook install",
+				"docs:build": "npm run docs:api && npm run docs:prepare && npm run docs:clean && gitbook build",
+				"docs:watch": "npm run docs:api && npm run docs:prepare && gitbook serve",
+				"docs:publish": "npm run docs:build && cd _book && git init && git commit --allow-empty -m 'Update docs' && git checkout -b gh-pages && git add . && git commit -am 'Update docs' && git push https://github.com/bojand/mailgun-js.git gh-pages --force"
+			},
+			"gitHead": "051524cee2e0f1179538c95dc81a18e54f9d9134",
+			"_id": "mailgun-js@0.7.13",
+			"_shasum": "bf1afd52b9fd577d465d01a6b5ea1e2f9e9dc0e8",
+			"_from": ".",
+			"_npmVersion": "3.10.8",
+			"_nodeVersion": "6.9.1",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "bf1afd52b9fd577d465d01a6b5ea1e2f9e9dc0e8",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.7.13.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/mailgun-js-0.7.13.tgz_1477267328939_0.565426510758698"
+			},
+			"directories": {}
+		},
+		"0.7.14": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.7.14",
+			"homepage": "https://github.com/bojand/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/bojand/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/bojand/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"async": "~2.1.2",
+				"debug": "~2.2.0",
+				"form-data": "~2.1.1",
+				"inflection": "~1.10.0",
+				"is-stream": "^1.1.0",
+				"path-proxy": "~1.0.0",
+				"proxy-agent": "~2.0.0",
+				"q": "~1.4.0",
+				"tsscmp": "~1.0.0"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"devDependencies": {
+				"clone": "~1.0.0",
+				"mailcomposer": "~2.1.0",
+				"mocha": "~3.0.2",
+				"request": "^2.67.0"
+			},
+			"scripts": {
+				"test": "mocha",
+				"docs:api": "./bin/docs",
+				"docs:clean": "rm -rf _book",
+				"docs:prepare": "gitbook install",
+				"docs:build": "npm run docs:api && npm run docs:prepare && npm run docs:clean && gitbook build",
+				"docs:watch": "npm run docs:api && npm run docs:prepare && gitbook serve",
+				"docs:publish": "npm run docs:build && cd _book && git init && git commit --allow-empty -m 'Update docs' && git checkout -b gh-pages && git add . && git commit -am 'Update docs' && git push https://github.com/bojand/mailgun-js.git gh-pages --force"
+			},
+			"gitHead": "569c9465887475f734fe5582d3b22984b885f54f",
+			"_id": "mailgun-js@0.7.14",
+			"_shasum": "c613498a859e63d3fc536fa67913d519c9904f83",
+			"_from": ".",
+			"_npmVersion": "3.10.10",
+			"_nodeVersion": "6.9.1",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "c613498a859e63d3fc536fa67913d519c9904f83",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.7.14.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/mailgun-js-0.7.14.tgz_1479948641603_0.09063753602094948"
+			},
+			"directories": {}
+		},
+		"0.7.15": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.7.15",
+			"homepage": "https://github.com/bojand/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/bojand/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/bojand/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"async": "~2.1.2",
+				"debug": "~2.2.0",
+				"form-data": "~2.1.1",
+				"inflection": "~1.10.0",
+				"is-stream": "^1.1.0",
+				"path-proxy": "~1.0.0",
+				"proxy-agent": "~2.0.0",
+				"q": "~1.4.0",
+				"tsscmp": "~1.0.0"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"devDependencies": {
+				"clone": "~1.0.0",
+				"mailcomposer": "~2.1.0",
+				"mocha": "~3.0.2",
+				"request": "^2.67.0"
+			},
+			"scripts": {
+				"test": "mocha",
+				"docs:api": "./bin/docs",
+				"docs:clean": "rm -rf _book",
+				"docs:prepare": "gitbook install",
+				"docs:build": "npm run docs:api && npm run docs:prepare && npm run docs:clean && gitbook build",
+				"docs:watch": "npm run docs:api && npm run docs:prepare && gitbook serve",
+				"docs:publish": "npm run docs:build && cd _book && git init && git commit --allow-empty -m 'Update docs' && git checkout -b gh-pages && git add . && git commit -am 'Update docs' && git push https://github.com/bojand/mailgun-js.git gh-pages --force"
+			},
+			"gitHead": "3d9e17f2ef69123667c3dd3d94a10a015e14b181",
+			"_id": "mailgun-js@0.7.15",
+			"_shasum": "ee366a20dac64c3c15c03d6c1b3e0ed795252abb",
+			"_from": ".",
+			"_npmVersion": "3.10.10",
+			"_nodeVersion": "7.2.1",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "ee366a20dac64c3c15c03d6c1b3e0ed795252abb",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.7.15.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/mailgun-js-0.7.15.tgz_1482092718933_0.18313338630832732"
+			},
+			"directories": {}
+		},
+		"0.8.0": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.8.0",
+			"homepage": "https://github.com/bojand/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/bojand/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/bojand/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">=6.9"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"async": "~2.1.2",
+				"debug": "~2.2.0",
+				"form-data": "~2.1.1",
+				"inflection": "~1.10.0",
+				"is-stream": "^1.1.0",
+				"path-proxy": "~1.0.0",
+				"promisify-call": "^2.0.2",
+				"proxy-agent": "~2.0.0",
+				"tsscmp": "~1.0.0"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"devDependencies": {
+				"clone": "~1.0.0",
+				"mailcomposer": "~2.1.0",
+				"mocha": "~3.0.2",
+				"request": "^2.67.0"
+			},
+			"scripts": {
+				"test": "mocha",
+				"docs:api": "./bin/docs",
+				"docs:clean": "rm -rf _book",
+				"docs:prepare": "gitbook install",
+				"docs:build": "npm run docs:api && npm run docs:prepare && npm run docs:clean && gitbook build",
+				"docs:watch": "npm run docs:api && npm run docs:prepare && gitbook serve",
+				"docs:publish": "npm run docs:build && cd _book && git init && git commit --allow-empty -m 'Update docs' && git checkout -b gh-pages && git add . && git commit -am 'Update docs' && git push https://github.com/bojand/mailgun-js.git gh-pages --force"
+			},
+			"directories": {
+				"test": "test"
+			},
+			"gitHead": "60467f4234125a1ec592be8dfa3d2748000486ba",
+			"_id": "mailgun-js@0.8.0",
+			"_shasum": "3b40210d5537f1dcc3f5612b23b60b9bbada0b75",
+			"_from": ".",
+			"_npmVersion": "3.10.10",
+			"_nodeVersion": "7.2.1",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "3b40210d5537f1dcc3f5612b23b60b9bbada0b75",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.8.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/mailgun-js-0.8.0.tgz_1483391258158_0.5627945675514638"
+			}
+		},
+		"0.8.1": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.8.1",
+			"homepage": "https://github.com/bojand/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/bojand/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/bojand/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">=6.9"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"async": "~2.1.2",
+				"debug": "~2.2.0",
+				"form-data": "~2.1.1",
+				"inflection": "~1.10.0",
+				"is-stream": "^1.1.0",
+				"path-proxy": "~1.0.0",
+				"promisify-call": "^2.0.2",
+				"proxy-agent": "~2.0.0",
+				"tsscmp": "~1.0.0"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"devDependencies": {
+				"clone": "~1.0.0",
+				"mailcomposer": "~2.1.0",
+				"mocha": "~3.0.2",
+				"request": "^2.67.0"
+			},
+			"scripts": {
+				"test": "mocha",
+				"docs:api": "./bin/docs",
+				"docs:clean": "rm -rf _book",
+				"docs:prepare": "gitbook install",
+				"docs:build": "npm run docs:api && npm run docs:prepare && npm run docs:clean && gitbook build",
+				"docs:watch": "npm run docs:api && npm run docs:prepare && gitbook serve",
+				"docs:publish": "npm run docs:build && cd _book && git init && git commit --allow-empty -m 'Update docs' && git checkout -b gh-pages && git add . && git commit -am 'Update docs' && git push https://github.com/bojand/mailgun-js.git gh-pages --force"
+			},
+			"directories": {
+				"test": "test"
+			},
+			"gitHead": "2963489ca6438a44843970166ed61087b2f05675",
+			"_id": "mailgun-js@0.8.1",
+			"_shasum": "1a79d7715c8260d33faa28df1539804c789b76b9",
+			"_from": ".",
+			"_npmVersion": "4.0.5",
+			"_nodeVersion": "7.4.0",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "1a79d7715c8260d33faa28df1539804c789b76b9",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.8.1.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/mailgun-js-0.8.1.tgz_1485482595938_0.7129468645434827"
+			}
+		},
+		"0.8.2": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.8.2",
+			"homepage": "https://github.com/bojand/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/bojand/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/bojand/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">=6.9"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"async": "~2.1.2",
+				"debug": "~2.2.0",
+				"form-data": "~2.1.1",
+				"inflection": "~1.10.0",
+				"is-stream": "^1.1.0",
+				"path-proxy": "~1.0.0",
+				"promisify-call": "^2.0.2",
+				"proxy-agent": "~2.0.0",
+				"tsscmp": "~1.0.0"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"devDependencies": {
+				"clone": "~1.0.0",
+				"mailcomposer": "~2.1.0",
+				"mocha": "~3.0.2",
+				"request": "^2.67.0"
+			},
+			"scripts": {
+				"test": "mocha",
+				"docs:api": "./bin/docs",
+				"docs:clean": "rm -rf _book",
+				"docs:prepare": "gitbook install",
+				"docs:build": "npm run docs:api && npm run docs:prepare && npm run docs:clean && gitbook build",
+				"docs:watch": "npm run docs:api && npm run docs:prepare && gitbook serve",
+				"docs:publish": "npm run docs:build && cd _book && git init && git commit --allow-empty -m 'Update docs' && git checkout -b gh-pages && git add . && git commit -am 'Update docs' && git push https://github.com/bojand/mailgun-js.git gh-pages --force"
+			},
+			"directories": {
+				"test": "test"
+			},
+			"gitHead": "0c06c1a9155a6de5147e61bc75cebd18c909c31b",
+			"_id": "mailgun-js@0.8.2",
+			"_shasum": "a108ceda3145a93cd616b0472c0566f7456b6f34",
+			"_from": ".",
+			"_npmVersion": "4.1.2",
+			"_nodeVersion": "7.5.0",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "a108ceda3145a93cd616b0472c0566f7456b6f34",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.8.2.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/mailgun-js-0.8.2.tgz_1487287554756_0.6286762163508683"
+			}
+		},
+		"0.9.0": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.9.0",
+			"homepage": "https://github.com/bojand/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/bojand/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/bojand/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">=6.9"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"async": "~2.1.2",
+				"debug": "~2.2.0",
+				"form-data": "~2.1.1",
+				"inflection": "~1.10.0",
+				"is-stream": "^1.1.0",
+				"path-proxy": "~1.0.0",
+				"promisify-call": "^2.0.2",
+				"proxy-agent": "~2.0.0",
+				"tsscmp": "~1.0.0"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"devDependencies": {
+				"clone": "~1.0.0",
+				"mailcomposer": "~2.1.0",
+				"mocha": "~3.0.2",
+				"request": "^2.67.0"
+			},
+			"scripts": {
+				"test": "mocha",
+				"docs:api": "./bin/docs",
+				"docs:clean": "rm -rf _book",
+				"docs:prepare": "gitbook install",
+				"docs:build": "npm run docs:api && npm run docs:prepare && npm run docs:clean && gitbook build",
+				"docs:watch": "npm run docs:api && npm run docs:prepare && gitbook serve",
+				"docs:publish": "npm run docs:build && cd _book && git init && git commit --allow-empty -m 'Update docs' && git checkout -b gh-pages && git add . && git commit -am 'Update docs' && git push https://github.com/bojand/mailgun-js.git gh-pages --force"
+			},
+			"directories": {
+				"test": "test"
+			},
+			"gitHead": "5f0f23a25c35a2fdb15ff34000f98f11437da964",
+			"_id": "mailgun-js@0.9.0",
+			"_shasum": "c80ca5c4148570e2b2cb82667cc0d24e354659da",
+			"_from": ".",
+			"_npmVersion": "4.1.2",
+			"_nodeVersion": "7.7.1",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "c80ca5c4148570e2b2cb82667cc0d24e354659da",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.9.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/mailgun-js-0.9.0.tgz_1490013263962_0.7778084450401366"
+			}
+		},
+		"0.9.1": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.9.1",
+			"homepage": "https://github.com/bojand/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/bojand/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/bojand/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">=4.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"async": "~2.1.2",
+				"debug": "~2.2.0",
+				"form-data": "~2.1.1",
+				"inflection": "~1.10.0",
+				"is-stream": "^1.1.0",
+				"path-proxy": "~1.0.0",
+				"promisify-call": "^2.0.2",
+				"proxy-agent": "~2.0.0",
+				"tsscmp": "~1.0.0"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"devDependencies": {
+				"clone": "~1.0.0",
+				"mailcomposer": "~2.1.0",
+				"mocha": "~3.0.2",
+				"request": "^2.67.0"
+			},
+			"scripts": {
+				"test": "mocha",
+				"docs:api": "./bin/docs",
+				"docs:clean": "rm -rf _book",
+				"docs:prepare": "gitbook install",
+				"docs:build": "npm run docs:api && npm run docs:prepare && npm run docs:clean && gitbook build",
+				"docs:watch": "npm run docs:api && npm run docs:prepare && gitbook serve",
+				"docs:publish": "npm run docs:build && cd _book && git init && git commit --allow-empty -m 'Update docs' && git checkout -b gh-pages && git add . && git commit -am 'Update docs' && git push https://github.com/bojand/mailgun-js.git gh-pages --force"
+			},
+			"directories": {
+				"test": "test"
+			},
+			"gitHead": "bff2ef9c315fd5de668ef161109c3679f1ccd43c",
+			"_id": "mailgun-js@0.9.1",
+			"_shasum": "aa6199fc5b6d6e54dcf7905342bb87944effda3d",
+			"_from": ".",
+			"_npmVersion": "2.14.2",
+			"_nodeVersion": "4.0.0",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "aa6199fc5b6d6e54dcf7905342bb87944effda3d",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.9.1.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/mailgun-js-0.9.1.tgz_1490387518319_0.20015557250007987"
+			}
+		},
+		"0.10.1": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.10.1",
+			"homepage": "https://github.com/bojand/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/bojand/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/bojand/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">=4.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"async": "~2.3.0",
+				"debug": "~2.6.0",
+				"form-data": "~2.1.1",
+				"inflection": "~1.12.0",
+				"is-stream": "^1.1.0",
+				"path-proxy": "~1.0.0",
+				"promisify-call": "^2.0.2",
+				"proxy-agent": "~2.0.0",
+				"tsscmp": "~1.0.0"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "bojan@onelobby.com"
+			},
+			"devDependencies": {
+				"clone": "~2.1.0",
+				"mailcomposer": "~2.1.0",
+				"mocha": "~3.2.0",
+				"request": "^2.67.0"
+			},
+			"scripts": {
+				"test": "mocha",
+				"docs:api": "./bin/docs",
+				"docs:clean": "rm -rf _book",
+				"docs:prepare": "gitbook install",
+				"docs:build": "npm run docs:api && npm run docs:prepare && npm run docs:clean && gitbook build",
+				"docs:watch": "npm run docs:api && npm run docs:prepare && gitbook serve",
+				"docs:publish": "npm run docs:build && cd _book && git init && git commit --allow-empty -m 'Update docs' && git checkout -b gh-pages && git add . && git commit -am 'Update docs' && git push https://github.com/bojand/mailgun-js.git gh-pages --force"
+			},
+			"directories": {
+				"test": "test"
+			},
+			"gitHead": "2a7c65f240ad27e35334a4a16573e40646589683",
+			"_id": "mailgun-js@0.10.1",
+			"_shasum": "67f41e8c9cdf8f84c5603c30063f5bccb0704601",
+			"_from": ".",
+			"_npmVersion": "4.2.0",
+			"_nodeVersion": "7.8.0",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"dist": {
+				"shasum": "67f41e8c9cdf8f84c5603c30063f5bccb0704601",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.10.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/mailgun-js-0.10.1.tgz_1491877231496_0.5663542419206351"
+			}
+		},
+		"0.11.1": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.11.1",
+			"homepage": "https://github.com/bojand/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/bojand/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/bojand/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">=4.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"async": "~2.4.0",
+				"debug": "~2.6.0",
+				"form-data": "~2.1.1",
+				"inflection": "~1.12.0",
+				"is-stream": "^1.1.0",
+				"path-proxy": "~1.0.0",
+				"promisify-call": "^2.0.2",
+				"proxy-agent": "~2.0.0",
+				"tsscmp": "~1.0.0"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "dbojan@gmail.com"
+			},
+			"devDependencies": {
+				"clone": "~2.1.0",
+				"mailcomposer": "~2.1.0",
+				"mocha": "~3.4.0",
+				"request": "^2.67.0"
+			},
+			"scripts": {
+				"test": "mocha",
+				"docs": "./bin/docs"
+			},
+			"directories": {
+				"test": "test"
+			},
+			"gitHead": "cb99f6b38f7b05ebd16357e7e903b63457fa103b",
+			"_id": "mailgun-js@0.11.1",
+			"_shasum": "0730193425884cea13648daca711e1699bf65cae",
+			"_from": ".",
+			"_npmVersion": "4.2.0",
+			"_nodeVersion": "7.9.0",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"dist": {
+				"shasum": "0730193425884cea13648daca711e1699bf65cae",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.11.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/mailgun-js-0.11.1.tgz_1495503249217_0.38828381430357695"
+			}
+		},
+		"0.11.2": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.11.2",
+			"homepage": "https://github.com/bojand/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/bojand/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/bojand/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">=4.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"async": "~2.4.0",
+				"debug": "~2.6.0",
+				"form-data": "~2.1.1",
+				"inflection": "~1.12.0",
+				"is-stream": "^1.1.0",
+				"path-proxy": "~1.0.0",
+				"promisify-call": "^2.0.2",
+				"proxy-agent": "~2.0.0",
+				"tsscmp": "~1.0.0"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "dbojan@gmail.com"
+			},
+			"devDependencies": {
+				"clone": "~2.1.0",
+				"mailcomposer": "~2.1.0",
+				"mocha": "~3.4.0",
+				"request": "^2.67.0"
+			},
+			"scripts": {
+				"test": "mocha",
+				"docs": "./bin/docs"
+			},
+			"directories": {
+				"test": "test"
+			},
+			"gitHead": "5d0c5f85c354a3ac5bd4607edc8818f3c30fd2a7",
+			"_id": "mailgun-js@0.11.2",
+			"_shasum": "e88da86d52ab8810f07a8eb09bde84ec8b7cfa29",
+			"_from": ".",
+			"_npmVersion": "4.2.0",
+			"_nodeVersion": "7.9.0",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"dist": {
+				"shasum": "e88da86d52ab8810f07a8eb09bde84ec8b7cfa29",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.11.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/mailgun-js-0.11.2.tgz_1495807897755_0.8811776821967214"
+			}
+		},
+		"0.11.3": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.11.3",
+			"homepage": "https://github.com/bojand/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/bojand/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/bojand/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">=4.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"async": "~2.5.0",
+				"debug": "~2.6.0",
+				"form-data": "~2.2.0",
+				"inflection": "~1.12.0",
+				"is-stream": "^1.1.0",
+				"path-proxy": "~1.0.0",
+				"promisify-call": "^2.0.2",
+				"proxy-agent": "~2.1.0",
+				"tsscmp": "~1.0.0"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "dbojan@gmail.com"
+			},
+			"devDependencies": {
+				"clone": "~2.1.0",
+				"mailcomposer": "~2.1.0",
+				"mocha": "~3.4.0",
+				"request": "^2.67.0"
+			},
+			"scripts": {
+				"test": "mocha",
+				"docs": "./bin/docs"
+			},
+			"directories": {
+				"test": "test"
+			},
+			"gitHead": "480c292d0b6738d744c12d480e91d05581a359bc",
+			"_id": "mailgun-js@0.11.3",
+			"_npmVersion": "5.3.0",
+			"_nodeVersion": "8.2.1",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"dist": {
+				"integrity": "sha512-d+kKIWrdwzqDWuWPzJc4Burq6K4gyqgO2E/5QsEBT+fEkZosCDFD4sRMXPzplKRZMMSXY0B+RuVXIq8aGYAnZQ==",
+				"shasum": "93be2b858738fcf298c069f1bba7c5464c12280f",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.11.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/mailgun-js-0.11.3.tgz_1500596224918_0.4081041670870036"
+			}
+		},
+		"0.12.0": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.12.0",
+			"homepage": "https://github.com/bojand/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/bojand/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/bojand/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">=4.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"async": "~2.5.0",
+				"debug": "~2.6.0",
+				"form-data": "~2.2.0",
+				"inflection": "~1.12.0",
+				"is-stream": "^1.1.0",
+				"path-proxy": "~1.0.0",
+				"promisify-call": "^2.0.2",
+				"proxy-agent": "~2.1.0",
+				"tsscmp": "~1.0.0"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "dbojan@gmail.com"
+			},
+			"devDependencies": {
+				"clone": "~2.1.0",
+				"mailcomposer": "~2.1.0",
+				"mocha": "~3.4.0",
+				"request": "^2.67.0"
+			},
+			"scripts": {
+				"test": "mocha",
+				"docs": "./bin/docs"
+			},
+			"directories": {
+				"test": "test"
+			},
+			"gitHead": "8d838fd7b8c415000b296f4b47f1588f97620f84",
+			"_id": "mailgun-js@0.12.0",
+			"_npmVersion": "5.3.0",
+			"_nodeVersion": "8.2.1",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"dist": {
+				"integrity": "sha512-oiuhyVGYOku797jfTQpqQFL3Q8hMcCn6j7Xm+TRrjsCnws/AgttSxXYWcRSCprcPtFk/8ThuSxsHE441oBV7pQ==",
+				"shasum": "19bc0e7ac5b5a39bc7c5ac10a9a20a9eb4aee617",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.12.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/mailgun-js-0.12.0.tgz_1501202434386_0.6278709028847516"
+			}
+		},
+		"0.12.1": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.12.1",
+			"homepage": "https://github.com/bojand/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/bojand/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/bojand/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">=4.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"async": "~2.5.0",
+				"debug": "~2.6.0",
+				"form-data": "~2.2.0",
+				"inflection": "~1.12.0",
+				"is-stream": "^1.1.0",
+				"path-proxy": "~1.0.0",
+				"promisify-call": "^2.0.2",
+				"proxy-agent": "~2.1.0",
+				"tsscmp": "~1.0.0"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "dbojan@gmail.com"
+			},
+			"devDependencies": {
+				"clone": "~2.1.0",
+				"mailcomposer": "~2.1.0",
+				"mocha": "~3.4.0",
+				"request": "^2.67.0"
+			},
+			"scripts": {
+				"test": "mocha",
+				"docs": "./bin/docs"
+			},
+			"directories": {
+				"test": "test"
+			},
+			"gitHead": "bc0c3571fb40f0a80027a5261e4e9edc78661470",
+			"_id": "mailgun-js@0.12.1",
+			"_shasum": "3e6cb077333cfee4ae2fce04e2b40aa8c1ed0d80",
+			"_from": ".",
+			"_npmVersion": "3.10.10",
+			"_nodeVersion": "6.10.2",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"dist": {
+				"shasum": "3e6cb077333cfee4ae2fce04e2b40aa8c1ed0d80",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.12.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/mailgun-js-0.12.1.tgz_1502195414071_0.2695607808418572"
+			}
+		},
+		"0.13.0": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.13.0",
+			"homepage": "https://github.com/bojand/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/bojand/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/bojand/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">=4.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"async": "~2.5.0",
+				"debug": "~2.6.0",
+				"form-data": "~2.2.0",
+				"inflection": "~1.12.0",
+				"is-stream": "^1.1.0",
+				"path-proxy": "~1.0.0",
+				"promisify-call": "^2.0.2",
+				"proxy-agent": "~2.1.0",
+				"tsscmp": "~1.0.0"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "dbojan@gmail.com"
+			},
+			"devDependencies": {
+				"clone": "~2.1.0",
+				"mailcomposer": "~2.1.0",
+				"mocha": "~3.4.0",
+				"request": "^2.67.0"
+			},
+			"scripts": {
+				"test": "mocha",
+				"docs": "./bin/docs"
+			},
+			"directories": {
+				"test": "test"
+			},
+			"gitHead": "05f6c1c37cdcc628031368a2fec3a8ce886c7b5a",
+			"_id": "mailgun-js@0.13.0",
+			"_npmVersion": "5.3.0",
+			"_nodeVersion": "8.3.0",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"dist": {
+				"integrity": "sha512-th1xJ2C1yhqu0rSaU575NmrqSKMsk2v9mGBK+7CP9G62bpxOgGHdCHsWCTvPN9eoK5IeCjLsQ8dgqfGOyvi/vQ==",
+				"shasum": "c84905458207b723a5b71707d849edd93b59c867",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.13.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/mailgun-js-0.13.0.tgz_1502673529782_0.14060227968730032"
+			}
+		},
+		"0.13.1": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.13.1",
+			"homepage": "https://github.com/bojand/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/bojand/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/bojand/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">=4.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"async": "~2.5.0",
+				"debug": "~2.6.0",
+				"form-data": "~2.2.0",
+				"inflection": "~1.12.0",
+				"is-stream": "^1.1.0",
+				"path-proxy": "~1.0.0",
+				"promisify-call": "^2.0.2",
+				"proxy-agent": "~2.1.0",
+				"tsscmp": "~1.0.0"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "dbojan@gmail.com"
+			},
+			"devDependencies": {
+				"clone": "~2.1.0",
+				"mailcomposer": "~2.1.0",
+				"mocha": "~3.4.0",
+				"request": "^2.67.0"
+			},
+			"scripts": {
+				"test": "mocha",
+				"docs": "./bin/docs"
+			},
+			"directories": {
+				"test": "test"
+			},
+			"gitHead": "d82a5f51b9941a527d2c6b7543601bb1ad3ea56f",
+			"_id": "mailgun-js@0.13.1",
+			"_npmVersion": "5.3.0",
+			"_nodeVersion": "8.3.0",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"dist": {
+				"integrity": "sha512-HwuBCmydO6/bTrdyhCbQ1BfAFkyGe24ARE1uetVcaBVAV6yKbUSzUoaP0sfpk8cxUCCa+DtsIedk2DUmMdmxlg==",
+				"shasum": "187b9229b2be262dc0182177ecbb77c77b47b9df",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.13.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/mailgun-js-0.13.1.tgz_1502754310591_0.19364338601008058"
+			}
+		},
+		"0.14.0": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.14.0",
+			"homepage": "https://github.com/bojand/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/bojand/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/bojand/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">=4.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"async": "~2.6.0",
+				"debug": "~3.1.0",
+				"form-data": "~2.3.0",
+				"inflection": "~1.12.0",
+				"is-stream": "^1.1.0",
+				"path-proxy": "~1.0.0",
+				"promisify-call": "^2.0.2",
+				"proxy-agent": "~2.1.0",
+				"tsscmp": "~1.0.0"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "dbojan@gmail.com"
+			},
+			"devDependencies": {
+				"clone": "~2.1.0",
+				"mocha": "~4.0.0",
+				"nodemailer": "~4.4.1",
+				"request": "^2.67.0",
+				"standard": "^10.0.3"
+			},
+			"scripts": {
+				"test": "npm run lint && npm run mocha",
+				"mocha": "mocha --ui exports --slow 1500ms --timeout 10000ms --reporter spec",
+				"lint": "standard lib/**/*.js && standard --env mocha test/**/*.js",
+				"lint:fix": "standard --fix lib/**/*.js && standard --env mocha --fix test/**/*.js",
+				"docs": "./bin/docs"
+			},
+			"directories": {
+				"test": "test"
+			},
+			"standard": {
+				"env": {
+					"node": true,
+					"mocha": true
+				}
+			},
+			"gitHead": "a0c59cc90f4f0654bf386d1e447b511573c94171",
+			"_id": "mailgun-js@0.14.0",
+			"_npmVersion": "5.5.1",
+			"_nodeVersion": "8.9.3",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"dist": {
+				"integrity": "sha512-D7gJ15l8H6OhY0ZT0lD3nvwLHZ8Cry7s1FoI7XntfwImShompykfYHSl70qQu+DpmckDLEf28DkmsG9eAMLasw==",
+				"shasum": "ab1c7c457a785b7ef3dfba6b709c379019a52c45",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.14.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/mailgun-js-0.14.0.tgz_1514049904092_0.11063819914124906"
+			}
+		},
+		"0.14.1": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.14.1",
+			"homepage": "https://github.com/bojand/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/bojand/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/bojand/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">=6.0.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"async": "~2.6.0",
+				"debug": "~3.1.0",
+				"form-data": "~2.3.0",
+				"inflection": "~1.12.0",
+				"is-stream": "^1.1.0",
+				"path-proxy": "~1.0.0",
+				"promisify-call": "^2.0.2",
+				"proxy-agent": "~2.1.0",
+				"tsscmp": "~1.0.0"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "dbojan@gmail.com"
+			},
+			"devDependencies": {
+				"clone": "~2.1.0",
+				"mocha": "~4.0.0",
+				"nodemailer": "~4.4.1",
+				"request": "^2.67.0",
+				"standard": "^10.0.3"
+			},
+			"scripts": {
+				"test": "npm run lint && npm run mocha",
+				"mocha": "mocha --ui exports --slow 1500ms --timeout 10000ms --reporter spec",
+				"lint": "standard lib/**/*.js && standard --env mocha test/**/*.js",
+				"lint:fix": "standard --fix lib/**/*.js && standard --env mocha --fix test/**/*.js",
+				"docs": "./bin/docs"
+			},
+			"directories": {
+				"test": "test"
+			},
+			"standard": {
+				"env": {
+					"node": true,
+					"mocha": true
+				}
+			},
+			"gitHead": "0ab27509734894ab08705c6502a6c58f9bf84fef",
+			"_id": "mailgun-js@0.14.1",
+			"_npmVersion": "5.5.1",
+			"_nodeVersion": "8.9.3",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"dist": {
+				"integrity": "sha512-/ptzMJcwF1eTKPx2I2DQgD1UPW3/QQFRqHJjNP6oSmyRGW5SzpeYLs8VOgPtU26w1rtHD0UniXfPAvEQWtMfnw==",
+				"shasum": "b7c2259cc788e33b05b931f83eb3b0f0a322eb40",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.14.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/mailgun-js-0.14.1.tgz_1514904165271_0.7663768117781729"
+			}
+		},
+		"0.14.2": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.14.2",
+			"homepage": "https://github.com/bojand/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/bojand/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/bojand/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">=6.0.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"async": "~2.6.0",
+				"debug": "~3.1.0",
+				"form-data": "~2.3.0",
+				"inflection": "~1.12.0",
+				"is-stream": "^1.1.0",
+				"path-proxy": "~1.0.0",
+				"promisify-call": "^2.0.2",
+				"proxy-agent": "~2.1.0",
+				"tsscmp": "~1.0.0"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "dbojan@gmail.com"
+			},
+			"devDependencies": {
+				"clone": "~2.1.0",
+				"mocha": "~4.0.0",
+				"nodemailer": "~4.4.1",
+				"request": "^2.67.0",
+				"standard": "^10.0.3"
+			},
+			"scripts": {
+				"test": "npm run lint && npm run mocha",
+				"mocha": "mocha --ui exports --slow 1500ms --timeout 10000ms --reporter spec",
+				"lint": "standard lib/**/*.js && standard --env mocha test/**/*.js",
+				"lint:fix": "standard --fix lib/**/*.js && standard --env mocha --fix test/**/*.js",
+				"docs": "./bin/docs"
+			},
+			"directories": {
+				"test": "test"
+			},
+			"standard": {
+				"env": {
+					"node": true,
+					"mocha": true
+				}
+			},
+			"gitHead": "168d6dabb83cc072b932ff9d47a48b0c9b964138",
+			"_id": "mailgun-js@0.14.2",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "8.9.4",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"dist": {
+				"integrity": "sha512-QDVBd3r2dvA31j+GDAW49U5UWBNM1AHlXHD6zTN638WWKaeNR5JEjHaPaBaKW01B/z9dTzQ7qvVmveBiGYVx5A==",
+				"shasum": "94a591b21421909450f338f68efd602cdef1e3a1",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.14.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/mailgun-js-0.14.2.tgz_1516721786318_0.6520294435322285"
+			}
+		},
+		"0.15.0": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.15.0",
+			"homepage": "https://github.com/bojand/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/bojand/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/bojand/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">=6.0.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"async": "~2.6.0",
+				"debug": "~3.1.0",
+				"form-data": "~2.3.0",
+				"inflection": "~1.12.0",
+				"is-stream": "^1.1.0",
+				"path-proxy": "~1.0.0",
+				"promisify-call": "^2.0.2",
+				"proxy-agent": "~2.1.0",
+				"tsscmp": "~1.0.0"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "dbojan@gmail.com"
+			},
+			"devDependencies": {
+				"clone": "~2.1.0",
+				"mocha": "~4.0.0",
+				"nodemailer": "~4.4.1",
+				"request": "^2.67.0",
+				"standard": "^10.0.3"
+			},
+			"scripts": {
+				"test": "npm run lint && npm run mocha",
+				"mocha": "mocha --ui exports --slow 1500ms --timeout 10000ms --reporter spec",
+				"lint": "standard lib/**/*.js && standard --env mocha test/**/*.js",
+				"lint:fix": "standard --fix lib/**/*.js && standard --env mocha --fix test/**/*.js",
+				"docs": "./bin/docs"
+			},
+			"directories": {
+				"test": "test"
+			},
+			"standard": {
+				"env": {
+					"node": true,
+					"mocha": true
+				}
+			},
+			"gitHead": "5f4bdbfc12af12738b0d345a42b6b02954d75a93",
+			"_id": "mailgun-js@0.15.0",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "8.9.4",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"dist": {
+				"integrity": "sha512-w3z+F26RpST4lomfjgPVN2IQsusAHYoOTqOUp6tJViKAFUTz/oRhQR0Wgd4facEpL7LTKVgubSXalhNzrftW8A==",
+				"shasum": "575a618ec4c11cb4842991b2ae6a2363aabd6611",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.15.0.tgz",
+				"fileCount": 9,
+				"unpackedSize": 56551
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/mailgun-js_0.15.0_1518570884940_0.847579070434525"
+			}
+		},
+		"0.16.0": {
+			"name": "mailgun-js",
+			"description": "Simple Node.js helper module for Mailgun API",
+			"keywords": [
+				"email",
+				"mailgun"
+			],
+			"version": "0.16.0",
+			"homepage": "https://github.com/bojand/mailgun-js",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/bojand/mailgun-js.git"
+			},
+			"bugs": {
+				"url": "http://github.com/bojand/mailgun-js/issues"
+			},
+			"engines": {
+				"node": ">=6.0.0"
+			},
+			"main": "./lib/mailgun.js",
+			"dependencies": {
+				"async": "~2.6.0",
+				"debug": "~3.1.0",
+				"form-data": "~2.3.0",
+				"inflection": "~1.12.0",
+				"is-stream": "^1.1.0",
+				"path-proxy": "~1.0.0",
+				"promisify-call": "^2.0.2",
+				"proxy-agent": "~2.1.0",
+				"tsscmp": "~1.0.0"
+			},
+			"author": {
+				"name": "Bojan Djurkovic",
+				"email": "dbojan@gmail.com"
+			},
+			"devDependencies": {
+				"clone": "~2.1.0",
+				"mocha": "~4.0.0",
+				"nodemailer": "~4.4.1",
+				"request": "^2.67.0",
+				"standard": "^10.0.3"
+			},
+			"scripts": {
+				"test": "npm run lint && npm run mocha",
+				"mocha": "mocha --ui exports --slow 1500ms --timeout 10000ms --reporter spec",
+				"lint": "standard lib/**/*.js && standard --env mocha test/**/*.js",
+				"lint:fix": "standard --fix lib/**/*.js && standard --env mocha --fix test/**/*.js",
+				"docs": "./bin/docs"
+			},
+			"directories": {
+				"test": "test"
+			},
+			"standard": {
+				"env": {
+					"node": true,
+					"mocha": true
+				}
+			},
+			"gitHead": "9a5f3451a6909b46267fbae7721dd935d3226336",
+			"_id": "mailgun-js@0.16.0",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "8.9.4",
+			"_npmUser": {
+				"name": "bojand",
+				"email": "dbojan@gmail.com"
+			},
+			"dist": {
+				"integrity": "sha512-I42Dvfuy87eiUNMbh42/XrgqqC9VfTqCmAIAtsIU6x9XvH7CkVwxnhrKyPgYL76x6GrLGINxRVdEqD/IO6Kvpg==",
+				"shasum": "627c5ec880e7f77fd5c6d8d93b74afd0507a9cb2",
+				"tarball": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.16.0.tgz",
+				"fileCount": 9,
+				"unpackedSize": 56771
+			},
+			"maintainers": [
+				{
+					"name": "bojand",
+					"email": "dbojan@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/mailgun-js_0.16.0_1518653344300_0.8015018276607739"
+			}
+		}
+	},
+	"dist-tags": {
+		"latest": "0.16.0"
+	},
+	"time": {
+		"modified": "2018-02-15T00:09:05.819Z",
+		"created": "2012-12-20T19:26:21.847Z",
+		"0.1.0": "2012-12-20T19:26:22.802Z",
+		"0.1.1": "2013-03-15T15:41:26.678Z",
+		"0.2.0": "2013-03-16T15:18:22.344Z",
+		"0.2.1": "2013-04-12T13:44:08.951Z",
+		"0.2.2": "2013-10-07T13:02:54.680Z",
+		"0.3.0": "2014-01-24T02:26:31.822Z",
+		"0.3.1": "2014-02-17T13:29:43.972Z",
+		"0.3.2": "2014-02-18T13:01:44.510Z",
+		"0.3.3": "2014-03-19T00:23:20.927Z",
+		"0.3.4": "2014-03-24T22:50:44.588Z",
+		"0.3.5": "2014-03-24T23:27:02.089Z",
+		"0.4.0": "2014-03-27T12:56:02.596Z",
+		"0.4.1": "2014-03-27T13:07:08.705Z",
+		"0.4.2": "2014-03-30T16:04:43.747Z",
+		"0.4.3": "2014-03-30T16:07:04.886Z",
+		"0.4.4": "2014-04-10T15:44:00.331Z",
+		"0.4.5": "2014-04-10T18:52:07.685Z",
+		"0.4.6": "2014-04-16T12:36:26.718Z",
+		"0.4.7": "2014-04-16T12:41:48.063Z",
+		"0.4.8": "2014-05-13T22:54:43.538Z",
+		"0.4.9": "2014-05-24T19:16:16.656Z",
+		"0.4.10": "2014-06-10T00:11:32.260Z",
+		"0.4.11": "2014-06-10T00:13:32.801Z",
+		"0.4.12": "2014-06-11T22:44:11.607Z",
+		"0.4.13": "2014-06-11T22:45:55.608Z",
+		"0.4.14": "2014-06-19T12:01:29.810Z",
+		"0.4.15": "2014-06-19T12:03:11.823Z",
+		"0.5.0": "2014-06-27T01:15:18.933Z",
+		"0.5.1": "2014-06-27T01:16:35.202Z",
+		"0.5.2": "2014-07-20T18:51:57.123Z",
+		"0.5.3": "2014-07-20T18:56:55.886Z",
+		"0.5.4": "2014-07-20T18:59:11.896Z",
+		"0.6.0": "2014-09-07T19:02:40.215Z",
+		"0.6.1": "2014-09-07T19:04:39.474Z",
+		"0.6.2": "2014-09-09T11:59:53.952Z",
+		"0.6.3": "2014-09-09T12:01:48.348Z",
+		"0.6.4": "2014-09-29T14:22:42.561Z",
+		"0.6.5": "2014-09-29T14:24:53.969Z",
+		"0.6.6": "2014-10-02T14:55:16.586Z",
+		"0.6.7": "2014-10-02T14:55:47.727Z",
+		"0.6.8": "2015-01-15T16:04:36.875Z",
+		"0.6.9": "2015-04-05T18:30:09.050Z",
+		"0.7.0": "2015-06-03T15:27:01.884Z",
+		"0.7.1": "2015-07-13T12:33:07.450Z",
+		"0.7.2": "2015-10-07T14:12:46.058Z",
+		"0.7.3": "2015-10-26T12:13:51.919Z",
+		"0.7.4": "2015-10-27T17:30:00.554Z",
+		"0.7.5": "2015-11-16T13:59:08.404Z",
+		"0.7.6": "2015-11-17T19:32:13.373Z",
+		"0.7.7": "2015-11-23T01:39:06.366Z",
+		"0.7.8": "2016-04-11T14:43:17.447Z",
+		"0.7.9": "2016-04-21T12:47:15.573Z",
+		"0.7.10": "2016-04-21T15:12:56.627Z",
+		"0.7.11": "2016-05-12T12:39:15.855Z",
+		"0.7.12": "2016-08-13T00:09:56.918Z",
+		"0.7.13": "2016-10-24T00:02:09.189Z",
+		"0.7.14": "2016-11-24T00:50:41.841Z",
+		"0.7.15": "2016-12-18T20:25:19.187Z",
+		"0.8.0": "2017-01-02T21:07:38.403Z",
+		"0.8.1": "2017-01-27T02:03:16.176Z",
+		"0.8.2": "2017-02-16T23:25:55.374Z",
+		"0.10.0": "2017-03-20T12:12:44.923Z",
+		"0.9.0": "2017-03-20T12:34:26.015Z",
+		"0.9.1": "2017-03-24T20:32:00.375Z",
+		"0.11.0": "2017-04-11T01:43:35.340Z",
+		"0.10.1": "2017-04-11T02:20:33.525Z",
+		"0.11.1": "2017-05-23T01:34:09.372Z",
+		"0.11.2": "2017-05-26T14:11:37.939Z",
+		"0.11.3": "2017-07-21T00:17:05.370Z",
+		"0.12.0": "2017-07-28T00:40:34.464Z",
+		"0.12.1": "2017-08-08T12:30:14.219Z",
+		"0.13.0": "2017-08-14T01:18:49.894Z",
+		"0.13.1": "2017-08-14T23:45:10.884Z",
+		"0.14.0": "2017-12-23T17:25:04.304Z",
+		"0.14.1": "2018-01-02T14:42:45.363Z",
+		"0.14.2": "2018-01-23T15:36:26.408Z",
+		"0.15.0": "2018-02-14T01:14:45.233Z",
+		"0.16.0": "2018-02-15T00:09:04.355Z"
+	},
+	"_distfiles": {
+		"mailgun-js-0.1.0.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.1.0.tgz",
+			"sha": "d7c75ef3528ca4407b111ea5bea1faf92c714a5b",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.1.1.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.1.1.tgz",
+			"sha": "75ff9502f6758f2bbf7dd3f109d1c8e2967a8852",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.2.0.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.2.0.tgz",
+			"sha": "6d8a60b2a68183cdcd8d5ae87571f7650300ecf7",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.2.1.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.2.1.tgz",
+			"sha": "42c93ea4af02a29be30410b51890aa32dc3f7ae7",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.2.2.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.2.2.tgz",
+			"sha": "557be859792d404c969a53de9f07ad0fab47ac1d",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.3.0.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.3.0.tgz",
+			"sha": "74a468cce90b25c99a7c57d25df61cab2013fc4c",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.3.1.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.3.1.tgz",
+			"sha": "67be12661d54abf100839816a6ce00eb6ad1943f",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.3.2.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.3.2.tgz",
+			"sha": "57010bf55ab50780b3ced676bf443f85a4779940",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.3.3.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.3.3.tgz",
+			"sha": "d4984c7c08886253a9f7ecf213332b1db074bae3",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.3.4.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.3.4.tgz",
+			"sha": "de3342819b2f089a26f5c0befc987c651bb6ed1c",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.3.5.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.3.5.tgz",
+			"sha": "2e0728698e26467dfe708030ec87eac029327879",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.4.2.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.4.2.tgz",
+			"sha": "f8bf9cd6332a01409228a8e239e3f21b8f89bbf4",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.4.3.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.4.3.tgz",
+			"sha": "e4600932245af72dc0d302a8a797e8ed971d2bdf",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.4.4.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.4.4.tgz",
+			"sha": "93d5fe80aa83c1fda2a58730a9f344025adc84a9",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.4.5.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.4.5.tgz",
+			"sha": "438902d20664af477a051fa8415ae6b09f568b02",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.4.7.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.4.7.tgz",
+			"sha": "4e54f552cc5b265fcf04cfd32946bc02f406b4ce",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.4.8.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.4.8.tgz",
+			"sha": "4c38cc1c22dad66931a23d02f9c16f35479d9a32",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.4.9.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.4.9.tgz",
+			"sha": "c6c2ae71a0ebb49e647977a9fedd4c33366fcae2",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.4.10.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.4.10.tgz",
+			"sha": "e21eb7d1ad59b5a0962a91c7ea06c3e010434ca0",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.4.11.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.4.11.tgz",
+			"sha": "78515324bb091b9495bd9128af8060221e1f61be",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.4.12.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.4.12.tgz",
+			"sha": "9d8647751c11401f3f8ea5a9a1d40e3d419b892c",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.4.13.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.4.13.tgz",
+			"sha": "6b98ff312796fb57d25dfe50bbb9a9b3466a343d",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.4.14.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.4.14.tgz",
+			"sha": "ff142f96e89517c9bbcd8ee3bd05386d5daff19d",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.4.15.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.4.15.tgz",
+			"sha": "ab8a9e39a94b4c6754ddb690024bfccc7b4d5a1b",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.5.0.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.5.0.tgz",
+			"sha": "05cbc5eba18a27f974c7902e307e153c82a4b8ad",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.5.1.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.5.1.tgz",
+			"sha": "cbf4f1794f7a50f568f75f9345165905950e9a99",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.5.2.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.5.2.tgz",
+			"sha": "88a0d0475a20250650fbd354a46db3c0522e2d19",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.5.3.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.5.3.tgz",
+			"sha": "c3791508306d72b8bbd30c79874886fecb6dff12",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.5.4.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.5.4.tgz",
+			"sha": "c2518d44741bdbf8f6380f4169433a8dc83930d8",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.6.0.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.6.0.tgz",
+			"sha": "5b41cf2d1767195c9a4880e00a473533d436a729",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.6.1.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.6.1.tgz",
+			"sha": "02ce776a027768d0e8cab45c91785e14f6676b57",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.6.2.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.6.2.tgz",
+			"sha": "7036a99061ae845910da4f0d64940f3d135d364a",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.6.3.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.6.3.tgz",
+			"sha": "a2c673624bd2c7a01cf96c1131299a2e39b49f3d",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.6.4.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.6.4.tgz",
+			"sha": "a5fd1ea7924ad38de9f2dc8c2080c07e5e641b37",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.6.5.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.6.5.tgz",
+			"sha": "d61cbf58c772fb3a77f43e6f4cc1c3f2012ca474",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.6.6.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.6.6.tgz",
+			"sha": "88203511541a67e4f0654a3e29668e9bc8df28dd",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.6.7.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.6.7.tgz",
+			"sha": "e9988b8d0e20dc97844a62eefe8119262d02e7a2",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.6.8.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.6.8.tgz",
+			"sha": "64a1aab7036b8161a7c619037d820d6c50fe83ab",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.6.9.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.6.9.tgz",
+			"sha": "1bdc22b636a249b6870e920695b8338370b2cf98",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.7.0.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.7.0.tgz",
+			"sha": "24b2d27b65fef9bcb16558968b166fc176d42bb4",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.7.1.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.7.1.tgz",
+			"sha": "1979c5989eae143b144695c56243726831aab279",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.7.2.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.7.2.tgz",
+			"sha": "434e6e16e10e472c18307909c5b7e72ab776d7aa",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.7.3.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.7.3.tgz",
+			"sha": "89aee77c69a45dfc3bd44a1089af1b9c33bfef55",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.7.4.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.7.4.tgz",
+			"sha": "fe317d55320178b644778303be7da64462f50a8c",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.7.5.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.7.5.tgz",
+			"sha": "eb3a6aabeaefb36f0dc4fdd9a0b1ef798696e628",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.7.6.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.7.6.tgz",
+			"sha": "7333240e602c522c25ff4f7a92a7b16d1fa052bb",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.7.7.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.7.7.tgz",
+			"sha": "3e67674f169f3ca32fd7ac1e15295c573cf7e694",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.7.8.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.7.8.tgz",
+			"sha": "fe61554e6e86909faeef06281aba48e1e44542c5",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.7.9.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.7.9.tgz",
+			"sha": "3562e498a43d7837c8a87a45f130841241d668c5",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.7.10.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.7.10.tgz",
+			"sha": "8f11bc8533fecdcd37aba8b4e47ca80e411028d8",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.7.11.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.7.11.tgz",
+			"sha": "4177c9ba90bd8d9ab314a2e088667f60fafc2b55",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.7.12.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.7.12.tgz",
+			"sha": "b7025ce53f1beae1b777a6d70ef45d4482db4e4e",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.7.13.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.7.13.tgz",
+			"sha": "bf1afd52b9fd577d465d01a6b5ea1e2f9e9dc0e8",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.7.14.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.7.14.tgz",
+			"sha": "c613498a859e63d3fc536fa67913d519c9904f83",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.7.15.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.7.15.tgz",
+			"sha": "ee366a20dac64c3c15c03d6c1b3e0ed795252abb",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.8.0.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.8.0.tgz",
+			"sha": "3b40210d5537f1dcc3f5612b23b60b9bbada0b75",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.8.1.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.8.1.tgz",
+			"sha": "1a79d7715c8260d33faa28df1539804c789b76b9",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.8.2.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.8.2.tgz",
+			"sha": "a108ceda3145a93cd616b0472c0566f7456b6f34",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.9.0.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.9.0.tgz",
+			"sha": "c80ca5c4148570e2b2cb82667cc0d24e354659da",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.9.1.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.9.1.tgz",
+			"sha": "aa6199fc5b6d6e54dcf7905342bb87944effda3d",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.10.1.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.10.1.tgz",
+			"sha": "67f41e8c9cdf8f84c5603c30063f5bccb0704601",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.11.1.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.11.1.tgz",
+			"sha": "0730193425884cea13648daca711e1699bf65cae",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.11.2.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.11.2.tgz",
+			"sha": "e88da86d52ab8810f07a8eb09bde84ec8b7cfa29",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.11.3.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.11.3.tgz",
+			"sha": "93be2b858738fcf298c069f1bba7c5464c12280f",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.12.0.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.12.0.tgz",
+			"sha": "19bc0e7ac5b5a39bc7c5ac10a9a20a9eb4aee617",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.12.1.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.12.1.tgz",
+			"sha": "3e6cb077333cfee4ae2fce04e2b40aa8c1ed0d80",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.13.0.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.13.0.tgz",
+			"sha": "c84905458207b723a5b71707d849edd93b59c867",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.13.1.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.13.1.tgz",
+			"sha": "187b9229b2be262dc0182177ecbb77c77b47b9df",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.14.0.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.14.0.tgz",
+			"sha": "ab1c7c457a785b7ef3dfba6b709c379019a52c45",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.14.1.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.14.1.tgz",
+			"sha": "b7c2259cc788e33b05b931f83eb3b0f0a322eb40",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.14.2.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.14.2.tgz",
+			"sha": "94a591b21421909450f338f68efd602cdef1e3a1",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.15.0.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.15.0.tgz",
+			"sha": "575a618ec4c11cb4842991b2ae6a2363aabd6611",
+			"registry": "npmjs"
+		},
+		"mailgun-js-0.16.0.tgz": {
+			"url": "https://registry.npmjs.org/mailgun-js/-/mailgun-js-0.16.0.tgz",
+			"sha": "627c5ec880e7f77fd5c6d8d93b74afd0507a9cb2",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {
+		"mailgun-js-0.7.15.tgz": {
+			"shasum": "ee366a20dac64c3c15c03d6c1b3e0ed795252abb"
+		}
+	},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "\"5a84cfa1-1c53b\"",
+			"fetched": 1519912113765
+		}
+	},
+	"_rev": "7-a5f5b0334e27a151",
+	"readme": "# mailgun.js\n\nSimple Node.js module for [Mailgun](http://www.mailgun.com).\n\n[![npm version](https://img.shields.io/npm/v/mailgun-js.svg?style=flat-square)](https://www.npmjs.com/package/mailgun-js)\n[![License](https://img.shields.io/github/license/bojand/mailgun-js.svg?style=flat-square)](https://raw.githubusercontent.com/bojand/mailgun-js/master/LICENSE.txt)\n<!---\n[![NPM](https://nodei.co/npm/mailgun-js.png?downloads=true&stars=true)](https://nodei.co/npm/mailgun-js/)\n\n[![NPM](https://nodei.co/npm-dl/mailgun-js.png)](https://nodei.co/npm/mailgun-js/)\n-->\n## Installation\n\n`npm install mailgun-js`\n\n## Usage overview\n\nPlease see [Mailgun Documentation](https://documentation.mailgun.com) for full Mailgun API reference.\n\nThis module works by providing proxy objects for interacting with different resources through the Mailgun API.\nMost methods take a `data` parameter, which is a Javascript object that would contain the arguments for the Mailgun API.\nAll methods take a final parameter callback with two parameters: `error`, and `body`.\nWe try to parse the `body` into a javascript object, and return it to the callback as such for easier use and inspection by the client.\nIf there was an error a new `Error` object will be passed to the callback in the `error` parameter.\nIf the error originated from the (Mailgun) server, the response code will be available in the `statusCode` property\nof the `error` object passed in the callback.\nSee the `/docs` folder for detailed documentation. For full usage examples see the `/test` folder.\n\n```js\nvar api_key = 'key-XXXXXXXXXXXXXXXXXXXXXXX';\nvar domain = 'www.mydomain.com';\nvar mailgun = require('mailgun-js')({apiKey: api_key, domain: domain});\n\nvar data = {\n  from: 'Excited User <me@samples.mailgun.org>',\n  to: 'serobnic@mail.ru',\n  subject: 'Hello',\n  text: 'Testing some Mailgun awesomeness!'\n};\n\nmailgun.messages().send(data, function (error, body) {\n  console.log(body);\n});\n```\n\nNote that the `to` field is required and should contain all recipients (\"TO\", \"CC\" and \"BCC\") of the message (see https://documentation.mailgun.com/api-sending.html#sending). Additionally `cc` and `bcc` fields can be specified. Recipients in those fields will be addressed as such.\n\nMessages stored using the Mailgun `store()` action can be retrieved using `messages(<message_key>).info()` function.\nOptionally the MIME representation of the message can be retrieved if `MIME` argument is passed in and set to `true`.\n\nSomething more elaborate. Get mailing list info, create a member and get mailing list members and update member.\nNotice that the proxy objects can be reused.\n\n```js\nvar list = mailgun.lists('mylist@mycompany.com');\n\nlist.info(function (err, data) {\n  // `data` is mailing list info\n  console.log(data);\n});\n\nvar bob = {\n  subscribed: true,\n  address: 'bob@gmail.com',\n  name: 'Bob Bar',\n  vars: {age: 26}\n};\n\nlist.members().create(bob, function (err, data) {\n  // `data` is the member details\n  console.log(data);\n});\n\nlist.members().list(function (err, members) {\n  // `members` is the list of members\n  console.log(members);\n});\n\nlist.members('bob@gmail.com').update({ name: 'Foo Bar' }, function (err, body) {\n  console.log(body);\n});\n\nlist.members('bob@gmail.com').delete(function (err, data) {\n  console.log(data);\n});\n```\n\n#### Options\n\n`Mailgun` object constructor options:\n\n* `apiKey` - Your Mailgun API KEY\n* `publicApiKey` - Your public Mailgun API KEY\n* `domain` - Your Mailgun Domain (Please note: domain field is `MY-DOMAIN-NAME.com`, not https://api.mailgun.net/v3/MY-DOMAIN-NAME.com)\n* `mute` - Set to `true` if you wish to mute the console error logs in `validateWebhook()` function\n* `proxy` - The proxy URI in format `http[s]://[auth@]host:port`. ex: `'http://proxy.example.com:8080'`\n* `timeout` - Request timeout in milliseconds\n* `host` - the mailgun host (default: 'api.mailgun.net')\n* `protocol` - the mailgun protocol (default: 'https:', possible values: 'http:' or 'https:')\n* `port` - the mailgun port (default: '443')\n* `endpoint` - the mailgun host (default: '/v3')\n* `retry` - the number of **total attempts** to do when performing requests. Default is `1`.\nThat is, we will try an operation only once with no retries on error. You can also use a config \nobject compatible with the `async` library for more control as to how the retries take place.\nSee docs [here](https://caolan.github.io/async/docs.html#retry) \n\n\n#### Attachments\n\nAttachments can be sent using either the `attachment` or `inline` parameters. `inline` parameter can be use to send an\nattachment with `inline` disposition. It can be used to send inline images. Both types are supported with same mechanisms\nas described, we will just use `attachment` parameter in the documentation below but same stands for `inline`.\n\nSending attachments can be done in a few ways. We can use the path to a file in the `attachment` parameter.\nIf the `attachment` parameter is of type `string` it is assumed to be the path to a file.\n\n```js\nvar filepath = path.join(__dirname, 'mailgun_logo.png');\n\nvar data = {\n  from: 'Excited User <me@samples.mailgun.org>',\n  to: 'serobnic@mail.ru',\n  subject: 'Hello',\n  text: 'Testing some Mailgun awesomeness!',\n  attachment: filepath\n};\n\nmailgun.messages().send(data, function (error, body) {\n  console.log(body);\n});\n```\n\nWe can pass a buffer (has to be a `Buffer` object) of the data. If a buffer is used the data will be attached using a\ngeneric filename \"file\".\n\n```js\nvar filepath = path.join(__dirname, 'mailgun_logo.png');\nvar file = fs.readFileSync(filepath);\n\nvar data = {\n  from: 'Excited User <me@samples.mailgun.org>',\n  to: 'serobnic@mail.ru',\n  subject: 'Hello',\n  text: 'Testing some Mailgun awesomeness!',\n  attachment: file\n};\n\nmailgun.messages().send(data, function (error, body) {\n  console.log(body);\n});\n```\n\nWe can also pass in a stream of the data. This is useful if you're attaching a file from the internet.\n\n```js\nvar request = require('request');\nvar file = request(\"https://www.google.ca/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png\");\n\nvar data = {\n  from: 'Excited User <me@samples.mailgun.org>',\n  to: 'serobnic@mail.ru',\n  subject: 'Hello',\n  text: 'Testing some Mailgun awesomeness!',\n  attachment: file\n};\n\nmailgun.messages().send(data, function (error, body) {\n  console.log(body);\n});\n```\n\nFinally we provide a `Mailgun.Attachment` class to add attachments with a bit more customization. The Attachment\nconstructor takes an `options` object. The `options` parameters can have the following fields:\n* `data` - can be one of\n    * a string representing file path to the attachment\n    * a buffer of file data\n    * an instance of `Stream` which means it is a readable stream.\n* `filename` - the file name to be used for the attachment. Default is 'file'\n* `contentType` - the content type. Required for case of `Stream` data. Ex. `image/jpeg`.\n* `knownLength` - the content length in bytes. Required for case of `Stream` data.\n\nIf an attachment object does not satisfy those valid conditions it is ignored. Multiple attachments can be sent by\npassing an array in the `attachment` parameter. The array elements can be of any one of the valid types and each one\nwill be handled appropriately.\n\n```js\nvar mailgun = require('mailgun-js')({apiKey: api_key, domain: domain});\nvar filename = 'mailgun_logo.png';\nvar filepath = path.join(__dirname, filename);\nvar file = fs.readFileSync(filepath);\n\nvar attch = new mailgun.Attachment({data: file, filename: filename});\n\nvar data = {\n  from: 'Excited User <me@samples.mailgun.org>',\n  to: 'serobnic@mail.ru',\n  subject: 'Hello',\n  text: 'Testing some Mailgun awesomeness!',\n  attachment: attch\n};\n\nmailgun.messages().send(data, function (error, body) {\n  console.log(body);\n});\n```\n\n```js\nvar mailgun = require('mailgun-js')({apiKey: api_key, domain: domain});\nvar filename = 'mailgun_logo.png';\nvar filepath = path.join(__dirname, filename);\nvar fileStream = fs.createReadStream(filepath);\nvar fileStat = fs.statSync(filepath);\n\nmsg.attachment = new mailgun.Attachment({\n  data: fileStream,\n  filename: 'my_custom_name.png',\n  knownLength: fileStat.size,\n  contentType: 'image/png'});\n\nmailgun.messages().send(data, function (error, body) {\n  console.log(body);\n});\n```\n\n#### Sending MIME messages\n\nSending messages in MIME format can be accomplished using the `sendMime()` function of the `messages()` proxy object.\nThe `data` parameter for the function has to have `to` and `message` properties. The `message` property can be a full\nfile path to the MIME file, a stream of the file, or a string representation of the MIME\nmessage. To build a MIME string you can use the [nodemailer](https://www.npmjs.org/package/nodemailer) library.\nSome examples:\n\n```js\nvar domain = 'mydomain.org';\nvar mailgun = require('mailgun-js')({ apiKey: \"YOUR API KEY\", domain: domain });\nvar MailComposer = require('nodemailer/lib/mail-composer');\n\nvar mailOptions = {\n  from: 'you@samples.mailgun.org',\n  to: 'mm@samples.mailgun.org',\n  subject: 'Test email subject',\n  text: 'Test email text',\n  html: '<b> Test email text </b>'\n};\n\nvar mail = new MailComposer(mailOptions);\n\nmail.compile().build((err, message) => {\n\n    var dataToSend = {\n        to: 'mm@samples.mailgun.org',\n        message: message.toString('ascii')\n    };\n\n    mailgun.messages().sendMime(dataToSend, (sendError, body) => {\n        if (sendError) {\n            console.log(sendError);\n            return;\n        }\n    });\n});\n```\n#### Referencing MIME file\n\n```js\nvar filepath = '/path/to/message.mime';\n\nvar data = {\n  to: fixture.message.to,\n  message: filepath\n};\n\nmailgun.messages().sendMime(data, function (err, body) {\n  console.log(body);\n});\n```\n\n```js\nvar filepath = '/path/to/message.mime';\n\nvar data = {\n  to: fixture.message.to,\n  message: fs.createReadStream(filepath)\n};\n\nmailgun.messages().sendMime(data, function (err, body) {\n  console.log(body);\n});\n```\n\n#### Creating mailing list members\n\n`members().create({data})` will create a mailing list member with `data`. Mailgun also offers a resource for creating\nmembers in bulk. Doing a `POST` to `/lists/<address>/members.json` adds multiple members, up to 1,000 per call,\nto a Mailing List. This can be accomplished using `members().add()`.\n\n```js\nvar members = [\n  {\n    address: 'Alice <alice@example.com>',\n    vars: { age: 26 }\n  },\n  {\n    name: 'Bob',\n    address: 'bob@example.com',\n    vars: { age: 34 }\n  }\n];\n\nmailgun.lists('mylist@mycompany.com').members().add({ members: members, subscribed: true }, function (err, body) {\n  console.log(body);\n});\n```\n\n## Generic requests\n\nMailgun-js also provides helper methods to allow users to interact with parts of the api that are not exposed already.\nThese are not tied to the domain passed in the constructor, and thus require the full path with the domain\npassed in the `resource` argument.\n\n* `mailgun.get(resource, data, callback)` - sends GET request to the specified resource on api.\n* `mailgun.post(resource, data, callback)` - sends POST request to the specified resource on api.\n* `mailgun.delete(resource, data, callback)` - sends DELETE request to the specified resource on api.\n* `mailgun.put(resource, data, callback)` - sends PUT request to the specified resource on api.\n\nExample: Get some stats\n\n```js\nmailgun.get('/samples.mailgun.org/stats', { event: ['sent', 'delivered'] }, function (error, body) {\n  console.log(body);\n});\n```\n\n## Promises\n\nModule works with Node-style callbacks, but also implements promises with the [promisify-call](https://www.npmjs.com/package/promisify-call) library.\n\n```js\nmailgun.lists('mylist@mydomain.com').info().then(function (data) {\n  console.log(data);\n}, function (err) {\n  console.log(err);\n});\n```\n\nThe function passed as 2nd argument is optional and not needed if you don't care about the fail case.\n\n## Webhook validation\n\nThe Mailgun object also has a helper function for validating Mailgun Webhook requests\n(as per the [mailgun docs for securing webhooks](http://documentation.mailgun.com/user_manual.html#securing-webhooks)).\nThis code came from [this gist](https://gist.github.com/coolaj86/81a3b61353d2f0a2552c).\n\nExample usage:\n\n```js\nvar mailgun = require('mailgun-js')({apiKey: api_key, domain: domain});\n\nfunction router(app) {\n  app.post('/webhooks/mailgun/*', function (req, res, next) {\n    var body = req.body;\n\n    if (!mailgun.validateWebhook(body.timestamp, body.token, body.signature)) {\n      console.error('Request came, but not from Mailgun');\n      res.send({ error: { message: 'Invalid signature. Are you even Mailgun?' } });\n      return;\n    }\n\n    next();\n  });\n\n  app.post('/webhooks/mailgun/catchall', function (req, res) {\n    // actually handle request here\n  });\n}\n```\n\n## Email Addresses validation\n\nThese routes require Mailgun public API key.\nPlease check Mailgun [email validation documentation](https://documentation.mailgun.com/api-email-validation.html) for more responses details.\n\n### Validate Email Address\n\n**mailgun.validate(address, private, options, fn)**\n\nChecks if email is valid.\n\n- `private` - wether it's private validate\n- `options` - any additional options\n\nExample usage:\n\n```js\nvar mailgun = require('mailgun-js')({apiKey: api_key, domain: domain});\n\nmailgun.validate('test@mail.com', function (err, body) {\n  if(body && body.is_valid){\n    // do something\n  }\n});\n```\n\n### Parse Email Addresses list\n\nParses list of email addresses and returns two lists:\n  - parsed email addresses\n  - unparseable email addresses\n\nExample usage:\n\n```js\nvar mailgun = require('mailgun-js')({apiKey: api_key, domain: domain});\n\nmailgun.parse([ 'test@mail.com', 'test2@mail.com' ], function (err, body) {\n  if(error){\n    // handle error\n  }else{\n    // do something with parsed addresses: body.parsed;\n    // do something with unparseable addresses: body.unparseable;\n  }\n});\n```\n\n## Tests\n\nTo run the test suite you must first have a Mailgun account with a domain setup. Then create a file named _./test/data/auth.json_, which contains your credentials as JSON, for example:\n\n```json\n{ \"api_key\": \"key-XXXXXXXXXXXXXXXXXXXXXXX\", \"public_api_key\": \"pubkey-XXXXXXXXXXXXXXXXXXXXXXX\", \"domain\": \"mydomain.mailgun.org\" }\n```\n\nYou should edit _./test/data/fixture.json_ and modify the data to match your context.\n\nThen install the dev dependencies and execute the test suite:\n\n```\n$ npm install\n$ npm test\n```\n\nThe tests will call Mailgun API, and will send a test email, create route(s), mailing list and mailing list member.\n\n## Notes\n\nThis project is not endorsed by or affiliated with [Mailgun](http://www.mailgun.com).\nThe general design and some code was heavily inspired by [node-heroku-client](https://github.com/jclem/node-heroku-client).\n\n## License\n\nCopyright (c) 2012 - 2017 OneLobby and Bojan D.\n\nLicensed under the MIT License.\n"
+}
