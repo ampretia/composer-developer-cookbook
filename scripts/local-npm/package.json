@@ -4,12 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start" : "./go-clean.sh"
+    "start": "./go.sh"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "verdaccio": "^2.7.4"
+  },
+  "dependencies": {
+    "boxen-cli": "^1.0.0"
   }
 }

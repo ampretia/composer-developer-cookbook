@@ -135,8 +135,8 @@ fi
 "${HL_COMPOSER_CLI}"  card create -p DevServer_connection.json -u PeerAdmin -c "${CERT}" -k "${PRIVATE_KEY}" -r PeerAdmin -r ChannelAdmin --file $CARDOUTPUT
 
 if [ "${NOIMPORT}" != "true" ]; then
-    if "${HL_COMPOSER_CLI}"  card list -n PeerAdmin@hlfv1 > /dev/null; then
-        "${HL_COMPOSER_CLI}"  card delete -n PeerAdmin@hlfv1
+    if "${HL_COMPOSER_CLI}"  card list -c PeerAdmin@hlfv1 > /dev/null; then
+        "${HL_COMPOSER_CLI}"  card delete -c PeerAdmin@hlfv1
     fi
 
     "${HL_COMPOSER_CLI}"  card import --file /tmp/PeerAdmin@hlfv1.card 
