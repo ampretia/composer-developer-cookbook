@@ -1,0 +1,24 @@
+    COMPOSER_CARD=restadmin@trade-network
+    COMPOSER_NAMESPACES=never
+    COMPOSER_AUTHENTICATION=true
+    COMPOSER_MULTIUSER=true
+    COMPOSER_PROVIDERS='{
+    "google": {
+        "provider": "google",
+        "module": "passport-google-oauth2",
+        "clientID": "36640781719-1cla1sufqd3heb1p8tgj4llnhouu2be1.apps.googleusercontent.com",
+            "clientSecret": "tXaX25Cu9yGCT9YBcFBknvdY",
+            "authPath": "/auth/google",
+            "callbackURL": "/auth/google/callback",
+            "scope": "https://www.googleapis.com/auth/plus.login",
+            "successRedirect": "/",
+            "failureRedirect": "/"
+      }
+    }'
+    COMPOSER_DATASOURCES='{
+        "db": {
+            "name": "db",
+            "connector": "mongodb",
+            "host": "mongo"
+        }
+    }'

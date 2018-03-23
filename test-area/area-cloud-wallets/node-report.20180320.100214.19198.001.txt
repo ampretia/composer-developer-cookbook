@@ -1,0 +1,210 @@
+================================================================================
+==== Node Report ===============================================================
+
+Event: exception, location: "OnUncaughtException"
+Filename: node-report.20180320.100214.19198.001.txt
+Dump event time:  2018/03/20 10:02:14
+Module load time: 2018/03/20 10:02:13
+Process ID: 19198
+Command line: node /home/matthew/.nvm/versions/node/v8.9.4/bin/npx composer card list 
+
+Node.js version: v8.9.4
+(http_parser: 2.7.0, v8: 6.1.534.50, uv: 1.15.0, zlib: 1.2.11, ares: 1.10.1-DEV,
+ modules: 57, nghttp2: 1.25.0, openssl: 1.0.2n, icu: 59.1, unicode: 9.0,
+ cldr: 31.0.1, tz: 2017b)
+
+node-report version: 2.2.1 (built against Node.js v8.9.4, glibc 2.26, 64 bit)
+
+OS version: Linux 4.13.0-37-generic #42-Ubuntu SMP Wed Mar 7 14:13:23 UTC 2018
+(glibc: 2.26)
+
+Machine: matthew-VirtualBox x86_64
+
+================================================================================
+==== JavaScript Stack Trace ====================================================
+
+RedisClient.emit (events.js:1:1)
+RedisClient.on_error (/home/matthew/.nvm/versions/node/v8.9.4/lib/node_modules/composer-wallet-redis/node_modules/redis/index.js:1:1)
+Socket.<anonymous> (/home/matthew/.nvm/versions/node/v8.9.4/lib/node_modules/composer-wallet-redis/node_modules/redis/index.js:1:1)
+emitOne (events.js:1:1)
+Socket.emit (events.js:1:1)
+emitErrorNT (internal/streams/destroy.js:1:1)
+_combinedTickCallback (internal/process/next_tick.js:1:1)
+process._tickCallback (internal/process/next_tick.js:1:1)
+
+================================================================================
+==== Native Stack Trace ========================================================
+
+ 0: [pc=0x7f61a04d308b] nodereport::OnUncaughtException(v8::Isolate*) [/home/matthew/github/composer-developer-cookbook/test-area/area-cloud-wallets/node_modules/node-report/api.node]
+ 1: [pc=0xf521c2] v8::internal::Isolate::Throw(v8::internal::Object*, v8::internal::MessageLocation*) [node]
+ 2: [pc=0x10c6f0d] v8::internal::Runtime_Throw(int, v8::internal::Object**, v8::internal::Isolate*) [node]
+ 3: [pc=0x53eb2e0463d] 
+
+================================================================================
+==== JavaScript Heap and Garbage Collector =====================================
+
+Heap space name: new_space
+    Memory size: 33,554,432 bytes, committed memory: 27,834,440 bytes
+    Capacity: 16,498,688 bytes, used: 11,674,288 bytes, available: 4,824,400 bytes
+Heap space name: old_space
+    Memory size: 21,319,680 bytes, committed memory: 21,314,184 bytes
+    Capacity: 20,951,952 bytes, used: 19,968,768 bytes, available: 983,184 bytes
+Heap space name: code_space
+    Memory size: 2,097,152 bytes, committed memory: 1,378,336 bytes
+    Capacity: 1,624,512 bytes, used: 1,308,928 bytes, available: 315,584 bytes
+Heap space name: map_space
+    Memory size: 1,593,344 bytes, committed memory: 1,476,608 bytes
+    Capacity: 1,442,024 bytes, used: 1,370,952 bytes, available: 71,072 bytes
+Heap space name: large_object_space
+    Memory size: 5,251,072 bytes, committed memory: 5,251,072 bytes
+    Capacity: 1,440,799,016 bytes, used: 5,159,720 bytes, available: 1,435,639,296 bytes
+
+Total heap memory size: 63,815,680 bytes
+Total heap committed memory: 57,254,640 bytes
+Total used heap memory: 39,482,656 bytes
+Total available heap memory: 1,441,833,536 bytes
+
+Heap memory limit: 1,501,560,832
+
+================================================================================
+==== Resource Usage ============================================================
+
+Process total resource usage:
+  User mode CPU: 1.035336 secs
+  Kernel mode CPU: 0.085263 secs
+  Average CPU Consumption : 112.06%
+  Maximum resident set size: 90,800,128 bytes
+  Page faults: 0 (I/O required) 24719 (no I/O required)
+  Filesystem activity: 0 reads 16 writes
+
+Event loop thread resource usage:
+  User mode CPU: 0.967539 secs
+  Kernel mode CPU: 0.080293 secs
+  Average CPU Consumption : 104.783%
+  Filesystem activity: 0 reads 16 writes
+
+================================================================================
+==== Node.js libuv Handle Summary ==============================================
+
+(Flags: R=Ref, A=Active)
+Flags  Type      Address             Details
+[-A]   async     0x0000000003699d80  
+[--]   check     0x00007fffb9d62ad0  
+[R-]   idle      0x00007fffb9d62b48  
+[--]   prepare   0x00007fffb9d62c58  
+[--]   check     0x00007fffb9d62cd0  
+[R-]   timer     0x00007fffb9d62bc0  repeat: 0, timeout expired: 19335914 ms ago
+[-A]   async     0x00000000021cf4c0  
+[R-]   timer     0x000000000370d180  repeat: 0, timeout expired: 19335914 ms ago
+[R-]   tty       0x0000000003708dd8  width: 98, height: 48, file descriptor: 9, write queue size: 0, writable
+[-A]   signal    0x000000000370cd30  signum: 28 (SIGWINCH)
+[R-]   tty       0x00000000036edb88  width: 98, height: 48, file descriptor: 11, write queue size: 0, writable
+[--]   async     0x00007f618c001f50  
+[--]   async     0x00007f619c002390  
+[--]   async     0x000000000380e570  
+[--]   async     0x00007f618c001ad0  
+[--]   async     0x00007f6194000bf0  
+[--]   async     0x00007f619c0103a0  
+[-A]   async     0x00007f61a06dbce0  
+[--]   async     0x00007f619c009090  
+[--]   async     0x00007f6198001da0  
+[--]   async     0x000000000374c2f0  
+[--]   async     0x0000000003842380  
+[--]   async     0x00007f618c002df0  
+[R-]   tcp       0x0000000003720cf8  , send buffer size: 0, recv buffer size: 0, write queue size: 0, readable, writable
+[-A]   timer     0x0000000003753f10  repeat: 0, timeout in: 6913 ms
+
+================================================================================
+==== System Information ========================================================
+
+Environment variables
+  DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=dfb114ebc8ea8a7704cca99a5aafb997
+  LANG=en_GB.UTF-8
+  DISPLAY=:0
+  PWD=/home/matthew/github/composer-developer-cookbook/test-area/area-cloud-wallets
+  SYSTEMD_NSS_BYPASS_BUS=1
+  LANGUAGE=en_GB:en
+  INVOCATION_ID=589f7e0fea7a450fb4e10d4e8c02f3c7
+  LOGNAME=matthew
+  SHLVL=1
+  XDG_VTNR=2
+  JOURNAL_STREAM=9:22523
+  COLORTERM=truecolor
+  XDG_SESSION_ID=2
+  DESKTOP_SESSION=ubuntu
+  RBENV_SHELL=zsh
+  XDG_SESSION_DESKTOP=ubuntu
+  GDMSESSION=ubuntu
+  GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+  USERNAME=matthew
+  WAYLAND_DISPLAY=wayland-0
+  DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=dfb114ebc8ea8a7704cca99a5aafb997
+  VTE_VERSION=4804
+  DBUS_STARTER_BUS_TYPE=session
+  _=/home/matthew/.nvm/versions/node/v8.9.4/bin/npx
+  XDG_MENU_PREFIX=gnome-
+  GNOME_SHELL_SESSION_MODE=ubuntu
+  OLDPWD=/home/matthew/github/composer-developer-cookbook/test-area
+  SHELL=/usr/bin/zsh
+  XDG_SESSION_TYPE=wayland
+  QT_IM_MODULE=ibus
+  MANAGERPID=1603
+  TERM=xterm-256color
+  SESSION_MANAGER=local/matthew-VirtualBox:@/tmp/.ICE-unix/1619,unix/matthew-VirtualBox:/tmp/.ICE-unix/1619
+  XDG_CURRENT_DESKTOP=ubuntu:GNOME
+  SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+  PATH=/home/matthew/github/composer-developer-cookbook/test-area/area-cloud-wallets/node_modules/.bin:/home/matthew/.rbenv/shims:/home/matthew/.rbenv/bin:/home/matthew/.rbenv/bin:/home/matthew/.nvm/versions/node/v8.9.4/bin:/home/matthew/.rbenv/shims:/home/matthew/.rbenv/bin:/home/matthew/.rbenv/shims:/home/matthew/.rbenv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+  XDG_SEAT=seat0
+  USER=matthew
+  XMODIFIERS=@im=ibus
+  XDG_RUNTIME_DIR=/run/user/1000
+  TILIX_ID=ce531863-ef20-45e3-9727-6dfdb612bd1b
+  HOME=/home/matthew
+  ZSH=/home/matthew/.oh-my-zsh
+  PAGER=less
+  LESS=-R
+  LC_CTYPE=en_GB.UTF-8
+  LSCOLORS=Gxfxcxdxbxegedabagacad
+  LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+  NVM_DIR=/home/matthew/.nvm
+  NVM_CD_FLAGS=-q
+  NVM_NODEJS_ORG_MIRROR=https://nodejs.org/dist
+  NVM_IOJS_ORG_MIRROR=https://iojs.org/dist
+  MANPATH=/home/matthew/.nvm/versions/node/v8.9.4/share/man:/usr/local/man:/usr/local/share/man:/usr/share/man
+  NVM_PATH=/home/matthew/.nvm/versions/node/v8.9.4/lib/node
+  NVM_BIN=/home/matthew/.nvm/versions/node/v8.9.4/bin
+  NODE_CONFIG={
+    "composer": {
+        "wallet": {
+            "type": "composer-wallet-redis",
+            "desc": "Uses a local redis instance",
+            "options":{}
+        }
+    }
+}
+  SUPPRESS_NO_CONFIG_WARNING=y
+
+Resource limits                        soft limit      hard limit
+  core file size (blocks)                       0       unlimited
+  data seg size (kbytes)                unlimited       unlimited
+  file size (blocks)                    unlimited       unlimited
+  max locked memory (bytes)                 65536           65536
+  max memory size (kbytes)              unlimited       unlimited
+  open files                                 4096            4096
+  stack size (bytes)                      8388608       unlimited
+  cpu time (seconds)                    unlimited       unlimited
+  max user processes                        91344           91344
+  virtual memory (kbytes)               unlimited       unlimited
+
+Loaded libraries
+  /lib/x86_64-linux-gnu/libdl.so.2
+  /lib/x86_64-linux-gnu/librt.so.1
+  /usr/lib/x86_64-linux-gnu/libstdc++.so.6
+  /lib/x86_64-linux-gnu/libm.so.6
+  /lib/x86_64-linux-gnu/libgcc_s.so.1
+  /lib/x86_64-linux-gnu/libpthread.so.0
+  /lib/x86_64-linux-gnu/libc.so.6
+  /lib64/ld-linux-x86-64.so.2
+  /home/matthew/github/composer-developer-cookbook/test-area/area-cloud-wallets/node_modules/node-report/api.node
+
+================================================================================

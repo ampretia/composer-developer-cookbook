@@ -37,3 +37,4 @@ logs:
   #- {type: file, path: verdaccio.log, level: info}
 listen:
  - localhost:4873            # default value
+max_body_size: 200mb

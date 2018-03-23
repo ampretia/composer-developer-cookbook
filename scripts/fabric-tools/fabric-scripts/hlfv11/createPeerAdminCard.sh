@@ -1,6 +1,4 @@
 #!/bin/bash
-# Exit on first error
-set -e
 
 Usage() {
 	echo ""
@@ -43,23 +41,25 @@ fi
 # Grab the current directory
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
-if [ -z "${COMPOSER_CLI}" ]; then
-  COMPOSER_CLI=$(which composer)
+if [ -z "${HL_COMPOSER_CLI}" ]; then
+  HL_COMPOSER_CLI=$(which composer)
 fi
 
-
 echo
-# check that the composer command exists at a version >v0.15
-if hash "${COMPOSER_CLI}" 2>/dev/null; then
-    "${COMPOSER_CLI}" --version | awk -F. '{if ($2<17) exit 1}'
-    if [ $? -eq 1 ]; then
-        echo 'Cannot use this version of composer with this level of fabric' 
+# check that the composer command exists at a version >v0.16
+COMPOSER_VERSION=$("${HL_COMPOSER_CLI}" --version 2>/dev/null)
+COMPOSER_RC=$?
+
+if [ $COMPOSER_RC -eq 0 ]; then
+    AWKRET=$(echo $COMPOSER_VERSION | awk -F. '{if ($2<17) print "1"; else print "0";}')
+    if [ $AWKRET -eq 1 ]; then
+        echo Cannot use $COMPOSER_VERSION version of composer with this level of fabric
         exit 1
     else
-        echo Using composer-cli at $("${COMPOSER_CLI}" --version)
+        echo Using composer-cli at $COMPOSER_VERSION
     fi
 else
-    echo 'Need to have composer-cli installed at v0.16 or greater'
+    echo 'Need to have composer-cli installed at v0.17 or greater'
     exit 1
 fi
 
@@ -132,15 +132,15 @@ else
     CARDOUTPUT=PeerAdmin@hlfv1.card
 fi
 
-"${COMPOSER_CLI}" card create -p DevServer_connection.json -u PeerAdmin -c "${CERT}" -k "${PRIVATE_KEY}" -r PeerAdmin -r ChannelAdmin --file $CARDOUTPUT
+"${HL_COMPOSER_CLI}"  card create -p DevServer_connection.json -u PeerAdmin -c "${CERT}" -k "${PRIVATE_KEY}" -r PeerAdmin -r ChannelAdmin --file $CARDOUTPUT
 
 if [ "${NOIMPORT}" != "true" ]; then
-    if "${COMPOSER_CLI}" card list -n PeerAdmin@hlfv1 > /dev/null; then
-        "${COMPOSER_CLI}" card delete -n PeerAdmin@hlfv1
+    if "${HL_COMPOSER_CLI}"  card list -n PeerAdmin@hlfv1 > /dev/null; then
+        "${HL_COMPOSER_CLI}"  card delete -n PeerAdmin@hlfv1
     fi
 
-    "${COMPOSER_CLI}" card import --file /tmp/PeerAdmin@hlfv1.card 
-    "${COMPOSER_CLI}" card list
+    "${HL_COMPOSER_CLI}"  card import --file /tmp/PeerAdmin@hlfv1.card 
+    "${HL_COMPOSER_CLI}"  card list
     echo "Hyperledger Composer PeerAdmin card has been imported, host of fabric specified as '${HOST}'"
     rm /tmp/PeerAdmin@hlfv1.card
 else

@@ -1,0 +1,15 @@
+{
+  "name": "local-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "./go-clean.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "verdaccio": "^2.7.4"
+  }
+}

@@ -3,6 +3,13 @@
  */
 namespace org.acme.sample
 
+/**
+ * a comment that should be ignored
+ */
+
+/**
+ *@param {String} assetId the asset id
+ */
 asset SampleAsset identified by assetId {
   o String assetId
   --> SampleParticipant owner

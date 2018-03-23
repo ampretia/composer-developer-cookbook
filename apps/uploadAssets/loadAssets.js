@@ -16,32 +16,20 @@
 const fs = require('fs');
 const path = require('path');
 const winston = require('winston');
-const IdCard = require('composer-common').IdCard;
+
 
 // Require the client API
 const BusinessNetworkConnection = require('composer-client').BusinessNetworkConnection;
-const AdminConnection = require("composer-admin").AdminConnection;
-const BusinessNetworkDefinition = require("composer-common").BusinessNetworkDefinition;
-// the logical business newtork has an indentifier
-// const businessNetworkConnection = new BusinessNetworkConnection();
 let businessNetworkDefinition;
 
 const config = require('config');
 //...
-var appconfig = config.get('loadAssets');
+let appconfig = config.get('loadAssets');
 
 let serializer;
-let deployCardName = 'deployer-card';
+
 let userCardName = appconfig.get('cardName');
-// rather than use console.log use more like a debug fn call
-// const LOG = {
-//     info: (string) => {
-//         console.log('  '+string);
-//     },
-//     error: (string) => {
-//         console.log('!!'+string);
-//     }
-// };
+
 winston.loggers.add('app', {
     console: {
         level: 'silly',
@@ -52,42 +40,11 @@ winston.loggers.add('app', {
 
 const LOG = winston.loggers.get('app');
 
-
-let bnDirectory = '../../_networks/basic-sample-network'
-const MemoryCardStore = require('composer-common').MemoryCardStore;
-const store = new MemoryCardStore();
-// Create the Admin and Business Network Connecton backed by the in memory Network Card Store
-// const adminConnection = new AdminConnection({ cardStore: store });
-// const businessNetworkConnection = new BusinessNetworkConnection({ cardStore: store });
 const businessNetworkConnection = new BusinessNetworkConnection();
-// -----------------------------------------------------------------------------
-// main code starts here
-(async () => {
-
-
-    // let idCard_PeerAdmin = new IdCard({ userName: 'PeerAdmin' }, { type: "embedded", name: "profilename" });
-    // idCard_PeerAdmin.setCredentials({ certificate: 'cert', privateKey: 'key' })
-    // await adminConnection.importCard('deployer-card', idCard_PeerAdmin)
-  
-    // // Load the Business network from disk
-    // businessNetworkDefinition = await BusinessNetworkDefinition.fromDirectory( path.resolve(bnDirectory) );
-  
-    // // connect and deploy the business network
-    // LOG.info('> Installing the Composer Runtime');
-    // await adminConnection.connect(deployCardName);
-    // await adminConnection.install(businessNetworkDefinition.getName());
-  
-    // // Start the business network on the installed runtime
-    // LOG.info("> Starting Business Network on the installed Composer runtime...");
-    // let cards = await adminConnection.start(businessNetworkDefinition, { networkAdmins: [ {userName : 'admin', enrollmentSecret:'adminpw'} ] });  
-    // let card = cards.get('admin') 
-    // await adminConnection.importCard(userCardName,card);
-  
-    // // don't need the adminConnection now so disconnect
-    // await adminConnection.disconnect();
-
-
-
+/**
+ * Main Function
+ */
+async function main(){
     try {
 
         LOG.info('> Deployed network - now Connecting business network connection');
@@ -112,7 +69,17 @@ const businessNetworkConnection = new BusinessNetworkConnection();
         await businessNetworkConnection.disconnect();
     } catch (error) {
         LOG.error(error);
-        process.exit(1);
+        throw error;
     }
 
-})();
+}
+
+main()
+    .then(()=>{
+        LOG.info('All done');
+    })
+    .catch((err)=>{
+        LOG.error(err);
+    });
+
+

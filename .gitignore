@@ -67,4 +67,6 @@ packages/composer-website/installers/hlfv*/fabric-dev-servers/
 packages/composer-playground/e2e/downloads/
 
 package-lock.json
+
+fabric-tools
 _tmp

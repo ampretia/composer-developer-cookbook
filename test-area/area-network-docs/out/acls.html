@@ -1,0 +1,271 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+
+    <title>collectable-penguin-network</title>
+
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" type="image/x-icon" href="/api-doc/composer/unstable/favicon.ico">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+
+    <link href="./assets/css/normalize.css" rel="stylesheet">
+    <link href="./assets/css/new-style.min.css" rel="stylesheet">
+    <link href="./assets/css/grid-layout.min.css" rel="stylesheet">
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.6.0/clipboard.min.js"></script>
+
+</head>
+
+
+<body class="">
+
+    <div class="SiteWrapper">
+        <div class="content">
+            <article class="docs-container">
+
+                 <div class="page-sidebar-grid" id="off-canvas">
+                
+                    <div class="docs-pagenav-grid">
+                        <!-- Navigation -->
+                        <nav class="navbar-docs" role="navigation">
+                            <div class="search-form">
+                            <img width="200px" src="https://hyperledger.github.io/composer-sample-networks/packages/trade-network/networkimage.svg"></img>
+                            </div>
+
+                            <!-- Brand and toggle get grouped for better mobile display -->
+                            <a class="navbar-brand" href="./index.html">
+                                <b>collectable-penguin-network</b></a>0.1.7
+                            <!-- Collect the nav links, forms, and other content for toggling -->
+                            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                                <div class="top-nav-docs">
+                                    <a href="./index.html">Summary</a>
+                                    <a href="./assets.html">Assets</a>
+                                    <a href="./transactions.html">Transactions</a>
+                                    <a href="./participants.html">Participants</a>                                    
+                    <a href="./queries.html">Queries</a>            
+                       <a href="./acls.html">ACLs</a>                  
+                                </div>
+                            </div>
+                        </nav>
+                          
+                           
+                            <div class="docs-current-page-grid">
+                                <p>Acls</p>
+                            </div>
+                            
+                    </div>
+                    
+                  <nav class="context-nav">
+                    <ul>
+                       
+                        
+                             <li><p><a href="#wholesaler"><b>Wholesaler</b></a></p></li>  
+                        
+                             <li><p><a href="#collectorassets"><b>CollectorAssets</b></a></p></li>  
+                        
+                             <li><p><a href="#penguinsview"><b>PenguinsView</b></a></p></li>  
+                        
+                             <li><p><a href="#maketrades-1"><b>MakeTrades_1</b></a></p></li>  
+                        
+                             <li><p><a href="#collectorsseethemselves"><b>CollectorsSeeThemselves</b></a></p></li>  
+                        
+                             <li><p><a href="#regulator"><b>Regulator</b></a></p></li>  
+                        
+                             <li><p><a href="#collectorsseeowntransactions"><b>CollectorsSeeOwnTransactions</b></a></p></li>  
+                        
+                             <li><p><a href="#denyhistorian"><b>DenyHistorian</b></a></p></li>  
+                        
+                             <li><p><a href="#networkupdate"><b>NetworkUpdate</b></a></p></li>  
+                        
+                             <li><p><a href="#systemacl"><b>SystemACL</b></a></p></li>  
+                        
+                             <li><p><a href="#networkadminuser"><b>NetworkAdminUser</b></a></p></li>  
+                        
+                             <li><p><a href="#networkadminsystem"><b>NetworkAdminSystem</b></a></p></li>  
+                        
+                    
+
+                    </ul>
+
+                    </nav>
+  
+                </div>
+
+
+
+                <div class="page-content-grid">
+                    <section class="content-chunk" id="readme">
+                    <h1 id="access-control-rules">Access Control Rules</h1>
+<h3 id="wholesaler">Wholesaler</h3>
+<p>Allow collectors to see the assets that are for sale</p>
+<ul>
+<li><em>Action</em> : ALLOW</li>
+<li><em>Noun</em> : org.collectable.penguin.Penguin</li>
+<li><em>Participant</em> : org.collectable.penguin.Collector</li>
+<li><em>Predicate</em> : <code>v.owner.getIdentifier() == 'WHOLESALER'</code></li>
+</ul>
+<blockquote>
+<p>If I am a <strong>org.collectable.penguin.Collector</strong> and I am accessing the resource <strong>org.collectable.penguin.Penguin</strong>  and <strong>v.owner.getIdentifier() == 'WHOLESALER'</strong> is true
+then my action will be  <strong>ALLOW</strong>ed</p>
+</blockquote>
+<h3 id="collectorassets">CollectorAssets</h3>
+<p>Allow collectors to see the assets that they own</p>
+<ul>
+<li><em>Action</em> : DENY</li>
+<li><em>Noun</em> : org.collectable.penguin.Penguin</li>
+<li><em>Participant</em> : org.collectable.penguin.Collector:t</li>
+<li><em>Predicate</em> : <code>v.owner.getIdentifier() != t.getIdentifier()</code></li>
+</ul>
+<blockquote>
+<p>If I am a <strong>org.collectable.penguin.Collector:t</strong> and I am accessing the resource <strong>org.collectable.penguin.Penguin</strong>  and <strong>v.owner.getIdentifier() != t.getIdentifier()</strong> is true
+then my action will be  <strong>DENY</strong>ed</p>
+</blockquote>
+<h3 id="penguinsview">PenguinsView</h3>
+<p>Make the penguins themselves visible</p>
+<ul>
+<li><em>Action</em> : ALLOW</li>
+<li><em>Noun</em> : org.collectable.penguin.Penguin</li>
+<li><em>Participant</em> : org.collectable.penguin.Collector</li>
+<li><em>Predicate</em> : <code>true</code></li>
+</ul>
+<blockquote>
+<p>If I am a <strong>org.collectable.penguin.Collector</strong> and I am accessing the resource <strong>org.collectable.penguin.Penguin</strong>
+then my action will be  <strong>ALLOW</strong>ed</p>
+</blockquote>
+<h3 id="maketrades-1">MakeTrades_1</h3>
+<p>Allow collectors to submit trades</p>
+<ul>
+<li><em>Action</em> : ALLOW</li>
+<li><em>Noun</em> : org.collectable.penguin.Trade</li>
+<li><em>Participant</em> : org.collectable.penguin.Collector</li>
+<li><em>Predicate</em> : <code>true</code></li>
+</ul>
+<blockquote>
+<p>If I am a <strong>org.collectable.penguin.Collector</strong> and I am accessing the resource <strong>org.collectable.penguin.Trade</strong>
+then my action will be  <strong>ALLOW</strong>ed</p>
+</blockquote>
+<h3 id="collectorsseethemselves">CollectorsSeeThemselves</h3>
+<p>Collectors can see their own participant</p>
+<ul>
+<li><em>Action</em> : ALLOW</li>
+<li><em>Noun</em> : org.collectable.penguin.Collector</li>
+<li><em>Participant</em> : org.collectable.penguin.Collector:t</li>
+<li><em>Predicate</em> : <code>v.getIdentifier() == t.getIdentifier()</code></li>
+</ul>
+<blockquote>
+<p>If I am a <strong>org.collectable.penguin.Collector:t</strong> and I am accessing the resource <strong>org.collectable.penguin.Collector</strong>  and <strong>v.getIdentifier() == t.getIdentifier()</strong> is true
+then my action will be  <strong>ALLOW</strong>ed</p>
+</blockquote>
+<h3 id="regulator">Regulator</h3>
+<p>Regulator can see all the trading assets etc.</p>
+<ul>
+<li><em>Action</em> : ALLOW</li>
+<li><em>Noun</em> : org.collectable.penguin.**</li>
+<li><em>Participant</em> : org.collectable.penguin.Regulator</li>
+<li><em>Predicate</em> : <code>true</code></li>
+</ul>
+<blockquote>
+<p>If I am a <strong>org.collectable.penguin.Regulator</strong> and I am accessing the resource <strong>org.collectable.penguin.</strong>**
+then my action will be  <strong>ALLOW</strong>ed</p>
+</blockquote>
+<h3 id="collectorsseeowntransactions">CollectorsSeeOwnTransactions</h3>
+<p>Collectors should be able to see the history of the own transactions</p>
+<ul>
+<li><em>Action</em> : ALLOW</li>
+<li><em>Noun</em> : org.hyperledger.composer.system.HistorianRecord</li>
+<li><em>Participant</em> : org.collectable.penguin.Collector:t</li>
+<li><em>Predicate</em> : <code>v.participantInvoking.getIdentifier() == t.getIdentifier()</code></li>
+</ul>
+<blockquote>
+<p>If I am a <strong>org.collectable.penguin.Collector:t</strong> and I am accessing the resource <strong>org.hyperledger.composer.system.HistorianRecord</strong>  and <strong>v.participantInvoking.getIdentifier() == t.getIdentifier()</strong> is true
+then my action will be  <strong>ALLOW</strong>ed</p>
+</blockquote>
+<h3 id="denyhistorian">DenyHistorian</h3>
+<p>Collectors can't see the record of what has happened in the business network</p>
+<ul>
+<li><em>Action</em> : DENY</li>
+<li><em>Noun</em> : org.hyperledger.composer.system.HistorianRecord</li>
+<li><em>Participant</em> : org.collectable.penguin.Collector</li>
+<li><em>Predicate</em> : <code>true</code></li>
+</ul>
+<blockquote>
+<p>If I am a <strong>org.collectable.penguin.Collector</strong> and I am accessing the resource <strong>org.hyperledger.composer.system.HistorianRecord</strong>
+then my action will be  <strong>DENY</strong>ed</p>
+</blockquote>
+<h3 id="networkupdate">NetworkUpdate</h3>
+<p>System ACL to permit all access</p>
+<ul>
+<li><em>Action</em> : ALLOW</li>
+<li><em>Noun</em> : org.hyperledger.composer.system.Network</li>
+<li><em>Participant</em> : org.collectable.penguin.Collector</li>
+<li><em>Predicate</em> : <code>true</code></li>
+</ul>
+<blockquote>
+<p>If I am a <strong>org.collectable.penguin.Collector</strong> and I am accessing the resource <strong>org.hyperledger.composer.system.Network</strong>
+then my action will be  <strong>ALLOW</strong>ed</p>
+</blockquote>
+<h3 id="systemacl">SystemACL</h3>
+<p>System ACL to permit all access</p>
+<ul>
+<li><em>Action</em> : ALLOW</li>
+<li><em>Noun</em> : org.hyperledger.composer.system.**</li>
+<li><em>Participant</em> : org.hyperledger.composer.system.Participant</li>
+<li><em>Predicate</em> : <code>true</code></li>
+</ul>
+<blockquote>
+<p>If I am a <strong>org.hyperledger.composer.system.Participant</strong> and I am accessing the resource <strong>org.hyperledger.composer.system.</strong>**
+then my action will be  <strong>ALLOW</strong>ed</p>
+</blockquote>
+<h3 id="networkadminuser">NetworkAdminUser</h3>
+<p>Grant business network administrators full access to user resources</p>
+<ul>
+<li><em>Action</em> : ALLOW</li>
+<li><em>Noun</em> : **</li>
+<li><em>Participant</em> : org.hyperledger.composer.system.NetworkAdmin</li>
+<li><em>Predicate</em> : <code>true</code></li>
+</ul>
+<blockquote>
+<p>If I am a <strong>org.hyperledger.composer.system.NetworkAdmin</strong> and I am accessing the resource ******
+then my action will be  <strong>ALLOW</strong>ed</p>
+</blockquote>
+<h3 id="networkadminsystem">NetworkAdminSystem</h3>
+<p>Grant business network administrators full access to system resources</p>
+<ul>
+<li><em>Action</em> : ALLOW</li>
+<li><em>Noun</em> : org.hyperledger.composer.system.**</li>
+<li><em>Participant</em> : org.hyperledger.composer.system.NetworkAdmin</li>
+<li><em>Predicate</em> : <code>true</code></li>
+</ul>
+<blockquote>
+<p>If I am a <strong>org.hyperledger.composer.system.NetworkAdmin</strong> and I am accessing the resource <strong>org.hyperledger.composer.system.</strong>**
+then my action will be  <strong>ALLOW</strong>ed</p>
+</blockquote>
+ 
+                    </section>
+                </div>
+                <!-- Otherwise, have the main content fill all 12 columns... -->
+
+                <div class="PageNavigation">
+
+
+                </div>
+            </article>
+        </div>
+
+
+
+
+
+    </div>
+    <script src="./assets/js/nav.js"></script>
+</body>
+
+</html>
+
+
+
+
+

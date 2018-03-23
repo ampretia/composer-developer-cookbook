@@ -1,0 +1,10 @@
+export COMPOSER_PROVIDERS= '{
+    "auth0": {
+        "provider": "auth0",
+        "module": "passport-auht0",
+        "domain": "ampretia.eu.auth0.com",
+        "clientID": "2EU8IMtlVNkZrc0HAXrBLw8lD0RR6Pzg",
+        "clientSecret": "pBoXuknTYWyNzQ0L2gXTc1hgWo_EtRsGj0bgKmEHbdT6n0yirsnraVw_LTug4Qpa",
+        "callbackURL": "/callback"
+    }
+}'

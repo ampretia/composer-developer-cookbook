@@ -1,0 +1,1 @@
+export NODE_CONFIG='{  "composer": {"wallet": { "type": "composer-wallet-filesystem", "options": { "storePath": "./composer-store"   } } } }
