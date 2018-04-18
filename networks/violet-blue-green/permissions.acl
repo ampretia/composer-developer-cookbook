@@ -1,0 +1,109 @@
+/*
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+/**
+ * This permits the NetworkAdmin to have 'root' style access to the network
+  */
+rule SuperAdmin {
+    description: "Allow all participants read access to all resources"
+    participant: "org.hyperledger.composer.system.NetworkAdmin"
+    operation: ALL
+    resource: "**"
+    action: ALLOW
+}
+
+/** 
+ * This permits the player participants to submit game results
+ */
+rule PlayerSubmitResult {
+    description: "Allow players to subnit their results"
+    participant: "org.composer.game.Player"
+    operation: ALL
+    resource: "org.composer.game.GameResult"
+    action: ALLOW
+}
+
+/**
+ * This rule is used to ensure that the actual result of the game represented by the
+ * org.composer.game.Game asset can only be accessed by the Player participants
+ * in the context of a org.composer.game.GameResult transactions
+ *
+ * i.e. they can't just try and create one outside the ledger and send it in.
+ */
+rule PlayerSubmitResult01 {
+    description: "Allow players to subnit their results"
+    participant: "org.composer.game.Player"
+    operation: ALL
+    resource: "org.composer.game.Game"
+    transaction: "org.composer.game.GameResult"
+    action: ALLOW
+}
+
+
+/** 
+ * Players can see their own results, and only their own results
+ */
+rule PlayeSeeResult {
+    description: "Allow players to subnit their results"
+    participant(v): "org.composer.game.Player"
+    operation: ALL
+    resource(m): "org.composer.game.Game"
+    condition: (v.getIdentifier() == m.player.getIdentifier())
+    action: ALLOW
+}
+
+/**
+ * A player needs to be able to see their own Participant record
+ */
+rule PlayerSubmitView {
+    description: "Allow all participants read access to all resources"
+    participant(v): "org.composer.game.Player"
+    operation: ALL
+    resource(m): "org.composer.game.Player"
+    condition: (v.getIdentifier() == m.getIdentifier())
+    action: ALLOW
+}
+
+/**
+ * A player needs to be able to create the HistorianRecords that are recorded when a trasaction is made
+ */
+rule Player01 {
+    description: "Allow all participants read access to all resources"
+    participant: "org.composer.game.Player"
+    operation: CREATE
+    resource: "org.hyperledger.composer.system.HistorianRecord"
+    action: ALLOW
+}
+
+/**
+ * A player can only see the Historian records that are pertaining to themselves
+ */
+rule Player02 {
+    description: "Allow all participants read access to all resources"
+    participant(v): "org.composer.game.Player"
+    operation: READ
+    resource(m): "org.hyperledger.composer.system.HistorianRecord"
+    condition: (v.getIdentifier() !== m.participantInvoking.getIdentifier())
+    action: DENY
+}
+
+/** An essential rule that permits general level access to the network
+ */
+rule Player00 {
+    description: "Allow all participants read access to all resources"
+    participant: "org.composer.game.Player"
+    operation: READ
+    resource: "org.hyperledger.composer.system.*"
+    action: ALLOW
+}

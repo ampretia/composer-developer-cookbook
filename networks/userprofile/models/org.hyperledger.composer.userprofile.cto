@@ -1,0 +1,16 @@
+/**
+ * Write your model definitions here
+ */
+
+namespace org.hyperledger.composer.userprofile
+
+participant SampleParticipant identified by email {
+  o String email
+  o String firstName
+  o String lastName
+  o String userProfile optional
+}
+
+transaction UpdateProfile {
+  o String update
+}

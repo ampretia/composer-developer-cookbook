@@ -1,0 +1,36 @@
+{
+    "card": "admin@violet-blue-green-network",
+    
+    "composer": {
+        "wallet": {
+            "type": "composer-wallet-filesystem",
+            "options": {
+                "storePath": "/home/matthew/violet-blue-green-serverless/composer-store"
+            }
+        }
+    },
+    "resources": {
+        "org.composer.game.Player": [
+            {
+                "$class": "org.acme.sample.SampleAsset",
+                "participantId": "001",
+                "firstName": "Edward",
+                "lastName": "Empreror"
+            },
+            {
+                "$class": "org.acme.sample.SampleAsset",
+                "participantId": "002",
+                "firstName": "George",
+                "lastName": "Gentoo"
+            },
+            {
+                "$class": "org.acme.sample.SampleAsset",
+                "participantId": "003",
+                "firstName": "Chloe",
+                "lastName": "Chinstrap"
+            }
+
+        ]
+    },
+    "transactions": []
+}

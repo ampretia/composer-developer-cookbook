@@ -12,6 +12,17 @@
  * limitations under the License.
  */
 
+
+/**
+ * @param {org.acme.sample.fireCoffeeEvent} tx event 
+ * @transaction
+ */
+function fireCoffeeEvent(tx){
+   // Emit an event for the modified asset.
+   var event = getFactory().newEvent('org.acme.sample', 'CoffeeEvent');
+   emit(event);
+}
+
 /**
  * Sample transaction processor function.
  * @param {org.acme.sample.SampleTransaction} tx The sample transaction instance.

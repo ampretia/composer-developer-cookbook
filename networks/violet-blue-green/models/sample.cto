@@ -1,0 +1,60 @@
+/*
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+/**
+ * Business Network Definition for the VBG Demo network
+ */
+namespace org.composer.game
+
+/**
+ * This is the record of a game that has taken place, who played, timestamp and the result
+ */
+asset Game identified by gameid {
+  o String gameid
+  o DateTime timestamp
+  --> Player player
+  o RESULT result
+}
+
+/** A individual player
+ */
+participant Player identified by participantId {
+  o String participantId
+  o String firstName
+  o String lastName
+}
+
+/** A role being defined for the Regulator
+ */
+participant Regulator identified by email {
+  o String email
+  o String firstName
+  o String lastName
+}
+
+/** Enumeration to store and a high level the details of the result
+ */
+enum RESULT {
+  o BLUE_WIN
+  o GREEN_WIN
+  o DRAW
+}
+
+/**
+ * Transaction to submit the result
+ */
+transaction GameResult {
+  o RESULT result
+}
+

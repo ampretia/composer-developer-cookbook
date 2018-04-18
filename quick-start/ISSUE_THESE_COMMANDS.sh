@@ -3,7 +3,7 @@
 echo "Really suggest that you execute these commands by hand to get to know how things work"
 echo ".. or edit this file and remove the next line that says  exit 0"
 #exit 0
-
+echo
 # ------------
 
 # This will create a new npm project and install the Composer CLI, Playground and REST Server as local modules
@@ -11,7 +11,13 @@ echo ".. or edit this file and remove the next line that says  exit 0"
 # single directory. It also makes running multiple levels of the composer code easier if you're a contributor
 # or maybe testing a bug fix etc.
 npm init -y
-npm install --save-dev composer-cli@next-unstable composer-playground@next-unstable composer-rest-server@next-unstable
+
+if [ -z "${HL_COMPOSER_VERSION}" ]; then
+  HL_COMPOSER_VERSION=latest
+fi
+
+#npm install --save-dev composer-cli@next-unstable composer-playground@next-unstable composer-rest-server@next-unstable
+npm install --save-dev composer-cli@${HL_COMPOSER_VERSION} composer-playground@${HL_COMPOSER_VERSION} composer-rest-server@${HL_COMPOSER_VERSION}
 
 # For simple cases these 'fabric-dev-servers' scripts create the simplest possible Hyperleder Fabric setup
 mkdir fabric-tools
@@ -31,9 +37,15 @@ export NODE_CONFIG='{  "composer": {"wallet": { "type": "composer-wallet-filesys
 mkdir -p ./cards
 
 # Install the composer runtime, start the network and import the card
-npx composer network install --card PeerAdmin@hlfv1 --archiveFile ../networks/basic-sample-network.bna 
-npx composer network start  --card PeerAdmin@hlfv1  -A admin -S adminpw  --file ./cards/admin.card --networkName basic-sample-network --networkVersion 0.1.5
-npx composer card import --file ./cards/admin.card --name admin@bsn-local
+if [ -z "${BNA_FILE}" ]; then
+  BNA_FILE=../networks/violet-blue-green-network.bna
+fi
+
+NETWORK_NAME=$(composer archive list -a ${BNA_FILE} | awk -F: '/Name/ { print $2 }')
+NETWORK_VERSION=$(composer archive list -a ${BNA_FILE} | awk -F: '/Version/ { print $2 }')
+npx composer network install --card PeerAdmin@hlfv1 --archiveFile ${BNA_FILE} 
+npx composer network start  --card PeerAdmin@hlfv1  -A admin -S adminpw  --file ./cards/admin.card --networkName ${NETWORK_NAME} --networkVersion ${NETWORK_VERSION}
+npx composer card import --file ./cards/admin.card --card admin@bsn-local
 
 echo 'Remember to set this'
 echo "export NODE_CONFIG='{  "composer": {"wallet": { "type": "composer-wallet-filesystem", "options": { "storePath": "./composer-store"   } } } }'"

@@ -20,6 +20,15 @@ transaction SampleTransaction {
   o String newValue
 }
 
+transaction fireCoffeeEvent {
+	o String notes
+}
+
+event CoffeeEvent {
+	o Boolean coffeeBrewed
+	o String notes
+}
+
 event SampleEvent {
   --> SampleAsset asset
   o String oldValue
