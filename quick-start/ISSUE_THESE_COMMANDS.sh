@@ -48,4 +48,4 @@ npx composer network start  --card PeerAdmin@hlfv1  -A admin -S adminpw  --file 
 npx composer card import --file ./cards/admin.card --card admin@bsn-local
 
 echo 'Remember to set this'
-echo "export NODE_CONFIG='{  "composer": {"wallet": { "type": "composer-wallet-filesystem", "options": { "storePath": "./composer-store"   } } } }'"
+echo "export NODE_CONFIG='{  \"composer\": {\"wallet\": { \"type\": \"composer-wallet-filesystem\", \"options\": { \"storePath\": \"./composer-store\"   } } } }'"

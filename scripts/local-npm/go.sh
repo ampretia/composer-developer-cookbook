@@ -2,7 +2,7 @@
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 if [[ -z "${SRC_ROOT}" ]]; then
-	SRC_ROOT=~/github-packages/composer/packages
+	SRC_ROOT=~/github-test/fabric-composer/packages
 fi
 
 npx boxen -padding=1 --margin=1 "Setting up Verdaccio..  Using ${SRC_ROOT} as the source of the code to publish"
@@ -21,7 +21,7 @@ npx verdaccio -l 0.0.0.0:4873 -c "${DIR}/config.yaml"  &
 
 #export NPM_MODULES="composer-runtime composer-common composer-runtime-hlfv1"
 
-export NPM_MODULES="generator-hyperledger-composer composer-runtime composer-common composer-runtime-hlfv1 composer-connector-hlfv1 composer-admin composer-client loopback-connector-composer composer-rest-server composer-report composer-cli composer-wallet-inmemory composer-wallet-filesystem composer-playground composer-playground-api composer-connector-server composer-connector-proxy"
+export NPM_MODULES="generator-hyperledger-composer composer-runtime-pouchdb composer-runtime-embedded composer-connector-embedded composer-runtime composer-common composer-runtime-hlfv1 composer-connector-hlfv1 composer-admin composer-client loopback-connector-composer composer-rest-server composer-report composer-cli composer-wallet-inmemory composer-wallet-filesystem composer-playground composer-playground-api composer-connector-server composer-connector-proxy composer-documentation"
    
 for j in ${NPM_MODULES}; do
     # check the next in the list

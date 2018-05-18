@@ -14,8 +14,8 @@
     "chalk": "^2.1.0",
     "cli-table": "^0.3.1",
     "composer-admin": "^0.16.2",
-    "composer-cli": "^0.17.7",
-    "composer-client": "^0.16.2",
+    "composer-cli": "^0.18.1",
+    "composer-client": "^0.18.1",
     "composer-common": "^0.16.2",
     "composer-playground": "^0.17.7",
     "composer-rest-server": "^0.17.7",
@@ -32,6 +32,7 @@
   },
   "devDependencies": {
     "eslint": "^4.19.1",
+    "grpc": "^1.10.1",
     "lerna": "^2.5.1"
   }
 }
