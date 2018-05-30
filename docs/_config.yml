@@ -1,2 +1,2 @@
-theme: mmistakes/skinny-bones-jekyll
+remote-theme: mmistakes/skinny-bones-jekyll
 include: ["_pages"]
