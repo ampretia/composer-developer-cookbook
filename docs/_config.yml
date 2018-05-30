@@ -1,1 +1,2 @@
-theme: jekyll-theme-minimal
+theme: mmistakes/skinny-bones-jekyll
+include: ["_pages"]
