@@ -15,16 +15,14 @@ Parse_Arguments() {
 		shift
 	done
 }
-export PS1="ibp-\u \\$ "
+export PS1="ibp-\u cos \\$ "
 # Parse_Arguments $@
-export NODE_CONFIG=$(jq .composer.wallet.options.storePath=\"/home/composer/.fswallet\" /home/composer/.configs/cardstore-dir.json)       
+#boxen --margin=1 --padding=1 $(echo "${NODE_CONFIG}" | jq -C . )
 
-env
-
-boxen --margin=1 --padding=1 $(echo "${NODE_CONFIG}" | jq -C . )
+echo "${NODE_CONFIG}" | jq -C .
 
 composer --version
-
+composer card list
 # assert that the local card store has been mapped in
 # if /home/composer/.cwdwallet
 

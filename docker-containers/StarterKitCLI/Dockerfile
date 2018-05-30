@@ -6,7 +6,7 @@ RUN apt-get install jq --assume-yes
 
 USER composer
 COPY ./configs /home/composer/.configs
-COPY run.sh /home/composer/run.sh
+COPY *.sh /home/composer/
 
 
 RUN npm install -g boxen-cli

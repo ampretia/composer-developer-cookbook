@@ -1,9 +1,5 @@
 #!/bin/bash
 
-echo "Really suggest that you execute these commands by hand to get to know how things work"
-echo ".. or edit this file and remove the next line that says  exit 0"
-#exit 0
-echo
 # ------------
 
 # This will create a new npm project and install the Composer CLI, Playground and REST Server as local modules
@@ -16,8 +12,7 @@ if [ -z "${HL_COMPOSER_VERSION}" ]; then
   HL_COMPOSER_VERSION=latest
 fi
 
-#npm install --save-dev composer-cli@next-unstable composer-playground@next-unstable composer-rest-server@next-unstable
-npm install --save-dev composer-cli@${HL_COMPOSER_VERSION} composer-playground@${HL_COMPOSER_VERSION} composer-rest-server@${HL_COMPOSER_VERSION}
+#npm install --save-dev composer-cli@${HL_COMPOSER_VERSION} composer-playground@${HL_COMPOSER_VERSION} composer-rest-server@${HL_COMPOSER_VERSION}
 
 # For simple cases these 'fabric-dev-servers' scripts create the simplest possible Hyperleder Fabric setup
 mkdir fabric-tools
