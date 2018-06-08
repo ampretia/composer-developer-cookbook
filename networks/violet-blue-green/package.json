@@ -3,12 +3,12 @@
         "composer": "^0.19.0"
     },
     "name": "violet-blue-green-network",
-    "version": "0.2.3-deploy.20",
+    "version": "0.2.7",
     "description": "The Hello World of Hyperledger Composer samples",
     "networkImage": "https://hyperledger.github.io/composer-sample-networks/packages/basic-sample-network/networkimage.svg",
     "networkImageanimated": "https://hyperledger.github.io/composer-sample-networks/packages/basic-sample-network/networkimageanimated.svg",
     "scripts": {
-        "prepublish": "mkdirp ./dist && composer archive create --sourceType dir --sourceName . -a ./dist/basic-sample-network.bna",
+        "build": "mkdirp ./dist && composer archive create --sourceType dir --sourceName . -a ./dist/vbg-network.bna",
         "pretest": "npm run lint",
         "lint": "eslint .",
         "postlint": "npm run licchk",

@@ -1,0 +1,14 @@
+{
+  "composer": {
+    "wallet": {
+      "type": "@ampretia/composer-wallet-ibmcos",
+      "desc": "Uses the IBM Cloud Object Store",
+      "options": {
+        "bucketName": "",
+        "endpoint": "",
+        "apikey": "",
+        "serviceInstanceId": ""
+      }
+    }
+  }
+}

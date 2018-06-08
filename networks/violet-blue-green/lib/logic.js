@@ -28,10 +28,21 @@ async function GameResult(tx) {  // eslint-disable-line no-unused-vars
 
     // note the new asset is being created with an indentifier of the transaction
     let gameresult = getFactory().newResource('org.composer.game','Game',tx.getIdentifier());
-    gameresult.player = getCurrentParticipant();
+    gameresult.playerOne = tx.playerOne;
+    gameresult.playerTwo = tx.playerTwo;
     gameresult.result = tx.result;
-    gameresult.timestamp = tx.getTimestamp();
+    gameresult.timestamp = tx.timestamp;
 
     // Update the asset in the asset registry.
     await gameRegistry.add(gameresult);
+
+    let event = getFactory().newEvent('org.composer.game','GameEvent');
+    event.playerOne = tx.playerOne;
+    event.playerTwo = tx.playerTwo;
+    event.game = gameresult;
+    event.result = tx.result;
+
+    emit(event);
+    console.log(event);
+
 }

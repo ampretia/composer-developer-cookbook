@@ -23,38 +23,50 @@ namespace org.composer.game
 asset Game identified by gameid {
   o String gameid
   o DateTime timestamp
-  --> Player player
-  o RESULT result
+  --> Player playerOne
+  --> Player playerTwo
+  o RESULT result     optional
 }
 
 /** A individual player
  */
 participant Player identified by participantId {
   o String participantId
-  o String firstName
-  o String lastName
+  o String name
+  o String info optional
 }
 
 /** A role being defined for the Regulator
  */
 participant Regulator identified by email {
   o String email
-  o String firstName
-  o String lastName
+  o String name
+}
+
+/** Event
+ */
+event GameEvent {
+  o Game game
+  o Player  playerOne
+  o Player  playerTwo
+  o RESULT  result
 }
 
 /** Enumeration to store and a high level the details of the result
  */
 enum RESULT {
-  o BLUE_WIN
-  o GREEN_WIN
+  o PLAYER_ONE
+  o PLAYER_TWO
   o DRAW
+  o ABANDONED
 }
 
 /**
  * Transaction to submit the result
  */
 transaction GameResult {
+  --> Player playerOne
+  --> Player playerTwo
   o RESULT result
 }
 
